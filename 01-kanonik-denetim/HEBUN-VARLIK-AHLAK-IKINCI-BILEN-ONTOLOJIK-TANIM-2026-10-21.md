@@ -1,0 +1,71 @@
+# Hebûn ontolojisinde varlık, ahlak, boyutlar ve ikinci bilen — kurucu tanım
+
+**Statü:** Kurucunun 21.10.2026 tarihli açıklamasının akademik çalışmalara esas alınacak kanonik kaydı. **Kaynak:** Kurucunun doğrudan bu görüşmede verdiği beyan; önceki Core metinleriyle karşılaştırma gerektiren çıkarımlar ayrıca işaretlenir. **Amaç:** ZANABUN-01 ve tüm akademik makalelerde ontoloji ile epistemoloji arasındaki yanlış daraltmayı gidermek.
+
+## 1. Kurucu düzeltmesi ve terimlerin kapsamı
+
+Kurucunun açıklamasına göre **“ikinci bilen”**, yalnız bir başka insanın ölçümü onaylaması demek değildir. En üst düzeyinde **hüküm karşısında ahlakı temsil eden varlık, insan** kastedilir. Buradaki **bilen** terimi, her varlığa gelişigüzel atfedilen bilişsel bilinç değil, ontolojik boyutlar boyunca gerçekleşen iş, oluş ve hareketin **insandaki üst seviyesidir**. Böylece ikinci bilenin konumu epistemik kontrol tekniğinden önce varlık ve ahlak ontolojisinde temellendirilmelidir.
+
+**Varlık:** Hebûn kapsamında yaratılmış her Yek'in kendi boyutu ve evresi içinde var oluşu, ilişkileri, işleyişi ve devamlılığı. Varlık yalnız pasif nesne olarak değil, iş/oluş/hareket sergileyen bir gerçeklik olarak ele alınır. Her Yek tekildir; Komel, Yek'lerin sistemidir, Yek ile özdeş değildir.
+
+**Ahlak (ontolojik geniş anlam):** Her varlığın boyutuna ve kuruluşuna uygun iş, oluş ve hareket düzeninin ahlaki boyutta temsil edilmesi. İlk ahlak örneği, kurucunun ifadesiyle **atomdur**. Burada atomun ahlakı bilinçli seçim veya insanî iyi-kötü muhakemesi değildir; varlığın kendi düzenine uygun işleyişidir. Bu tanım, ahlakın 5. kozmik boyutta açıkça sınıflanmasıyla çelişmez: beşinci boyut önceki boyutların işleyişini **kapsayıp değerlendirir**, ilk dört boyuttaki her varlığın ayrıca beşinci boyutta yeni bir tür olarak doğduğunu söylemez.
+
+**Fıtri ahlak:** Varlığın kuruluşuna ve işleyişine bağlı düzen; atomdan itibaren örneklendirilebilir. **İradeli ahlak:** Öznenin bilerek seçmesi, sorumluluk üstlenmesi ve hükme muhatap olması; insanda üst seviyede görünür. Atomun fıtri işleyişi ile insanın iradeli sorumluluğu özdeşleştirilmez.
+
+**Bilen:** Bilinenle ilişki kurup bilgiyi ayırt etme ve değerlendirme yetisinin, zihin/akıl ve iradeli ahlak düzeyinde belirginleşen öznesi. Kanonik kullanımın en üst seviyesi insandır. Atom, yıldız, hücre ve bitki kendi boyutlarında işleyiş ve ahlak temsil eder; bunların hepsine insanla aynı anlamda 'bilen' denmez.
+
+**İkinci bilen (kurucu ontolojik anlam):** İlk özne karşısında yaratılmış, varlık boyutlarının kapsayıcı düzenini kendinde taşıyan, akıl ve irade ile **hüküm karşısında ahlakı temsil eden insan**. Bu ifade 'ikinci yaratılmış insan', 'ikinci tanık' veya yalnız 'birinci bilim insanını kontrol eden ikinci bilim insanı' demek değildir. Kurucunun ilk özne/ikinci özne ayrımı ontolojik-teolojik düzeydedir; deneysel olarak ispatlanmış bir sıra iddiası değildir.
+
+**İkinci bilen (dar yöntemsel kullanım):** Bir sonucun başka bir bilen tarafından bağımsız sınanması. Bu, Zanabûn'un deney ve araştırma protokollerinde yararlı bir **epistemik rol**dür, fakat ontolojik ikinci bilenin **tam tanımı değildir**. Bir makalede iki anlamdan hangisinin kullanıldığı açıkça yazılmalıdır.
+
+**Hüküm:** İradeli ahlakın ve sorumluluğun değerlendirilmesiyle ilişkili altıncı kozmik boyut; hüküm/ahiret. Fiziksel düzenlilik, insanın yargılanmasıyla aynı türden hüküm değildir.
+
+## 2. Kozmik 6+Tek ve her boyutun iki evresi
+
+| Boyut | Birinci evre | İkinci evre | Varlık ve ahlakın temsil biçimi |
+|---|---|---|---|
+| **1. Fizik** | **Atom** | **Yıldızlar ve gezegenler** | İlk ahlak örneği atom: varlığın işleyişi, ilişkileri ve hareketi. İkinci evrede çekirdek/merkez–çevre (kıble) düzeni örneklenir; yıldız ve gezegenin insanî niyeti olduğu söylenmez. |
+| **2. Biyoloji** | **Tek hücreliler** | **Çok hücreliler** | Hücre birliği, metabolik iş, çoğalma ve çok hücreli düzen; biyolojik işleyişin ahlaki temsili. Evre ayrımı eşeysiz/eşeyli değildir. |
+| **3. Zihin** | **Zekâ** | **Akıl** | Zekâ mevcut bilgiyi işleme, bellek, seçenek seçme; akıl genel bilgiden yeni bilgi ve 'ilimden ilim' üretme. Zihinli varlıkların fiilleri ile insanın üst bilişsel sorumluluğu arasında ayrım vardır. |
+| **4. Ruh** | **Ruh** | **Melekler** | Ruh, zihinli canlıların fıtratı ve düzeniyle ilişkili; kanun/kod/yazılım **benzetmesi**. Melekler ruh taşıyan nurani varlıklar ve doğanın idaresi bağlamında yorumlanır. Bitkinin biyolojik kodu olması ona kanonik anlamda ruh atfetmez. |
+| **5. Ahlak** | **Fıtri ahlak** | **İradeli ahlak** | Önceki dört boyutun iş, oluş ve hareket düzeni burada kapsanır. İnsanda iradeli seçim, hesap verebilirlik ve ahlakın bilinçli temsili üst seviyeye ulaşır. |
+| **6. Hüküm / Ahiret** | **Evre ayrımı için mevcut kurucu beyanlarda açık ve kesin adlandırma yok** | **Evre ayrımı için mevcut kurucu beyanlarda açık ve kesin adlandırma yok** | Hükmün ve ahiret düzeninin boyutu. İki evre için kanonik dayanak olmadan isim icat edilmez. |
+| **Tek / Yek** | **Evre değil** | **Evre değil** | Boyutların üzerinde kurucu tekillik/bütünlük ilkesi; yaratılmış ayrı yedinci boyut veya insan özü değildir. |
+
+**Kanonik beyan aynen:** “Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır; her kar tanesi, her parmak izi dahil.”
+
+**Merkez–çevre (kıble):** Kurucu, fiziğin ikinci evresindeki çekirdekli/merkezli düzeni ve biyolojide hücre ile çok hücreli örgütlenmeyi aynı merkez–çevre kuralının örnekleri olarak kurar. Bu, bilimsel olarak tüm atomların veya tüm canlıların bire bir aynı geometrik merkeze sahip olduğunu iddia etmez; analojinin kapsamı ve sınırları deneysel araştırmada ayrıca incelenir.
+
+**Doğrusal kapsama:** Biyoloji fiziği, zihin biyolojiyi, ruh önceki üç boyutu, ahlak önceki dört boyutu kapsayan ontolojik düzen olarak açıklanır. **Dairesel denetim:** Her düzeyde merkez–çevre, tekrar, ilişki ve geri besleme açısından gözden geçirme yapılır. Kapsama ifadesi bir ampirik evrim soy ağacı kanıtı olarak sunulmaz.
+
+## 3. İnsan ve kozmik boyutların ayrımı
+
+**Core 01 kozmik 6+Tek**, evrenin boyutlarını; **Core 13 insan katmanları**, insanın ayrı iç sınıflamasını anlatır. İnsan evrenin özeti olarak düşünülür; buna rağmen iki tablonun aynı numaralı satırları bire bir özdeş değildir. Öz, duygu, akıl ve bunların ahlaki bütünleşmesi insan düzeyinde ayrıca ele alınır. Duygu kozmik altıncı boyutun yerine geçirilmez: kozmik altıncı boyut **hüküm/ahiret**tir.
+
+İnsanın 'ikinci bilen' olarak en üst seviyede anılması, diğer varlıkların iş ve ahlak temsilini inkâr etmez; **bilen** sözcüğünü atoma, hücreye ve meleğe aynı bilişsel anlamda dağıtmaz.
+
+## 4. Zanabûn formülünün doğru okunması
+
+> “Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı.”
+
+Bu formül **iki düzeyli** okunmalıdır:
+
+1. **Ontolojik önkoşul (Hebûn):** Bilinen varlık, varlığın iş/oluş/hareket düzeni ve boyutlar boyunca ahlak temsili vardır. İkinci bilenin en üst tezahürü, hükme muhatap iradeli insan öznesidir.
+2. **Epistemolojik işlem (Zanabûn):** Bilen öznenin bilinene yönelimi sonucu oluşan bilginin ikinci bilen rolünde değerlendirilmesi ve onaylanması. Bir laboratuvar deneyinde iki araştırmacı bu işlevi üstlenebilir; bu, ontolojik özne hiyerarşisinin tümü değildir.
+
+**Düzeltilecek yanlış okuma:** 'İkinci bilen yalnız ikinci ölçümcü/tanık demektir.' Bu cümle ontolojik tanım olarak reddedilir. 'İkinci bilen yalnızca insan olabilir, diğer tüm varlıklar ahlaksızdır' cümlesi de yanlıştır: kurucunun sisteminde her varlık kendi düzeyinde ahlakı temsil eder; insan ise bilme, irade ve hüküm bakımından en üst örnektir.
+
+## 5. Araştırma protokolü ve yanlışlama sınırı
+
+- **Kanonik/metafizik önerme:** Ehad, ruh, melek, hüküm/ahiret ve yaratılışın amacı. Bunlar matematiksel bir varyans hesabıyla doğrulanmış sayılamaz.
+- **Felsefi çıkarım:** Atomdan insana 'ahlak' kavramının genişletilmesi ve ontolojik kapsama ilişkileri; kavramsal tutarlılık, kategori ayrımı ve karşı örneklerle denetlenir.
+- **Ampirik önerme:** Atomik fizik, yıldız oluşumu, hücre ve çok hücreli yaşam, bilişsel davranış hakkında yapılan olgusal iddialar; güncel disiplin literatürüne karşı sınanır. 'Ahlak' burada normatif insan eylemiyle karıştırılmaz.
+- **Formel önerme:** Bağımsız tanıkların hata varyansı gibi hesaplar, açık varsayımlar altında test edilir; ikinci bilenin bütün ontolojik statüsünü ispatlamaz.
+- **Karşı örnek:** Birbirinden bağımsız iki kişi aynı hatalı veri kaynağını kullanabilir; sonuç onayı ile doğruluk özdeş değildir. Bir atom düzenli hareket eder ama bilinçli etik karar vermez; fıtri ve iradeli ahlak ayrı tutulmalıdır.
+- **Açık mesele:** Altıncı boyutun iki evresinin kurucu kaynaklarda kesin adları bulunana kadar yeni ad verilmez.
+
+## 6. Bütün makalelere uygulanacak zorunlu kavram denetimi
+
+Her makalede (a) Hebûn varlık tanımı; (b) ahlakın ontolojik geniş anlamı ile iradeli anlamının ayrımı; (c) kozmik boyut/evre haritası; (d) insanın en üst ikinci bilen konumu; (e) ikinci bilenin yöntemsel onay rolünün ontolojik tanıma indirgenmemesi; (f) ilgili özgün Core sürümü ve kurucu beyan; (g) bilimsel/metafizik sınır; (h) ilgili karşı örnek kontrol edilecektir.
+
+**Sürüm kaydı:** 2026-10-21, v1.0 — kurucunun doğrudan açıklamasından hareketle hazırlanmış temel ontolojik düzeltme. Özgün kaynak depolarına dokunulmadı; bu kayıt yalnız Academic Corpus araştırma dalındadır.
