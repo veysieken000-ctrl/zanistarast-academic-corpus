@@ -1,0 +1,3 @@
+# ZANABUN-01 — Source fidelity
+
+The founder's epistemic formulation is: “Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı.” This requires examination of the resulting observation, not a vote on the first knower's status. The canonical note of 18 October 2026 stresses experiment, observation, and reasoning. Our statistical critique tests a strong interpretation of witness agreement; it does not disprove the founder's ontology. Hebûn and Zanabûn remain conceptually distinct. The cosmic 6+Tek dimensions are not the same numbered human layers in Core 13.
