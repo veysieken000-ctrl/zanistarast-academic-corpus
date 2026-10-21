@@ -17,3 +17,17 @@ Zanistarast Research Program. 2026. “Zanabûn — İkinci bilenin doğrulamas�
 Zanistarast Research Program. 2026. “Zanabûn Epistemolojisinde Tanıklık Tutarlılığı, Bağımsızlık ve Ortak Hata.” Önceki taslak, eski araştırma dalında 'research/yek-6tek-program/manuscripts/ZANABUN-01-bagimsiz-taniklik-ve-ortak-hata.md'. Blob SHA: dea450a481b14f2668480513156a96e965d676f3.
 
 **Kaynak kökeni notu:** Blob SHA dosya içeriğini tanımlar; commit SHA değildir. Eski kaynaklar yerlerinde bırakıldı, değiştirilmedi.
+
+## Ek A — İkinci matematik kontrolü
+
+Hiyerarşik modelde ortalama hata \(e=b+U+\sum_g(m_g/n)C_g+n^{-1}\sum_{gi}\varepsilon_{gi}\). Rastgele bileşenler bağımsız ve sıfır ortalamalıysa \(E(e)=b\), \(\operatorname{MSE}=E(e^2)=b^2+\operatorname{Var}(e)\). \(C_g\) katsayısı \(m_g/n\) olduğundan varyans katkısı \(\tau_c^2\sum_g(m_g/n)^2\)'dir. Özel hata katkısı \(\sigma^2/n\), küresel katkı \(\tau_0^2\)'dir. Ana metindeki denklem (1) bu toplamdan çıkar.
+
+Cauchy–Schwarz: \((\sum_gm_g)^2\leq G\sum_gm_g^2\). \(\sum_gm_g=n\) olduğundan \(\sum_g(m_g/n)^2\geq1/G\). Eşit küme büyüklüklerinde eşitlik vardır. \(n/G\) tamsayı değilse en yakın dengeli tamsayı dağılımı tercih edilir.
+
+Tek kümede \(W_i-\overline W=\varepsilon_i-\overline\varepsilon\); dolayısıyla \(n^{-1}\sum_i(W_i-\overline W)^2\)'nin beklenen değeri \((n-1)\sigma^2/n\)'dir. Ortak hata, yalnız bu grup içi varyanstan tanımlanamaz. Gerçek dünyada kümeler arası bağımsızlık yoksa denklem (1)'e kovaryans terimleri eklenmelidir.
+
+**Negatif kontrol:** \(\tau_0=\tau_c=b=0\) ise \(\operatorname{MSE}=\sigma^2/n\); böyle bir dünyada kalibrasyon-kümesi çeşitliliğinin bağımsız faydası olduğu iddia edilmez. Ağır kuyruklar, farklı hassasiyetler ve örneklem seçimi kapsam dışıdır.
+
+## Eski deney ailesi
+
+20 Ekim 2026 eski deney eki: 'research/yek-6tek-program/manuscripts/ZANABUN-01-ORTAK-HATA-DENEY-EKI-2026-10-20.md' (Git blob SHA 45578288450485cfaf0a217a2b3ce0dc7b32e505). Önceki kod: 'research/yek-6tek-program/experiments/zanabun_common_error_trial.py' (Git blob SHA 37588200906b85147349cb7b169ed8b570a5e068). Yeni hiyerarşik deney aynı sürüm ailesinin yöntem geliştirmesidir; yeni benzersiz makale değildir.
