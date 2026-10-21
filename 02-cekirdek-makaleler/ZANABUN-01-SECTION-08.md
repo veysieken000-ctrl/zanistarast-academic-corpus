@@ -1,0 +1,3 @@
+# ZANABUN-01 — Independent confirmation protocol
+
+The second knower should define the result, target, measurement conditions, and acceptable uncertainty. The investigator should trace shared instruments, calibration sources, datasets, and communication between witnesses. The original method is repeated, and then a plausible common failure source is changed. When feasible, the result is compared with an external reference or held-out prediction. A controlled shared error can test whether the procedure falsely certifies a wrong answer. The final report must retain residual uncertainty and specify the tested conditions. This is a proposed research protocol, not a direct quotation of a founder's rule.
