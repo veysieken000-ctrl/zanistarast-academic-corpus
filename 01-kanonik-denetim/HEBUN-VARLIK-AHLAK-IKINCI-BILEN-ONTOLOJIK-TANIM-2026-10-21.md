@@ -86,3 +86,34 @@ Her makalede (a) Hebûn varlık tanımı; (b) ahlakın ontolojik geniş anlamı 
 **Mira için salt-okunur aktarım notu:** Bu kurucu açıklaması, Academic Corpus'ta Mira'nın yararlanabileceği kaynak kaydı olarak tutulur. Mira'nın bu dosyayı gerçekten okuduğu, kendi belleğine aktardığı veya uyguladığı **doğrulanmadan varsayılmaz**. Mira'nın depoları, kodu, görevleri ve zihni bu işlemle değiştirilmez.
 
 **Revizyon:** 21.10.2026, v1.1 — “bilen”in bütün evreleri kapsayan etki–tepki anlamı, kurucunun yeni açıklamasıyla açıkça eklendi.
+
+
+## 8. Nihai işlev ayrımı: Zanabûn'un insan merkezli epistemik kullanımı ve evrenin ontolojik sürekliliği
+
+**Kurucunun yeni açıklaması (21.10.2026):** Zanabûn epistemolojisindeki **birinci bilen** ve **ikinci bilen** kavramları **en çok insan dünyasında** kullanılacaktır. Diğer boyut ve evrelerdeki varlıkların etki–tepki düzeni, bu epistemik kullanımın **ontolojik temelidir**. Ayrıntılı kozmik evre açıklamaları, insan evresinin nasıl konumlandığını ve kâinatın/doğal evrenin sürekliliğini göstermek için korunmalıdır.
+
+### A. İnsanda epistemolojik işlem
+
+1. **Birinci bilen:** Belirli bir bilinene yönelen; gözlem, düşünme, deney veya akıl yürütmeyle bir sonuç ortaya koyan insan öznesi.
+2. **Bilinen:** İncelenen nesne, olay, ilişki veya sonuç konusu; bilenden ayrı tanımlanır.
+3. **Ortaya çıkan sonuç:** İlk bilenin yönelimiyle elde edilen iddia veya bilgi içeriği; yalnızca öznenin otoritesi değildir.
+4. **İkinci bilen:** Bu **sonucu** kendi bilme ve değerlendirme yetisiyle onaylayan, gerektiğinde eleştiren veya yanlışlayan insan öznesi. Kurucu ontolojik bağlamda insan aynı zamanda hüküm karşısında iradeli ahlakı temsil eden en üst seviyedir.
+5. **Onay ve süreklilik:** Sonuç onayı tek seferlik mutabakat değildir; gerekçeli sınama, karşı örnek ve tekrar edilebilirlik aranır. Birinci ve ikinci bilenin aynı kaynağa bağlı olması ortak hata doğurabilir.
+
+Bu beş adım, insan dünyasında Zanabûn'un **asıl epistemolojik kullanımını** açıklar. Birinci/ikinci sıfatları bilimsel süreçte üstlenilen rolleri belirtir; iki ayrı insan türü veya zorunlu kronolojik yaratılış sırası değildir.
+
+### B. İnsan öncesi ve insan dışı varlıklar: ontolojik dayanak
+
+Fizikte **atom** ve **yıldız/gezegen**, biyolojide **tek hücreli** ve **çok hücreli**, zihinde **zekâ** ve **akıl**, ruhta **ruh** ve **melekler**, ahlakta **fıtri** ve **iradeli ahlak**, altıncı boyutta **hüküm/ahiret** düzeni, kendi bağlamlarında iş, oluş, hareket, etki ve tepki ile varlık dünyasının devamlılığını açıklayan **Hebûn ontolojik çerçevesidir**. Birinci ve ikinci bilen terimlerinin insan dünyasındaki epistemik işlevi bu evrelerin her birine aynı bilişsel yetiyi yüklemek anlamına gelmez.
+
+**İlk ahlak örneği atomdur:** Atomun düzeni, varlığın fıtri işleyişine örnektir. Fizikte ikinci evre için merkez–çevre/kıble örneği; biyolojide hücre ve çok hücreli örgütlenme; zihinde zekâdan akla bilgi işleme; ruhta fıtrat ve melekler; ahlakta iradeli seçim; hükümde sorumluluk, **kapsayıcı ontolojik anlatının ayrı seviyeleridir**. Doğal evrenin sürekliliği fiziksel ve biyolojik mekanizmalarla incelenebilir; ruh, melek ve ahiret hakkında ileri sürülen teolojik hükümler bunlarla aynı deneysel statüde değildir.
+
+### C. Tarihsel kelime tercihi ve yanlış okumayı önleme
+
+“Bilen”in tarihsel olarak insanla ilişkilendirilen adı korunur; böylece bilim tarihindeki özne–nesne–bilgi terminolojisinden kopulmaz. Kurucunun geniş **ontolojik** kullanımında tüm evrelerdeki varlıklar etki–tepki bağlamında “bilen” kapsamına alınabilir; fakat **Zanabûn makalelerinde açıklama ağırlığı insandaki birinci bilen–ikinci bilen doğrulama ilişkisine verilir**. İnsan dışı evreler bu epistemik ilişkiye **temel ve süreklilik zemini** sağlar; epistemik insan rolleriyle bire bir eşitlenmez.
+
+### D. Bütün makalelerde uygulanacak sunuş sırası
+
+**(1)** Hebûn: varlık, etki–tepki ve fıtri ahlak; **(2)** kozmik 6+Tek ve evreler, merkez–çevre, doğrusal kapsama ve doğal süreklilik; **(3)** insanın ayrı Core 13 katmanları, akıl, duygu, irade, hüküm; **(4)** Zanabûn: birinci bilen → bilinen → sonuç → ikinci bilenin sınaması/onayı; **(5)** ortak hata, karşı örnek, yeniden üretilebilirlik ve epistemik sınırlar. Bu sıra, ontolojiyi epistemolojinin yerine koymaz ve insan merkezli uygulamayı ontolojik temelden koparmaz.
+
+**Revizyon:** 21.10.2026, v1.2 — insan merkezli epistemik kullanım ve doğal evren sürekliliği netleştirildi.
