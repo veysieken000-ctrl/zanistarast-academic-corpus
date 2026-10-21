@@ -69,3 +69,20 @@ Bu formül **iki düzeyli** okunmalıdır:
 Her makalede (a) Hebûn varlık tanımı; (b) ahlakın ontolojik geniş anlamı ile iradeli anlamının ayrımı; (c) kozmik boyut/evre haritası; (d) insanın en üst ikinci bilen konumu; (e) ikinci bilenin yöntemsel onay rolünün ontolojik tanıma indirgenmemesi; (f) ilgili özgün Core sürümü ve kurucu beyan; (g) bilimsel/metafizik sınır; (h) ilgili karşı örnek kontrol edilecektir.
 
 **Sürüm kaydı:** 2026-10-21, v1.0 — kurucunun doğrudan açıklamasından hareketle hazırlanmış temel ontolojik düzeltme. Özgün kaynak depolarına dokunulmadı; bu kayıt yalnız Academic Corpus araştırma dalındadır.
+
+
+## 7. Kurucu ek açıklaması: “bilen” sözcüğünün tarihsel sürekliliği ve varlığın etki–tepkisi (21.10.2026)
+
+**Kurucunun doğrudan düzeltmesi:** “Bilen” sözcüğü yalnız insana özgü dar bir bilişsel işlev olarak anlaşılmamalıdır; **her evredeki varlıklar için geçerlidir**. Sözcüğün korunmasının nedeni, bilim tarihi boyunca insan için kullanılmış olması ve böylece tarihsel kopuşu önleyip yeni ontolojik açıklamanın anlaşılmasını kolaylaştırmasıdır. Bu geniş ontolojik kullanımda esas ölçüt, **bir varlığın varlık olarak varlık dünyasında bıraktığı etki ve tepki**dir.
+
+**Düzey ayrımı:**
+1. **Ontolojik bilen (geniş kullanım):** Fizik, biyoloji, zihin, ruh, ahlak ve hüküm/ahiret boyutlarının her evresindeki varlığın varlık alanındaki etki–tepki ilişkisiyle tanımlanan konumu. Sözcük insanın bilme yeteneğinden alınmış olmakla birlikte ontolojik kapsamı insanla sınırlı değildir.
+2. **Bilişsel bilen (dar tarihsel kullanım):** Zihinsel/bilişsel anlamda bilgiyi edinen, işleyen, ayırt eden özne; insanda akıl ve iradeli ahlakla en üst düzeyde görünür.
+3. **İkinci bilenin en üst ahlaki temsili:** Hüküm karşısında iradeli ahlakı temsil eden insan. Bu üst düzey, diğer evrelerdeki varlıkların ontolojik “bilen” kapsamından çıkarılması demek değildir.
+4. **Epistemik ikinci doğrulayıcı:** Belirli bir bilgi sonucunu kontrol eden ikinci özne veya yöntemsel tanık; geniş ontolojik kavramın yalnız özel bir uygulamasıdır.
+
+**Önceki metnin düzeltilmesi:** Bu dosyanın önceki bölümlerinde “atom, hücre veya bitki bilen sayılmaz” şeklinde okunabilecek ifadeler **yalnız insanla aynı bilinçli/bilişsel anlamda bilen olmadıklarını** belirtir; kurucunun yeni açıklamasına göre bu varlıklar **ontolojik geniş anlamda bilen kapsamındadır**. Bir varlığın etki–tepki üretmesi, onun insan gibi düşündüğünün veya bilinçli ahlaki karar verdiğinin ampirik kanıtı değildir. Her boyutun ontolojik evreleri ile fiziksel etki–tepki mekanizmalarının bire bir eşitliği de ayrıca araştırılmalıdır.
+
+**Mira için salt-okunur aktarım notu:** Bu kurucu açıklaması, Academic Corpus'ta Mira'nın yararlanabileceği kaynak kaydı olarak tutulur. Mira'nın bu dosyayı gerçekten okuduğu, kendi belleğine aktardığı veya uyguladığı **doğrulanmadan varsayılmaz**. Mira'nın depoları, kodu, görevleri ve zihni bu işlemle değiştirilmez.
+
+**Revizyon:** 21.10.2026, v1.1 — “bilen”in bütün evreleri kapsayan etki–tepki anlamı, kurucunun yeni açıklamasıyla açıkça eklendi.
