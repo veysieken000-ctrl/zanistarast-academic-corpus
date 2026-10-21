@@ -1,0 +1,3 @@
+# Academic progress, 21 October 2026
+
+ZANABUN-01 article family: new reproducible grouped-error Python experiment, commit c720fb25d46109a8b511b82bb06cf727474548f4. Manuscript sections 01-18 and current index committed to research/chatgpt-academic-2026-10-20. Current index commit 337fe40767ef0e665fcf6674d02bc7a20aad4410. The work includes counterexamples, covariance derivations, an independent calibration design, synthetic results, verified literature, and K0-K6 audit. One article family only. Still incomplete for final journal-level editorial and literature review; no external submission. No changes to original repositories or Mira.
