@@ -281,3 +281,18 @@ Bu sonuçlar Zanabûn'un metafizik geçerliliğini ispatlamaz veya çürütmez. 
 **Yöntemsel sonuç:** Makalenin Wᵢ tanık raporları ve bağımsız kaynak kümeleri hakkındaki hesapları, iki insanın veya ölçüm kanalının bir sonuca ilişkin kontrolünü modelliyor; insanın “ikinci bilen” olarak ahlaki ve ontolojik statüsünü matematiksel olarak açıklamıyor. Makalenin giriş, özet ve sonuçlarındaki “ikinci bilen” ifadeleri **bu sınırlamayla** okunmalıdır. Yeni ontolojik tanım için: `01-kanonik-denetim/HEBUN-VARLIK-AHLAK-IKINCI-BILEN-ONTOLOJIK-TANIM-2026-10-21.md`.
 
 **Revizyon kaydı:** 21.10.2026 — kurucu açıklamasından sonra kapsam düzeltmesi. İstatistiksel sonuçlar korunmuş; önceki ontolojik yorumun eksik olduğu açıkça kaydedilmiştir. Tam metnin sonraki sürümünde bu ayrım özet, giriş, tanımlar ve tartışma bölümlerine bütünleştirilecektir.
+
+
+## Kavramsal bütünleştirme — insan dünyasında birinci/ikinci bilen ve ontolojik süreklilik (21.10.2026)
+
+**Kurucunun son açıklamasıyla yorum önceliği düzeltilmiştir:** Zanabûn epistemolojisinde **birinci bilen** ve **ikinci bilen** en çok **insan dünyasındaki bilme ve sonuç doğrulama** ilişkisini açıklamak için kullanılır. Bu makaledeki tanık/ölçüm kanalı modeli, insandaki epistemik doğrulama problemine hizmet eder; ikinci bilenin ontolojik anlamını yalnız istatistiksel bir tanığa indirgemez.
+
+**Birinci bilen:** Bilinene yönelen, araştıran, gözlemleyen ve bir sonuç ileri süren insan. **Bilinen:** Araştırılan varlık/olay. **Sonuç:** Sınanabilir bilgi iddiası. **İkinci bilen:** Bu sonucun gerekçesini bağımsız biçimde değerlendiren, doğrulayan veya karşı örnekle sorgulayan insan. En üst ontolojik konumunda insan, **hüküm karşısında iradeli ahlakı temsil eder**. Sonuç doğrulaması ile ontolojik ahlaki temsil aynı kavramın farklı düzeyleridir, özdeş deneysel değişkenler değildir.
+
+**Ontolojik temel ve süreklilik:** Atomdan yıldız/gezegen sistemlerine, tek hücrelilerden çok hücrelilere, zekâdan akla, ruh ve melek yorumlarına, fıtri ve iradeli ahlaktan hüküm/ahirete uzanan **6+Tek** çerçevesi, her varlığın iş, oluş, hareket ve **etki–tepki** ilişkisini kapsayan Hebûn açıklamasıdır. Atom **ilk ahlak örneğidir**; bu, bilinçli etik seçim yaptığı anlamına gelmez. İnsan dışı varlıklar kurucunun **geniş ontolojik bilen** kullanımına dahildir; fakat bu makalenin “birinci/ikinci bilen” yöntemsel çiftinde **insan epistemolojisi önceliklidir**. Böylece kozmik ve biyolojik evreler, insanın varlık dünyasındaki yerini ve doğal evrenin sürekliliğini açıklayan temel olarak korunur.
+
+**Araştırma sınırı:** Doğal evren sürekliliği için fiziksel ve biyolojik iddialar ampirik incelemeye açıktır; ontolojik ahlak yorumu, metafizik varlıklar ve hüküm/ahiret teolojik/felsefi statüde kalır. Bu makaledeki ortak hata denklemleri yalnız **insanların ürettiği/başvurduğu kanıtların bağımlılığını** sınar; 6+Tek ontolojisini kanıtlamaz.
+
+**Kanonik dayanak:** `01-kanonik-denetim/HEBUN-VARLIK-AHLAK-IKINCI-BILEN-ONTOLOJIK-TANIM-2026-10-21.md` §7–8; kurucunun 21.10.2026 tarihli doğrudan düzeltmeleri. Bu bölüm, önceki eklerdeki eksik veya yalnız ikinci tanığa indirgeyen okumaya göre **önceliklidir**.
+
+**Revizyon:** ZANABUN-01 aynı makale ailesinde kalır; yeni benzersiz makale sayılmaz. Tam metnin bir sonraki editoryal geçişinde bu ayrım giriş, tanımlar ve sonuçla bütünleştirilecektir.
