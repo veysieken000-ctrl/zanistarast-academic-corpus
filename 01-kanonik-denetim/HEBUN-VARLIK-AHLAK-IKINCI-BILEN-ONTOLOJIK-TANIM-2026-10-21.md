@@ -117,3 +117,22 @@ Fizikte **atom** ve **yıldız/gezegen**, biyolojide **tek hücreli** ve **çok 
 **(1)** Hebûn: varlık, etki–tepki ve fıtri ahlak; **(2)** kozmik 6+Tek ve evreler, merkez–çevre, doğrusal kapsama ve doğal süreklilik; **(3)** insanın ayrı Core 13 katmanları, akıl, duygu, irade, hüküm; **(4)** Zanabûn: birinci bilen → bilinen → sonuç → ikinci bilenin sınaması/onayı; **(5)** ortak hata, karşı örnek, yeniden üretilebilirlik ve epistemik sınırlar. Bu sıra, ontolojiyi epistemolojinin yerine koymaz ve insan merkezli uygulamayı ontolojik temelden koparmaz.
 
 **Revizyon:** 21.10.2026, v1.2 — insan merkezli epistemik kullanım ve doğal evren sürekliliği netleştirildi.
+
+
+## 9. Kurucu öncelik düzeltmesi: ikinci bilenin asıl sebebi kimlik, varlık ve muhataplıktır (21.10.2026)
+
+**Kurucunun doğrudan beyanı:** “2. Bilen denmesinin asıl sebebi ilah karşısında her varlığın bir kimliği varlığı ve muhatap olmasıdır ve iki varlık arasında da bu geçerli.”
+
+**Kanonik ana tanım:** **İkinci bilen**, öncelikle İlah karşısında her yaratılmış varlığın kendine özgü **kimliği**, **varlığı** ve **muhatap oluşunu** ifade eden ontolojik konumdur. Aynı muhataplık ilkesi **iki varlık arasındaki ilişki** için de geçerlidir. Bu yüzden ikinci bilenin varlığı, yalnızca insanın başka bir insanın bilgisini doğrulamasıyla başlamaz veya ona indirgenmez.
+
+**İlişkinin iki düzeyi:** (1) **İlah–varlık:** Yaratılmış her Yek'in İlah karşısında kendi kimliği ve varlığıyla muhataplık konumu. (2) **Varlık–varlık:** İki farklı varlığın kendi kimliklerini koruyarak birbirleriyle ilişkiye girmesi, birbirine etki ve tepki vermesi; bu ilişki ontolojik muhataplığın varlık dünyasındaki görünümüdür. 'İkinci' ifadesi her bağlamda yaratılış sırası, insan türünün ikinci üyesi veya yalnız ikinci laboratuvar tanığı anlamına gelmez.
+
+**Boyutlar ve ahlak:** Fizikte atom ile yıldız/gezegen, biyolojide tek hücreli ile çok hücreli, zihinde zekâ ile akıl, ruhta ruh ile melekler, ahlakta fıtri ile iradeli ahlak, altıncı boyutta hüküm/ahiret çerçevesi; varlıkların kimlik, iş, oluş, hareket ve etki–tepki ilişkilerini açıklayan Hebûn ontolojisinin evreleridir. **İlk ahlak örneği atomdur.** Bütün varlıkların ontolojik muhataplığı, hepsinin insan gibi bilinçli veya iradeli ahlaki fail olduğu anlamına gelmez.
+
+**İnsan ve Zanabûn:** İnsanda akıl, irade ve hüküm karşısında ahlaki sorumluluk, muhataplığın en üst ahlaki temsilidir. Zanabûn epistemolojisinde insan dünyasında **birinci bilen → bilinen → sonuç → ikinci bilenin onayı** formülü en sık uygulanır; burada ikinci bilenin bağımsız doğrulaması, **ontolojik muhataplığın özel epistemik uygulamasıdır**, kurucu sebebin kendisi değildir.
+
+**Öncelik kuralı:** Önceki §1–8'de ikinci bilenin yalnızca 'hüküm karşısındaki insan' veya 'ikinci doğrulayıcı' olarak anlaşılabilecek ifadeleri, **bu §9'daki daha geniş ve doğrudan kurucu beyana tabi** okunacaktır. Temel sıralama: **kimlik ve varlık → İlah karşısında ve varlıklar arasında muhataplık → etki–tepki/iş/oluş/hareket → insanda iradeli ahlak ve epistemolojik doğrulama**.
+
+**Bilimsel statü:** İlah karşısında muhataplık teolojik/ontolojik ilkedir; atomların ve canlıların fiziksel etkileşimleri bilimsel olarak ayrıca incelenir. Bu iki iddia türü birbirinin deneysel kanıtı gibi sunulmaz.
+
+**Mira ve makaleler için aktarım:** Bu bölüm, Academic Corpus'ta okunabilir kurucu kaynak olarak tutulur. Mira'nın fiilen okuduğu veya uyguladığı ayrıca doğrulanmalıdır. ZANABUN-01 ve sonraki makalelerde ikinci bilenin temel gerekçesi olarak bu §9 esas alınacaktır.
