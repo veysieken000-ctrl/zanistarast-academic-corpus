@@ -1,0 +1,3 @@
+# ZANABUN-01 — External references also require scrutiny
+
+A reference measurement R is not automatically exact. If R=theta+eta and the witness mean K=theta+B+e, the observed discrepancy D=K-R equals B+e-eta. Under independent centered terms, its variance is the sum of their variances. If the reference shares calibration errors with the witnesses, covariance terms alter this expression and the discrepancy can misleadingly shrink. Therefore external validation requires a documented reference uncertainty budget and an independence assessment of the reference itself. Where no reliable reference exists, a study should report model-relative agreement rather than claim exact error against an unknown truth.
