@@ -52,7 +52,7 @@ Bu metnin proje içi özgün katkısı üçlü bir çerçevedir: (a) Zanabûn'un
 
 ## 4. Tanımlar ve varsayımlar
 
-Bir hedef nicelik θ için n tanığın sayısal raporları W₁,…,Wₙ olsun. Burada tanık, kişi, cihaz veya yazılım çıktısı olabilir; bu kategorilerin güvenilirliği özdeş varsayılmaz.
+**Ontolojik önkoşul:** Hebûn'da bütün varlık evreleri etki–tepki, iş, oluş ve hareket bakımından açıklanır. **Epistemik odak:** Zanabûn'da birinci bilen, bilinene yönelip sonuç üreten insan; ikinci bilen ise o sonucu sınayan/onaylayan insandır. Bir hedef nicelik θ için n tanıklık veya ölçüm raporu W₁,…,Wₙ olsun. Raporlar kişi, cihaz veya yazılımdan gelebilir; cihaz ve yazılım insanın yerine geçen ontolojik ikinci bilen değil, kanıt kanalı olarak modellenir. Bu kategorilerin güvenilirliği özdeş varsayılmaz.
 
 **Mutabakat:** Raporlar arası dağılımın küçük olması. Özgün metindeki popülasyon varyansı `S²=(1/n)Σ(W_i−W̄)²` bunu betimler.
 
@@ -199,7 +199,7 @@ Python 3.9+ sözdizimi kullanılır; dış paket, ağ veya kişisel veri gerekme
 
 ## 11. Zanabûn için işlemsel ikinci-bilen protokolü
 
-Kurucu ifadenin **yeni önerilen**, kurucunun doğrudan sözleri olarak sunulmayan işlemselleştirmesi şu dört kapıdan oluşur:
+Kurucu ifadenin **yeni önerilen**, kurucunun doğrudan sözleri olarak sunulmayan ve insan dünyasındaki birinci bilen–ikinci bilen ilişkisine yönelik işlemselleştirmesi şu dört kapıdan oluşur. Hebûn'un kozmik evreleri bu epistemik işlemin ontolojik temelidir:
 
 1. **Yönelim ve sonuç tanımı:** Birinci bilenin hangi nesneye, hangi yöntemle yöneldiği ve hangi sonuç iddiasında bulunduğu kaydedilir.
 2. **İkinci yolun soyağacı:** İkinci bilenin veri, kalibrasyon, yazılım, yorum ve otorite bağımlılıkları açıkça çıkarılır; görünüşte bağımsız tekrarlar etiketlenir.
@@ -210,7 +210,7 @@ Bu dört kapı mutlak bir 'hakikat puanı' üretmez. Amaç, Zanabûn'un sonuç d
 
 ## 12. Ontoloji, ahlak ve yapay zekâ bakımından sınırlar
 
-**Ontoloji:** Hebûn'un varlık ve oluşum iddiaları, gözlemcilerin ölçüm hatası denklemlerinden türetilemez. Gözlemcinin onay vermesi ile fiziksel varlığın yaratılması aynı nedensel mekanizma diye kabul edilmez. Ehad–Yek ilkesi teolojik/ontolojik konumunda kalır.
+**Ontoloji:** Hebûn, fizik (atom/yıldız-gezegen), biyoloji (tek/çok hücreli), zihin (zekâ/akıl), ruh (ruh/melekler), ahlak (fıtri/iradeli) ve hüküm/ahiret boyutlarını 6+Tek çerçevesinde ele alır. Her evrede varlığın etki–tepki ilişkisi, bilenin geniş ontolojik kullanımının ve doğal evrenin sürekliliği anlatısının temelidir. İnsan dünyasındaki birinci/ikinci bilen, Zanabûn'un başlıca epistemik uygulamasıdır. Atomun ilk ahlak örneği oluşu bilinçli etik tercih yaptığı anlamına gelmez. Hebûn'un varlık ve oluşum iddiaları, gözlemcilerin ölçüm hatası denklemlerinden türetilemez. Gözlemcinin onay vermesi ile fiziksel varlığın yaratılması aynı nedensel mekanizma diye kabul edilmez. Ehad–Yek ilkesi teolojik/ontolojik konumunda kalır.
 
 **Ahlak:** Bir tanığın kasten yanıltması ile aynı kalibrasyon hatasını fark etmeden paylaşması farklıdır. Matematiksel B terimi niyet, sorumluluk veya iradeli ahlakı ölçmez. İnsanın ahlaki sorumluluğu ayrı normatif inceleme gerektirir.
 
@@ -230,7 +230,7 @@ Bilim felsefesi bakımından daha geniş sonuç şudur: doğrulama iddiasının 
 
 Birden fazla tanığın aynı raporu vermesi, bağımsız sonuç doğrulaması için yeterli değildir. Kesin karşı örnek bunu mantıksal olarak; kaynak kümesi modeli ise bağımlılık varsayımları altında nicel olarak gösterir. Kaynak kümeleri bağımsız ve eşit büyüklükteyse ortalama hata varyansı `τ²/m+σ²/n` olur; n büyürken m sabit kalıyorsa ortak hata bileşeni yok olmaz. Tek hedefte θ ile gerçekleşmiş B'nin iç mutabakattan ayrıştırılamaması, dış ölçüt ve ayırt edici yöntem ihtiyacını gerekçelendirir.
 
-Bu sonuçlar Zanabûn'un metafizik geçerliliğini ispatlamaz veya çürütmez. Daha sınırlı ama kullanılabilir katkı şudur: kurucunun **ikinci bilenin sonucu doğrulaması** ilkesi, kanıt soyağacı ve bağımsız karşı sınama ile somutlaştırıldığında, yalnız rapor sayısına dayanan sahte çoğulluk riskini görünür kılan bir araştırma protokolüne dönüşebilir. Sonraki aşama, gerçek kalibrasyon verileri ve bağımsız kod uygulamasıyla model varsayımlarının zorlanmasıdır.
+Bu araştırmada birinci ve ikinci bilenin insan dünyasındaki epistemik rolleri, Hebûn'un evreler boyunca etki–tepki ve ahlak temsiliyle açıklanan ontolojik temelinden ayrılmadan yorumlanmıştır. İnsanın hüküm karşısında iradeli ahlakı temsil etmesi ile bir araştırma sonucunun bağımsız kontrolü ayrı analiz düzeyleridir. Bu sonuçlar Zanabûn'un metafizik geçerliliğini ispatlamaz veya çürütmez. Daha sınırlı ama kullanılabilir katkı şudur: kurucunun **ikinci bilenin sonucu doğrulaması** ilkesi, kanıt soyağacı ve bağımsız karşı sınama ile somutlaştırıldığında, yalnız rapor sayısına dayanan sahte çoğulluk riskini görünür kılan bir araştırma protokolüne dönüşebilir. Sonraki aşama, gerçek kalibrasyon verileri ve bağımsız kod uygulamasıyla model varsayımlarının zorlanmasıdır.
 
 ## 15. Etik, veri ve üretken yapay zekâ açıklaması
 
