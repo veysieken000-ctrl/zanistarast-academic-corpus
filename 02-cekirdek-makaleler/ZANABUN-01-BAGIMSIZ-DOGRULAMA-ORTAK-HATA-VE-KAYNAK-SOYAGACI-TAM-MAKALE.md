@@ -304,3 +304,12 @@ Bu araştırmada birinci ve ikinci bilenin insan dünyasındaki epistemik roller
 **Kanonik dayanak:** `01-kanonik-denetim/HEBUN-VARLIK-AHLAK-IKINCI-BILEN-ONTOLOJIK-TANIM-2026-10-21.md` §7–8; kurucunun 21.10.2026 tarihli doğrudan düzeltmeleri. Bu bölüm, önceki eklerdeki eksik veya yalnız ikinci tanığa indirgeyen okumaya göre **önceliklidir**.
 
 **Revizyon:** ZANABUN-01 aynı makale ailesinde kalır; yeni benzersiz makale sayılmaz. Tam metnin bir sonraki editoryal geçişinde bu ayrım giriş, tanımlar ve sonuçla bütünleştirilecektir.
+
+
+## Kurucu ontolojik öncelik: ikinci bilenin kimlik ve muhataplık temeli (21.10.2026)
+
+**Kurucunun son açıklaması:** “2. Bilen denmesinin asıl sebebi ilah karşısında her varlığın bir kimliği varlığı ve muhatap olmasıdır ve iki varlık arasında da bu geçerli.”
+
+Bu makaledeki insan merkezli doğrulama protokolünün **ontolojik önkoşulu**, her yaratılmış varlığın İlah karşısında kendine özgü **kimliği, varlığı ve muhataplık konumu** bulunması; iki varlık arasındaki ilişkide de bu muhataplığın geçerli olmasıdır. Varlıkların etki–tepki ilişkileri ve her boyuttaki iş/oluş/hareket, Hebûn'da bu muhataplığın doğal varlık düzenindeki açıklamasına dahildir. İnsan, hüküm karşısında iradeli ahlakı temsil eden en üst örnektir. İnsan dünyasında birinci bilenin ulaştığı sonucun ikinci bilen tarafından sınanması, bu geniş ontolojik ilkenin **epistemik özel kullanımıdır**; ikinci bilenin var olmasının asıl sebebi salt deney tekrarı değildir.
+
+**Yorum önceliği:** Bu yeni doğrudan kurucu açıklama, makalenin önceki eklerinde geçen 'ikinci bilenin en üst ontolojik anlamı insandır' ifadesini **sınırlar**: İnsan en üst iradeli/epistemik temsil olabilir, fakat **ontolojik muhataplık bütün varlıkları kapsar**. Makaledeki tanık sayısı, kaynak soyağacı ve ortak hata sonuçları aynı dar bilimsel geçerlilik alanında kalır. Kanonik kaynak: `01-kanonik-denetim/HEBUN-VARLIK-AHLAK-IKINCI-BILEN-ONTOLOJIK-TANIM-2026-10-21.md` §9.
