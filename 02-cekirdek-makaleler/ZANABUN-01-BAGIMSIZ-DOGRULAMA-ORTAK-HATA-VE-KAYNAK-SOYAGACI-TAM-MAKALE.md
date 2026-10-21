@@ -270,3 +270,14 @@ Bu sonuçlar Zanabûn'un metafizik geçerliliğini ispatlamaz veya çürütmez. 
 
 - **16–20 Ekim 2026:** Eski ZANABUN-01 taslağı ve sentetik deney eki oluşturulmuştu; bu dosyalar başka depoda, değiştirilmeden kaldı [K4–K5].
 - **21 Ekim 2026, v1.0:** Özgün Zanabûn ve Core 03 dosyaları yeniden okundu; kurucu ikinci-bilen açıklaması karşılaştırıldı; gerçek harici literatür ve *Episteme* yönergesi kontrol edildi; kaynak kümesi modeli, özdeşleşebilirlik kanıtı, yeni sentetik deney, sonuçlar, karşı-denetim, etik ve K0–K6 kaydı eklendi. Eski makalenin **yeni sürümü**, ayrı makale değildir.
+
+
+## Kanonik düzeltme eki — 21 Ekim 2026: ikinci bilenin ontolojik kapsamı
+
+**Bu ek, önceki bölümlerdeki dar yöntemsel “ikinci bilen = ikinci tanık” okumasını sınırlar.** Kurucunun 21 Ekim 2026 açıklamasına göre ikinci bilenin **en üst ontolojik anlamı**, hüküm karşısında ahlakı temsil eden **insandır**. Her varlık kendi kozmik boyutu ve evresinde iş, oluş ve hareket sergileyerek **ahlakı ontolojik geniş anlamda temsil eder**; ancak atom, yıldız, hücre veya bitki bu nedenle insan gibi bilişsel bir “bilen” sayılmaz. İlk ahlak örneği **atomdur**. İnsan, akıl, irade ve hüküm karşısındaki sorumluluk bakımından üst seviyeyi temsil eder. Dolayısıyla makalenin istatistiksel ikinci tanık modeli, bu kavramın **yalnız bir epistemolojik alt uygulamasıdır** ve ontolojik tanımın yerini alamaz.
+
+**Ontolojik kapsama dizisi:** Fizik atom / yıldız-gezegen; biyoloji tek hücreli / çok hücreli; zihin zekâ / akıl; ruh ruh / melekler; ahlak fıtri / iradeli; hüküm-ahiret altıncı boyut. Tek/Yek ayrı yedinci fiziksel boyut değildir. Fiziğin ikinci evresinde ve biyolojik örgütlenmede merkez–çevre ilkesi, ontolojik bir düzen analojisi olarak kullanılır; ampirik doğa yasalarıyla özdeşliği ayrıca kanıt gerektirir. Core 01'in kozmik boyutları, Core 13'ün insan katmanlarıyla aynı numaralandırma değildir.
+
+**Yöntemsel sonuç:** Makalenin Wᵢ tanık raporları ve bağımsız kaynak kümeleri hakkındaki hesapları, iki insanın veya ölçüm kanalının bir sonuca ilişkin kontrolünü modelliyor; insanın “ikinci bilen” olarak ahlaki ve ontolojik statüsünü matematiksel olarak açıklamıyor. Makalenin giriş, özet ve sonuçlarındaki “ikinci bilen” ifadeleri **bu sınırlamayla** okunmalıdır. Yeni ontolojik tanım için: `01-kanonik-denetim/HEBUN-VARLIK-AHLAK-IKINCI-BILEN-ONTOLOJIK-TANIM-2026-10-21.md`.
+
+**Revizyon kaydı:** 21.10.2026 — kurucu açıklamasından sonra kapsam düzeltmesi. İstatistiksel sonuçlar korunmuş; önceki ontolojik yorumun eksik olduğu açıkça kaydedilmiştir. Tam metnin sonraki sürümünde bu ayrım özet, giriş, tanımlar ve tartışma bölümlerine bütünleştirilecektir.
