@@ -1,0 +1,3 @@
+# ZANABUN-01 — Prospective empirical study
+
+A real study would compare measurement teams using a shared calibration reference with teams using genuinely independent references. The reference value would be established by a traceable method, and shared offsets could be deliberately introduced under controlled conditions. The primary outcome would be absolute error relative to the reference, not within-team agreement. Secondary outcomes would include false-confirmation rates, uncertainty coverage, and cost. Randomization should occur at the calibration-group level. Sample size, stopping rule, exclusions, and analysis would be registered in advance. Such a study has **not** been conducted here. Synthetic data cannot establish the behavior of real observers.
