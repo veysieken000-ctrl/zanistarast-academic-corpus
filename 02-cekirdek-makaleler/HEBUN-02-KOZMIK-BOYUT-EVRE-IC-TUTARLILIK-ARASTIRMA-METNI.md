@@ -19,7 +19,7 @@ Kurucunun kozmik modelinde 1. boyut fizik (atom; yıldız ve gezegenler), 2. boy
 | Zekâ/akıl evreleri | Felsefi-işlemsel ayrım | Zekâ ve aklın ölçümsüz özdeşlenmesi | Operasyonel görevler, karşı örnek |
 | Ruh/melek | Teolojik-ontolojik sav | Deneysel biyoloji gibi sunulması | Epistemik statünün açık tutulması |
 | Fıtrî/iradeli ahlak | Normatif-ontolojik sav | Fiziksel hareketle insan sorumluluğunun eşitlenmesi | Kavramın alanlara göre tanımı |
-| Hüküm/ahiret | Teolojik-ontolojik sav | Doğrulanmamış evre icadı | Birincil kanonik kaynak teyidi |
+| Hüküm/ahiret: hesap/hüküm ve hükmün sonucu | Teolojik-ontolojik kurucu tasnif | Kaynaktaki evreleri fiziksel kanıt sanma veya yeni evre uydurma | 16.10.2026 kurucu onaylı tabloyla eşleme; bilimsel kanıt statüsünü ayrıca belirtme |
 | İnsan Core 13 | Ayrı insan modeli | Kozmik boyutlarla numara eşleştirme | İki sınıflama için ayrı tablolar |
 
 ## 4. Yöntem
