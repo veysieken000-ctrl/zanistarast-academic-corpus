@@ -139,3 +139,25 @@ The author also treats repeatability, induction, deduction, and confirmation as 
 - **Scientific scope:** The historical source's descriptions of the Big Bang, the Higgs boson, black holes, and particle formation need independent physics citations and revision; analogies between these topics and divine creation do not constitute experimental confirmation.
 
 **Completion boundary:** This addition advances H07's English source-based edition of section 1.1. It does not finish section 1.1 paragraph by paragraph, translate the remaining Turkish manuscript, or certify the paper for publication.
+
+## H07 English source-based edition — Six modes of time (22 October 2026)
+
+**Primary source:** `hebun-zanabun/articles/makale-06.md`, the passage beginning *Kâinat 6 devirli zamandan oluşur* and ending before section 1.2. This is a condensed, source-faithful English rendering of the historical author's scheme, not a claim that six physical time dimensions have been discovered.
+
+**1. Physical time.** The author describes the material universe through constituents of matter, atoms, and the laws that sustain physical organization. The text associates a system's continuation with natural balance and the transition from information to law.
+
+**2. Biological time.** Biological life is presented as a new mode of organization arising within material existence. Cells, their exchanges with their surroundings, and the development of plant life illustrate this stage. The author holds that one mode of time is situated within another.
+
+**3. Mental time.** The mind is said to process the knowledge of biological organization and the power of physical organization. Perception, interpretation, and the application of rules are central. The text links spirit in living beings and angels in nature with an encompassing order.
+
+**4. Time of law.** The author proposes a governing order for the physical, biological, and mental systems. Spirit and angels are invoked as part of the account of this order. In this historical version, the passage also describes the fourth dimension with the terms angel and devil; this wording is retained as historical evidence rather than substituted for the later canonical spirit/angels stages.
+
+**5. Moral time.** The manuscript places the human knower and moral agency within a wider ordering system. Reason, the heart, feelings, deliberate action, and the effects of action on other beings are presented as features of the human moral condition. This historical emphasis on the human does not by itself establish that only humans participate in the later canonical category of innate morality.
+
+**6. Time of life.** The author connects the outcomes of moral action to paradise and hell and presents this as the completion of a six-part theological account. The later founder-approved sixth cosmic dimension is more precisely articulated as **judgment/accounting** followed by **the outcome of judgment (afterlife counterpart)**. The historical label *time of life* and the later two-stage definition should be cited separately.
+
+### Editorial comparison and evidentiary limits
+
+This passage is a philosophical-theological classification. Its numerical use of 'dimension' or 'time' must not be conflated with measurable spacetime coordinates in physics. The manuscript's examples about cells, dark matter, black holes, particle physics, and animal behavior require independent empirical support if presented as scientific propositions. In particular, a cell is not literally a two-dimensional spatial object, and a black hole is not established to halt all motion or erase matter into nothingness. The text's historical organization is preserved while such statements remain open to scientific correction.
+
+**Next translation boundary:** Section 1.2, *Yaratıcı Bilim*, followed by the source's conclusion. The full source has not yet been translated paragraph by paragraph or peer reviewed.
