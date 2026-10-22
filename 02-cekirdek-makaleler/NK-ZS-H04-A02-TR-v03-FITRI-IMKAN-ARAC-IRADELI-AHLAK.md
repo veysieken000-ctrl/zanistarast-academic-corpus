@@ -45,8 +45,22 @@ Faydasız bilgi, sözde bilim ve henüz pratik uygulaması bilinmeyen temel ara�
 
 **Tek/Yek**, bu altı boyuta eklenen yedinci yaratılmış boyut değildir. Bu kozmik tablo insanın öz, duygu, akıl ve fıtrî/iradeli ahlak açıklamasıyla sayısal olarak eşitlenmez. Biyoloji evreleri eşeysiz/eşeyli üreme olarak yeniden tanımlanmaz. İlk beş boyutun iki evre ayrımı kurucu sınıflamadır; altıncı boyutta doğrulanmamış iki aşama uydurulmaz.
 
+### 5B. Evre, tarih ve açıklama düzeyi
+Tablodaki “evre”, kurucu ontolojik örgütlenme ayrımıdır. Bütün atom türlerinin yıldızlardan önce tamamlandığını, bütün çok hücrelilerin tek bir tarihsel geçişle oluştuğunu veya zihinsel yeteneklerin her bireyde aynı sırada ortaya çıktığını gösteren bir kronoloji değildir. Bu tür tarihsel iddialar ayrıca alan verisi ister. H01'in yıldız nükleer süreçleri ve maya örneği bu sınırı; H05'in hayvan bilişi tartışması zekâ–akıl ayrımının deneysel uygulama yükünü açıklar.
+
+İnsan katmanları aynı tabloda yedinci veya altıncı kozmik basamak olarak yeniden numaralandırılmaz. Fıtrî ahlak bütün varlıkların işleyişi için önerilen geniş ontolojik kullanımdır; normatif fail olmak anlamına gelmez. “İlk dört boyutu kapsama” açıklama ilişkisidir; fiziksel büyüklük, biyolojik sınıflandırma veya ölçülmüş koordinat sayısı değildir.
+
+### 5C. Ana önermelerin kaynak ve statü haritası
+| Önerme | Dayanak | Statü ve aktarım sınırı |
+|---|---|---|
+| Altı boyut ve Yek ayrımı | Kurucu kanon; özgün metinle karşılaştırma | Ontolojik sınıflama; fiziksel koordinat teorisi değil |
+| Tek hücreli/çok hücreli, zekâ/akıl evreleri | Güncel kurucu karar; Varlık Sistemleri P71/P90 | Kurucu sınıflama; farklı üreme biçimleriyle eşitlenmez |
+| Kaldıraç belirli yük için gerekli kuvveti değiştirir | OpenStax §9.5 | Fiziksel açıklama; ahlaki iyilik hakkında sonuç vermez |
+| Teknik kapasiteden yükümlülük için ek öncül gerekir | Bölüm 4A düşünce deneyi | Normatif argüman; istatistiksel bulgu değil |
+| Fıtrat, fıtrî ve iradeli ahlak farklıdır | Kurucu kilometre taşı | H01/H05 ile ortak tanım; bilinçsiz işleyişe kusur atfedilmez |
+
 ## 6. Sonuç ve açık araştırma soruları
-Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu düzenin varlıklardaki işleyişi; **iradeli ahlak** insanın bilgi, niyet ve tercihleriyle fıtrî imkânları yönlendirmesi olarak ayrılır. Bu son evre hüküm karşısında özel sorumluluk taşır. Fizik–biyoloji–zihin–ruh düzeylerinin kapsanması fiziksel hacim veya deneysel boyut sayısı değil, felsefi açıklama ilişkisidir. Kurucu modelin bilimsel geçerliliği henüz gösterilmiş değildir.
+Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu düzenin varlıklardaki işleyişi; **iradeli ahlak** insanın bilgi, niyet ve tercihleriyle fıtrî imkânları yönlendirmesi olarak ayrılır. Bu son evre hüküm karşısında özel sorumluluk taşır. Fizik–biyoloji–zihin–ruh düzeylerinin kapsanması fiziksel hacim veya deneysel boyut sayısı değil, felsefi açıklama ilişkisidir. Mekanik örnek teknik imkânın koşullu genişlemesini açıklar; bundan güzel ahlak veya ahiret düzeninin deneysel kanıtı çıkmaz. Makalenin sonucu bu üç iddia düzeyini ayıran bir felsefi modeldir.
 
 ### Açık araştırma soruları
 1. Hangi araçlar insanın kullanılabilir seçeneklerini gerçekten artırır, hangileri yeni bağımlılıklar üretir?
@@ -65,13 +79,13 @@ Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu d�
 
 **Durum:** Kurucu görüşlerin akademik taslağıdır; dış literatür karşılaştırması ve bağımsız hakem denetimi henüz tamamlanmadı.
 
-## 8. Yeni kurucu açıklama: ontolojik kapsama, ahlak ve hüküm (22.10.2026)
+## Ek A — Kurucu açıklama: ontolojik kapsama, ahlak ve hüküm (22.10.2026)
 Fiziksel evrenin kütle/hacimce büyüklüğü, Zanistarast'taki **birinci ontolojik boyut** oluşuyla çelişmez. Biyoloji fizik içinde var olur; ancak canlılık ve bilgi düzeniyle yeni açıklama alanı açar. Zihin ve ruh bunu takip eder. **Beşinci boyut ahlak**, fıtrî düzen ve insandaki iradeli sorumluluk bakımından ilk dört boyutu kapsayan bir ufuk olarak yorumlanır. **Altıncı boyut hüküm/ahiret**, iradeli ahlakın nihai muhataplık ufkudur. Ehad bu yaratılmış boyutlardan biri değildir, hüküm sahibidir. “Küçük büyüğün içinde, büyük küçüğün içinde” fiziksel hacim eşitliği değil fiziksel içerilme ile ontolojik/açıklayıcı kapsamanın iki ayrı ilişkisidir. Otonom kâinat benzetmesi ilahî düzenden bağımsızlık iddiası değildir. Bu yaklaşım felsefi/teolojik tez olarak sunulur; fiziksel boyut teorisi veya ampirik ispat olarak gösterilmez.
 
 **Kurucu kaynak:** `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`.
 
-## 9. Kurucu kilometre taşı: fıtrî ahlak ile iradeli ahlakın kapsamı
+## Ek B — Kurucu kilometre taşı: fıtrî ahlak ile iradeli ahlakın kapsamı
 Beşinci boyutun fıtrî ahlak evresi, fizik–biyoloji–zihin–ruh düzenlerinin varlıkta tezahürünü; iradeli ahlak evresi ise insanın bilgi, niyet ve seçimle bu imkânları yönlendirmesini açıklayan kurucu ayrımdır. Altıncı boyut hüküm/ahiret, insanın iradeli ahlak bakımından nihai muhataplık ufkudur. Ehad bu boyutlardan biri değildir. Doğal düzen anlamındaki ahlak, normatif sorumlulukla özdeşleştirilmez. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
-## Özgün metin karşılaştırması — 22 Ekim 2026
+## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 *Varlık Sistemleri ve Boyutları* özgün Word dosyasının boş olmayan metin paragraflarında P66 üreme biçimleriyle evreleri karıştırırken P71 tek hücrelileri birinci evre diye adlandırır. Güncel kurucu karar uyarınca bölüm 5A tek hücreli/çok hücreli ayrımını esas alır. P90 zekâ/akıl ayrımıyla uyumludur. P161 ve devamında dünya/ahiret evre anlatımı bulunur; güncel tabloda bunun tarihsel teolojik anlatım olduğu korunur, yeni ampirik evre dizisi kurulmaz. Bu nedenle “altıncı boyut için özgün kaynakta hiçbir evre anlatımı yoktur” sonucu çıkarılmamalıdır. Kaynak: https://drive.google.com/file/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d .
