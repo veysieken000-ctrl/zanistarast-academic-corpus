@@ -3,10 +3,10 @@
 **Zanistarast dış çekirdek, Halka 1 — akademik çalışma sürümü**
 
 ## Öz
-Bu makale ikinci bilenin onayının hangi koşullarda bilgiye ek güven sağladığını araştırır. Zanabûn'un ilk bilen, bilinen nesne, sonuç ve ikinci bilen ilişkisi korunur. Yeni soru, ikinci değerlendirmenin ilk değerlendirmeyle ortak hata taşıyıp taşımadığıdır. İki kişinin aynı yanlı kaynağa veya aynı bozuk ölçüme dayanması bağımsız kanıt oluşturmaz. Çalışma veri, araç, yöntem ve değerlendirme koşullarını ayıran bir denetim matrisi önerir.
+Bu makale İkinci Bilen kavramının ontolojik ve epistemolojik anlamlarını birlikte araştırır. Kurucu sav, Ehad karşısındaki her yaratılmış Yek'in fıtratı ve fıtrî ahlakıyla İkinci Bilen'in ontolojik anlamını temsil etmesidir. Bu temsil fizik, biyoloji, zihin, ruh, ahlak ve hüküm/ahiret boyutlarında farklı yüklemlerle incelenir; atom veya hücreye insan tipi bilinç atfedilmez. Zanabûn'da ilk bilen–bilinen nesne–sonuç–ikinci bilen onayı, bu geniş çerçevenin özel epistemolojik biçimidir. Makalenin özgün analitik katkısı, ontolojik temsil ile bilimsel onayı ayıran geçiş ilkeleri ve ikinci onayın ortak hata taşıma koşullarını inceleyen bağımlılık matrisidir. İnsanda iradeli ahlak ve hüküm karşısındaki sorumluluk ayrıca ele alınır.
 
 ## 1. Araştırma sorusu
-İkinci bilen hangi hata sınıflarında ilk bilenin değerlendirmesine gerçekten yeni denetim ekler? H02 ikinci bilenin kurucu rolünü; H03 kaynak soyağacını tanımlar. A06'nın ayırıcı katkısı bağımlılığın türlerine ilişkin karar ölçütüdür.
+Ana soru: Ehad karşısındaki her Yek'in İkinci Bilen'i ontolojik olarak temsil etmesi ile bilginin ikinci bir özne tarafından epistemolojik değerlendirilmesi hangi ilkelere göre ilişkilendirilir? Alt soru: İkinci değerlendirme hangi hata sınıflarında gerçekten yeni denetim ekler? H01 varlık kuruluşunu, H02 Zanabûn'un kurucu bilgi ilişkisini, H03 kaynak soyağacını açıklar. A06'nın ayırıcı katkısı bu düzeyler arasındaki geçişi açıklamak ve epistemik onayın bağımlılık türlerini denetlemektir.
 
 ## 1A. İkinci bilenin ontolojik ve fıtrî kapsamı
 
@@ -83,7 +83,7 @@ Kavramsal çözümleme, koşullu çıkarım ve düşünce deneyleri kullanılır
 H01 ontolojik ikinci Yek ile epistemik ikinci bileni ayırır. H02 bilgi sonucunun gerekçeli onayını kurar. H03 karşı-örnek ve geri beslemeyi yönetir. H04 denetimin ahlaki sorumluluğunu, H05 yeni bilgi üretiminin gerekçelendirme ihtiyacını açıklar. A06 bu metinleri tekrarlamaz; bağımsızlığın koşullarını araştırır.
 
 ## 7. Sonuç
-İkinci bilen, ilk değerlendirmeden farklı hata yollarını denetleyebildiği ölçüde ek epistemik değer sunar. Bu koşullu sonuç deneysel başarı yüzdesi veya doğruluk garantisi değildir. Uygulamalı araştırmada hata sınıfı, kaynak bağımlılığı ve itiraz gerekçesi ayrı kaydedilmelidir.
+İkinci Bilen'in ontolojik anlamı, Ehad karşısındaki yaratılmış her Yek'in fıtrî temsili olarak kurulur; epistemolojik anlamı ise bilgi iddiasının ortaya çıkışı, değerlendirilmesi ve düzeltilmesiyle ilişkilidir. İnsan, iradeli ahlakıyla hüküm karşısında sorumluluk taşıyan özel muhataptır. Başka bir araştırmacının bağımsız onayı, bu bütünün yalnız bir alt uygulamasıdır: ilk değerlendirmeden farklı hata yollarını sınadığı ölçüde ek epistemik değer sunar. Bu sonuç deneysel başarı yüzdesi veya doğruluk garantisi değildir. Ontolojik temsil, bilinçli bilme, bilimsel denetim ve iradeli hüküm birbirine indirgenmeden ele alınmalıdır.
 
 ## Kaynakça
 National Academies of Sciences, Engineering, and Medicine (2019). *Reproducibility and Replicability in Science*. https://doi.org/10.17226/25303
