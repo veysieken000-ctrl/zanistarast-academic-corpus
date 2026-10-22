@@ -14,6 +14,9 @@ ABD Enerji Bakanlığına bağlı National Isotope Development Center, hidrojen-
 
 **Sonuç:** Evrensel üç-bileşen zorunluluğu bu karşı-örneği açıklamadan doğa kanunu diye yazılamaz. Üçlü, uygun sınırları tanımlanmış kurucu benzetme veya belirli atom sınıfları için örnek olarak kullanılabilir. Bu sonuç, Ehad–Yek veya Komel'in bütün ontolojik anlamlarını kendiliğinden yanlışlamaz.
 
+## Güncel kanon ve bilimsel sınır
+Fıtrat varlığın kuruluş imkân ve sınırlarını, fıtrî ahlak bu düzenin işleyişteki tezahürünü anlatan kurucu kavramlardır. Bunlar proton, nötron ve elektron hakkında deneysel bir zorunluluk ileri sürmez. Hidrojen-1'de nötron bulunmaması gibi fiziksel karşı-örnekler korunur; fıtrî ahlak cansız varlıkta bilinçli normatif seçim anlamına gelmez. İnsanın iradeli ahlakı ve hüküm/ahiret ayrı felsefi-teolojik düzeylerdir.
+
 ## İddia ayrımı
 
 | Kod | İddia | Tür | Sonuç |
