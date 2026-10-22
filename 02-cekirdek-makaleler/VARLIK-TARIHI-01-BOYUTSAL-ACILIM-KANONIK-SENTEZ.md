@@ -63,3 +63,7 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **Karşılaştırmalı literatür:** Stanford Encyclopedia of Philosophy, “Philosophical Issues in Quantum Theory” (https://plato.stanford.edu/entries/qt-issues/); “Quantum Mechanics” (https://plato.stanford.edu/entries/qm/). Bu kaynaklar Zanistarast'ı doğrulamaz, karşılaştırma zemini sağlar.
 
 **Yayın öncesi açıklar:** diğer depolardaki varlık tarihi yazılarıyla tam çapraz okuma; bilimsel tarih ve felsefe literatürünün ayrıntılı bibliyografyası; kavramların operasyonelleştirilmesi; karşı deliller; dış değerlendirme. **Henüz yayına hazır değildir.**
+
+## 9. Altıncı boyutun evrelerinin kurucu belgeyle kesinleştirilmesi (22.10.2026)
+
+§3 tablosundaki “iki evre uydurulmaz” notu kaynak yetersizliği gerekçesiyle yazılmıştı; doğrudan kurucu belge kontrolünden sonra **kaynak açısından eksik** kalmıştır. `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` içindeki kurucu onaylı 6 boyut / 12 evre tablosu, altıncı boyutu **hesap/hüküm → hükmün sonucu (ahiret karşılığı)** şeklinde belirler. Kaynak blobu `312510036f6c6516468296019b9dff2e489e74a8`. Bu iki evre, güncel yazılı kurucu kanoniğin parçası olarak kullanılmalıdır; teolojik ontolojik sınıflamanın fiziksel olarak kanıtlandığı ileri sürülmez. Önceki tablo tarihsel çalışma izi olarak bırakılmıştır; bu bölüm onun kaynak doğrulamalı düzeltmesidir.
