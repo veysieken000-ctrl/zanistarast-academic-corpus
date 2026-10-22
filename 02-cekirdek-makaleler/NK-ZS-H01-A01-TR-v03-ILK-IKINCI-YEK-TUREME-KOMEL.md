@@ -85,3 +85,6 @@ Kurucunun güncel ontolojik tasavvurunda insan ile hayvanın özü aynı temel o
 Fiziksel içerilme ile ontolojik kapsama ayrı tutulur: tek hücreli canlı fiziksel kâinatın içinde küçük bir varlıktır, fakat yaşamın bilgi ve örgütlenmesi biyolojik düzeyde yeni bir açıklama alanı açar. Bu nedenle “küçük büyüğün içinde, büyük küçüğün içinde” sözü iki ayrı kapsama ölçütüne işaret eder; hücrenin fiziksel evrenden daha hacimli olduğu anlamına gelmez.
 
 Varlığın devamlılığı fizik düzeyinde kanunlarla işleyen düzen, biyolojide ise güvenlik, beslenme, barınma ve soyun devamı gibi süreçlerle incelenir. Kâinatın **otonom** sisteme benzetilmesi Ehad'dan bağımsızlık iddiası değildir. Kurucu görüşün ayrıntılı kaydı: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Bunlar felsefi önermelerdir; ampirik yasa olarak ilan edilmez.
+
+## Kurucu kilometre taşı: fıtrat ve ortak öz
+Fıtrat varlığın kuruluşu, imkânları, sınırları ve ilişkisel düzenidir. Fıtrî ahlak bu düzenin işleyiş ve ilişkilerdeki tezahürüdür; cansız varlıklara bilinçli ahlaki seçim yüklenmez. İnsan ve hayvanın ortak özünün kabulü, iradeli ahlak bakımından aynı sorumluluğa sahip oldukları anlamına gelmez. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
