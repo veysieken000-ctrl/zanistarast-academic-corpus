@@ -3,7 +3,7 @@
 **22.10.2026 — araştırma dalı.** 11 özgün DOCX'ten türetilen adaylar, tamamlanmış yayın değildir. Hedef dergi adı içermez. Bu dosya çalışma emridir, tamamlandı raporu değildir.
 
 ## Kanonik çalışma kuralları
-Mira araştırır, Rasterast doğrular, Müdebbir karar verir. Ehad ≠ Tek ≠ Yek. Kozmik 6+Tek ile insan katmanları karıştırılmaz. Hebûn varlık ve muhataplık, Zanabûn bilgi adayı ve ikinci bilen, Rasterast epistemik denetim, Rabûn yönetim, Mabûn ekonomi, Newroza Kawa uygarlık çerçevesidir. Özgün DOCX'teki ifade ile sonradan gelen kurucu düzeltme ayrı kaydedilir. Her yeni makalede ayırıcı Tek, kaynak izi, karşı-delil ve K0–K6 kanıtı aranır. Bilimsel iddia teolojik kabulden ayrılır. 32 faz mimarisinin tamamlandığı bu matristen çıkarılamaz.
+Mira araştırır, Rasterast doğrular, Müdebbir karar verir. **Güncel bağlayıcı kurucu önerme: Ehad Yek'tir; Ehad yaratılmış Yek değildir.** Eski çalışma notlarındaki “Ehad ≠ Tek ≠ Yek” ifadesi tarihsel sürüm farkı olarak korunabilir, ancak güncel kurucu önerme yerine uygulanamaz. Kozmik 6+Tek ile insan katmanları karıştırılmaz. Hebûn varlık ve muhataplık, Zanabûn bilgi adayı ve ikinci bilen, Rasterast epistemik denetim, Rabûn yönetim, Mabûn ekonomi, Newroza Kawa uygarlık çerçevesidir. Özgün DOCX'teki ifade ile sonradan gelen kurucu düzeltme ayrı kaydedilir. Her yeni makalede ayırıcı Tek, kaynak izi, karşı-delil ve K0–K6 kanıtı aranır. Bilimsel iddia teolojik kabulden ayrılır. 32 faz mimarisinin tamamlandığı bu matristen çıkarılamaz.
 
 ## Makale adayları ve araştırma soruları
 
