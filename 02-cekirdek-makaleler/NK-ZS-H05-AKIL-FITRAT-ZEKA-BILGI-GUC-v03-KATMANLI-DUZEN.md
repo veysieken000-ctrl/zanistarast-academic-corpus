@@ -32,7 +32,7 @@ Kurucu tez: **Her kanunun/düzenin üzerinde bir bilen vardır.** Buradaki bilen
 “İnsan kâinatın halifesi” kurucu teolojik yorumdur. İnsan aklı, farklı katmanlardaki düzenleyici ilişkileri düşünmek için **simge** işlevi görebilir. Bu kullanım insan aklının bütün varlıklarda bulunduğunu iddia etmez. İnsanın yeni bilgi ve araç geliştirmesi, doğal kanunları yaratması veya kaldırması değildir.
 
 ## 5. Karınca, insan ve yapay zekâ karşılaştırması
-Karıncanın bedeni, çevresi, duyuları, öğrenme olanakları ve koloni etkileşimleri, mümkün davranışları birlikte sınırlar. İnsanın bilimsel bilgi üretimi ve mühendisliği yeni araçlar geliştirir. Bilgisayarın donanımı, kodu ve hesaplama işlemi farklı işlevlerdir. Kod–fıtrat veya algoritma–zeka karşılaştırmaları açıklayıcı analojidir; yapay zekâya insana özgü akıl veya meleklere ait ontolojik statü otomatik yüklenmez.
+Karıncanın bedeni, çevresi, duyuları, öğrenme olanakları ve koloni etkileşimleri, mümkün davranışları birlikte sınırlar. Yeni Kaledonya kargalarında genç bireylerin alet yapması (Kenward ve ark., 2005, DOI: 10.1038/433121a) ve gelecekteki göreve uygun araç seçimi (Boeckle ve ark., 2020, DOI: 10.1098/rspb.2020.1490) gözlenmiştir; bu sonuçlar hayvan bilişini küçümseyen genellemeleri sınırlar, kurucu akıl tanımını deneysel olarak ispatlamaz. İnsanın bilimsel bilgi üretimi ve mühendisliği yeni araçlar geliştirir. Bilgisayarın donanımı, kodu ve hesaplama işlemi farklı işlevlerdir. Kod–fıtrat veya algoritma–zeka karşılaştırmaları açıklayıcı analojidir; yapay zekâya insana özgü akıl veya meleklere ait ontolojik statü otomatik yüklenmez.
 
 ## 6. Matematiksel araştırma için asgari şema
 Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
