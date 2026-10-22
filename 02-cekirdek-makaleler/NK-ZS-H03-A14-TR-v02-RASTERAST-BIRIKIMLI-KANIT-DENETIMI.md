@@ -55,7 +55,7 @@ Kur'an, Hz. Muhammed'in öğretisi ve Risale-i Nur, kurucu düşünsel yönelimi
 **Açık kanıt işleri:** Her boyutun tarihsel ve ampirik örnekleri, özgün Word paragraf eşlemesi, bağımsız alan literatürü, dergi standardı, kurucu son onayı.
 
 ## 8. Sonuç
-Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Böylece H01 ve H02'nin kazanımları H04'e aktarılırken anlam kaybı ve gereksiz tekrar azalır.
+Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. Böylece H01 ve H02'nin kazanımları H04'e aktarılırken anlam kaybı ve gereksiz tekrar azalır.
 
 ## Kaynak izi
 1. `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
