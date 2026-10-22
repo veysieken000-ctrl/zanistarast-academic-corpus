@@ -59,6 +59,11 @@ Tablodaki “evre”, kurucu ontolojik örgütlenme ayrımıdır. Bütün atom t
 | Teknik kapasiteden yükümlülük için ek öncül gerekir | Bölüm 4A düşünce deneyi | Normatif argüman; istatistiksel bulgu değil |
 | Fıtrat, fıtrî ve iradeli ahlak farklıdır | Kurucu kilometre taşı | H01/H05 ile ortak tanım; bilinçsiz işleyişe kusur atfedilmez |
 
+### 5D. Ontolojik kapsama biyolojik sınıflandırmayı kaldırmaz
+Özgün *Varlık Sistemi ve Boyutları* P85'te zihinli varlıkların biyolojiye dâhil edilemeyeceği biçiminde bir ifade vardır. Güncel modelde bu, biyolojik bedenin reddi olarak okunmaz. İnsan ve hayvanlar hücresel canlılardır; bitki ve hayvanların çok sayıda ökaryotik hücreden oluşması biyolojik kuruluşun bir özelliğidir (NHGRI, 2026). Zihin düzeyinde ayrıca açıklanması gereken yetenekler bulunduğunu savunmak, canlıyı biyolojinin kapsamından çıkarmaz.
+
+Biyolojinin ikinci evresi yalnız bitkiler diye daraltılmaz. Tek hücreli/çok hücreli ayrımı, zihin boyutundaki zekâ/akıl ayrımıyla aynı sınıflama değildir. Özgün metnin farklı evre kullanımları tarihsel iz olarak korunur; güncel tabloya alternatif gizli bir evre dizisi olarak taşınmaz. İnsanın normatif sorumluluğu da bedensel veya ekolojik bağımsızlık anlamına gelmez.
+
 ## 6. Sonuç ve açık araştırma soruları
 Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu düzenin varlıklardaki işleyişi; **iradeli ahlak** insanın bilgi, niyet ve tercihleriyle fıtrî imkânları yönlendirmesi olarak ayrılır. Bu son evre hüküm karşısında özel sorumluluk taşır. Fizik–biyoloji–zihin–ruh düzeylerinin kapsanması fiziksel hacim veya deneysel boyut sayısı değil, felsefi açıklama ilişkisidir. Mekanik örnek teknik imkânın koşullu genişlemesini açıklar; bundan güzel ahlak veya ahiret düzeninin deneysel kanıtı çıkmaz. Makalenin sonucu bu üç iddia düzeyini ayıran bir felsefi modeldir.
 
@@ -70,6 +75,8 @@ Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu d�
 
 ## Dış kaynakça
 - OpenStax. (Tarihsiz). *College Physics 2e*, §9.5, Simple Machines. https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines . Kullanım: bölüm 3A; mekanik avantaj ve enerji sınırı. Erişim: 22 Ekim 2026. Normatif veya teolojik iddiaların kaynağı değildir.
+
+- National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §5D; hücresel kuruluş. Kurumsal biyoloji açıklaması, ontolojik boyut sayısının kanıtı değildir. Erişim: 22 Ekim 2026.
 
 ## 7. Kaynak ve sürüm izi
 - `NK-ZS-H04-A02-TR-v02-ALTI-ARTI-TEK-TUREME-KOMEL.md`

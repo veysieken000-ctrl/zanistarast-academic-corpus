@@ -47,6 +47,13 @@ Kurucu fizik evreleri atom (hidrojen ve helyum örnekleri) ile yıldız–gezege
 
 Hidrojen ve helyum ayrı atom türleridir. Bir hidrojen atomunun tek başına helyuma dönüştüğü iddia edilemez; yıldız nükleosentezinde çok parçacıklı süreçler söz konusudur. Dolayısıyla “ilk Yek hidrojen, ikinci Yek helyum” kurucu örnek olarak kullanılacaksa mekanizma ayrıca gerekçelendirilmelidir. Proton–nötron–elektron üçlüsünün her atom için zorunlu olduğu genellemesi hidrojen-1 karşı-örneğine takılır (National Isotope Development Center, *Isotope Basics*, https://isotopes.gov/isotope-basics). Fiziksel açıklamanın kanıt yükü saklanmaz. Hidrojen-1 çekirdeği bir protondan oluşur; nötr atom buna bir elektron ekler. Dolayısıyla nötron bütün atomların zorunlu bileşeni değildir (DOE, tarihsiz). Yıldızlarda hidrojen yanması, tek hidrojen atomunun kendiliğinden helyum olması değil, çok basamaklı nükleer tepkimelerle açıklanır (Adelberger ve ark., 2011, özellikle bölüm II). Bu bulgular kurucu üçlü ilişki şemasını mantıken çürütmez; şemanın proton–nötron–elektron zorunluluğu üzerinden fiziksel olarak ispatlandığı çıkarımını engeller.
 
+### 5A. Özgün kaynaklardaki fizik ifadelerinin ayrıştırılması
+Özgün *Varlık Sistemi ve Boyutları* P38 ile *Akıl ve Bilginin Kaynağı* P160'ta hidrojen ve helyumun proton sayıları ters yazılmıştır. Doğrusu hidrojen için **Z=1**, helyum için **Z=2**'dir (NIST, Atomic Data for Hydrogen; Atomic Data for Helium). Bu maddi düzeltme, ilk ve ikinci Yek'in anlamını proton numarasına indirgemez.
+
+Özgün ilk metin P39 ve ikinci metin P149'daki moleküllerden element oluşması sıralaması da kimyasal tanım olarak kullanılmaz. Element, çekirdekteki proton sayısı aynı olan atom türüyle tanımlanır; molekül ve element aynı sınıflandırma düzeyi değildir (IUPAC, 2025, chemical element; atomic number). Kimyasal birliktelik ile çekirdeğin proton sayısını değiştiren süreç aynı açıklama değildir.
+
+İlk metin P41–50 ve ikinci metin P72–80'deki kara delik–karanlık madde–Higgs ilişkileri, kaynakta bu özdeşlikleri destekleyen dış ölçüm veya alan modeli verilmediği için burada bilimsel delil olarak devralınmaz. Bunlar tarihsel araştırma varsayımları olarak korunur. Kurucu ontolojinin tartışılması, bu varsayımların doğru olduğu kabulüne bağlanmaz.
+
 ## 6. Biyoloji: ilk hücre, ikinci hücre ve çok hücreli Komel
 
 Birinci biyoloji evresi **tek hücreliler**, ikinci evre **çok hücreliler**dir. Bunlar “eşeysiz/eşeyli” üreme sınıflandırmasıyla değiştirilmez.
@@ -54,6 +61,11 @@ Birinci biyoloji evresi **tek hücreliler**, ikinci evre **çok hücreliler**dir
 Kurucu 1→2 örneği, bir hücrenin bölünmesi sonucunda ikinci hücrenin ortaya çıkmasıdır. İkinci hücre birinciden ayrı bir hücresel kimlik kazanır. Ancak bölünme sonucu iki hücrenin bulunması ile işlevsel olarak bütünleşmiş çok hücreli bir organizmanın oluşması aynı olay değildir. Komel kavramının biyolojideki uygulaması hücreler arası düzen, karşılıklı bağımlılık ve örgütlenme ölçütleriyle araştırılmalıdır. DNA ve RNA bilgi aktarım araçlarıdır; kurucu yaklaşımda esas tartışma **bilgi**dir.
 
 **Deneysel karşılaştırma:** Ratcliff ve ark. (2012), seçilim uygulanan maya popülasyonlarında bölünme sonrası ayrılmayan hücrelerden oluşan kümeler ve küme düzeyinde üreme gözledi. Ana metnin yöntem ve sonuçlarında başlangıçtaki on paralel popülasyona çökelme seçilimi uygulandığı, 60 aktarım sonunda kümeli biçimin baskınlaştığı açıklanır. Mikroskopi, oluşumun önceden ayrı hücrelerin toplanmasından değil bölünme sonrası bağlı kalmadan kaynaklandığını gösterir (Results: Mechanism of Cluster Formation; Şekil 2B). Bu, yalnız hücre sayısını değil kalıcı bağlılık ve yaşam döngüsünü de incelemeyi gerektirir. Deney ilk yaşamın veya bütün çok hücreli soyların tarihini yeniden kurmaz; Komel'in metafizik zorunluluğunu da sınamaz. Çalışma evrimsel bir mekanizma önerir; kurucu türeme yaklaşımı bu açıklamaya alternatif bir bilimsel model olacaksa aynı gözlemleri açıklayan mekanizma ve ayırt edici öngörü sunmalıdır. Komel adlandırması tek başına bu deneysel açıklamayı geçersiz kılmaz.
+
+### 6A. Merkez–çevre ilkesinde fiziksel ve örgütleyici anlam
+Özgün hücre–atom karşılaştırması, bütün hücrelerde atom çekirdeğine benzer zarla çevrili bir çekirdek bulunmasını gerektirmez. Prokaryotik hücrelerde böyle bir çekirdek yoktur; bitki ve hayvanların hücresel kuruluşu ise biyolojik sınıflandırmanın konusudur (NHGRI, 2026, Cell). Dolayısıyla kıble/merkez–çevre ilkesi için önerilen örgütleyici merkez, her varlıkta aynı anatomik parçanın bulunması iddiasından ayrılmalıdır.
+
+Bu ayrım ilkeyi peşinen doğrulamaz: “merkez” her karşı-örnekte yeni bir anlamla tanımlanırsa iddia denetlenemez hâle gelir. Uygulama öncesinde merkez adayının ne olduğu, hangi ilişkileri düzenlediği ve hangi gözlemin yorumu yetersiz bırakacağı belirtilmelidir. Atom çekirdeği, hücrenin genetik/işlevsel örgütlenmesi ve insan topluluğundaki yönelim merkezi aynı maddi mekanizma sayılmaz.
 
 ## 7. Zihin: ilk zihinli Yek, ikinci zihinli Yek ve hafıza
 
@@ -92,6 +104,10 @@ Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, 
 - Adelberger, E. G. ve ark. (2011). Solar fusion cross sections. II. The pp chain and CNO cycles. *Reviews of Modern Physics, 83*, 195–245. https://doi.org/10.1103/RevModPhys.83.195 . Kullanım: bölüm 5, nükleer mekanizma; araştırma sentezi.
 - Ratcliff, W. C., Denison, R. F., Borrello, M. ve Travisano, M. (2012). Experimental evolution of multicellularity. *PNAS, 109*(5), 1595–1600. https://doi.org/10.1073/pnas.1115323109 . Kullanım: bölüm 6; birincil deney; bu turda açık ana metnin yöntem, sonuç ve tartışması kontrol edildi. Ek veri, videolar ve ham ölçümler yeniden analiz edilmedi. Tam metin: https://pmc.ncbi.nlm.nih.gov/articles/PMC3277146/ .
 - U.S. Department of Energy (DOE). (Tarihsiz). *DOE Explains… Isotopes*. https://www.energy.gov/science/doe-explainsisotopes . Kullanım: bölüm 5, izotop ayrımı; kurumsal açıklama, deney makalesi değildir. Erişim: 22 Ekim 2026.
+
+- NIST. (Tarihsiz). *Atomic Data for Hydrogen (H)*; *Atomic Data for Helium (He)*. https://physics.nist.gov/PhysRefData/Handbook/Tables/hydrogentable1.htm ve https://physics.nist.gov/PhysRefData/Handbook/Tables/heliumtable1.htm . Kullanım: §5A; atom numaraları, kurumsal atomik veri. Erişim: 22 Ekim 2026.
+- IUPAC. (2025). *Compendium of Chemical Terminology*, 5. basım: chemical element ve atomic number. https://doi.org/10.1351/goldbook.C01022 ; https://doi.org/10.1351/goldbook.A00499 . Kullanım: §5A; kimyasal tanımlar. İndekslenmiş resmî metin kontrol edildi; doğrudan HTML çağrısında erişim hatası kaydedildi.
+- National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §6A; prokaryotik hücre ve çekirdek ayrımı. Erişim: 22 Ekim 2026.
 
 ## Kaynaklar ve izlenebilirlik
 

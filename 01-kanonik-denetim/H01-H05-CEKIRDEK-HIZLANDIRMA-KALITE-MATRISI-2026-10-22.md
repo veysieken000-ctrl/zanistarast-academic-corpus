@@ -59,3 +59,20 @@ Bu beş metnin hepsi GitHub'da mevcut ve sonuç bölümü içeriyor. İlk yapıs
 | 412 makale ve nihai yayın kapısı | Kapalı | Tam envanter, bütünsel uyum ve kurucu nihai onay henüz yok |
 
 Son işlem günlüğü: `H01-H05-KAYNAK-AKTARIMI-VE-OZGUN-METIN-DENETIMI-2026-10-22.md`. Kanonik metinler, eski sürümler ve araştırma ekleri korunmuştur. Halka 1 üretimine başlanmamıştır.
+
+## Özgün kaynakların bütün metin kapsamı — üçüncü çalışma turu
+İki özgün dosyanın okunabilir metni bütünüyle tarandı: A kaynağı 195 birim/37 blok; B kaynağı 177 birim/28 blok. Toplam **372 birim, 65 anlam bloğu**. Başlıklar dâhil her birim envanterde tam bir kez kapsanır. Bu, bağımsız önerme veya makale sayısı değildir. Ayrıntı: `H01-H05-IKI-OZGUN-KAYNAK-PARAGRAF-KAPSAMA-VE-IDDIA-ENVANTERI-2026-10-22.md`.
+
+“Özgün kaynakların ilk bütün-metin kapsam taraması ve ana önerme ailesi eşlemesi” artık tamamlandı. “Her atomik önermenin dış kaynak/argüman doğrulaması” ve bağımsız ikinci denetim ayrı ölçütlerdir ve açık kalır. Önceki tablolardaki seçilmiş paragraf eşlemesi notları tarihsel durumu gösterir.
+
+| Metin | Bu tur sonrası karakter | Benzersiz DOI | Ana metne aktarım |
+|---|---:|---:|---|
+| H01 | 19185 | 4 | Kaynak kapsamı düzeltmeleri işlendi |
+| H02 | 13609 | 1 | Kaynak kapsamı düzeltmeleri işlendi |
+| H03 | 15383 | 1 | Kaynak kapsamı düzeltmeleri işlendi |
+| H04 | 12167 | 0 | Kaynak kapsamı düzeltmeleri işlendi |
+| H05 | 18425 | 5 | Kaynak kapsamı düzeltmeleri işlendi |
+
+Karakter ve DOI sayımı önceki yöntemle yapılmıştır; bunlar kalite veya bağımsız kanıt puanı değildir. H01'de NIST atom numaraları ve IUPAC element tanımı; H01/H04'te NHGRI hücresel kuruluş kontrolü; H02/H05'te sevgi, doğruluk, duygu ve bilişsel kapasite ayrımları kaynak paragraf izleriyle ana gövdeye işlendi. H03'e bütün-paragraf kapsam taramasının sınırları eklendi.
+
+Tam akademik kapanış, bağımsız ikinci denetim, ilgili birincil kaynak/rivayetlerin kalan kontrolleri ve bütünsel editoryal denetim açık. Dış çekirdeğe geçilmedi; 412 yayın kapısı korunuyor.

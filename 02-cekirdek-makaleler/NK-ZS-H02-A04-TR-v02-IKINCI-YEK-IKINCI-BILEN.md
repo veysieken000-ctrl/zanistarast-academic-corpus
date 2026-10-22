@@ -49,6 +49,13 @@ National Academies of Sciences, Engineering, and Medicine (NASEM, 2019, bölüm 
 
 **Döngüsellik itirazı:** İkinci bilenin doğruluğu üçüncü, onunki dördüncü kişi tarafından onaylanacaksa süreç neden durur? Bu makale sonsuz bir kişi zincirini doğruluğun şartı yapmaz. Gerekçeler, veri ve çıkarım kamusal incelemeye açılır; belirli bir araştırmanın kabulü geçici ve düzeltilebilir kalabilir. Kurucu onay ilkesi, insan biliminde yanılmazlık belgesi olarak yorumlanmaz. Hebûn'un ontolojik başlangıç kabulüyle bu yöntemsel durma ölçütü farklı sorunlardır.
 
+### 5C. Sevgi, dürüstlük ve epistemik doğruluk
+Özgün *Akıl ve Bilginin Kaynağı* P142 ve P170, dürüstlük ve sevgiden söylenenin doğruluğuna geçer. Burada sevgi ve doğruluk arasındaki kurucu ahlaki bağ korunur; ancak bilimsel bir önermenin doğru olduğuna kişinin samimiyetiyle karar verilmez. Bir kişi sevdiğini korumak isteyip ölçüm birimini yanlış okuyabilir. Bu düşünce deneyi, iyi niyetin tek başına yeterli doğruluk ölçütü olamayacağını gösterir; sevginin değersiz olduğu sonucunu vermez.
+
+Sevgi araştırmanın yönelimini, dürüstlük belirsizliğin saklanmamasını ve hatanın açıklanmasını destekleyen erdemler olarak tartışılır. İddianın doğrulanması ayrıca konu bilgisi, açık gerekçe, uygun veri ve yöntem gerektirir. Dinî veya felsefi aidiyet, bu yöntemsel kontrolün yerine geçirilmez. Kurucunun dinî bilgi anlayışı teolojik statüsüyle kaydedilir; farklı inançtaki bir araştırmacının bulgusuna ilişkin hüküm, bulgunun kanıtı üzerinden verilir.
+
+P144'teki faydadan doğruluğa geçiş de ayrı değerlendirilir: doğru bir bilgi henüz pratik fayda sağlamayabilir; faydalı görünen bir önerme yanlış olabilir. “Yapay” üretim, tek başına yanlış veya ahlaken kötü bilgi demek değildir. Bunlar Rasterast'ın doğruluk, fayda ve ahlak eksenlerine ayrı kaydedilir. İkinci bilenin görevi bu anlamları karıştırmadan değerlendirmektir.
+
 ## 6. Sevgi, akıl, fıtrat
 Özgün *Akıl ve Bilginin Kaynağı* Word metni aklın iyi ve doğruyu seçmesini sevgiyle ilişkilendirir; ruhun üflenmesi ve insanın özü de kurucu tartışmanın parçasıdır. Bu bağlantı, insanın ahlaki yöneliminin bilgiye etkisini araştırma sorusu yapar; psikolojik mekanizma veya doğa yasası olarak peşinen ispatlandığı iddia edilmez.
 

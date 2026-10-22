@@ -88,6 +88,13 @@ Rasterast için iki başarım ayrı ölçülmelidir: bibliyografik hatayı bulma
 | Sonuç–yorum–eleştiri ayrı tutulur | H05'te Boeckle 2020 ve 2021 tartışması | Gerçek yayın zincirinde örnekleme; bağımsız tekrar yok |
 | Karar kayıtları düzeltilebilir olmalıdır | Bölüm 7B protokolü | Rasterast'ın önerisi; üstünlüğü henüz sınanmadı |
 
+### 7E. Özgün kaynakların bütün paragraf kapsamıyla taranması
+İki özgün metnin 195 ve 177 boş olmayan metin birimi, başlıklar dâhil, sırasıyla 37 ve 28 anlam bloğuna ayrılarak incelenmiştir. Toplam 372 birimin her biri envanterde bir bloğa bağlanır; bu sayı 372 bağımsız önerme veya makale değildir. Başlık/amaç, kurucu kabul, yorum, ampirik ifade, analoji ve maddi hata aynı kanıt türü sayılmamıştır.
+
+Bir blok içindeki ana önermenin özetlenmesi, o bloktaki her cümlenin bağımsız doğrulandığı anlamına gelmez. Envanter kaynak metnin tamamında hangi iddia ailesinin nerede bulunduğunu, çekirdeğe neyin aktarıldığını ve hangi varsayımın bilimsel destek olarak kullanılmadığını gösterir. Maddi hata düzeltmesi kaynak metni geriye dönük değiştirmez; asıl dosya korunur.
+
+Örneğin atom numarası için kurumsal veri, element için terminoloji standardı, hücresel çekirdek için biyoloji açıklaması kullanılır. Sevgi/dürüstlükten yanılmazlık çıkarımı ise düşünce deneyiyle sınırlandırılır. Sezgisel kabul ve bir inancın yaygınlığı, tek başına bir fiziksel mekanizmanın ölçümü sayılmaz. Karşılaştırmanın ayrıntılı izi: `../01-kanonik-denetim/H01-H05-IKI-OZGUN-KAYNAK-PARAGRAF-KAPSAMA-VE-IDDIA-ENVANTERI-2026-10-22.md`.
+
 ## 8. Sonuç
 Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. H01–H05'e uygulanan kayıt düzeni, kavram ve kaynak aktarımını izlenebilir kılar. Bunun hata azaltma etkisi henüz karşılaştırmalı olarak ölçülmemiştir; yöntemsel katkı protokol ve örnek denetim düzeyindedir.
 

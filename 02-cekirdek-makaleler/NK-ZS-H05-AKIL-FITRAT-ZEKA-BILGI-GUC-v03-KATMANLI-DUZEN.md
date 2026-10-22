@@ -51,6 +51,13 @@ De Mahy, Esteve ve Santariello (2021), Boeckle deneyinin çağrışımsal öğre
 
 Bu makalede sonuç, kurucu akıl tanımını doğrulayan veya çürüten tek deney diye kullanılmaz. Çağrışımsal öğrenme, esnek aktarım ve açık gerekçelendirme ayrı incelenir. Bir görevdeki başarıdan metafizik öz veya iradeli ahlak hakkında doğrudan sonuç çıkarılmaz. Eleştirinin indekslenmiş metni ve yazar yanıtının açık tam metni kontrol edilmiştir; eleştirinin doğrudan tam sayfa erişimi bu turda kararlı değildir.
 
+### 5C. Özgün bilgi ve duygu tanımlarının kapsamı
+*Akıl ve Bilginin Kaynağı* P119–133, bilgi ile duygu arasında güçlü bir özdeşlik ve sıralı duygu katmanları önerir. Bu metinde, varlığın işleyişine ilişkin ontolojik “bilgi”, öznenin yaşadığı duygu, bilişsel temsil ve gerekçelendirilen bilimsel önerme ayrı kullanımlardır. Bir duygunun yaşanması o deneyimin varlığına işaret edebilir; duygunun yöneldiği dış nesne hakkındaki bütün yorumların doğru olduğunu tek başına göstermez. Önerilen katman sırası da ölçülmüş evrensel bir nöropsikolojik düzen diye sunulmaz.
+
+P57–60 ve P138'de akıl hem yeni bilgi üretme yetisi hem erdemli yönelim anlamında kullanılır. Güncel kurucu tanımda insanın ilimden ilim üretme kapasitesi esas alınır; bu kapasitenin ahlaki kullanımı iradeli ahlakla ayrıca değerlendirilir. Yanlış veya zararlı bir tercihte bulunmak, kişinin bütün bilişsel kapasitesinin yok olduğu sonucu değildir. Böylece zekâ–akıl ayrımı ahlaki övgü veya yergiye indirgenmez.
+
+P6'daki aynı türün bütün bireylerinin aynı etkiye aynı tepkiyi verdiği genellemesi de fıtrat tanımının zorunlu sonucu değildir. Ortak imkân ve sınırlar; deneyim, öğrenme ve bağlama göre farklı davranışlara yer bırakabilir. Bölüm 5A'daki kuşlar arası farklı performans bunun bu makalede kullanılan sınırlı örneğidir. Fıtrî, duygusal ve mantıksal zekâ terimleri tek bir doğrulanmış psikometrik ölçeğin alt puanları gibi kullanılmaz; burada kurucu kavramlardır.
+
 ## 6. Matematiksel araştırma için asgari şema
 Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 - `P`: fiziksel koşullar ve ölçülebilir kapasite;
