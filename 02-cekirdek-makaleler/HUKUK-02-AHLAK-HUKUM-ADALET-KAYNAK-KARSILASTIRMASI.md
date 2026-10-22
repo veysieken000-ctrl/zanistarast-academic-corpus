@@ -31,6 +31,8 @@ Paragraf işaretleri DOCX dosyalarının **0 tabanlı paragraf sırasını** gö
 
 **Tarihsel sürüm notu:** Etik belgesinin §80'indeki biyoloji için eşeyli/eşeysiz anlatım, kurucunun sonradan teyit ettiği **tek hücreli/çok hücreli** kozmik evre ayrımıyla aynı değildir. Belgenin tarihsel içeriği sessizce değiştirilmez; güncel kanonik düzeltme ayrı belirtilir. İnsan katmanları kozmik boyutlarla numara numara eşlenmez.
 
+**16.10.2026 kurucu kanonik karşılaştırması:** `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` dosyasının kurucu onaylı **6 boyut / 12 evre** tablosunda 5. kozmik boyutun evreleri **fıtrî ahlak → iradeli ahlak**, 6. kozmik boyutun evreleri **hesap/hüküm → hükmün sonucu (ahiret karşılığı)** olarak kaydedilmiştir (doğrulanan blob: `312510036f6c6516468296019b9dff2e489e74a8`). **Hukukî mahkeme kararı, kozmik altıncı boyutun birinci evresiyle özdeş değildir**; böyle bir eşitleme kurucu belgeden çıkmaz. Bu karşılaştırma tarihsel DOCX metinlerine sonradan eklenmiş ifadeleri doğrudan alıntı gibi sunmaz.
+
 ## 3. Kavramsal ayrım matrisi
 | Kavram | Özgün kaynakta savın odağı | Araştırmada ayrılması gereken |
 |---|---|---|
