@@ -11,6 +11,9 @@ Bir tilkinin farklı iklimlerde yaşayabilmesi yalnız DNA'sında önceden bulun
 3. **Kalıtsal genetik değişim:** Mutasyon ve genetik çeşitlilik nesiller boyunca kalıtsal farklılıklar oluşturabilir; seçilim bu varyantların popülasyondaki dağılımını etkileyebilir.
 4. **Mevsimsel düzen:** Kürk değişimi gibi döngüler hormon, gün uzunluğu ve gelişimsel düzenleme ile ilişkilendirilebilir. Bu örnek, bütün farklılıkların 'yeniden etkinleşen organ' olduğunu göstermez.
 
+## Güncel kavram sınırı
+**Fıtrat** kuruluş, imkân ve sınırların ontolojik açıklamasıdır; **fıtrî ahlak** bu düzenin işleyiş ve ilişkilerdeki tezahürüdür. Gen ifadesi, fenotipik esneklik ve kalıtsal genetik değişim ise ayrı ayrı ampirik mekanizmalardır. Bu kavramlar birbirlerinin deneysel eşanlamlısı değildir. Hayvanın fıtrî ahlakı ona insanın iradeli ahlaki sorumluluğunu yüklemez. Kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
 ## Tilki örneğinin sınırları
 Kızıl tilkinin farklı habitatlarda bulunması ve kutup tilkisinin soğuk iklime uygun özellikler taşıması tek bir tilki bireyinin her ortamda aynı biçimde yaşayabildiği anlamına gelmez. Ayrıca kızıl tilki ile kutup tilkisi ayrı türlerdir; aralarındaki bütün farklılıklar tek bireyin çevresel koşullara göre değişimi olarak açıklanamaz.
 
