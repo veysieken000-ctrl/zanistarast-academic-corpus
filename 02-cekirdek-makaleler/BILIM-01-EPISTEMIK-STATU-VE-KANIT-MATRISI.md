@@ -88,3 +88,28 @@ Google Drive'daki `7-Bilim.docx` (kimlik `14oSElIHPtjTjMRna0zZXTS9n7xt3ACFM`) ve
 | BL-S05 | Dortuncu boyutun bir bolumunde melek ve seytan ifadesi bulunuyor | Tarihsel metin; guncel ruh / melekler evreleriyle farki kaydedilmeli |
 
 **Sinir:** Bu turda Drive baglantilarindan okunabilir metin alindi, ancak DOCX paragraf indisleri ve ikili dosya karmalari hesaplanmadi. Bu nedenle `7-Bilim.docx` icin bile kesin paragraf numarasi atanmadi. Eski metnin olasi fiziksel/kozmolojik ifadeleri de bilimsel dogrulama yerine kaynak iddiasi olarak ele alinmalidir. K0 metin erisimi ilerledi; dosya kimligi ve paragraf eslemesi acik. Yayin hazir degil.
+
+## H07 English source-based critical translation: opening argument (22 October 2026)
+
+**Primary Turkish source:** `hebun-zanabun/articles/makale-06.md`, main branch, title *Varlık ve Yaratıcı Biliminin Temeli / Bilim ve İnsan*. This passage is a close, edited translation of the source's introduction and initial epistemological argument, **not** a translation of the entire paper. The existing H07 English development draft remains an outline.
+
+### Translation — Introduction
+
+As a living species capable of existing in communities, human beings attempt to understand nature and sustain life within it. The desire to exist and to extend the sphere of existence is expressed through adaptation to the natural environment. In the struggle to remain alive, beginning with birth and continuing until death, an individual's impressions become information for that individual. Social knowledge may be understood as an agreement reached through the shared struggle of individuals to live.
+
+The accumulation of knowledge, defined here as the product arising when a knowing subject turns toward a known object, has contributed throughout history to the classification of fields of science. What knowledge is and why it is needed are directly related to what the subject is and what that subject requires. The manuscript characterizes science in terms of knowledge intended to remain generally valid across time. Because knowledge is necessary for humanity, the inquiry seeks the human knower at the foundation of the philosophy of science.
+
+### Translation — The two knowers and a shared reality
+
+Throughout history, people have tried to comprehend existing things and conceptual objects and to attain the knowledge required for science. The consistency and accumulation of information, whether regarded as objective or subjective, are presented as conditions for scientific development. Cultures, discoveries, civilizations, customs, books, inscriptions, tools, historical remains, and symbols all carry accumulated human knowledge.
+
+The author argues that knowledge requires a knowing subject. For enduring knowledge, the author adds a second knowing subject: when one person knows something, a second person must be able to confirm it. The two must also confront a reality independent of both. Reason is described as the shared meeting place of the two knowers, while the independent third term provides a common ground for their judgments. The text then moves from this epistemic account toward a theological argument that universal laws point to a universal knower. **This last inference is the author's philosophical-theological claim, not a conclusion established by repeatable measurement.**
+
+### Critical editorial notes (not part of the translated source)
+
+1. The original uses *bilgi*, *bilim*, and *ilim* in overlapping but distinguishable senses. These are rendered provisionally as knowledge, science, and systematic knowledge; a complete edition must supply a terminology glossary.
+2. The source moves from intersubjective confirmation to an independent reality and then to a divine knower. Agreement between two observers does not, by itself, establish truth: common measurement bias is a counterexample. This objection is editorial analysis, not a quotation from the author.
+3. The historical source later describes biology with an asexual/sexual progression and contains older fourth-dimension terminology. The later founder-approved cosmic-stage names are unicellular/multicellular and spirit/angels. Translation must preserve historical wording and flag subsequent revisions separately.
+4. Source identity: Google Drive holds four `7-Bilim.docx` records with identical readable text (25,037 characters each), but their equivalence to the older filename `6-Bilim (1).docx` has **not** been established. The directly identified GitHub primary source for this English passage is `articles/makale-06.md`, not a presumed filename match.
+
+**Status:** This section is a substantive English source-based translation excerpt plus marked editorial critique. It is not a complete English journal manuscript, and it has not undergone independent peer review.
