@@ -41,7 +41,7 @@ Biyolojinin iki evresi **tek hücreli/çok hücreli**, zihin evreleri **zekâ/ak
 **Hebûn:** Varlığın kuruluşu, ilk/ikinci/yeni Yek ve Komel. **Zanabûn:** Bilen–bilinen–sonuç–ikinci bilenin onayı. **Rasterast:** Kaynak soyağacı, karşı-örnek, bağımsızlık ve kanıt statüsü. Kurucu inanç, mantıksal çıkarım ve ampirik iddia ayrı izlenir.
 
 ## 8. Sonuç
-Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Kurucu tezlerin bilimsel yasa düzeyine çıkarılması için bağımsız literatür ve sınama hâlâ gereklidir.
+Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Kurucu tezlerin bilimsel yasa düzeyine çıkarılması için bağımsız literatür ve sınama hâlâ gereklidir.
 
 ## Kaynaklar
 - Kurucu kanon: `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`
