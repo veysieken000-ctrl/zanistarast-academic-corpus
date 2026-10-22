@@ -26,7 +26,7 @@ Birinci metin biyolojik organizasyonun karmaşıklığı, sinir sistemi ve karar
 | 4 Ruh | Ruh | Melekler | Düzen ve zamanın işlevsel sürdürülmesi |
 | 5 Ahlak | Fıtrî ahlak | İradeli ahlak | Fıtrî yönelim ve sorumlu irade |
 
-Altıncı kozmik boyut hüküm/ahirettir; bu makalede ona kaynakta kesinleşmemiş iki evre atanmamıştır. Tek/Yek üst ilkesi, boyutların mekanik bir sayısal toplamına indirgenmez. İnsan katmanları kozmik boyutlarla birebir numaralandırılmaz.
+Altıncı kozmik boyut hüküm/ahirettir; 16.10.2026 tarihli kurucu onaylı tabloya göre evreleri **hesap/hüküm** ve **hükmün sonucu (ahiret karşılığı)** olarak tanımlanır (kaynak denetimi: §10). Tek/Yek üst ilkesi, boyutların mekanik bir sayısal toplamına indirgenmez. İnsan katmanları kozmik boyutlarla birebir numaralandırılmaz.
 
 ## 3. Biyoloji: örgütlenme ile üremenin ayrılması
 Tek hücrelilik, bir organizmanın tek hücreden oluşması; çok hücrelilik ise farklılaşmış ya da birlikte işleyen birden fazla hücreyle örgütlenmesi bakımından araştırılır. **Eşeyli ve eşeysiz üreme** ise üreme stratejileridir; tek/çok hücreli ayrımının eş anlamlıları değildir. Kurucu metindeki eski eşeysiz→eşeyli evre zinciri bu nedenle tarihsel hipotez olarak anılır, güncel kanonik adına kullanılmaz.
