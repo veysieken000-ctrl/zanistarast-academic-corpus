@@ -1,12 +1,15 @@
-# 6+Tek: Fıtrî İmkân, Araç ve İradeli Ahlak — Türkçe v03 araştırma bölümü
+# 6+Tek: Fıtrî İmkân, Araç ve İradeli Ahlak — Türkçe v03 akademik çalışma metni
 
 **H04/A02 | 22 Ekim 2026 | v02 üzerine birikimli araştırma sürümü; dergiye gönderime hazır değil**
 
 ## Öz
 6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir. Fıtrat varlığın kuruluş imkân ve sınırlarıdır; fıtrî ahlak bu düzenin tezahürü, iradeli ahlak ise insanda bilgi ve tercihle bu imkânların yönetilmesidir. Hüküm karşısındaki özel ahlaki sorumluluk iradeli ahlakla ilişkilidir.
 
+## Yöntem ve iddiaların kapsamı
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+
 ## 1. Önceki sürümden devralınan ayrım
-H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegenler), biyoloji (tek hücreli; çok hücreli), zihin (zekâ; akıl), ruh (ruh; melekler), ahlak (fıtrî; iradeli), hüküm/ahiret. Tek/Yek yedinci yaratılmış boyut değildir. İnsan katmanları kozmik boyutlarla sayısal olarak eşitlenmez. Bu sürüm v02'nin yerine geçmez; onun beşinci ve altıncı boyut tartışmalarına eklenen araştırma bölümüdür.
+H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegenler), biyoloji (tek hücreli; çok hücreli), zihin (zekâ; akıl), ruh (ruh; melekler), ahlak (fıtrî; iradeli), hüküm/ahiret. Tek/Yek yedinci yaratılmış boyut değildir. İnsan katmanları kozmik boyutlarla sayısal olarak eşitlenmez. Bu sürüm, v02'nin tanımlarını devralan güncel H04 ana çalışma metnidir; v01 ve v02 tarihsel sürümler olarak korunur. Aynı araştırmanın sürümleridir ve bağımsız makale sayılmaz.
 
 ## 2. Elin kaldırılması örneği
 İnsan elini kaldırmayı diler; fakat kolunun yapısını, hareket aralığını ve hareketi mümkün kılan kanunları yaratmaz. Yaratılmış imkânlar ve sınırlar fıtrî düzen açısından ele alınır. İnsanın bu sınırlar içinde dilemesi ve seçimde bulunması iradeli ahlaktır. İnsan karar verebilir; bu karar mutlak yaratıcı hüküm değildir.
@@ -14,8 +17,14 @@ H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegen
 ## 3. Araç ve genişleyen imkân
 Bir kaldıraç veya vinç, insanın çıplak elle kaldıramadığı yükleri kaldırmasını sağlayabilir. Burada fiziksel kanunlar iptal edilmez; onlardan yararlanılır. Akıl yeni bilgi ve araç üretirken fıtrî imkânları kullanım biçimini değiştirir. Böylece üçüncü boyutun akıl evresiyle beşinci boyutun iradeli ahlak evresi arasında araştırılabilir bir ilişki kurulur.
 
+### 3A. Mekanik örneğin kaynağı ve sınırı
+OpenStax'ın *College Physics 2e*, bölüm 9.5 açıklamasında mekanik avantaj çıkış kuvvetinin giriş kuvvetine oranıdır. İdeal bir makine kuvvet kazancını yol ile değiş tokuş eder; enerji üretmez (OpenStax, tarihsiz). Dolayısıyla araç, belirli yük ve koşullarda uygulanabilir eylemi değiştirir; varlığın bütün sınırlarının kalktığı sonucu çıkmaz. Bu kaynak bir fizik ders kitabıdır; insanın ahlaki sorumluluğu hakkında deneysel kanıt değildir.
+
 ## 4. Hüküm ve sorumluluk
 Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme kapasitesini de artırabilir. Bu yüzden daha çok güç otomatik olarak güzel ahlak demek değildir. Kurucu teolojik tezde insan Ehad'ın hükmü karşısında ahlaki muhataptır ve kendi iradeli tercihlerinden sorumludur. Sorumluluğun kapsamı bilgi, niyet, kontrol ve öngörülebilir sonuçlar dikkate alınarak tartışılmalıdır.
+
+### 4A. Normatif köprü ve karşı-örnek
+“Bir aracı kullanabilir” önermesi betimleyicidir; “kullanmalıdır” sonucu için ayrıca normatif öncül gerekir. Bu makalede sorumluluk, bilgisi ve kontrolü bulunduğu ölçüde öngörülebilir zararı değerlendirme yükümlülüğü olarak tartışılır; bu bir felsefi öneridir. Ehad karşısındaki nihai sorumluluk ise teolojik kabuldür. Örneğin iki kişi aynı makineye sahip olduğu hâlde bakım bilgisi, erişim yetkisi ve kullanım amacı bakımından farklı olabilir. Eşit teknik kapasite eşit kusur veya eşit iyilik göstermez. Seçenek artışından sorumluluk artışına geçiş ancak bilgi, niyet ve denetim koşulları açıklanırsa savunulabilir.
 
 ## 5. Rasterast ile üç eksenli denetim
 - **Doğruluk:** Araçların kapasiteyi artırdığı iddiası ölçülebilir ve karşı-örneklerle sınanabilir.
@@ -44,6 +53,9 @@ Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu d�
 2. Seçenek artışı ile sorumluluk artışı hangi koşullarda birlikte görülür?
 3. Fıtrî ahlakın sınırları ile araçla genişleyen eylem kapasitesi nasıl tanımlanabilir?
 4. Güzel ahlakın imkânı ile gerçekleşen güzel ahlak nasıl ayırt edilir?
+
+## Dış kaynakça
+- OpenStax. (Tarihsiz). *College Physics 2e*, §9.5, Simple Machines. https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines . Kullanım: bölüm 3A; mekanik avantaj ve enerji sınırı. Erişim: 22 Ekim 2026. Normatif veya teolojik iddiaların kaynağı değildir.
 
 ## 7. Kaynak ve sürüm izi
 - `NK-ZS-H04-A02-TR-v02-ALTI-ARTI-TEK-TUREME-KOMEL.md`
