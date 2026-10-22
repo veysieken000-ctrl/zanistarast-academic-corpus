@@ -8,6 +8,26 @@ Bu makale ikinci bilenin onayının hangi koşullarda bilgiye ek güven sağlad�
 ## 1. Araştırma sorusu
 İkinci bilen hangi hata sınıflarında ilk bilenin değerlendirmesine gerçekten yeni denetim ekler? H02 ikinci bilenin kurucu rolünü; H03 kaynak soyağacını tanımlar. A06'nın ayırıcı katkısı bağımlılığın türlerine ilişkin karar ölçütüdür.
 
+## 1A. İkinci bilenin ontolojik ve fıtrî kapsamı
+
+**Kurucu kapsam:** Ehad Yek'tir. Ehad karşısındaki her yaratılmış Yek, kendi fıtratı ve fıtrî ahlakı bakımından **ikinci bilenin ontolojik anlamını temsil eder**. Bu, ikinci bilenin yalnız insanlar arasında başka bir araştırmacı olduğu anlamına gelmez. Hebûn'un İlk Yek → İkinci Yek → yeni Yekler → Komel kuruluşu, Zanabûn'un bilme ve muhataplık sorusunun ontolojik zeminidir. Ehad yaratılmış Yeklerden biri veya aynı düzlemdeki birinci insan araştırmacı değildir.
+
+Burada **ontolojik temsil**, **bilinçli bilgi edinme** ve **bağımsız bilimsel doğrulama** ayrı anlamlardır. Fiziksel Yek, fıtrî düzeniyle Ehad karşısında bir muhataplık/temsil ilişkisi taşır; bundan atomun insan gibi düşündüğü sonucu çıkmaz. Biyolojik Yek canlılık ve fıtrî işleyiş düzeyinde ele alınır; hücrenin bilgi işlemesi insanın gerekçeli onayıyla özdeşleştirilmez. Zihinli varlıklarda algılama, bellek, öğrenme ve değerlendirme ilişkileri ayrıca araştırılır. İnsanda akıl yoluyla ilimden ilim üretme ve **iradeli ahlak** belirginleşir; en üstte insan, hüküm karşısında iradeli ahlakıyla sorumluluk taşıyan muhataptır. Altıncı kozmik boyut hüküm/ahirettir; insanın kendisi altıncı boyut değildir.
+
+| Düzey | İkinci bilenin ilgili anlamı | Karıştırılmaması gereken |
+|---|---|---|
+| Ehad–yaratılmış Yek ilişkisi | Ehad karşısında her Yek'in fıtrî ahlakla ontolojik temsili | İnsan araştırmacısının onayı |
+| Fizik | Fiziksel Yek'in kuruluş, düzen ve ilişkisel varlığı | Atoma bilinç atfetmek |
+| Biyoloji | Canlı Yek'in fıtrî işleyiş ve devamlılığı | Hücreyi insan gibi bilen saymak |
+| Zihin | Zekâ, bellek, öğrenme ve bilenler arası ilişki | İlk zihinli Yek'in kimliğini kanıtlanmış saymak |
+| Ruh | Kurucu teolojik ontolojide ruh ve meleklerin muhataplığı | Deneysel ölçüm sonucu |
+| Ahlak | Fıtrî düzenden insandaki iradeli seçime ayrım | Her doğal olayı iradeli eylem saymak |
+| Hüküm/ahiret | İnsanın iradeli ahlakıyla hükme muhatap oluşu | İkinci bileni yalnız ikinci insan hakeme indirgemek |
+
+**Epistemolojiye geçiş:** Ontolojik ikinci bilen temsili bütün yaratılmış Yekleri kapsayan kurucu tezdir. Zanabûn'da bir bilenin nesneye yönelmesiyle oluşan bilgi sonucunun başka bir bilen tarafından değerlendirilmesi ise bu geniş ilişkinin **özel epistemolojik görünümüdür**. A06'nın aşağıdaki veri, araç ve yöntem bağımsızlığı ölçütleri yalnız bu dar bilimsel doğrulama görünümüne uygulanır; fıtrî ahlakın bütün varlıklardaki ontolojik anlamını tanımlamaz.
+
+**Eleştirel sınır:** Her Yek'in Ehad karşısında ikinci bileni temsil ettiği önerme kurucu metafizik tezdir; atomların bilinçli olduklarına ilişkin ampirik bulgu diye sunulmaz. Doğal düzen ile normatif yükümlülük arasındaki geçişin ayrıca gerekçelendirilmesi gerekir.
+
 ## 2. Yöntem
 Kavramsal çözümleme, koşullu çıkarım ve düşünce deneyleri kullanılır. Bu metin yeni deney veya bağımsız hakemlik raporu değildir. Doğruluk, gerekçelendirme ve onay birbirine eşit değildir.
 
