@@ -190,3 +190,35 @@ R is **defeasible**, not a biconditional or a universal necessity claim. It does
 | Restricted thesis R | This article §10.6 | Editorial reconstruction requiring external scholarly criticism |
 
 **Pre-submission blockers:** (1) confirm author and provenance metadata; (2) complete author-reviewed bilingual quotation audit; (3) broaden the literature to primary research monographs and articles, not only encyclopedic reference entries; (4) check journal scope and formatting after a target is selected; (5) obtain external critical review. Until these gates are met, the draft must not be labeled accepted, peer reviewed, or submission ready.
+
+
+## 12. Primary scholarly literature: comparison and verification queue (22 October 2026)
+
+This section distinguishes **established bibliographic leads** from **source-verified quotations**. The works below are well-known scholarly publications relevant to the argument; their detailed contents, page references, edition metadata, and DOIs have **not yet been independently retrieved and checked in this revision**. They are therefore a *verification queue*, not a certified final reference list. No direct quotation or page-specific claim is attributed to them.
+
+| Scholarly work to verify | Why it matters to H07 | Specific comparison required | Verification status |
+|---|---|---|---|
+| Helen E. Longino, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry* (1990) | Community criticism and objectivity | Whether H07's second-knower relation adds more than critical interaction | Bibliographic lead; primary text not checked |
+| Helen E. Longino, *The Fate of Knowledge* (2002) | Social dimensions of knowing | Compare individual and community-level justification | Bibliographic lead; primary text not checked |
+| Alvin I. Goldman, *Knowledge in a Social World* (1999) | Social epistemology, testimony, and reliable belief formation | Distinguish reliable information transfer from mere assent | Bibliographic lead; primary text not checked |
+| John Hardwig, “Epistemic Dependence” (1985) | Dependence on other knowers and expertise | Whether a second knower must independently repeat all observations | Bibliographic lead; article not checked |
+| Robert K. Merton, “The Normative Structure of Science” (1942 essay, later reprints) | Communal norms and scientific scrutiny | Separate norms of inquiry from truth conditions | Bibliographic lead; publication-history details to verify |
+| Naomi Oreskes, *Why Trust Science?* (2019) | Scientific consensus and justified trust | Distinguish expert consensus from mere majority agreement | Bibliographic lead; primary text not checked |
+
+### Research questions for close reading
+
+**Longino comparison.** Does the second-knower thesis specify conditions for transformative criticism, or merely require a second person's approval? If the latter, the novelty claim should be limited to its historical framing and its relation to the author's ontology.
+
+**Goldman and Hardwig comparison.** Is the second knower an independent examiner, a competent witness, a user of a created artifact, or all three in different contexts? The original H07 source uses *onay* in more than one setting. A scholarly article must distinguish these roles and explain why each matters.
+
+**Merton and Oreskes comparison.** Does a normative expectation of honesty, openness, and criticism justify a scientific claim? No simple inference is warranted; institutional trust and the evidential truth of particular findings must be analyzed separately.
+
+### Anti-overclaim and bibliographic quality rules
+
+1. Do not convert the bibliographic leads above into definitive citations or quote their arguments without checking the primary texts or reliable publisher records.
+2. Do not invent DOIs, journal issue numbers, pagination, or author quotations.
+3. The previously checked National Academies report is a consensus report, not a peer-reviewed journal article. Stanford Encyclopedia entries are scholarly reference works, not original empirical studies.
+4. The manuscript currently offers a **conceptual interpretation** and a test proposal. It does not establish experimental confirmation of the second-knower thesis or the full Zanistarast system.
+5. Before selecting a journal, confirm that the article makes a sufficiently distinct argument relative to established social epistemology; otherwise consider publishing it as a critical edition with commentary rather than overstating theoretical novelty.
+
+**Next verification gate:** retrieve publisher or journal records for each lead, confirm exact bibliographic metadata and accessible argument summaries, then insert only verified references into the formal bibliography. A subsequent step should assess candidate philosophy-of-science journals against actual editorial instructions.
