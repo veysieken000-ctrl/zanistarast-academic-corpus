@@ -147,3 +147,134 @@ This appendix integrates the detailed English working translation from the compa
 
 **Milestone:** Every substantive paragraph of lines 109–129 now has an English working rendering. This closes the previously identified close-translation gap in Creative Science and Conclusion, but does not certify a sentence-perfect translation of the entire H07 source or a journal-ready manuscript.
 
+
+
+---
+
+## Appendix B. Close historical-source renderings for epistemology and the systems of being
+
+The following three source-aligned working translation sections are reproduced from the evidence matrix without altering the original historical claims. They are **not** a substitute for the interpretive manuscript §§1–5. Editorial notes are marked separately. Source line numbers refer to `hebun-zanabun/articles/makale-06.md` on `main`.
+
+## H07 closer English translation — source lines 21–27 and 57–67 (22 October 2026)
+
+**Source:** `hebun-zanabun/articles/makale-06.md` on `main`. These paragraphs provide more faithful line-specific working translations of passages previously rendered only thematically. They retain the author's historical claims, including contested ones; the notes below are editorial and not part of the original.
+
+**Line 21.** Throughout history, people have tried to comprehend both existing things and conceptual notions and to acquire the knowledge necessary for the formation of science. The data needed for science have arisen through the consistency and accumulation of knowledge that can be arranged in succession, whether objective or subjective.
+
+**Line 23.** Humanity has transmitted its accumulated knowledge through cultures, discoveries, civilizations, traditions and customs, books and inscriptions, as well as historical remains and symbols, including tools and equipment. These are various ways of conveying identity and knowledge.
+
+**Lines 25–26.** Science is described as an orderly and consistent way of knowing that investigates portions of the universe and its events through methods and experiments, seeks reality, and arrives at laws. Systematic knowledge (*ilim*) is described as methodically obtained and practically confirmed knowledge possessing universal validity and certainty. These are the source's definitions, not settled universal definitions of science.
+
+**Line 27.** The author argues that the science of eternal things is possible and that knowledge requires a knowing subject. For knowledge to endure, the author posits a second knowing subject. When one person knows something, a second must confirm it, while a reality independent of both must exist. Reason is the common meeting place of the two subjects; a third term, independent of their reasoning, forms their shared ground. The author then infers that the objective reality known by reason must either possess consciousness, life, intelligence, and knowledge or have been produced by one who does. Universal laws are presented as pointing toward a universal knower. Finally, the author attributes knowing-subject characteristics to the human being, the body, and the natural world in which that body exists. The inference to a universal knower is theological-philosophical, not a measurement result.
+
+**Line 57.** In seeking consistent knowledge, the author associates verification with induction and falsifiability with deduction, and turns toward the knowing subject through science as an activity. The question ultimately becomes whether the thing discussed exists.
+
+**Line 59.** The author argues that producing consistent knowledge involves bringing something into being, offering mathematics and the alphabet as examples. The text compares hydrogen and helium, sexual and asexual reproduction, intelligence and reason, true and false, good and evil, and creator and human. It proposes that the interaction of two subjects brings about a third thing, which is not independent of both subjects.
+
+**Line 61.** The author asserts that human products arise through the interaction of at least two people, including technological and other forms of production. Existing things can become objects of science: physical beings, living beings, and products of the mind. Stories and dreams are said not to constitute knowledge because they have not passed confirmation by two minds.
+
+**Line 63.** Science is defined as the occurrence of the same result under the same conditions at any time and place. The author argues that the being yielding consistent results through induction and deduction, rather than merely a human opinion, constitutes the science of being. Rational productions in accordance with the rule of creation, including technical, artistic, and everyday knowledge, are placed within the science of creation.
+
+**Line 65.** To understand science, the author proposes examining the conditions of existence at the foundation of a creation-oriented perspective.
+
+**Line 67.** The author describes the creator as the first subject, whose initial act is to will existence. Willing presupposes knowing what is desired. In this account, intentional design requires relations of identity or similarity, and the two minds must share a common ordering. Reaching the second knower makes the continuation of repeated knowledge possible. The creator is then said to bring forth physical, biological, and mental orders, natural law, spirit for the body, morality for the second knowing being, reason, and the encompassing self. The account connects human embodiment with the creation of space and time and describes paradise and hell as conditions of a renewed, continuing existence. This is a theological account presented by the historical source.
+
+### Critical editorial distinctions
+
+- The source's assertion that two-person confirmation is necessary and sufficient for science is a philosophical thesis requiring qualification: solitary discovery is possible, and consensus can share systematic error.
+- Induction, deduction, verification, and falsification cannot be paired as exact synonyms; the source's line 57 is retained in translation but should be examined against philosophy-of-science literature.
+- The line 59 comparison of physical elements, reproductive modes, and ethical opposites is an analogy, not a single demonstrated causal law. Later canonical biology uses unicellular and multicellular stages; historical reproduction wording must remain identifiable.
+- Line 61's exclusion of stories and dreams from all knowledge is too broad without specifying a particular definition of empirical knowledge.
+- Line 67's claims about creation, spirit, and the afterlife are theological/metaphysical propositions and are not presented as experimentally verified.
+
+**Progress:** The source's lines 21–27 and 57–67 now have individual English working renderings. The remaining earlier passages and six-times section still require sentence-by-sentence fidelity checks before H07 can be called fully translated.
+
+---
+
+## H07 closer English translation — source lines 33–55 (22 October 2026)
+
+**Primary source:** `hebun-zanabun/articles/makale-06.md`, `main`, section 1.1. This is a source-line-aligned working translation of the original historical text. It does not silently substitute later canonical definitions. Commentary below is separate.
+
+**Line 33.** The following explanation is offered from the perspective of a creator and the requirement of two knowing subjects.
+
+**Line 35 — initial creation.** For a knowing subject to display its knowledge, it must turn toward a second knower. Since the existence of that second knower depends on the first knower's act of creation, the first knower must also bring into existence the object—the known thing arising from knowledge—so that the second may see the resulting product. If no one can see it, knowledge is treated as if it did not exist. The author maintains that the essence of a being requires a body in which to exercise its rule, and that every being has a corporeal form. To reach the second knower, the first requires a third term, a known object or product. The author then posits a fourth term, a common linear plane or ordering shared by the three. In this model God creates the spirit as second subject and the physical world as third term, enabling the second subject to take form. The human second subject enters an order constituted by the fourth term, understood as law between beings. The first, second, third, and fourth terms are joined in an account of the source of human knowledge: world and order. The creator, as first knowing subject, is said to realize science by applying the same system to all beings.
+
+**Line 37 — differentiation and spirit.** Creation begins with differentiation and with the creator's breathing of spirits. The creator brings forth beings through the wish to realize the self. The initial differentiation is described as spirit, given through the creator's breath, which must possess a body. The author argues that the existence of the first physical being requires a creator possessing knowledge, will, consciousness, and power; the claim rests on the principle that an action requires an agent.
+
+**Line 39 — cosmological proposal.** If the Big Bang is accepted as a beginning, the author treats it as a passage from nonexistence into existence. The Higgs boson is described as giving rise to the first mass, after which differentiation moves toward conscious orientation. The text speculates that the proton forms through the law holding subatomic particles together, that a neutron arises from the proton, and that an electron arises from both. It adds a theological analogy involving Eve's creation from Adam and the first subject bringing forth a second subject.
+
+**Line 41.** The realization of existence begins with the establishment of a dual order.
+
+**Line 43 — definition of being.** The author proposes that a being may be defined as anything that exhibits existence in accordance with a law, consisting of center and periphery (nucleus and layer), three principal internal parts, and a common linear ordering.
+
+**Line 45 — first system, physics.** The first system consists of physical beings. The author describes a first atom in terms of proton, neutron, and electron and labels it helium; a second atom is associated with hydrogen. Their combinations are said to lead to the second stage of the physical system: stars and planets, organized around nuclei and layers, with gravitation presented as a fourth force.
+
+**Line 47 — second system, biology.** The second system consists of biological beings. The author associates DNA, RNA, and protein with the first cell, cell division with a second cell, and sexual combinations with the second stage of multicellular beings and plants. Biological laws are described as a fourth ordering influence on the DNA–RNA–protein triad.
+
+**Line 49 — third system, mind.** The third system consists of beings with minds. The author connects the nervous system, senses, and memory with intelligence, and discusses male and female beings and emotional and logical intelligence as a second mental configuration. The transition from intelligence in a first stage to reason in a second stage is then proposed. Spirit is described as a fourth force operating the nervous system, senses, memory, and intelligence.
+
+**Line 51 — law, spirit, and angels.** The physical, biological, and mental systems are said to require laws that order their operation. Physical laws concern matter, biological laws concern cells, and the laws of spirit or innate disposition (*fıtrat*) concern animals. The author associates physical law with the atomic triad, biological law with DNA, RNA, and proteins, and spirit with the nervous system, senses, and memory. Natural laws are also associated with angels. The passage presents biological organisms as governing their physical bodies, minded organisms as governing biological functions, and spirit and angels as proposed higher-order regulators of the mental and natural systems.
+
+**Line 53.** Because every law is said to consist of knowledge, human beings who act through the heart are described as higher beings.
+
+**Line 55.** By investigating creation, the knowledge and order of beings, humanity's position in the natural order, and the law of the first being and its manifestations, the author seeks to articulate universal rules explaining the formation of being, order, and knowledge.
+
+### Editorial audit (not translated source)
+
+1. **Physics:** Hydrogen-1 consists of one proton and one electron and no neutron; helium has two protons. The source reverses hydrogen and helium in line 45. Proton, neutron, and electron are particles, not the four fundamental forces. The proposed sequential particle origin and Higgs account in line 39 are not accepted descriptions of established physics.
+2. **Biology:** DNA, RNA, and protein do not form a universal three-part definition of a cell, and the historical association of sexual reproduction with multicellularity is not a valid general biological rule. Later founder-approved stages are unicellular and multicellular; this revision belongs in an editorial note, not inside the historical quotation.
+3. **Mind and spirit:** The source's intelligence-to-reason transition is a philosophical distinction; neural and sensory structures are biological. The spirit/angel law account is theological and cannot be described as a measured physical fourth force.
+4. **Ontology:** Center/periphery and a three-part interior are proposed analogies rather than universal empirically established properties of all beings. The 'first/second/third/fourth' schema is the author's metaphysical reconstruction, not a demonstrated sequence of creation.
+5. **Textual fidelity:** The historical phrasing in line 35 identifies the spirit as second subject in its creation account, while elsewhere the second knower is human. A complete critical edition should flag this shift instead of forcing an artificial consistency.
+
+**Progress boundary:** Source lines 33–55 now have separate working English renderings. The complete H07 English critical edition still needs close treatment of the six-times passage and detailed reconciliation of other condensed passages; no claim of publication readiness is made.
+
+---
+
+## H07 close English translation — six times, source lines 81–106 (22 October 2026)
+
+**Source:** `hebun-zanabun/articles/makale-06.md`, `main`. Line-specific historical working translation; explanatory critique follows separately. Terms *time* and *dimension* reflect the author's own overlapping usage, not measured spacetime axes.
+
+**Line 81.** The universe consists of six periods or modes of time.
+
+**Line 83 — 1. Physical time.** This is the time of the material universe. For matter to exist, more fundamental constituents must exist. Quarks and leptons are described as constituents underlying the fundamental particles—protons, neutrons, and electrons—that make up the atom, which the author calls the smallest building block of the perceptible material universe.
+
+**Lines 85–86.** The most developed condition that matter can reach, where time predominates most strongly, is described as the transformation of knowledge into law: the law by which every existing material being preserves its existence. The ideal time of a material being is natural equilibrium. The author treats physical laws, from atoms to black holes and from light to dark matter, as oriented toward the continuation of matter.
+
+**Line 88.** Because every law is said to consist of knowledge, the physical system's attainment of existence in a second dimension is presented as the first dimension's establishment of a sphere of existence.
+
+**Line 90 — 2. Biological time.** This mode of time is described as giving matter the ability to move left and right independently of gravity, thereby reaching a second dimension. Cells are characterized as two-dimensional beings through what enters and leaves them. One mode of time can exist only within another. Biological time begins with the cell and reaches completion in plant life. Beings of the second time are said to appear within a third mode of time in order to exist and enlarge their sphere of existence.
+
+**Line 92 — 3. Mental time.** This time is described as granting matter a third dimension. Material things and living beings can exist within it. Things existing in the mind are items of knowledge in a mental universe. The mind's domain of perception encompasses physical and biological time. The mind processes the second dimension, characterized as knowledge, and the first, characterized as power. Just as the first dimension appears within the second and the second within the third, the mental universe requires a fourth dimension in order to exist. Processing information according to a system, reaching law, or forming law is treated as necessary to its continuation. Law is the governance of the dimensions surrounding the self; the author attributes this governance to spirit in living beings and angels in nature. The fourth dimension is described as that which sees perceptions.
+
+**Line 94.** Science, the author argues, is possible not by going backward toward singularity or nothingness but through the existence of a higher system. Science is increasingly developed determinacy.
+
+**Line 96 — 4. Time of law.** The author holds that the progression from subatomic particles to atoms, cells, and minds requires a system that governs the operation of knowledge, making fourth-dimensional beings necessary within the proposed model. Humans and animals are described as mental beings whose bodies are composed of the first and second dimensions. Through spirit, humans and animals are described as knowing subjects that see in three dimensions and interpret in four. The historical account appeals to the development of matter since the Big Bang and to the continuing generation of living beings as signs of natural balance. It identifies angels with fourth-dimensional beings and concludes by describing this dimension as the two ends of a line, consisting of angels and devils.
+
+**Line 98 — 5. Moral time, opening.** The author proposes that the fourth time, composed of spirit and natural balance, must exist within a fifth time. The continuation of a system requires order and consistency; spirit is presented as the law directing knowledge toward order and consistent generative outcomes.
+
+**Line 100.** Laws that lead to ordered and consistent paths of knowledge are said to require a knowing subject. For this reason, the author proposes a fifth time encompassing the fourth. Humans are identified as observable beings associated with this fifth time. The human being seeks to exist and enlarge a sphere of existence through feelings, described as a law surrounding the self, and through mind, reason, and the heart. The author treats human moral agency, creativity, manufactured objects, and civilization as evidence of a knowing subject.
+
+**Line 102.** Beings seek to exist, yet many move toward singularity or nothingness because of natural conditions rather than their own wishes. The author interprets a human being's knowingly harmful actions as a deliberate movement toward singularity. Knowledge is said to move forward: a stone does not know a human, but a human can know a stone because the human body is made of matter. Moral agency should conform to natural order. The product arising from a knowing subject's orientation toward a known object is associated with actions accepted by other humans, as second knowers, and by living beings. The human is also described as a third-dimensional being whose biological and mental structures should conform to nature.
+
+**Line 104 — 6. Time of life.** Humans know that they did not create the universe. Knowledge is described as the first knowing subject demonstrating wisdom by reaching the second. The creator demonstrates creative power by creating the human being. The fifth dimension is said to conform to natural order only through the existence of a sixth. Human moral action must undergo an outcome, analogously to the outcomes of other systems. The source contrasts matter and dark matter, algae and seed plants, carnivores and herbivores, and good and bad humans, and concludes that the sixth dimension consists of paradise and hell.
+
+**Line 106.** Paradise and hell are described as the law surrounding knowledge or morality. The author argues that, because law consists of knowledge, the creator who reaches a second knower through humanity and continues creation through human morality is the first knower.
+
+### Editorial scientific and canonical distinctions (not translation)
+
+1. **Time versus dimension:** The six historical categories are metaphysical modes of organization, not established additional spatial or temporal coordinates. Cells are three-dimensional physical structures; calling them literally two-dimensional is not accurate biology.
+2. **Physics:** Quarks constitute protons and neutrons, whereas electrons are leptons, not composites of quarks. The source's blanket description should not be used as a modern particle-physics derivation. Dark matter and black holes cannot be treated as endpoints proving a metaphysical principle without evidence.
+3. **Biology:** The source's completion of biological time in plant life is a philosophical assertion, not a demonstrated biological endpoint. Animal cognition, cellular organization, and evolutionary relationships require their own evidence.
+4. **Fourth dimension:** Historical line 96 explicitly uses *angels and devils*. The later founder-approved fourth cosmic dimension has stage one **spirit** and stage two **angels**; retain both readings with their dates rather than rewriting the historical source.
+5. **Fifth and sixth dimensions:** The historical text emphasizes human morality and paradise/hell. The later canonical fifth stages are **innate morality** and **volitional morality**, and the sixth stages are **judgment/accounting** and **the outcome of judgment (afterlife)**. These are subsequent doctrinal definitions, not the exact wording of lines 98–106.
+6. **Epistemology:** Acceptance by other humans and living beings in line 102 is the author's normative theory of social confirmation. It does not by itself establish experimental reproducibility.
+
+**Coverage milestone:** The six-times section (81–106) now has line-specific English working translations. Remaining editorial work: check complete semantic fidelity against every source paragraph, translate all other condensed passages fully, build a unified H07 manuscript, and verify academic citations before journal submission.
+
+### Integration audit and remaining gaps
+
+- **Now integrated:** detailed line-aligned renderings for source 21–27, 33–55, 57–67, 81–106 (Appendix B) and 109–129 (Appendix A).
+- **Still held in the companion matrix:** detailed source 69–79, plus the opening introduction and earlier condensed renderings. Their omission from this appendix does not mean they have not been translated elsewhere.
+- **Editorial independence:** historical wording, later canonical formulations, and scientific corrections remain distinguishable; overlapping coverage between narrative sections and appendices is intentional and will need final copyediting.
+- **Not yet verified:** exhaustive sentence-level bilingual equivalence, full peer-reviewed literature coverage, or journal readiness.
