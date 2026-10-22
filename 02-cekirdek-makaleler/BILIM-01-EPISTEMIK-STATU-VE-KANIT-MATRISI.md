@@ -74,3 +74,17 @@ Karsilastirmali dis kaynak: Reiss ve Sprenger, Scientific Objectivity, Stanford 
 Bagli Google Drive uzerinde `6-Bilim (1).docx` tam adiyla arama sonuc vermedi. `Bilim` aramasinda ise `7-Bilim.docx` adli 32515 baytlik bir belge ve ayni adla kopyalar goruldu. Ozellikle `7-Bilim.docx` (Drive kimligi `14oSElIHPtjTjMRna0zZXTS9n7xt3ACFM`) 25.12.2025 tarihli; diger kopyalar 2026 tarihlidir. **Bu iki dosya adinin ayni eseri temsil ettigi dogrulanmadi.** Yalnizca ad benzerliginden kaynak ozdesligi kurulamaz; 7-Bilim belgesine 6-Bilim icin paragraf numarasi atfedilmez.
 
 Sonraki K0 kontrolu: her iki belgenin varsa icerik karmasini, ilk basligini, bolum yapisini ve paragraf dizisini karsilastirmak; uyusma yoksa ayri eserler olarak kaydetmek. Bu turda Drive dosyasinin tam metni okunmadi. **Ozgun DOCX paragraf eslemesi halen acik, yayin hazirligi tamamlanmadi.**
+
+## Drive ozgun bilim metni dogrudan okuma denetimi (22.10.2026)
+
+Google Drive'daki `7-Bilim.docx` (kimlik `14oSElIHPtjTjMRna0zZXTS9n7xt3ACFM`) ve `7-Bilim.docx adli dosyanin kopyasi` (kimlik `1tyti64jI8OUj_5cA-U4ggLgyJIdYjEtW`) baglantilari acilip okunabilir metin olarak alindi. Her ikisi de `VARLIK VE YARATICI BILIMININ TEMELI / BILIM VE INSAN` basligi ile basliyor; baglanti uzerinden donen metin uzunlugu her ikisinde 25037 karakterdir. Bu gozlem ikisinin ikili DOCX karmalarinin ayni oldugunu kanitlamaz. `6-Bilim (1).docx` ile `7-Bilim.docx` arasinda dosya ozdesligi halen teyit edilmemistir.
+
+| Kod | 7-Bilim metninde dogrudan gozlenen | Kaynak statusu |
+|---|---|---|
+| BL-S01 | Bilgi, bilen oznenin bilinen nesneye yonelimiyle iliskilendiriliyor | Tarihsel kurucu bilim gorusu; dogrudan okundu |
+| BL-S02 | Iki bilen oznenin onayi ve onlardan bagimsiz gerceklik vurgulaniyor | Epistemolojik/ontolojik iddia; deneysel kanit degil |
+| BL-S03 | Metin, fizik, biyoloji, zihin ve kanun zamanini ardarda tartisiyor | Tarihsel boyutsal zaman anlatimi |
+| BL-S04 | Biyoloji aciklamasinda eseysiz bolunme ve eseyli birlesim evre gecisiyle iliskilendiriliyor | Tarihsel metin; guncel tek/ cok hucreli kanonik adlandirmayla karistirilmamali |
+| BL-S05 | Dortuncu boyutun bir bolumunde melek ve seytan ifadesi bulunuyor | Tarihsel metin; guncel ruh / melekler evreleriyle farki kaydedilmeli |
+
+**Sinir:** Bu turda Drive baglantilarindan okunabilir metin alindi, ancak DOCX paragraf indisleri ve ikili dosya karmalari hesaplanmadi. Bu nedenle `7-Bilim.docx` icin bile kesin paragraf numarasi atanmadi. Eski metnin olasi fiziksel/kozmolojik ifadeleri de bilimsel dogrulama yerine kaynak iddiasi olarak ele alinmalidir. K0 metin erisimi ilerledi; dosya kimligi ve paragraf eslemesi acik. Yayin hazir degil.
