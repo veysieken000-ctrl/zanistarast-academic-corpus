@@ -79,6 +79,22 @@ Kavramsal çözümleme, koşullu çıkarım ve düşünce deneyleri kullanılır
 
 **İtiraz:** Fıtrî ahlak doğal işleyişten insan için ahlaki ödev çıkarmaya yeter. **Yanıt:** Hayır. Normatif yükümlülük bilgi, niyet, tercih ve gerekçeyle ayrıca tartışılır; doğallık tek başına ahlaki doğruluk değildir.
 
+## 5B. Kaynak, karşıt yaklaşım ve açık kalite kapıları
+
+**Literatür konumu:** Bilimsel tekrar edilebilirlik ve bağımsız doğrulama tartışmaları, A06'nın epistemik alt sorusuna dayanak sağlar (National Academies, 2019). Ancak bu literatür Ehad–Yek ontolojisini deneysel olarak doğrulamaz. Ontolojik temsil savı ile deneysel araştırma yönteminin kapsamı birbirinden ayrılır.
+
+**Karşıt yaklaşım:** Bilginin gerekçelendirilmesini yalnızca bireysel kanıta indirgeyen yaklaşımlar ile toplumsal denetimi merkeze alan yaklaşımlar, ikinci onayın gerekliliğini farklı değerlendirir. A06, başka bir kişinin onayını koşulsuz doğruluk garantisi saymaz: aynı kaynak ve aynı sistematik hata korunuyorsa ikinci değerlendirme sınırlı katkı verir. Bu tartışma henüz doğrulanmış ayrıntılı karşıt kaynak taraması değildir.
+
+**K0 — özgün kaynak izi: AÇIK.** Aday matrisi A06'yı “2-Akıl ve bilginin varlığı (2).docx” kaynağına bağlar. Özgün DOCX'in tam paragraf, sürüm ve alıntı karşılaştırması bu çalışma sürümünde yapılmış sayılmaz.
+
+**K1 — literatür ve özgünlük: AÇIK.** National Academies (2019) kaydı mevcuttur; karşıt birincil literatürün bibliyografik doğrulaması ve benzer yayın taraması eksiktir.
+
+**K2 — sav ve yöntem: TASLAK.** Ontolojik, epistemolojik, bilişsel ve normatif yüklemler ayrılmıştır; bunların savunusunun bağımsız eleştirisi beklenmektedir.
+
+**K3–K4 — karşı-örnek ve aktarım: TASLAK.** Düşünce deneyleri sunulmuştur; katmanlar arası aktarımın ampirik sınırları ve olumsuz sonuç kaydı geliştirilmelidir.
+
+**K5–K6 — yayın ve bağımsız karar: AÇIK.** Biçim, kaynak izi, bağımsız eleştiri ve kurucu karar tamamlanmamıştır. Bu metin yayın veya hakemlik onayı değildir.
+
 ## 6. Beş çekirdekle bağ
 H01 ontolojik ikinci Yek ile epistemik ikinci bileni ayırır. H02 bilgi sonucunun gerekçeli onayını kurar. H03 karşı-örnek ve geri beslemeyi yönetir. H04 denetimin ahlaki sorumluluğunu, H05 yeni bilgi üretiminin gerekçelendirme ihtiyacını açıklar. A06 bu metinleri tekrarlamaz; bağımsızlığın koşullarını araştırır.
 
