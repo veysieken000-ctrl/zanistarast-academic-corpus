@@ -9,6 +9,9 @@ Hebûn ontolojisinin kurucu problemi yalnız varlığın bileşenlerini sıralam
 
 **Anahtar sözcükler:** Hebûn, Ehad, Yek, ikinci Yek, türeme, Komel, Nisâ 4:1, 6+Tek, Zanabûn.
 
+## Yöntem ve iddiaların kapsamı
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+
 ## 1. Giriş: Hangi sorunun cevabı aranıyor?
 
 “Varlığın ilk kuruluşunu ne açıklar?” ve “Varlığın zaman içinde düzenini koruyarak devam etmesini ne açıklar?” soruları Hebûn'un ontolojik başlangıcı ile Zanabûn'un kuruluş ve devamlılık ilişkisini birlikte gündeme getirir. Kurucu tez, varlığın yalnız parçalarını değil **tekilliklerin oluşması ve çoğalması arasındaki ilişkiyi** açıklamayı hedefler. Atom, hücre, zihinli canlı ve insan örnekleri bu ilişkiyi araştırmanın alanlarıdır; model yalnız bir atomun parçacık sayısından türetilmez.
@@ -37,13 +40,15 @@ Nisâ 4:1, insanlığın **tek nefisten** yaratılmasını, **ondan eşinin** me
 
 Kurucu fizik evreleri atom (hidrojen ve helyum örnekleri) ile yıldız–gezegen düzenidir. Fizik araştırmasının sorusu şudur: İlk atomik tekillik nasıl tanımlanır, başka atomik tekilliklerle hangi fiziksel ilişkiler kurulur ve bu ilişkilerden yeni örgütlenmeler nasıl doğar?
 
-Hidrojen ve helyum ayrı atom türleridir. Bir hidrojen atomunun tek başına helyuma dönüştüğü iddia edilemez; yıldız nükleosentezinde çok parçacıklı süreçler söz konusudur. Dolayısıyla “ilk Yek hidrojen, ikinci Yek helyum” kurucu örnek olarak kullanılacaksa mekanizma ayrıca gerekçelendirilmelidir. Proton–nötron–elektron üçlüsünün her atom için zorunlu olduğu genellemesi hidrojen-1 karşı-örneğine takılır (National Isotope Development Center, *Isotope Basics*, https://isotopes.gov/isotope-basics). Fiziksel açıklamanın kanıt yükü saklanmaz.
+Hidrojen ve helyum ayrı atom türleridir. Bir hidrojen atomunun tek başına helyuma dönüştüğü iddia edilemez; yıldız nükleosentezinde çok parçacıklı süreçler söz konusudur. Dolayısıyla “ilk Yek hidrojen, ikinci Yek helyum” kurucu örnek olarak kullanılacaksa mekanizma ayrıca gerekçelendirilmelidir. Proton–nötron–elektron üçlüsünün her atom için zorunlu olduğu genellemesi hidrojen-1 karşı-örneğine takılır (National Isotope Development Center, *Isotope Basics*, https://isotopes.gov/isotope-basics). Fiziksel açıklamanın kanıt yükü saklanmaz. Hidrojen-1 çekirdeği bir protondan oluşur; nötr atom buna bir elektron ekler. Dolayısıyla nötron bütün atomların zorunlu bileşeni değildir (DOE, tarihsiz). Yıldızlarda hidrojen yanması, tek hidrojen atomunun kendiliğinden helyum olması değil, çok basamaklı nükleer tepkimelerle açıklanır (Adelberger ve ark., 2011, özellikle bölüm II). Bu bulgular kurucu üçlü ilişki şemasını mantıken çürütmez; şemanın proton–nötron–elektron zorunluluğu üzerinden fiziksel olarak ispatlandığı çıkarımını engeller.
 
 ## 6. Biyoloji: ilk hücre, ikinci hücre ve çok hücreli Komel
 
 Birinci biyoloji evresi **tek hücreliler**, ikinci evre **çok hücreliler**dir. Bunlar “eşeysiz/eşeyli” üreme sınıflandırmasıyla değiştirilmez.
 
 Kurucu 1→2 örneği, bir hücrenin bölünmesi sonucunda ikinci hücrenin ortaya çıkmasıdır. İkinci hücre birinciden ayrı bir hücresel kimlik kazanır. Ancak bölünme sonucu iki hücrenin bulunması ile işlevsel olarak bütünleşmiş çok hücreli bir organizmanın oluşması aynı olay değildir. Komel kavramının biyolojideki uygulaması hücreler arası düzen, karşılıklı bağımlılık ve örgütlenme ölçütleriyle araştırılmalıdır. DNA ve RNA bilgi aktarım araçlarıdır; kurucu yaklaşımda esas tartışma **bilgi**dir.
+
+**Deneysel karşılaştırma:** Ratcliff ve ark. (2012), seçilim uygulanan maya popülasyonlarında bölünme sonrası ayrılmayan hücrelerden oluşan kümeler ve küme düzeyinde üreme gözledi. Bu, yalnız hücre sayısını değil kalıcı bağlılık ve yaşam döngüsünü de incelemeyi gerektirir. Deney ilk yaşamın veya bütün çok hücreli soyların tarihini yeniden kurmaz; Komel'in metafizik zorunluluğunu da sınamaz. Çalışma evrimsel bir mekanizma önerir; kurucu türeme yaklaşımı bu açıklamaya alternatif bir bilimsel model olacaksa aynı gözlemleri açıklayan mekanizma ve ayırt edici öngörü sunmalıdır. Komel adlandırması tek başına bu deneysel açıklamayı geçersiz kılmaz.
 
 ## 7. Zihin: ilk zihinli Yek, ikinci zihinli Yek ve hafıza
 
@@ -69,6 +74,11 @@ Hebûn'da ikinci Yek, ontolojik ilişkideki ikinci tekilliktir. Zanabûn'da **ik
 
 Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in ortaya çıkışı ve devamlılığıdır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin özgün iddiası budur; bütün boyutlarda tek bir doğa kanununun kanıtlandığı iddiası henüz değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
 
+## Dış kaynakça
+- Adelberger, E. G. ve ark. (2011). Solar fusion cross sections. II. The pp chain and CNO cycles. *Reviews of Modern Physics, 83*, 195–245. https://doi.org/10.1103/RevModPhys.83.195 . Kullanım: bölüm 5, nükleer mekanizma; araştırma sentezi.
+- Ratcliff, W. C., Denison, R. F., Borrello, M. ve Travisano, M. (2012). Experimental evolution of multicellularity. *PNAS, 109*(5), 1595–1600. https://doi.org/10.1073/pnas.1115323109 . Kullanım: bölüm 6; birincil deney, özet ve Şekil 1 açıklaması üzerinden sınırlı denetim.
+- U.S. Department of Energy (DOE). (Tarihsiz). *DOE Explains… Isotopes*. https://www.energy.gov/science/doe-explainsisotopes . Kullanım: bölüm 5, izotop ayrımı; kurumsal açıklama, deney makalesi değildir. Erişim: 22 Ekim 2026.
+
 ## Kaynaklar ve izlenebilirlik
 
 1. Kurucu kanon: `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
@@ -77,7 +87,7 @@ Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, 
 4. Diyanet, Nisâ 4:1 meal ve tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri .
 5. Hebûn v01–v02 ve EK01–EK05; eski araştırmalar silinmeden korunur.
 
-**Eksikler:** Özgün Word'lerin paragraf eşlemesi, nükleer fizik ve hücre biyolojisi kaynak taraması, ikinci Yek'in her boyuttaki somut modelinin karşı-örnek denetimi, hakemlik ve kurucu onayı.
+**Eksikler:** Özgün Word'lerin paragraf eşlemesi, nükleer fizik kaynaklarının tam metin ve hücre biyolojisi literatürünün genişletilmiş denetimi, ikinci Yek'in her boyuttaki somut modelinin karşı-örnek denetimi, hakemlik ve kurucu onayı.
 
 ## Kurucu ek: ortak öz ve iki kapsama ilişkisi (22 Ekim 2026)
 Kurucunun güncel ontolojik tasavvurunda insan ile hayvanın özü aynı temel ontolojik niteliğe sahiptir. Ayrım, özün varlıkla ilişki kurma kapsamı ve insanda iradeli ahlakla bağlantılı sorumluluk alanıdır. Atom ve yıldız örneği bu kapsam farkını açıklayan bir benzetmedir; fiziksel eşitlik iddiası değildir.
