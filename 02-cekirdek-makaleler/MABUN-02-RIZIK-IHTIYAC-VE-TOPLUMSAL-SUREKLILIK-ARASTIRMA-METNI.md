@@ -3,7 +3,7 @@
 **22 Ekim 2026 · v0.1 · 27 adaylık program A26 · Durum: araştırma taslağı, yayıma hazır değil**
 
 ## Öz
-Bu çalışma, kurucunun *Ekonomik Düzenin Varoluşsal Nedeni / Toplumlarda Rızık Tesisi* başlıklı özgün ekonomi çalışmasından hareketle, Mabûn'ün ihtiyaç, rızık ve toplumsal süreklilik kavramlarını nasıl ilişkilendirebileceğini araştırır. Önerilen katkı, ontolojik varlık ve devamlılık savlarını ekonomik ölçüm ve normatif kurum tasarımından ayıran bir değerlendirme çerçevesidir. Bu metin henüz kurucunun DOCX'inin tam paragraf dökümüyle eşleştirilmediğinden, aşağıdaki analitik tanımlar **Mira araştırma önerisi** olarak işaretlenmiştir.
+Bu çalışma, kurucunun *Ekonomik Düzenin Varoluşsal Nedeni / Toplumlarda Rızık Tesisi* başlıklı özgün ekonomi çalışmasından hareketle, Mabûn Ekonomi Modeli'nin ihtiyaç, rızık ve toplumsal süreklilik kavramlarını nasıl ilişkilendirebileceğini araştırır. Önerilen katkı, ontolojik varlık ve devamlılık savlarını ekonomik ölçüm ve normatif kurum tasarımından ayıran bir değerlendirme çerçevesidir. Bu metin henüz kurucunun DOCX'inin tam paragraf dökümüyle eşleştirilmediğinden, aşağıdaki analitik tanımlar **Mira araştırma önerisi** olarak işaretlenmiştir.
 
 ## 1. Araştırma problemi
 Bir toplulukta rızkın tesis edilmesi, yalnızca toplam üretimin artmasıyla mı yoksa ihtiyaçların karşılanması, erişim ve süreklilikle birlikte mi değerlendirilmelidir? Doğal düzenle uyum iddiası hangi ölçülebilir göstergelerle sınanabilir? Ekonomik düzenin meşruiyetini belirleyen ontolojik, normatif ve ampirik iddialar nasıl ayrılır?
@@ -11,7 +11,7 @@ Bir toplulukta rızkın tesis edilmesi, yalnızca toplam üretimin artmasıyla m
 ## 2. Kaynak sadakati ve kavramlar
 **Özgün kaynak:** `12-EKONOMİ (1).docx`; görülen ana başlıklar: “EKONOMİK DÜZENİN VAROLUŞSAL NEDENİ”, “TOPLUMLARDA RIZIK TESİSİ”, “DOĞA EKONOMİ MECLİSİ”. Bu başlıkların varlığı, ayrıntılı bir ekonomik kuramın veya kurum tasarımının tamamlandığı anlamına gelmez. Burada kesin paragraf numarası verilmez; tam metin izleme beklemektedir.
 
-**Hebûn:** ihtiyaç duyan varlıkların varlığı ve sürekliliğine ilişkin ontolojik araştırma. **Zanabûn:** ihtiyaç ve kaynak dağılımına ilişkin bilgi adaylarının oluşturulması, bağımsız ikinci değerlendirme. **Rasterast:** ekonomik iddiaların kaynak, yöntem, karşı-delil ve sonuç bakımından denetimi. **Mabûn:** kurucunun ekonomi alanındaki özgün sistemi; dışarıdan alınan bir kuramla özdeşleştirilmez. **Rabûn:** ekonomi kurumlarının yetki, temsil ve hesap verebilirliği. **Newroza Kawa:** bütün bu araştırmaların uygarlık ölçeğindeki bağlamı.
+**Hebûn:** ihtiyaç duyan varlıkların varlığı ve sürekliliğine ilişkin ontolojik araştırma. **Zanabûn:** ihtiyaç ve kaynak dağılımına ilişkin bilgi adaylarının oluşturulması, bağımsız ikinci değerlendirme. **Rasterast:** ekonomik iddiaların kaynak, yöntem, karşı-delil ve sonuç bakımından denetimi. **Mabûn Ekonomi Modeli:** kurucunun ekonomi alanındaki özgün sistemi; dışarıdan alınan bir kuramla özdeşleştirilmez. **Rabûn:** ekonomi kurumlarının yetki, temsil ve hesap verebilirliği. **Newroza Kawa:** bütün bu araştırmaların uygarlık ölçeğindeki bağlamı.
 
 ## 3. Ayırıcı Tek ve sınır
 **Ayırıcı Tek adayı:** “rızık tesisi”ni üretim hacmi, fiilî erişim, ihtiyaçların karşılanması ve zaman içindeki dayanıklılık olarak **ayrı ayrı sorgulayan** bir analitik denetim. Bu, Mabûn'ün kanonik nihai tanımı değil, karşılaştırmalı sınama için önerilen çalışma şemasıdır.
@@ -27,7 +27,7 @@ Bir toplumun yüksek üretimi olması, bütün üyelerinin temel ihtiyaçlara er
 | Süreklilik | Düzen kriz altında işleyebiliyor mu? | Şok sonrası toparlanma, stok/akış dengesi | Ampirik ölçüm adayı |
 | Meşruiyet | Kararlar kimin adına alınıyor? | Temsil, gerekçe, itiraz ve denetim | Normatif-kurumsal değerlendirme |
 
-Göstergeler yalnızca taslak öneridir; ağırlıklar, eşikler ve kaynakları belirlenmemiştir. Birleşik bir “Mabûn endeksi” hesaplanmaz.
+Göstergeler yalnızca taslak öneridir; ağırlıklar, eşikler ve kaynakları belirlenmemiştir. Birleşik bir “Mabûn endeksi” hesaplanmaz. Modelin kanonik adı **Mabûn Ekonomi Modeli**dir; doğaya/tabiata uygunluk bir açıklama ve benzerlik ilkesidir, modelin adı değildir.
 
 ## 5. Yanlışlanabilir hipotezler ve karşı örnekler
 **H1 (öneri):** Üretim artışı ile temel ihtiyaç erişimi arasında zorunlu bire bir ilişki yoktur. **H2 (öneri):** Aynı toplam kaynağa sahip topluluklarda dağıtım ve kurum farkları ihtiyaç karşılama oranını değiştirebilir. **H3 (öneri):** Kısa vadeli yüksek tüketim, uzun vadeli sürdürülebilirliği garanti etmez.
@@ -42,8 +42,8 @@ Göstergeler yalnızca taslak öneridir; ağırlıklar, eşikler ve kaynakları 
 5. Bağımsız ikinci değerlendiriciye veri, yöntem ve kaynak soy ağacını denetlet; ortak hata riskini kaydet.
 6. Rasterast'ın olumsuz bulguları da saklamasını sağla; Müdebbir onayı olmadan yayımlama.
 
-## 7. Rabûn ve Doğa Ekonomi Meclisi
-Özgün metindeki “Doğa Ekonomi Meclisi” ayrı A27 araştırmasının konusudur. Bu makale meclisin yetkisini, üyelerini veya karar yöntemini **icat etmez**. Kurum önerisinin değerlendirilmesinde temsil, çıkar çatışması, kararların gerekçesi, bağımsız denetim ve ihtiyaçlara etkisi soruları açık bırakılır.
+## 7. Rabûn ve Mabûn Ekonomi Modeli kapsamındaki ekonomi meclisi
+Özgün metindeki tarihsel “Doğa Ekonomi Meclisi” ibaresi ayrı A27 araştırmasının kaynak ifadesidir; güncel model adı **Mabûn Ekonomi Modeli**dir ve meclisin güncel resmî adı ayrıca doğrulanmalıdır. Bu makale meclisin yetkisini, üyelerini veya karar yöntemini **icat etmez**. Kurum önerisinin değerlendirilmesinde temsil, çıkar çatışması, kararların gerekçesi, bağımsız denetim ve ihtiyaçlara etkisi soruları açık bırakılır.
 
 ## 8. Newroza Kawa uygarlığı açısından anlamı
 Mabûn, uygarlığın iktisadi araştırma alanıdır; Hebûn'e indirgenmez, Rabûn ile özdeşleştirilmez. Eğitim, hukuk, çevre ve teknoloji alanlarıyla ilişkileri ancak ayrı mekanizma ve kaynak gösterilerek kurulabilir. “Doğaya uygunluk” ifadesi tek başına bilimsel sonuç veya ahlaki meşruiyet kanıtı değildir.
