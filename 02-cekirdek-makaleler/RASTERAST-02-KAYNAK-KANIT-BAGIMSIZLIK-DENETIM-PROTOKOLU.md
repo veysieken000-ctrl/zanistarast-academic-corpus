@@ -70,3 +70,63 @@ Rasterast'ın kaynak ve kanıt denetimini bir araştırma şemasına dönüştü
 - Reiss & Sprenger, “Scientific Objectivity”, SEP.
 - “Scientific Method”, SEP.
 - “Epistemological Problems of Testimony”, SEP.
+
+
+## 10. Uygulama eki — makinece okunabilir örnek kayıt ve karar ölçütleri
+
+Aşağıdaki JSON bir **önerilen veri sözleşmesidir**; mevcut Mira/Rasterast kodunda uygulanmış olduğu iddia edilmez. `source_locator` alanı ancak gerçekten denetlenmiş paragraf veya satır numarasıyla doldurulmalıdır.
+
+```json
+{
+  "claim_id": "RST-DEMO-001",
+  "claim_text": "Bağımsız kör değerlendirme, belirli hata türlerini azaltabilir.",
+  "claim_type": "empirical_hypothesis",
+  "source": {
+    "repository": "zanistarast-academic-corpus",
+    "document": "AKIL-03-IKINCI-BILEN-ORTAK-ZEMIN-BAGIMSIZ-DOGRULAMA.md",
+    "source_locator": null,
+    "verified_original": false
+  },
+  "evidence": [],
+  "counterevidence": [],
+  "review": {
+    "first_review": "not_performed",
+    "second_review": "not_performed",
+    "blinded": null,
+    "shared_dependencies": [],
+    "disagreement_log": []
+  },
+  "quality_gates": {
+    "K0": "partial",
+    "K1": "open",
+    "K2": "draft",
+    "K3": "open",
+    "K4": "open",
+    "K5": "open",
+    "K6": "open"
+  },
+  "publication_ready": false
+}
+```
+
+### 10.1 Kabul ve ret koşulları
+Bir kayıt, kaynak kimliği veya iddia metni yoksa **eksik kayıt** sayılır. Kaynak paragrafı doğrulanmadıysa `verified_original=true` kullanılamaz. Birinci ve ikinci değerlendiricinin aynı belgeyi okuması **bağımsız kaynak doğrulaması** olarak işaretlenemez. Ontolojik veya teolojik önerme için deneysel ispat etiketi konulamaz. Deneysel hipotezde gözlem/veri yoksa sonuç `confirmed` olamaz. Bir makalenin tüm kalite kapıları için yeterli kanıt bulunmadıkça `publication_ready=true` atanamaz.
+
+### 10.2 İkinci bilenin bağımsızlığına ilişkin hata taksonomisi
+- **D1 Ortak kaynak:** İki değerlendirme aynı yanlış alıntıya veya çeviriye dayanır.
+- **D2 Ortak yöntem:** Ayrı değerlendiriciler aynı kusurlu hesaplama veya ölçüm aracını kullanır.
+- **D3 Görüş bulaşması:** İkinci okuyucu ilk sonuca erişerek ondan etkilenir.
+- **D4 Seçim yanlılığı:** Yalnızca destekleyici örnekler incelemeye alınır.
+- **D5 Kavram kayması:** Kurucu ontolojik ifade ampirik sonuç gibi yeniden etiketlenir.
+- **D6 Sürüm kayması:** Eski evre tanımı güncel kurucu düzeltmenin yerine geçirilir.
+
+Bunlar bağımsızlığın gerçekten ölçüldüğünü gösteren sonuçlar değil, denetlenecek olası hata sınıflarıdır.
+
+### 10.3 Pilot deney ve değerlendirme ölçütleri
+Pilot için aynı 20–30 kısa iddia iki değerlendiriciye verilebilir; sayı bir **tasarım önerisidir**, örneklem gücü hesaplanmış değildir. İddialar özgün kaynakla birebir uyumlu, eksik bağlamlı ve bilinçli olarak hatalı alıntılar şeklinde önceden etiketlenebilir. Değerlendirici A kaynak metni ve ilk yorumu görür; B yalnızca özgün kaynak ve iddiayı görür; C ayrı bir kaynak sürümüyle çapraz kontrol yapar. Birincil sonuç, önceden doğrulanmış hatalı iddiaları saptama oranı; ikincil sonuçlar yanlış ret, değerlendirme süresi ve uyuşmazlık gerekçeleridir. Kodlayıcılar arası uyum ve belirsizlik aralıkları raporlanmalıdır. Kör değerlendirme için değerlendirmecilerin gerçekten ilk sonucu görmediği kayıt altına alınmalıdır. Bu deney **yapılmamıştır**.
+
+### 10.4 Önceki metinlerden farklı katkı
+`AKIL-03` ikinci bilenin ontolojik ve epistemik düzlemlerini tartışır. `BILIM-01` önerme türü–dayanak–denetim durumu ayrımını kurar. Bu makale ise ikisinin **uygulanabilir kayıt alanları, başarısızlık kuralları ve pilot deneyi** ile nasıl sınanacağını belirler. Aynı metinlerin farklı başlıkla tekrarından kaçınmak için katkı sınırı açık tutulur.
+
+### 10.5 Dış literatürle sınırlı karşılaştırma
+Reiss ve Sprenger'in *Scientific Objectivity* incelemesi bilimsel nesnelliği yalnızca tek araştırmacının tarafsızlığına değil, bilim topluluğunun eleştirel uygulamalarına ve tekrarlanabilirliğe de bağlayan yaklaşımları ele alır. Bu, ikinci değerlendiricinin bağımsızlık kaydını gerekçelendirmek için **karşılaştırmalı dış literatürdür**; Zanabûn ontolojisini doğrulamaz. Kaynak: https://plato.stanford.edu/entries/scientific-objectivity/ (2020 esaslı revizyon).
