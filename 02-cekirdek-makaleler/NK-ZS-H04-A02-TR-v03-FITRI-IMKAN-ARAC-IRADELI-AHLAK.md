@@ -1,0 +1,39 @@
+# 6+Tek: Fıtrî İmkân, Araç ve İradeli Ahlak — Türkçe v03 araştırma bölümü
+
+**H04/A02 | 22 Ekim 2026 | v02 üzerine birikimli araştırma sürümü; dergiye gönderime hazır değil**
+
+## Öz
+6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir.
+
+## 1. Önceki sürümden devralınan ayrım
+H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegenler), biyoloji (tek hücreli; çok hücreli), zihin (zekâ; akıl), ruh (ruh; melekler), ahlak (fıtrî; iradeli), hüküm/ahiret. Tek/Yek yedinci yaratılmış boyut değildir. İnsan katmanları kozmik boyutlarla sayısal olarak eşitlenmez. Bu sürüm v02'nin yerine geçmez; onun beşinci ve altıncı boyut tartışmalarına eklenen araştırma bölümüdür.
+
+## 2. Elin kaldırılması örneği
+İnsan elini kaldırmayı diler; fakat kolunun yapısını, hareket aralığını ve hareketi mümkün kılan kanunları yaratmaz. Yaratılmış imkânlar ve sınırlar fıtrî düzen açısından ele alınır. İnsanın bu sınırlar içinde dilemesi ve seçimde bulunması iradeli ahlaktır. İnsan karar verebilir; bu karar mutlak yaratıcı hüküm değildir.
+
+## 3. Araç ve genişleyen imkân
+Bir kaldıraç veya vinç, insanın çıplak elle kaldıramadığı yükleri kaldırmasını sağlayabilir. Burada fiziksel kanunlar iptal edilmez; onlardan yararlanılır. Akıl yeni bilgi ve araç üretirken fıtrî imkânları kullanım biçimini değiştirir. Böylece üçüncü boyutun akıl evresiyle beşinci boyutun iradeli ahlak evresi arasında araştırılabilir bir ilişki kurulur.
+
+## 4. Hüküm ve sorumluluk
+Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme kapasitesini de artırabilir. Bu yüzden daha çok güç otomatik olarak güzel ahlak demek değildir. Kurucu teolojik tezde insan Ehad'ın hükmü karşısında ahlaki muhataptır ve kendi iradeli tercihlerinden sorumludur. Sorumluluğun kapsamı bilgi, niyet, kontrol ve öngörülebilir sonuçlar dikkate alınarak tartışılmalıdır.
+
+## 5. Rasterast ile üç eksenli denetim
+- **Doğruluk:** Araçların kapasiteyi artırdığı iddiası ölçülebilir ve karşı-örneklerle sınanabilir.
+- **Fayda:** Aynı aracın etkisi kullanım bağlamına ve zaman ufkuna bağlıdır.
+- **Ahlak:** Kullanım amacı, sorumluluk ve etkilenebilecek diğer kişiler ayrı değerlendirilir.
+
+Faydasız bilgi, sözde bilim ve henüz pratik uygulaması bilinmeyen temel araştırma aynı kategori değildir. Dinî/normatif hükümler ampirik bulgu olarak gösterilmez.
+
+## 6. Açık araştırma soruları
+1. Hangi araçlar insanın kullanılabilir seçeneklerini gerçekten artırır, hangileri yeni bağımlılıklar üretir?
+2. Seçenek artışı ile sorumluluk artışı hangi koşullarda birlikte görülür?
+3. Fıtrî ahlakın sınırları ile araçla genişleyen eylem kapasitesi nasıl tanımlanabilir?
+4. Güzel ahlakın imkânı ile gerçekleşen güzel ahlak nasıl ayırt edilir?
+
+## 7. Kaynak ve sürüm izi
+- `NK-ZS-H04-A02-TR-v02-ALTI-ARTI-TEK-TUREME-KOMEL.md`
+- `NK-ZS-H03-A14-EK02-UCLU-DENETIM.md`
+- `NK-ZS-BILIM-FELSEFESI-ARAC-FITRI-IMKAN-IRADELI-AHLAK-v01.md`
+- `../01-kanonik-denetim/FITRI-IRADELI-AHLAK-HUKMUN-AHLAKI-MUHATAPLIK-2026-10-22.md`
+
+**Durum:** Kurucu görüşlerin akademik taslağıdır; dış literatür karşılaştırması ve bağımsız hakem denetimi henüz tamamlanmadı.
