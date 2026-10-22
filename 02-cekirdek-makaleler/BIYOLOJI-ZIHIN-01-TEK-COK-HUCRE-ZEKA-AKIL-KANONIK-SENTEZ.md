@@ -65,3 +65,26 @@ Bu deneyler öneridir; burada uygulanmamıştır.
 ## Birincil kaynaklar
 - `ZANISTARAST-TEORILER/theories/03_BIOLOGICAL_PHASE_THEORY/05_BIOLOGICAL_LIMIT_AND_MIND_TRIGGER.md`.
 - `ZANISTARAST-TEORILER/theories/04_MIND_DIMENSION_THEORY/01_MIND_DIMENSION_FOUNDATION.md` (başındaki 16.10.2026 tarihli kanonik düzeltme dahil).
+
+## 9. Rasterast birincil kaynak denetimi — 22 Ekim 2026
+
+Bu ek iki özgün GitHub metninin doğrudan okunmasına dayanır. Tam DOCX külliyatı veya bağımsız bilimsel literatür bu denetimde yeniden incelenmedi.
+
+**Denetlenen sürümler:** `ZANISTARAST-TEORILER/theories/04_MIND_DIMENSION_THEORY/01_MIND_DIMENSION_FOUNDATION.md` (blob `805b5350e568d35b17777d6a3e371b3ecbef66e3`) ve `ZANISTARAST-TEORILER/theories/03_BIOLOGICAL_PHASE_THEORY/05_BIOLOGICAL_LIMIT_AND_MIND_TRIGGER.md` (blob `55c51f2164c7959ba31df84aa25b00bce2e3b5fd`).
+
+| İddia | Birincil kaynakta gözlenen durum | Değerlendirme |
+|---|---|---|
+| BZ-01 | Zihin metninin 16.10.2026 tarihli girişinde biyoloji evreleri tek hücreli ve çok hücreli diye düzeltiliyor | Güncel kurucu tanımı |
+| BZ-02 | Aynı giriş eşeysiz ve eşeyli üremenin evre adı olmadığını açıkça söylüyor | Eski gövde sınıflandırması yerine geçmiş |
+| BZ-03 | Aynı giriş zekâ/akıl ve fıtrî/iradeli ahlak ayrımlarını doğruluyor | Güncel kurucu tanımı |
+| BZ-04 | Zihin metninin “Biyolojiden Zihne Geçiş” bölümünde eşeysiz/eşeyli evrelemesi hâlâ yer alıyor | Tarihsel hipotez; güncel tanımla uyuşmaz |
+| BZ-05 | “Beyin ve Zihin Ayrımı” bölümü beyni biyolojik organ, zihni boyutsal açılım diye tanımlıyor | Kurucu ontolojik yorum; deneysel kanıt değil |
+| BZ-06 | Biyolojik Sınır metni §§1–3 ve §5 zihnin zorunlu açıldığını ileri sürüyor | Kaynakta mevcut hipotez; evrensel zorunluluk gösterilmedi |
+| BZ-07 | Biyolojik Sınır §4 hayvanların soyut düşünce üretemediğini ileri sürüyor | Tartışmalı genelleme; dış biliş araştırması gerekli |
+| BZ-08 | Zihin metninin 16.10.2026 girişinde altıncı boyut için hesap/hüküm ve hükmün sonucu evreleri yazıyor | Güncel çalışma tanımıyla karşılaştırılacak açık sürüm uyuşmazlığı |
+
+### Açık kanonik soru
+Altıncı boyutun güncel kabul edilen adı hüküm/ahirettir. Kaynağın girişinde iki evre ifadesi gerçekten bulunmasına karşın bu makalede onların nihai olarak kesinleştiği varsayılmaz. Atıf yapılan `docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` ile sonraki kurucu beyanları ayrıca karşılaştırılmalıdır. Kaynaktaki ifade ne gizlenir ne de onay olmadan nihai kanonik ilan edilir.
+
+### Bağımsızlık ve kalite
+Bu işlem birincil metin kontrolüdür; bağımsız ikinci araştırmacı değerlendirmesi değildir. K0 kısmi (iki kaynak ve sürüm izi var; DOCX eşlemesi yok), K1 açık, K2 kısmi, K3–K6 açık. Makale yayıma hazır değildir.
