@@ -76,3 +76,25 @@ Kurucu metinlerin açık önerisi **hüküm–ahlak–ekonomi meclisleri** ve ih
 5. `RABUN-02-UCLU-MECLIS-YETKI-VE-DENETIM-KAYNAK-INCELEMESI.md`, akademik depo.
 6. `MABUN-03-EKONOMI-MECLISI-KURUMSAL-TASARIM-ARASTIRMA.md`, akademik depo.
 7. `HUKUK-02-AHLAK-HUKUM-ADALET-KAYNAK-KARSILASTIRMASI.md`, akademik depo.
+
+
+## 9. Rasterast üçlü meclis karşılaştırmalı kaynak denetimi (22.10.2026)
+
+**Bu bölümün kapsamı:** Aynı araştırma dalındaki `RABUN-02-UCLU-MECLIS-YETKI-VE-DENETIM-KAYNAK-INCELEMESI.md`, `MABUN-03-EKONOMI-MECLISI-KURUMSAL-TASARIM-ARASTIRMA.md` ve `HUKUK-02-AHLAK-HUKUM-ADALET-KAYNAK-KARSILASTIRMASI.md` karşılaştırılmıştır. Bu çalışmalar özgün DOCX kaynaklarına paragraf izleri verse de **özgün DOCX dosyalarının tamamı bu turda yeniden okunmamıştır**. Kurucu kozmik evre tablosu ayrıca `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` kaynağından doğrulanmıştır (blob `312510036f6c6516468296019b9dff2e489e74a8`).
+
+| Denetim ID | Karşılaştırma | Kaynak düzeyi | Karar |
+|---|---|---|---|
+| RMH-01 | Üçlü ana meclis: hüküm, ahlak, ekonomi | RABÛN-02'nin özgün yönetim DOCX §97 izi | Kurumsal kurucu öneri; tam DOCX kontrolü açık |
+| RMH-02 | Ekonomi meclisi rızkı ihtiyaçlara göre düzenler, diğer iki meclisi dikkate alır | RABÛN-02'nin ekonomi DOCX §90 izi | İşlev ve ilişki önerisi; yetki sırası kanıtı değil |
+| RMH-03 | Sağlık, imar, tarım ve sanayi uzmanlık meclisleri | Yönetim §98; ekonomi §92, §100 paragraf izleri | Kaynakta anılan alt kurumlar; ayrıntılı usul açık |
+| RMH-04 | Hüküm meclisi bütün konularda son karar mercii veya mutlak veto sahibidir | Mevcut paragraf izlerinde doğrudan dayanak yok | **Onaylı kurucu hüküm olarak ileri sürülemez** |
+| RMH-05 | Ahlak meclisi ile 5. kozmik boyut, hüküm meclisi ile 6. kozmik boyut özdeştir | Kozmik kanonik ve kurum metni ayrı sınıflamalar | **Kategori eşitlemesi reddedilir**; benzetme kanıt değil |
+| RMH-06 | 6. boyut evreleri hesap/hüküm → hükmün sonucu (ahiret karşılığı) | 16.10.2026 kurucu onaylı 6/12 tablosu | Doğrulanmış kurucu ontolojik/teolojik sınıflama; insan hukuk usulü değil |
+| RMH-07 | İtiraz, çıkar çatışması kaydı, bağımsız inceleme | Bu makalenin §3–6 tasarım sütunları | **Araştırmacı önerisi**; onaylı yönetim kuralı değil |
+| RMH-08 | Mabûn Ekonomi Modeli ile tarihsel “Doğa Ekonomi Meclisi” | MABÛN-03 ve adlandırma denetimi | Model adı Mabûn; tarihsel kurum ifadesi kayıtta korunur |
+
+### 9.1 Çatışma senaryosunun sınanabilir kayıt biçimi
+Su tahsisi örneğinde önerilen, **henüz uygulanmamış** denetim kaydı: (a) ihtiyaç ve zarar verisi; (b) ekonomi meclisinin gerekçesi; (c) ahlak meclisinin normatif değerlendirmesi; (d) hukukî yetki dayanağı ve hüküm meclisinin kararı varsa bunun gerekçesi; (e) etkilenenlerin itirazı; (f) bağımsız gözden geçirme sonucu. Bu sıra **kurucu tarafından onaylanmış bir hiyerarşi veya zorunlu işlem sırası değildir**; farklı kurum görüşlerinin karıştırılmaması için önerilen kayıt alanlarıdır.
+
+### 9.2 Sonuç ve kalan doğrulama
+**Doğrulanan:** kozmik evrelerin yazılı kanonik adları; araştırma dosyalarında üçlü meclis ve ekonomik ihtiyaç ilişkisi için bulunan paragraf izlerinin birbirleriyle tutarlılığı. **Doğrulanmayan:** meclislerin fiilî performansı, kesin veto/temyiz yetkisi, tüm özgün DOCX pasajlarının bağımsız yeniden okunması. **K0 kısmi, K1 açık, K2 kısmi, K3–K6 açık.** Bu ek, yeni bir makale sayısı oluşturmaz; mevcut sentez makalesinin kaynak denetimidir. Yayıma hazır değildir.
