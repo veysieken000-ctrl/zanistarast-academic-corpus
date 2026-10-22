@@ -60,3 +60,25 @@ Paragraf numaraları **DOCX sırasıyla 0 tabanlıdır**.
 3. `zanistarast-papers/docs/architecture/ZANISTARAST_MIRA_MASTER_ROADMAP.md`.
 4. `zanistarast-papers/reference-implementation/mira/src/zanistarast_scientific_mission.rs`.
 5. `zanistarast-academic-corpus/01-kanonik-denetim/MABUN-EKONOMI-MODELI-ADLANDIRMA-KANONIK-DUZELTME.md`.
+
+
+## 8. Kozmik hüküm ile Hüküm Meclisi arasındaki kategori denetimi (22.10.2026)
+
+**Birincil kanonik kaynak:** `veysieken000-ctrl/ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md`, doğrudan denetlenen GitHub blobu `312510036f6c6516468296019b9dff2e489e74a8`. Belgedeki kurucu onaylı **6 boyut / 12 evre** tablosu, **5. kozmik boyutu fıtrî ahlak → iradeli ahlak**, **6. kozmik boyutu hesap/hüküm → hükmün sonucu (ahiret karşılığı)** olarak sınıflandırır. Belge ayrıca **kozmik boyut, varlık katmanı ve evre** kavramlarının ayrı tutulmasını ister.
+
+**Kurumsal kaynak izi:** Bu makalenin §2'sinde aktarılan `4-varlık yönetim düzeni (1).docx` §97, **hüküm, ahlak ve ekonomi meclislerini** önerir. `12-EKONOMİ (1).docx` §90, ekonomi meclisinin diğer iki meclisi dikkate almasını belirtir. Bu paragraf izleri mevcut akademik incelemeden alınmıştır; DOCX dosyalarının tam metni bu turda yeniden okunmamıştır.
+
+| Kimlik | Karşılaştırılan sav | Kaynak/yorum durumu | Denetim sonucu |
+|---|---|---|---|
+| RB2-01 | 6. boyut: hesap/hüküm ve hükmün sonucu | 16.10.2026 kurucu tablosunda açık | **Kanonik teolojik/ontolojik evre** |
+| RB2-02 | Hüküm Meclisi üç ana meclisten biridir | Kurumsal DOCX §97 için mevcut paragraf izi | **Kurumsal önerme**; tam DOCX eşlemesi açık |
+| RB2-03 | Hüküm Meclisi = 6. kozmik boyutun 1. evresi | İki farklı kategori arasında doğrudan eşitleme | **Kaynak tarafından doğrulanmıyor** |
+| RB2-04 | Hüküm Meclisi'nin bütün kararlarda üstünlüğü veya mutlak veto yetkisi | Mevcut paragraf izlerinde yok | **Belirlenmemiş yetki**; kurucu hüküm diye sunulamaz |
+| RB2-05 | Ekonomi Meclisi, Hüküm ve Ahlak meclislerini dikkate alır | Ekonomi DOCX §90 için mevcut paragraf izi | **İlişki önerisi**; bağlayıcılık sırası çıkarılamaz |
+| RB2-06 | Meclis kararlarının itiraz, bağımsız inceleme ve gerekçe güvenceleri | §3–5'te araştırma sorusu | **Normatif tasarım adayı**; kabul edilmiş kural değil |
+
+### Sınır testi
+“Hüküm” sözcüğünün **teolojik karşılık**, **ahlaki değerlendirme** ve **insan hukukunda yetkili kurum kararı** anlamları birbirine aktarılırken ayrı gerekçe gerekir. Aynı kelimenin kullanılması aynı yetkiyi veya aynı ontolojik düzeyi göstermez. Benzer şekilde 5. boyutun iradeli ahlak evresi, **Ahlak Meclisi'nin doğrudan kozmik evre olduğu** sonucunu vermez. Üçlü meclis sayısı da 6+Tek kozmik sınıflamanın bir alt tablosu değildir.
+
+### Rasterast kalite kaydı
+**K0 kısmi:** kurucu 6/12 tablosu doğrudan okundu; üçlü meclis DOCX paragraf izleri mevcut akademik incelemelerden alındı, tam özgün belge karşılaştırması açık. **K1 açık:** karşılaştırmalı kamu hukuku ve kurumlar literatürü. **K2 kısmi:** kategori ve yetki matrisi oluşturuldu. **K3–K6 açık:** uygulama, hak güvencelerinin etkisi, bağımsız değerlendirme ve yayın incelemesi yapılmadı. **Bu denetim bir kurumsal tasarımı onaylamaz ve akademik yayına hazır oluşu göstermez.**
