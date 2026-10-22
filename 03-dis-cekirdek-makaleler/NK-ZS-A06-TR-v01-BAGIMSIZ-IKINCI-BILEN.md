@@ -28,6 +28,20 @@ Burada **ontolojik temsil**, **bilinçli bilgi edinme** ve **bağımsız bilimse
 
 **Eleştirel sınır:** Her Yek'in Ehad karşısında ikinci bileni temsil ettiği önerme kurucu metafizik tezdir; atomların bilinçli olduklarına ilişkin ampirik bulgu diye sunulmaz. Doğal düzen ile normatif yükümlülük arasındaki geçişin ayrıca gerekçelendirilmesi gerekir.
 
+## 1B. Makalenin felsefi omurgası: ontoloji ile epistemolojinin birlikte kuruluşu
+
+A06'nın temel felsefesi, **var olanın nasıl kurulduğu** (ontoloji) ile **o kuruluşun nasıl bilindiği ve doğrulandığı** (epistemoloji) sorularını birbirinden koparmadan, birbirine indirgemeden ele almaktır. Hebûn ontolojik zemini, Zanabûn bilgi ilişkisinin kuruluşunu, Rasterast ise iddia ve düzeltmenin denetimini açıklar. Ontoloji bilgiye konu olacak varlık düzenini; epistemoloji o düzene yönelen bilmenin gerekçelerini araştırır. Bunların ilişkisi ne yalnız öznel algıdan varlık üretmek ne de varlık düzeninden kendiliğinden bilinçli bilgi çıkarmaktır.
+
+**Birinci felsefi önerme — kuruluş:** Ehad Yek'tir; yaratılmış her Yek, kendi fıtrî kuruluşu ve düzeniyle Ehad karşısında ikinci bilenin ontolojik temsilini taşır. Buradaki “ikinci” sözcüğü her atomun kronolojik olarak ikinci yaratılan varlık olduğunu söylemez; Ehad ile yaratılmış Yek arasındaki kurucu muhataplık ilişkisinin adıdır.
+
+**İkinci felsefi önerme — katmanlaşma:** Fizikte düzen ve etkileşim, biyolojide canlılığın devamı, zihinli varlıklarda algı ve öğrenme, insanda birikmiş bilgiden yeni ilim üretimi farklı işleyişlerdir. Fıtrî ahlakın bütün yaratılmış Yeklerdeki kapsamı, bu katmanların her birine aynı bilişsel yetiyi yüklemez. Ruh ve meleklerle ilgili ontolojik önermeler teolojik/metafizik statüdedir.
+
+**Üçüncü felsefi önerme — sorumluluk:** İnsan, yalnız bilen değil, bildiği ve seçebildiği ölçüde iradeli ahlakın öznesidir. Hüküm karşısındaki bu muhataplık, fiziksel düzenin veya biyolojik işleyişin sırf var olmasıyla aynı normatif kategori değildir. Fıtrî ahlak → iradeli ahlak geçişinde bilgi, niyet, tercih ve sorumluluk gerekçeleri gerekir.
+
+**Dördüncü felsefi önerme — denetlenebilirlik:** Bilgi iddiası ortaya çıktığında ikinci bilenin başka bir kişi olarak gerekçeli değerlendirmesi, geniş ontolojik anlamın özel bir epistemolojik durumudur. Aynı veri veya aynı hata kaynağına dayanmak bağımsız doğrulama sağlamaz. Aşağıdaki bağımlılık matrisi yalnız bu özel durumu çözümler; bütün ontolojiyi laboratuvar protokolüne indirgemez.
+
+Bu dört önerme birlikte makalenin özgün tezini oluşturur: **İkinci Bilen ontolojik olarak bütün yaratılmış Yeklerin Ehad karşısındaki fıtrî temsilini; epistemolojik olarak bilginin ortaya çıkışı, değerlendirilmesi ve düzeltilmesini; insanda ise iradeli ahlak ve hüküm karşısındaki sorumluluğu kapsayan katmanlı bir ilişkidir.** Bu, Zanistarast'ın kurucu felsefi savıdır; deneysel olarak doğrulanmış bir doğa yasası olarak sunulmaz.
+
 ## 2. Yöntem
 Kavramsal çözümleme, koşullu çıkarım ve düşünce deneyleri kullanılır. Bu metin yeni deney veya bağımsız hakemlik raporu değildir. Doğruluk, gerekçelendirme ve onay birbirine eşit değildir.
 
