@@ -43,3 +43,8 @@ Bir makale kapanışı için: özgün metin → kanonik iddia tablosu → kaynak
 Kur'an Yolu tefsirinin ilgili paragrafı resmî indeks metninden; IUPAC tanımları da indekslenmiş resmî kayıttan kontrol edilmiştir. Dinamik/korumalı sayfaların doğrudan erişimi tamamlanmış gibi gösterilmez. NHGRI DNA ve NCI otonom sinir sistemi tanımları doğrudan okunmuştur. Araştırma sorularının açık kalması ile yapılmış işlemin kaydının eksik olması aynı durum değildir; deney önerileri uygulanmış bulgu diye yazılmaz.
 
 Güncel ölçüm ve kaynak erişim ayrıntıları kalite matrisi ile kaynak aktarımı kaydında bulunur. Eski sürüm ve ekler korunur; bu kayıtlar 412 makaleye eklenmez.
+
+## İç argüman denetimi için ek kayıt
+Öncül–sonuç ve kapsam incelemesinde sekiz bulgu ana metinlere işlendi: yerel Yek indisleri; hücrede soy/kimlik sürekliliği; özne–nesne rolü; onayın iddiaya yönelmesi ve ontolojik bağımlılıktan ayrılması; kanıt bağımlılığının katmanları; evrelerin bireylere uygulanma kapsamı; her düzene bir bilen ile aynı tek bilen arasındaki çıkarım farkı; kavramsal şemanın ölçüm türleri. Ayrıntılı L01–L08 kaydı kalite matrisindedir.
+
+Bu işlem önceki iç editoryal aşamanın devamıdır; ayrı bir denetçi veya hakem bulunmuş gibi gösterilmez. Kurucu Ehad–Yek kabulü ve güncel kanon korunmuş; eksik ara öncüller bilimsel olarak kanıtlanmış varsayılmamıştır. Ana metinlerin bütünsel kapanışı, bağımsız alan/argüman denetimi ve kalan iddia kontrolleri açık olduğundan dış çekirdeğe geçilmez.

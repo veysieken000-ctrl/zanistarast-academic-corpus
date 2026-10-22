@@ -15,11 +15,13 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 
 ## 2. Epistemolojik kuruluş
 **Z1 — Bilen:** Bilen özne (S) bir nesneye (O) yönelir.  
-**Z2 — Bilinen:** Nesne, öznenin yöneldiği şeydir; özne ile nesne tanım gereği özdeş değildir.  
-**Z3 — Sonuç:** Yönelim ve ilişki sonucunda bir ürün/iddia (P) ortaya çıkar.  
+**Z2 — Bilinen:** Nesne, öznenin yöneldiği şeydir. Bilen ve bilinen farklı kavramsal rollerdir; bu ayrım her durumda iki ayrı varlık bulunmasını gerektirmez. Kişinin kendi düşüncesine yönelmesinde aynı kişi her iki rolü üstlenebilir.  
+**Z3 — Sonuç:** Yönelim ve ilişki sonucunda bir ürün, deneyim veya iddia ortaya çıkar. Epistemik denetimde P, bu sonuç hakkında açıkça ifade edilen ve gerekçesi değerlendirilebilen önermeyi gösterir; her ürün kendiliğinden doğru bilgi değildir.  
 **Z4 — İkinci bilen:** İkinci bilen (S₂), sonucu onaylar, reddeder veya düzeltilmesini gerektirir. Kurucu tanımda ikinci bilen, en üst hüküm karşısında ahlakı temsil eden muhataplıkla da ilişkilidir.
 
-Kavramsal gösterim: **S → O → P → S₂'nin değerlendirmesi**. Bu, deneyle kanıtlanmış evrensel matematik yasa değil, araştırma modelidir.
+Kavramsal gösterim: **S'nin O'ya yönelimi → P önermesinin kurulması → S₂'nin P'yi kanıt ve yöntemle değerlendirmesi**. Oklar tek bir fiziksel nedensellik veya zaman yasası ileri sürmez; araştırma işlemlerini ayırır. Kişinin kendi değerlendirmesi öz-denetimdir ve bağımsız ikinci değerlendirme diye sayılmaz. İkinci Yek'in ontolojik ayrı kimliği, bilen–bilinen rollerinin her zaman iki ayrı varlık olması koşuluna dönüştürülmez.
+
+İnsan düzeyindeki onayın doğrudan nesnesi P iddiasıdır; onay, yönelinen varlığı yaratan ontolojik sebep olarak kullanılmaz. İlahî ilk Bilen ile insanın tasdiki arasında kurulan teolojik ilişkide de insanın onayı Ehad'ın var olmasının şartı değildir; insanın bilmesi ve muhataplığıyla ilgilidir. Böylece Hebûn'un varlık temeli ile Zanabûn'un insan bilgisinin değerlendirilmesi aynı bağımlılık ilişkisine indirgenmez.
 
 ## 3. İkinci Yek ile ikinci bilen neden karıştırılmamalı?
 İkinci Yek, Hebûn'un ontolojik dizisinde ayrı varlık/kimliktir. İkinci bilen, Zanabûn'un bilgi iddiasını değerlendiren muhataptır. İkinci bir varlığın ortaya çıkması tek başına doğrulama yapıldığı anlamına gelmez. Ontolojik muhataplık, bağımsız epistemik değerlendirme ve insanın hüküm karşısındaki iradeli sorumluluğu üç ayrı düzeydir. Bütün varlıklarda düzen bulunması, bütün varlıkların bilinçli bilimsel onay verdiğini göstermez. İkinci bilenin onayı da tek başına yanılmazlık sağlamaz; ortak veri veya yöntem hatası mümkündür. Bağımsız doğrulama, ikinci bilenin ilk bilenin hatasını yeniden üretmediğinin ayrıca gösterilmesini gerektirir.

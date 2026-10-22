@@ -98,3 +98,28 @@ Tam akademik kapanış, bağımsız ikinci denetim, ilgili birincil kaynak/rivay
 H01'de H02/H03 için artık yapılmış aktarım gelecek zamanla anlatılmıyor; tamamlanan paragraf kapsam taraması eski “yapılacak” listesinde bırakılmadı. H02'de doğrudan meal atfı eklendi. H03'ün özgün kaynak kapsam notu güncellendi. Kanonik Ek B tekrarları kısaltılıp tanımların ana gövdedeki yerlerine bağlandı. H05'in dilsel aday notları sonuçtan Ek D'ye taşındı; sonuç araştırmanın gerçekten gösterdiği kapsamla sınırlandı. Yerel kaynak yolları bulundukları klasöre göre düzeltildi.
 
 Bu tur **iç editoryal geçiştir**. Bağımsız ikinci denetim, kalan atomik iddia karşılaştırmaları ve bütünsel çekirdek kapanışı tamamlanmış değildir. 412 makale yayın kapısı ile Halka 0 önceliği aynen korunur.
+
+## Öncül–sonuç ve kavramsal kapsam denetimi
+
+Bu tur önceki iç editoryal geçişe ek bir argüman incelemesidir. Aynı çalışma akışı tarafından yapıldı; bağımsız ikinci denetim sayılmaz. Aşağıdaki kayıtlar yeni deney sonuçları değil, ana metindeki çıkarım ve uygulama sınırı düzeltmeleridir.
+
+| ID | Yer | Sorun | Ana metindeki işlem | Sonuç / açık sınır |
+|---|---|---|---|---|
+| L01 | H01 §4 | Y₁/Y₂ indisinin kapsamı açık değil | İndisler alan ve zaman bağlamına bağlandı; Ehad yaratılmış dizinin halkası yapılmadı | Kanonik anlam açıklığı düzeltildi |
+| L02 | H01 §6 | Hücre türemesinden ana kimliğin aynen sürmesi çıkarılıyor | Soy sürekliliği ile sayısal kimlik ayrıldı; mitoz örneğinin kaynak yeri eklendi | Biyolojik örnek daraltıldı; evrensel kimlik modeli henüz yok |
+| L03 | H02 Z2 | Özne–nesne rol ayrımından zorunlu ayrı varlıklar sonucu çıkıyor | Kendini bilme olanağı korundu; rol ile varlık sayısı ayrıldı | Kavramsal hata düzeltildi |
+| L04 | H02 §2 | İnsan onayı ile ontolojik var etme ilişkisi karışabilir | Onayın P iddiasına yönelmesi; Ehad'ın insan onayına bağımlı olmaması açıklandı | Ontolojik ve epistemik bağımlılık ayrıldı |
+| L05 | H03 §7B | Bağımsızlık yalnız kişi veya yayın sayısına indirgenebilir | Veri, araç, analiz ve yorum düzeyleri ayrı kaydedilir | Denetim şeması netleştirildi; hata olasılığı ölçülmedi |
+| L06 | H04 §5B/§5D | Boyuttaki evre ayrımından her bireyin tüm evrelere geçişi çıkarılabilir | Sınıflama ile her bireye ait zorunlu gelişim öyküsü ayrıldı | Kapsam daraltıldı |
+| L07 | H05 §3 | Her düzene bir bilen önermesinden aynı tek bilen sonucu çıkıyor | Her durum için var olma ile bütün durumlarda aynılık farklı öncüller olarak ayrıldı | Ehad'ın birliği kurucu kabul olarak korundu; eksik çıkarım gizlenmedi |
+| L08 | H05 §6 | Kavramsal beşli nicel vektör ve eksik ölçüm sıfır gibi okunabilir | Uygulanamaz, ölçülmedi ve ölçülen değer ayrıldı; ortak puan varsayımı kaldırıldı | Ölçüm tanımı gereği açık; sayısal model doğrulanmadı |
+
+### Kaynak ve geri besleme
+H01'de mitozu genellikle izleyen iki yavru hücre oluşumu için NHGRI, *Mitosis*, https://www.genome.gov/genetics-glossary/Mitosis tanımı doğrudan okundu. Bu, bakterilerin bölünmesiyle mitozun eşitlenmesi veya biyolojik tanımdan ontolojik kimliğin otomatik çıkarılması değildir. Bakteri bölünmesi için NCBI Bookshelf araması okunabilir özet sundu; doğrudan sayfa çağrısı doğrulama ekranına döndüğünden bu kaynak ana metnin yeni kanıtı olarak kullanılmadı.
+
+H01'deki ontolojik kimlik, H02'deki kavramsal rol ayrımına; H02'deki iddia onayı, H03'teki kaynak ve yöntem denetimine; H04'teki evre kapsamı, H05'teki değişken uygulanabilirliğine geri beslendi. Hiçbir düzeltme yeni boyut, yeni makale veya yeni ampirik başarı olarak sayılmadı.
+
+### Düzeltme sonrası iç kontroller
+Beş metin yeniden birlikte karşılaştırıldı: Yek'in ayrı yaratılmış boyut olmaması; Ehad'ın insan onayına bağımlılaştırılmaması; ikinci Yek/ikinci Bilen ayrımı; fıtrat ve iki ahlak tanımı; tek hücreli/çok hücreli ile zekâ/akıl evreleri; insan katmanlarının sayısal kozmik eşleme olmaması korundu. Yeni iddia ve kaynak yerleri ana metinlere doğrudan işlendi. Bu okuma kaynak doğruluğunun bütün önermeler için bağımsız ispatı değildir.
+
+**Genel durum:** Sekiz argüman/kapsam bulgusu için metin düzeltmesi yapıldı. Deneysel ve felsefi modelin bağımsız sınanması açık; Halka 0 bütünsel kapanışı ve 412 yayın kapısı yeşil değildir.

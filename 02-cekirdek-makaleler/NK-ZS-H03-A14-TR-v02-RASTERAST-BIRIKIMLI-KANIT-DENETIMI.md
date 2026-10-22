@@ -66,13 +66,15 @@ Her bilimsel iddia için kayıt şeması: (i) makale ve bölüm, (ii) iddianın 
 NASEM (2019, bölüm 3) aynı verinin yeniden hesaplanmasını yeni veriyle sınamadan ayırır. Rasterast kaydı bu iki işlemi ayrı alanlarda tutar. Aynı DOI'ye dayanan iki özet iki bağımsız araştırma sayılmaz. Bir denetçinin kendi metnini yeniden okuması sürüm doğrulamasıdır; bağımsız hakemlik değildir.
 
 1. İncelenen metnin commit'i, bölüm ve iddia kimliği sabitlenir; sonraki değişiklik yeni kayıt açar.
-2. Kaynağın başlık–yazar–yıl–DOI eşleşmesi doğrulanır. Yalnız bibliyografik eşleşme ile yöntem ve bulgu kontrolü ayrı işaretlenir.
+2. Kaynağın başlık–yazar–yıl–DOI eşleşmesi doğrulanır. Yalnız bibliyografik eşleşme ile yöntem ve bulgu kontrolü ayrı işaretlenir. Her kanıt kaydı için asıl veri, veri toplama aracı, analiz yazılımı/yöntemi ve yorum kaynağı ayrıca gösterilir; bağımlılığı bilinmeyen alan “bağımsız” kabul edilmez.
 3. Kaynağın erişilen kısmı (tam metin, özet, şekil veya yalnız kayıt) ve iddiayı destekleyen yer belirtilir. Erişilemeyen bölüm incelenmiş sayılmaz.
 4. İddiaya en güçlü karşı-örnek ve alternatif açıklama yazılır. Kapsam dışına taşan çıkarım daraltılır; karşıt bulgu saklanmaz.
 5. Karar **destekli / kısmen destekli / karşı-örnekle sınırlı / kaynak bekliyor** olarak gerekçelendirilir. Bu etiketler sayısal olasılık değildir.
 6. H01–H05'te ilgili tanımın geçtiği bölümler yeniden okunur. Bağımsız denetçi bulunmadıysa o alan açık bırakılır; aynı çalışma turu ikinci bağımsız onay gibi sunulmaz.
 
 **Deneme kayıtları:** H01 bölüm 5'te hidrojen-1, bütün atomlar için nötron zorunluluğunu sınırlar; bütün ontolojiyi tek başına değerlendirmez. H01 bölüm 6'daki maya deneyi çok hücrelilik için mekanizma gereğini görünür kılar. H05 bölüm 5'te karga alet üretimi ve planlama bulguları, basit “hayvan alet yapamaz” ayrımını sınırlar. Bu örneklerin kaynakları ilgili makalelerin dış kaynakçalarındadır. Deneme protokolün kullanılabilirliğini gösterir; hata yakalama başarısı hakkında bağımsız ölçüm yapılmış değildir.
+
+**Bağımlılık örneği:** Aynı veri kümesini iki ekip farklı analizlerle incelerse iki analiz kaydı, fakat bir veri kaynağı vardır. Yeni analiz belirli hesaplama hatalarını sınayabilir; veri toplamadaki ortak yanlılığı otomatik olarak gidermez. Farklı veri kümeleri de aynı hatalı işlem veya yoruma dayanabilir. Bu nedenle bağımsızlık kişi sayısıyla tek bir evet/hayır etiketine indirgenmez; veri, araç, analiz ve yorum düzeylerindeki paylaşım açıkça kaydedilir. Bu kayıt şeması önerilen denetim işlevidir; ölçülmüş hata olasılığı vermez.
 
 **Yöntemsel sınır:** Kurucu kaynak sadakati ile ampirik doğruluk iki ayrı denetimdir. Kanonik uyum bilimsel doğrulamanın yerine geçmez. Geçerli bir karşı-örnek geldiğinde ampirik uygulama düzeltilebilir; kurucu teolojik kabulün statüsü ayrıca belirtilir. Hedef, farklı iddia türleri arasındaki geçişin gerekçesini görünür kılmaktır.
 

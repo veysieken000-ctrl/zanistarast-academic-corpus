@@ -33,6 +33,8 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 ## 3. Katmanlı düzen ve bilen önermesi
 Kurucu tez: **Her kanunun/düzenin üzerinde bir bilen vardır.** Buradaki bilen, fiziksel sistemin hesaplama yapması veya meleklerin insan gibi akletmesi anlamına gelmez. Hebûn açısından ontolojik, Zanabûn açısından bilen–bilinen–sonuç–ikinci bilenin onayı çerçevesinde ele alınır. “İkinci Yek” ile “ikinci bilen” kavramları eşitlenmez. Düzenin varlığından metafizik bilenin varlığına geçiş, ayrıca felsefi argüman gerektirir.
 
+**Çıkarımın kapsamı:** “Her düzen için bir bilen vardır” önermesi ile “bütün düzenler için aynı ve tek bilen vardır” önermesi aynı değildir. Birincisinde her düzene bir bilen karşılık geldiği kabul edilir; ikincisinde bu bilenin bütün durumlarda aynı olduğu da savunulur. İlk önerme tek başına bu aynılığı veya tekliği göstermez. Ehad'ın birliği bu çalışmada bağımsız kurucu ontolojik kabul olarak korunur; salt düzen örneklerinin sayılmasından elde edilmiş mantıksal sonuç diye sunulmaz. Bu ayrım kurucu tezi değiştirmek yerine onun hangi öncüle dayandığını görünür kılar.
+
 ## 4. İnsan halifeliği ve simgesel kullanım
 “İnsan kâinatın halifesi” kurucu teolojik yorumdur. İnsan aklı, farklı katmanlardaki düzenleyici ilişkileri düşünmek için **simge** işlevi görebilir. Bu kullanım insan aklının bütün varlıklarda bulunduğunu iddia etmez. İnsanın yeni bilgi ve araç geliştirmesi, doğal kanunları yaratması veya kaldırması değildir.
 
@@ -68,7 +70,9 @@ Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 - `F`: sistemin imkân ve sınırlarını tanımlayan kurallar;
 - `C`: çevre ve diğer sistemlerle etkileşim.
 
-Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İnsana özgü akıl için ayrıca `A_h` değişkeni tanımlanabilir: yeni bilgi/araç geliştirme kapasitesinin operasyonel göstergeleri araştırılır. Ruh/melekî idare veya metafizik bilen, ölçüm yöntemi tanımlanmadan bu denkleme ampirik parametre olarak eklenmez.
+Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İnsana özgü akıl için ayrıca `A_h` değişkeni tanımlanabilir: yeni bilgi/araç geliştirme kapasitesinin operasyonel göstergeleri araştırılır. Ruh/melekî idare veya metafizik bilen, ölçüm yöntemi tanımlanmadan bu gösterime ampirik parametre olarak eklenmez.
+
+**Uygulanabilirlik ve ölçüm:** Bu beşli gösterim sayısal bir vektör veya ortak birimle ölçülmüş toplam değildir. Her alan için kavramın uygulanıp uygulanmadığı ve uygulanıyorsa nasıl ölçüleceği ayrı tanımlanır. Bilişsel bellek/işlem anlamındaki Z, bir atoma uygulanmadığında “uygulanamaz” olarak kaydedilir; gözlem yapılmamış bir canlı için “ölçülmedi” kaydı bundan farklıdır. Bu iki durum keyfî olarak sıfır puanla eşitlenmez. Aynı şekilde genetik bilgi ile gerekçeli bilgi aynı I puanına, fiziksel etki ile ahlaki yetki aynı P değerine indirgenmez. A_h için de ölçüm yöntemi verilmeden sayısal karşılaştırma yapılamaz.
 
 ### 6A. Ana önermelerin kaynak ve statü haritası
 | Önerme | Dayanak | Statü ve aktarım sınırı |
