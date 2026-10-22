@@ -23,6 +23,12 @@ Merkez–çevre ilişkisi, yaratılmış Yeklerin kimliğini ve ilişkisel Komel
 ## 4. İki karşı-örnek
 İki gök cisminin ortak kütle merkezi, büyük cismin tam içinde bulunmak zorunda değildir. Dolayısıyla “merkez her zaman tek bir Yek'in konumudur” önermesi fiziksel örnekte bozulur. Dağıtık bir bilgi ağında da tek merkez bulunmadan ortak değerlendirme yapılabilir; epistemik koordinasyon geometrik merkez gerektirmez.
 
+## 4A. Merkez analojisinin iki sınaması
+
+Bir Komel'in ilişkisel bütünlüğü, tek bir merkeze sahip olmasını gerektirmez: dağıtık bir ağ da düzenli ilişkiler kurabilir. Ayrıca aynı sistem için farklı referans merkezleri seçilebilir; bu seçim Yek'in ontolojik kimliğini değiştirmez.
+
+Bu nedenle merkez–çevre analojisi bağlamsaldır. Kıble yönelişinden evrenin fiziksel merkezine ilişkin deneysel sonuç çıkarılamaz. Bu karşı-örnekler kavramsal sınamadır; bağımsız literatür doğrulaması henüz yapılmamıştır.
+
 ## 5. Ontoloji–epistemoloji bağı
 Hebûn'da Yeklerin kuruluşu ve Komel ilişkisi ontolojik sorudur. Zanabûn'da bilenin bilinene yönelişi ve ikinci bilenin değerlendirmesi epistemolojik sorudur. Ehad karşısındaki her yaratılmış Yek'in fıtrî ontolojik temsili, bir insan araştırmacısının ikinci onayıyla özdeş değildir. Merkez–çevre analojisi bu anlamları aydınlatabilir, fakat birbirinin yerine geçiremez.
 
