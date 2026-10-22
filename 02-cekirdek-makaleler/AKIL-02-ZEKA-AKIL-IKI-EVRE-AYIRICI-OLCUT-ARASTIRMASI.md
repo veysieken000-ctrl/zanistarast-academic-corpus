@@ -54,3 +54,26 @@ Zekâ/akıl ayrımı açık bir kanonik önermedir; deneysel olarak kanıtlanmı
 - `zanistarast-papers/docs/architecture/ZANISTARAST_MIRA_MASTER_ROADMAP.md`.
 - `zanistarast-papers/reference-implementation/mira/src/zanistarast_scientific_mission.rs`.
 - `zanistarast-academic-corpus/02-cekirdek-makaleler/AKIL-01-AKIL-VE-BILGININ-KAYNAGI-ARASTIRMA-MAKALESI.md`.
+
+
+## 9. Rasterast birincil GitHub kaynağı karşılaştırması (22.10.2026)
+
+Bu denetimde `ZANISTARAST-TEORILER/theories/04_MIND_DIMENSION_THEORY/01_MIND_DIMENSION_FOUNDATION.md` dosyası doğrudan okunmuştur (GitHub blob `805b5350e568d35b17777d6a3e371b3ecbef66e3`). Bu dosya, §2'de belirtilen özgün `2-Akıl ve bilginin varlığı (2).docx` belgesinin **yerine geçmez**; DOCX'in tam paragraf doğrulaması hâlâ açıktır.
+
+| Kimlik | Kaynakta görülen iddia | Bu makaledeki karşılığı | Rasterast statüsü |
+|---|---|---|---|
+| AK2-01 | 16.10.2026 kurucu güncellemesi zihin evrelerini **zekâ → akıl** olarak açıkça tanımlar | §2 ile uyumlu | Güncel kanonik; doğrudan kaynak teyidi |
+| AK2-02 | “Zihin Boyutu Nedir?” kısmı zihni yalnızca beyin ve sinir sisteminden ayırır | §2 ile uyumlu | Ontolojik ayrım; nörobilimsel ispat değil |
+| AK2-03 | “İlk Zihinsel Belirtiler” hafıza, öğrenme, sosyal düzen, av stratejileri ve koordinasyonu sayar | Zekâ işlevlerine örnekler | Kurucu örnekleme; evrensel sınıflama kanıtı değil |
+| AK2-04 | “Biyolojiden Zihne Geçiş” kısmı biyoloji evrelerini eşeysiz/eşeyli diye adlandırır | Güncel tek/çok hücreli evreleriyle çelişir | Dosyanın üst güncellemesine göre **eski hipotez** |
+| AK2-05 | “Zihin Neden Açıldı?” ve “Zanistarast Sonucu” bölümleri zihnin biyolojinin zorunlu sonucu olduğunu ileri sürer | Makaledeki deneysel sınır uyarısıyla birlikte ele alınmalı | Kurucu ontolojik hipotez; zorunluluk bilimsel olarak gösterilmedi |
+| AK2-06 | “Zihin Boyutu Neden İnsanla Tamamlanmadı?” kısmı erken zihinde soyut düşünce ve ahlak bulunmadığını söyler | Hayvan bilişi itirazıyla karşılaştırılmalı | Sınırları tartışmalı genelleme; bağımsız veri gerekir |
+
+### 9.1 Kavramsal sınama: küvet örneğinin kaynak statüsü
+Makalenin §3'ündeki **kova–sürahi–bardak / gider–tıpa** örneği, güncel kurucu açıklamasından gelir. **Bu denetlenen GitHub dosyasında yer almaz.** Bu nedenle örneğe yanlışlıkla bu dosyanın paragraf numarası atfedilmez. Örnek, pedagojik bir ayrım önerir; zekâ ile aklın birbirinden tamamen bağımsız bilişsel mekanizmalar olduğunu kanıtlamaz.
+
+### 9.2 Açık karşıt örnekler ve değerlendirme
+Bir hayvanın yeni bir aracı kullanması, yalnızca gözlenen sonuçla “akıl evresine geçtiğini” veya “yalnızca zekâ kullandığını” kesinleştirmez. Önceden öğrenme, çevreyi keşif, türün duyusal-motor özellikleri ve problem temsili ayrı kontrol edilmelidir. Benzer biçimde, bir insanın hazır seçeneklerden seçim yapması onun akıl kapasitesinin bulunmadığını göstermez. **Evre** ontolojik modelin terimidir; tek bir davranış görevinin puanı ile özdeşleştirilemez.
+
+### 9.3 Denetim kapıları
+**K0 kısmi:** bir kurucu GitHub metni ve blobu doğrulandı; özgün DOCX eşlemesi eksik. **K1 kısmi:** §5'te seçili dış kaynaklar var, kapsamlı tarama yok. **K2 kısmi:** §4'te görev tasarımı var. **K3–K6 açık:** deney verisi, geçerlik, etik ve bağımsız ikinci inceleme tamamlanmadı. Bu ek akademik yayına hazır olunduğu anlamına gelmez.
