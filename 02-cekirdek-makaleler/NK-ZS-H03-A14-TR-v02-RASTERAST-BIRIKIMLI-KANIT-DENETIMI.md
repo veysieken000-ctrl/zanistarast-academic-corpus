@@ -81,6 +81,8 @@ NASEM (2019, bölüm 3, s. 45–46; Sonuç 3-1) aynı verinin yeniden hesaplanma
 ### 7C. H05 üzerinden bir gerçek itiraz–yanıt denetimi
 H05'te Boeckle ve ark. (2020) için deneydeki araç seçimi, araştırmacıların planlama yorumu ve bu yorumun eleştirisi ayrı kaydedilir. de Mahy ve ark. (2021) çağrışımsal açıklamanın dışlanmasını sorgular; Boeckle ve ark. (2021) yanıt verir. Ayrıntılı kaynaklar H05 dış kaynakçasındadır. Bu, aynı yazarın çalışmasına verdiği yanıtın bağımsız tekrar deneyi sayılmaması gerektiğini gösteren bir örnektir. Deneysel sonuç, yorum ve eleştiri zinciri birlikte görünür tutulur.
 
+H05 §5A'daki inceleme, örneklem paydası ile testin şans düzeyinin ayrı kaydedilmesi gerektiğini de gösterir: eğitime giren, teste alınan ve belirli ölçüte ulaşan birey sayıları aynı değildir. Sonucun hangi seçenek uzayında hesaplandığı kaynakta belirtilmeden yalnız “şans üstü” ifadesi aktarılmaz. Bu kayıt kuralı H05'teki Boeckle örneğinin denetiminden çıkarılmıştır; yeni istatistiksel analiz sonucu değildir.
+
 Rasterast için iki başarım ayrı ölçülmelidir: bibliyografik hatayı bulma ve çıkarımın kaynak kapsamını aştığını bulma. Bu makalede protokol tasarlanıp örneklendirilmiştir; duyarlılık, hata oranı veya başka denetçiler arasındaki uyum ölçülmemiştir. Dolayısıyla protokolün mevcut akademik denetim yöntemlerinden üstün olduğu ileri sürülmez.
 
 ### 7D. Ana önermelerin kaynak ve statü haritası

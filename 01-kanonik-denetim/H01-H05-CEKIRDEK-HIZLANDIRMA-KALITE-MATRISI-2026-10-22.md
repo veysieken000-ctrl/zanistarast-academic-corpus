@@ -8,7 +8,7 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 5fefc6b13728cc88ac82f15ba28e7e6956a6e6dd; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 524f15c4c497ca88733b8acbb1fdc4d23c988a1a; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -22,11 +22,11 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 24380 | 4 | 0 |
+| H01 | 24598 | 4 | 0 |
 | H02 | 17830 | 1 | 0 |
-| H03 | 19044 | 4 | 0 |
+| H03 | 19457 | 4 | 0 |
 | H04 | 13815 | 0 | 0 |
-| H05 | 23054 | 5 | 0 |
+| H05 | 24094 | 5 | 0 |
 
 Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
 
@@ -209,3 +209,30 @@ Kaynak erişimi: NIST H/He veri sayfaları; NIDC Isotope Basics; NHGRI Cell, DNA
 H02'de bu tur öncesi eklenen 5fefc6b13728cc88ac82f15ba28e7e6956a6e6dd commit'i korundu. İki ayrı “7B” başlığı oluştuğu için son eklenen alt bölüm 7C olarak numaralandırıldı; metni silinmedi. NASEM'in yeni veri ayrımı H02'den H03'e; hücresel özelleşmenin kapsamı H05'e; kuvvet kazancının koşullu oluşu H04'e doğrudan işlendi.
 
 **Açık kapsam:** E01–E16 seçilmiş dar önermelerdir; tüm atomik iddiaların tamamlandığına ilişkin payda veya yüzde verilmez. Önceki kaynak envanteri bütün metin kapsamını gösterir; bütün cümlelerin bilimsel doğruluğunu göstermez. Bağımsız ikinci değerlendirme ve bütünsel Halka 0 kapanışı açık; Halka 1 üretimine geçilmedi.
+
+## Nükleer süreç ve bilişsel deneyler — E17–E30
+**Taban:** 524f15c4c497ca88733b8acbb1fdc4d23c988a1a. **22 Ekim 2026.** On dört dar önerme kaydedildi: E17–E28'in ilgili kaynak yerlerine doğrudan erişildi; E29–E30'un bu turdaki erişim düzeyi kısmi bırakıldı. Yeniden incelenen önermeler yeni deney veya yeni bağımsız veri diye sayılmaz.
+
+| ID | Yer | Önerme | Kaynak yeri | Karar |
+|---|---|---|---|---|
+| E17 | H01 §5 | pp zincirinin net bilançosu dört protondan helyum-4 çekirdeği ve lepton ürünlerini gösterir | Adelberger, erişilen 2010 yazar sürümü, §II, denklem 2; PDF s. 6 | Doğrudan destekli; tek çarpışma diye yorumlanmadı |
+| E18 | H01 §5 | Net bilanço ile ara nükleer tepkimeler ayrı düzeylerdir | Aynı sürüm, §IB içerik açıklaması / §§III–IX dizisi | Doğrudan destekli; bütün nükleer süreçlere genelleme önlendi |
+| E19 | H05 §5A | Kenward örneklemi dört elle büyütülmüş genç kuştur | Kenward 2005, s. 121, yöntem paragrafı | Doğrudan destekli |
+| E20 | H05 §5A | İki kuş gösterim aldı, ikisi almadı | Kenward 2005, s. 121, barındırma/gösterim paragrafı | Doğrudan destekli |
+| E21 | H05 §5A | Dördü çubuk araç kullandı | Kenward 2005, s. 121, sonuç paragrafı | Doğrudan destekli |
+| E22 | H05 §5A | Yaprak parçasıyla yiyecek çıkarma Corbeau için bildirildi | Kenward 2005, s. 121, Pandanus paragrafları | Doğrudan destekli; dört kuşa genişletilmedi |
+| E23 | H05 §5A | Gösterim ile barındırma koşulları birlikte değişti | Kenward 2005, s. 121, yöntem | Yöntem bilgisi doğrudan; dengeli nedensel karşılaştırma olmadığı sonucu bu metnin çıkarımı olarak yazıldı |
+| E24 | H05 §5A | Dokuz kuş eğitime girdi, dördü kritik teste ulaştı | Boeckle 2020, Methods: Participation of individuals across trials | Doğrudan destekli; paydalar ayrıldı |
+| E25 | H05 §5A | Nesne seçimi beş dakika, düzeneğe erişim seçimden on dakika sonraydı | Boeckle 2020, Methods: Procedure | Doğrudan destekli |
+| E26 | H05 §5A | Kritik koşullarda dört kuştan üçü ölçütü aştı | Boeckle 2020, Results / Tablo 1; ayrıntılar Tablo 3 | Doğrudan destekli; tür başarı oranı sayılmadı |
+| E27 | H05 §5A | Ana şans karşılaştırması beş seçenek içinde bir doğru için %20'dir | Boeckle 2020, Methods: Statistics | Doğrudan destekli; kaynakta çeldirici duyarlılığı da tartışılır |
+| E28 | H05 §5B | 2020 yazarları bütün çağrışımsal açıklamaları dışlamadıklarını belirtir | Boeckle 2020, Discussion | Doğrudan destekli; yalnız 2021 eleştirisine atfedilmedi |
+| E29 | H01 §6 | On popülasyonda 60 seçilim turu sonrası benzer kümeli biçimler bildirildi | Ratcliff 2012, resmî PMC indeks kaydı / şekil açıklaması | Bu tur indeks düzeyinde teyit; yeni tam metin tekrar kontrolü kısmi |
+| E30 | H01 §6 | Küme mekanizması bölünme sonrası bağlı kalma olarak aktarılır | Ratcliff 2012, önceki turda okunan Results: Mechanism of Cluster Formation | Önceki kontrol korunur; bu tur doğrudan yeniden erişim tamamlanmadı |
+
+### Erişim ve yorum sınırı
+Kenward'ın bir sayfalık Oxford PDF'si, Boeckle 2020'nin yedi sayfalık Cambridge PDF'sindeki ilgili yöntem/sonuç/tartışma ve Adelberger'in açık yazar sürümü §II denklem 2 ile §IB açıklaması doğrudan okundu. Ek video ve ham veri yeniden analiz edilmedi. E23'te barındırma/gösterim karışmasının değerlendirilmesi bizim yöntemsel çıkarımımızdır; kaynağın kendi cümlesi gibi verilmedi.
+
+Ratcliff için PMC çağrısı doğrulama ekranına döndü. PNAS ilk çağrıda yayın kaydı sundu; sonraki bölüm aramaları çerez sayfasına yönlendi. Resmî indeks E29'un dar ifadesini sundu. Bu yüzden önceki tam metin incelemesi silinmedi, fakat yeni doğrudan yeniden okuma tamamlandı denmedi. E29/E30 bu turdaki erişim kısıtı kapanmadan diğer satırlarla aynı statüde gösterilmez.
+
+H01'de net nükleer bilanço/ara süreç ayrımı; H05'te yaprak görevinin birey kapsamı, barındırma koşulu, test paydası, şans düzeyi ve 2020 makalesinin kendi sınırlaması işlendi. H03'e örneklem paydası ve seçenek uzayını kaydetme kuralı geri beslendi. Dış çekirdeğe geçilmedi; bağımsız değerlendirme ve bütünsel kapanış açık.

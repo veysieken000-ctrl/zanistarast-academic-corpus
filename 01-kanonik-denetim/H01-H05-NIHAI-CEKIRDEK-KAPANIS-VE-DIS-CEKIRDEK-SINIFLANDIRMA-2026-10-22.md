@@ -63,3 +63,6 @@ Bu tur yeni makale veya araştırma eki oluşturulmadı. Beş ana metin ve iki m
 Seçilmiş 16 bilimsel/yöntemsel ifade için kaynak yeri ve karar kalite matrisine işlendi. Ana metinlerde NIDC atfı, tekrar/değerlendirici bağımsızlığı, mekanik avantajın koşulları, hücresel özelleşme ve karga deneyindeki eğitim/katılım/görev sonucu ayrımları düzeltildi. H02'nin dalda bulunan ek commit'i korundu; çakışan alt bölüm numarası düzeltildi.
 
 Bu işlem iddia düzeyindeki denetimi ilerletir; bütün önermelerin veya bağımsız ikinci değerlendirme koşulunun tamamlandığı anlamına gelmez. Yayın kapısı ve Halka 0 önceliği korunur.
+
+## E17–E30 kaynak denetimi
+Nükleer süreç ve karga deneyleri için on dört dar önerme kalite matrisinde kaynak yerlerine bağlandı. On iki önermenin ilgili kaynak yerleri doğrudan yeniden okundu; maya çalışmasının iki önermesi bu turdaki erişim kısıtı nedeniyle kısmi bırakıldı. H01, H03 ve H05 ana metinleri güncellendi. Bu kayıt toplam iddia sayısı veya tamamlanma yüzdesi değildir; bağımsız ikinci değerlendirme ve bütünsel kapanış hâlâ açıktır.
