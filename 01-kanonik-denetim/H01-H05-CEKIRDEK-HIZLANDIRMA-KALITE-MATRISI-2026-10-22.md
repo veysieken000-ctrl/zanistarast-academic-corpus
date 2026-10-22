@@ -31,3 +31,31 @@
 Bu beş metnin hepsi GitHub'da mevcut ve sonuç bölümü içeriyor. İlk yapısal taramada **beşinde de ana metin içinde DOI biçimli atıf saptanmadı**; öncelik yeni ekler üretmekten ziyade mevcut eklerin kaynak ve karşı-örneklerini **ana metindeki ilgili iddialara taşımaktır**. Sonraki iş H01 ve H05'ten başlayarak paragraf bazlı kaynak–iddia eşlemesi ve çapraz denetimdir.
 
 **Kurucu yayın kapısı:** `KURUCU-YAYIN-KAPISI-412-MAKALE-GERI-BESLEME-2026-10-22.md`.
+
+## Güncel yeniden ölçüm — kaynak aktarımı ve argüman turu
+
+Üstteki ilk tarama tablosu tarihsel ölçümdür. Aşağıdaki değerler H05 commit'i 1febcee70b6e71c4cb664fa233f03e55af521940 sonrasında daldan yeniden okunan ana metinler içindir. Karakterler JavaScript metin uzunluğu; DOI sayısı, sondaki nokta temizlenerek tekilleştirilmiş metin örüntüsüdür. DOI sayısı bilimsel kalite puanı değildir; H04'ün ders kitabı kaynağında DOI olmaması hata değildir.
+
+| Metin | Karakter | Benzersiz DOI | Ana önerme haritası | Yazım sonrası içerik eşliği |
+|---|---:|---:|---|---|
+| H01 | 16372 | 2 | Var | Birebir doğrulandı |
+| H02 | 12291 | 1 | Var | Birebir doğrulandı |
+| H03 | 14174 | 1 | Var | Birebir doğrulandı |
+| H04 | 11037 | 0 | Var | Birebir doğrulandı |
+| H05 | 16989 | 5 | Var | Birebir doğrulandı |
+
+### Ölçüt bazında durum
+| Ölçüt | Durum | Kanıt ve sınır |
+|---|---|---|
+| Belirtilen önceki beş commit'in dalda bulunması | Doğrulandı | Önceki kaynak aktarımı kaydında merge-base ve dal karşılaştırması |
+| Beş ana metne doğrudan kaynak/argüman aktarımı | Doğrulandı | Yeni beş commit ve birebir yeniden okuma |
+| Ana önermelerin iddia türü ve dayanak tablosu | Doğrulandı | Beş metnin ana gövdesinde mevcut; bütün cümlelerin tam envanteri değil |
+| H01 maya deneyi, H05 iki karga çalışmasının ana yöntem/bulgu kontrolü | Yapıldı | Ana metinler okundu; ham veri, ek video ve bütün ek materyal yeniden analizi değil |
+| H05 planlama iddiasına yayımlanmış itiraz ve yanıt | Aktarıldı | 2021 eleştiri ve yanıt DOI'leri ana metinde; yeni tekrar deneyi yok |
+| Nisâ 4:1 doğrudan metin/tefsir tam sayfa karşılaştırması | Kısmi | Resmî indeks metni görüldü; sayfa gövdesi alınamadı |
+| Özgün Word esas önermelerinin tam envanteri | Açık | Seçilmiş paragraf eşlemeleri mevcut |
+| Bağımsız ikinci denetim | Açık | Aynı çalışma akışı kendi kendine bağımsız onay vermedi |
+| Akademik çalışma sürümü bütünsel kapanışı | Açık | Önceki açık ölçütler ve son editoryal kontrol sürüyor |
+| 412 makale ve nihai yayın kapısı | Kapalı | Tam envanter, bütünsel uyum ve kurucu nihai onay henüz yok |
+
+Son işlem günlüğü: `H01-H05-KAYNAK-AKTARIMI-VE-OZGUN-METIN-DENETIMI-2026-10-22.md`. Kanonik metinler, eski sürümler ve araştırma ekleri korunmuştur. Halka 1 üretimine başlanmamıştır.
