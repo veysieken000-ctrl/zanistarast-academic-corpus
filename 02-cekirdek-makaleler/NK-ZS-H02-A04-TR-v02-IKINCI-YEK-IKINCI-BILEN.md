@@ -44,6 +44,11 @@ National Academies of Sciences, Engineering, and Medicine (NASEM, 2019, bölüm 
 
 **Karşılaştırmalı sınama önerisi:** Aynı iddiayı değerlendiren gruplarda yalnız metni görme, ham veriye erişim ve bağımsız veri toplama koşulları karşılaştırılabilir. Ölçüt onay oranı değil, önceden belirlenmiş hataları saptama ve sonuçları gerekçelendirme başarısıdır. Bu bir deney önerisidir; henüz veri toplanmadı. İki kişinin anlaşması bütün bilgi türleri için zorunlu veya yeterli doğruluk koşulu olarak gösterilemez; tek kişinin gerekçeli bulgusu da sırf ikinci değerlendirici henüz bulunmadığı için yanlış sayılmaz. İkinci bilen modeli burada kamusal denetlenebilirliğin kuruluşuna ilişkin bir tez olarak sınırlandırılır.
 
+### 5B. Onayın gerekçesi: kişi, yöntem ve nesne
+İkinci bilenin değerlendirmesi, kişinin otoritesine veya ilk bilenle uzlaşmasına indirgenemez. Değerlendirici aynı iddiayı, aynı kapsamda ele almalı; ret veya onayının gerekçesini erişilebilir kılmalıdır. İlk bilenin açıklamasını tekrar etmek, yeni bir çıkarım denetimiyle aynı işlem değildir. İkinci bilen aynı zamanda itiraz eden veya düzelten kişi olabilir; bu işlev başarısızlık değil, modelin hata düzeltme imkânıdır.
+
+**Döngüsellik itirazı:** İkinci bilenin doğruluğu üçüncü, onunki dördüncü kişi tarafından onaylanacaksa süreç neden durur? Bu makale sonsuz bir kişi zincirini doğruluğun şartı yapmaz. Gerekçeler, veri ve çıkarım kamusal incelemeye açılır; belirli bir araştırmanın kabulü geçici ve düzeltilebilir kalabilir. Kurucu onay ilkesi, insan biliminde yanılmazlık belgesi olarak yorumlanmaz. Hebûn'un ontolojik başlangıç kabulüyle bu yöntemsel durma ölçütü farklı sorunlardır.
+
 ## 6. Sevgi, akıl, fıtrat
 Özgün *Akıl ve Bilginin Kaynağı* Word metni aklın iyi ve doğruyu seçmesini sevgiyle ilişkilendirir; ruhun üflenmesi ve insanın özü de kurucu tartışmanın parçasıdır. Bu bağlantı, insanın ahlaki yöneliminin bilgiye etkisini araştırma sorusu yapar; psikolojik mekanizma veya doğa yasası olarak peşinen ispatlandığı iddia edilmez.
 
@@ -53,8 +58,17 @@ National Academies of Sciences, Engineering, and Medicine (NASEM, 2019, bölüm 
 ## 7A. Çekirdekler arası doğrulama ölçütü
 İkinci Yek'in ontolojik varlığı, ikinci Bilenin bağımsız epistemik onayıyla özdeş değildir. Bir iddia için en azından iddianın açık ifadesi, doğrulayıcının bağımsızlığı, kullanılacak gözlem/akıl yürütme yöntemi ve ortak hata ihtimali ayrı kaydedilmelidir. Bu koşullar karşılanmadığında ikinci onay, doğrulanmış bilimsel sonuç değil, kurucu epistemolojik modelin henüz sınanmamış uygulamasıdır. Bu ayrım H01'deki tekillik dizisiyle ve H03'teki kaynak soyağacıyla birlikte denetlenir.
 
+### 7B. Ana önermelerin kaynak ve statü haritası
+| Önerme | Dayanak | Statü ve aktarım sınırı |
+|---|---|---|
+| Sonucun ikinci bilen tarafından değerlendirilmesi | Akıl ve Bilginin Kaynağı P5; güncel kanon | Kurucu epistemoloji; mutlak yanılmazlık sonucu verilmez |
+| Ontolojik ikinci Yek ile epistemik rol farklıdır | Kaynak P43'ün güncel kurucu ayrımla karşılaştırması | Kavramsal çözümleme; H01 ve H03 ile ortak tanım |
+| Aynı veriyle hesaplama ve yeni veriyle sınama farklıdır | NASEM, 2019, bölüm 3 | Yöntem raporu; Zanabûn'a dış karşılaştırma |
+| Kişi sayısı tek başına ortak hatayı gidermez | Bölüm 5'teki bozuk cihaz düşünce deneyi | Mantıksal karşı-örnek; gerçekleşmiş deney raporu değil |
+| Muhataplığın ontolojik, epistemik ve ahlaki düzeyleri | Kurucu kilometre taşı | İnsan bilincini cansızlara yayma gerekçesi değil |
+
 ## 8. Sonuç
-Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Kurucu tezlerin bilimsel yasa düzeyine çıkarılması için bağımsız literatür ve sınama hâlâ gereklidir.
+Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Makalenin katkısı, ikinci onayın bilgiye ne kattığını kişi sayısı yerine gerekçenin denetlenebilirliğiyle tartışmasıdır. Bölüm 5A'daki sınama önerisi uygulanmamıştır; ikinci onayın bütün bilgi türleri için zorunlu ve yeterli olduğu gösterilmiş değildir.
 
 ## Dış kaynakça
 - National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3: aynı veriyle hesaplama ve yeni veriyle sınama ayrımı; bölüm 5A'da kullanılır. Kurumun yöntem raporudur, Zanabûn hakkında deney değildir.
@@ -68,11 +82,11 @@ Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu d
 
 **Açık kapılar:** Word paragraf eşlemesi, bağımsız bilim felsefesi taraması, hedef dergi standartları ve kurucu onayı. Önceki sürümler korunur.
 
-## Yeni kurucu aktarım — bilimsel ve ahlaki muhataplık (22.10.2026)
+## Ek A — Kurucu aktarım — bilimsel ve ahlaki muhataplık (22.10.2026)
 İnsan ve hayvan dış dünyayla ilişki kurar; insanın aklı gözlem, matematik, deney, araç ve edevat sayesinde bedeniyle erişemediği kuantum ve kozmik alanları araştırabilir. **Bilimsel muhataplık** ile **nihai ahlaki/hükmî muhataplık** ayrı tanımlanır: birincisi bilgi edinme ve sınama imkânı, ikincisi iradeli ahlakın altıncı boyut hüküm karşısındaki sorumluluğudur. İkinci ontolojik Yek, otomatik olarak ikinci epistemik Bilen değildir. İnsanın daha geniş muhataplığı hayvanlarda fıtrî duygu, fıtrî mantık veya öğrenmenin yokluğunu gerektirmez. Bilimsel erişim sınırsız bilme garantisi vermez. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. İlahî hüküm açıklaması teolojik önerme olarak işaretlenir.
 
-## Kurucu kilometre taşı: muhataplığın üç düzeyi
+## Ek B — Kurucu kilometre taşı: muhataplığın üç düzeyi
 Fıtrî ahlak bütün varlıklardaki kuruluş düzeni ve işleyişin ilişkisel görünümü olarak önerilir; bu, her varlığın bilinçli epistemik onay verdiği anlamına gelmez. **Ontolojik muhataplık**, **ikinci Bilen'in bağımsız epistemik doğrulaması** ve **insanın iradeli ahlakla hüküm karşısındaki özel sorumluluğu** ayrı tanımlanır. İkinci Yek otomatik ikinci Bilen değildir. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
-## Özgün metin karşılaştırması — 22 Ekim 2026
+## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 *Akıl ve Bilginin Kaynağı* (Drive kimliği: 1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM; son değişiklik: 25 Aralık 2025), boş olmayan metin paragraflarıyla P5'te ikinci öznenin onayını, P43'te yaratılış ve ikinci bilen ilişkisini tartışır. P5'in mutlak bilgiye geçişi bölüm 5 ve 5A'da ortak hata bakımından sınırlandırılmıştır. P43'ün ontolojik ikinci özne kullanımı, güncel kanondaki ikinci Yek/ikinci Bilen ayrımıyla açıklanır. Kaynakta bulunması bu çıkarımları bağımsız bilimsel kanıt yapmaz.
