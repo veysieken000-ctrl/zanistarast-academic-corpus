@@ -63,3 +63,6 @@ Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek de
 3. `02-cekirdek-makaleler/NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md`.
 4. `02-cekirdek-makaleler/NK-ZS-H03-A14-EK01-KANIT-SOYAGACI-VE-IKINCI-DENETIM.md`.
 5. Özgün Word metinleri ve Nisâ 4:1 Diyanet tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri .
+
+## Yeni yöntem denetimi — boyut ve muhataplık (22.10.2026)
+Yeni kurucu açıklamalar için beş ayrı doğrulama satırı tutulur: (1) fiziksel hacim/kütle iddiası; (2) biyolojik bilgi ve işlevsel örgütlenme iddiası; (3) ontolojik kapsama ve atom–yıldız benzetmesi; (4) insan/hayvan davranışı ve otonom sinir sistemi hakkındaki ampirik iddialar; (5) iradeli ahlak, Ehad ve hüküm/ahiret hakkındaki teolojik yorumlar. Bir satırın kanıtı diğerine otomatik aktarılmaz. Altı ontolojik boyut fizik bilimindeki koordinat sayısıyla özdeş değildir. Lokmân 31:27 ve Kehf 18:109 ayet atıfları metinle kontrol edilir; “yere göğe sığmadım...” ifadesi sahih kudsî hadis diye kesin sunulmaz. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Akademik doğrulama, karşı örnek ve literatür taraması sürmektedir.
