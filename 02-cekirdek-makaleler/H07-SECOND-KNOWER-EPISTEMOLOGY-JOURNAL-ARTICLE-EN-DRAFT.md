@@ -97,3 +97,44 @@ The second-knower thesis identifies a significant problem for epistemology: how 
 5. Subject the argument to independent philosophical review and check that no claims exceed their evidence.
 
 **No empirical validation, acceptance, or submission is claimed.**
+
+
+## 9. Expanded literature comparison and originality boundary (research revision, 22 October 2026)
+
+### 9.1 Scientific objectivity and transformative criticism
+
+The *Stanford Encyclopedia of Philosophy* entry on scientific objectivity describes competing ideals: correspondence with facts, value freedom, freedom from personal bias, and the role of community practices. Its account of Helen Longino's critical contextual empiricism highlights avenues for criticism, shared standards, actual uptake of criticism, and tempered equality of intellectual authority. These conditions are **more demanding than the historical H07 wording that a second subject approves a result**. The present article should therefore avoid presenting intersubjective checking as a new discovery absent from existing philosophy of science. Rather, the candidate contribution is the reconstruction and critique of the distinctive Zanabûn subject–object–second-knower formulation.
+
+**Literature source:** *Scientific Objectivity*, https://plato.stanford.edu/entries/scientific-objectivity/ ; *The Social Dimensions of Scientific Knowledge*, https://plato.stanford.edu/entries/scientific-knowledge-social/ .
+
+### 9.2 Testimony is not identical to independent verification
+
+The *Stanford Encyclopedia of Philosophy* entry *Epistemological Problems of Testimony* asks whether testimony generates or merely transmits knowledge, whether hearers need positive grounds for reliability, and whether justification depends partly on the speaker. This makes an important distinction for the H07 thesis: a second person who **believes a report** is not necessarily a second person who **independently verifies the object**. Both roles can matter, but their epistemic functions differ. The source's language of *onay* (approval/confirmation) does not by itself resolve which role is intended; a definitive interpretation requires authorial clarification.
+
+**Literature source:** *Epistemological Problems of Testimony*, https://plato.stanford.edu/entries/testimony-episprob/ .
+
+### 9.3 Comparative argument and potential contribution
+
+| Issue | H07 historical thesis | Established literature | Defensible article contribution |
+|---|---|---|---|
+| Second-person role | A second knower approves/recognizes the product of inquiry | Testimony and social epistemology distinguish trust, criticism, and evidential support | Clarify ambiguity between assent and independent checking |
+| Objectivity | Knowers encounter an object or reality not reducible to their mutual affirmation | Objectivity debates include fact correspondence and community-based critical practice | Formulate a three-term reading without treating agreement as sufficient truth |
+| Creative science | Human products and knowledge are offered to others for use and recognition | Artifact usefulness and epistemic warrant are distinct questions | Explain how creative production differs from verification |
+| Moral conditions | Goodness, sincerity, and love are emphasized in scientific activity | Values and objectivity are contested in philosophy of science | Separate research ethics from the truth conditions of a particular claim |
+
+**Originality caution:** This comparison is an editorial analysis, not proof that the second-knower thesis is historically unprecedented. The draft should not claim priority over Longino, testimony epistemology, or broader social epistemology without a much wider literature review.
+
+### 9.4 Stronger objections to address before submission
+
+1. **Prior-art objection:** Intersubjectivity and criticism already have extensive treatments. What does the Zanabûn framework add beyond new vocabulary? A defensible answer must identify a precise, nontrivial distinction or problem, not merely rename familiar concepts.
+2. **Ambiguous confirmation:** Does *onay* mean assent, understanding, verification, moral approval, or practical usefulness? The historical source shifts among contexts; these meanings must be disambiguated rather than collapsed.
+3. **Regress of confirmers:** If every result requires a second knower, must the second knower's judgment require a third? The article should distinguish public contestability from an infinite chain of actual approvals.
+4. **Epistemic injustice:** Who counts as an authorized second knower, and can power relations suppress qualified criticism? Community criticism must be evaluated for access and response, not simply number of participants.
+5. **Truth versus warrant:** A claim can be true before it is socially accepted, and widely accepted claims can be false. The thesis is strongest as a norm for **public warrant**, not as a metaphysical condition for truth.
+
+### 9.5 Additional verified reference works
+
+- *The Social Dimensions of Scientific Knowledge*. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/scientific-knowledge-social/ . (Overview of social epistemology and Longino's conditions for transformative criticism.)
+- *Epistemological Problems of Testimony*. *Stanford Encyclopedia of Philosophy*. First published 2021. https://plato.stanford.edu/entries/testimony-episprob/ . (Overview of reductionist, non-reductionist, and hybrid approaches to testimonial justification.)
+
+**Verification scope:** The entries and their relevant arguments were checked against their online texts. This is a focused literature expansion, not a systematic literature review; precise bibliographic authorship and edition details still require final reference-style verification. None of these sources is evidence that the historical author's theological claims are empirically established.
