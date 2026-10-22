@@ -25,7 +25,7 @@ Birincil metin: `veysieken000-ctrl/ZANISTARAST-TEORILER/theories/01-BOYUTSAL-ACI
 | 3 Zihin | Zekâ | Akıl | İşleme, seçim ve yeni bilgi çıkarımı |
 | 4 Ruh | Ruh | Melekler (ruhludurlar) | Düzen ve zamanın sürdürülmesi |
 | 5 Ahlak | Fıtrî ahlak | İradeli ahlak | Yön, sorumluluk ve irade |
-| 6 Hüküm/ahiret | Bu çalışmada iki evre uydurulmaz | — | Hüküm ve karşılık düzeni |
+| 6 Hüküm/ahiret | Hesap/hüküm | Hükmün sonucu (ahiret karşılığı) | Hüküm ve karşılık düzeni; §9'da kurucu kaynak doğrulaması |
 
 **Tek/Yek** üst ilkedir; Ehad, Tek ve Yek eş anlamlı değildir. İnsanın katmanları bu kozmik boyutlarla birebir numaralandırılmaz.
 
