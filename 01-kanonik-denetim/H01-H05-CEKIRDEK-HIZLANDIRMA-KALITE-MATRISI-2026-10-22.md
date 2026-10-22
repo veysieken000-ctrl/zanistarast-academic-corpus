@@ -8,7 +8,7 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Son turun tabanı de573d2e7dc083709d06b7871d4a15b90b374ed6; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 5fefc6b13728cc88ac82f15ba28e7e6956a6e6dd; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -22,11 +22,11 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 24242 | 4 | 0 |
-| H02 | 16663 | 1 | 0 |
-| H03 | 18903 | 4 | 0 |
-| H04 | 13609 | 0 | 0 |
-| H05 | 22034 | 5 | 0 |
+| H01 | 24380 | 4 | 0 |
+| H02 | 17830 | 1 | 0 |
+| H03 | 19044 | 4 | 0 |
+| H04 | 13815 | 0 | 0 |
+| H05 | 23054 | 5 | 0 |
 
 Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
 
@@ -181,3 +181,31 @@ Beş metin yeniden birlikte karşılaştırıldı: Yek'in ayrı yaratılmış bo
 H01 §4B'deki Ratcliff göndermesi yeni deney bulgusu eklemez; daha önce okunmuş ve §6'ya aktarılmış kaynağın uygulama sınırıdır. Bu turdaki PMC sayfa çağrıları doğrulama ekranına döndü; yeni doğrudan tam metin erişimi başarılmış gibi kaydedilmedi. H03'teki cihaz kaydı gerçek veri deneyi değil, H02'de yazılı mantıksal karşı-örnektir. Yeni dış araştırma, denetçi sonucu veya hata oranı üretilmedi.
 
 **Durum kararı:** D01–D05 için iç metin işlemleri yapıldı; soruların bağımsız değerlendirme sütunları açık. Bütün atomik iddiaların denetimi tamamlandı denmez. Halka 0 bütünsel kapanışı ve 412 yayın kapısı değişmedi.
+
+## Atomik bilimsel ifade denetimi — E01–E16
+**Taban commit:** 5fefc6b13728cc88ac82f15ba28e7e6956a6e6dd. **Tarih:** 22 Ekim 2026. Bu tur seçilmiş 16 açık önerme doğrudan kaynak yerleriyle karşılaştırıldı. Her satırın sonucu ilgili dar önermeye aittir; bilimsel/felsefi metnin tamamına veya bağımsız hakemliğe kapanış vermez. “Destekli” bu kaynak karşılaştırmasının sonucudur; yeni deney yapıldığı anlamına gelmez.
+
+| ID | Ana metin yeri | Denetlenen önerme | Doğrudan kaynak yeri | Karar / ana metin işlemi |
+|---|---|---|---|---|
+| E01 | H01 §5A | Hidrojen atom numarası 1 | NIST, Hydrogen; Atomic Number | Destekli; mevcut ifade korundu |
+| E02 | H01 §5A | Helyum atom numarası 2 | NIST, Helium; Atomic Number | Destekli; mevcut ifade korundu |
+| E03 | H01 §5 | Hidrojen-1 nötronsuzdur | NIDC, Isotope Basics; What are Isotopes? | Destekli; yakın atıf NIDC'ye bağlandı |
+| E04 | H01 §6 / H05 §1 | DNA genetik bilgi taşır | NHGRI, DNA; Definition | Destekli; bilişsel bilgiyle özdeşlik çıkarılmaz |
+| E05 | H01 §6A / H04 §5D | Prokaryotta zarla çevrili çekirdek yoktur | NHGRI, Cell; Definition | Destekli; örgütleyici merkez analojisinin ispatı değil |
+| E06 | H01 §6 | Mitozu genellikle iki yavru hücre oluşumu izler | NHGRI, Mitosis; Definition | Destekli; mitoz bakterilerin bölünmesiyle eşitlenmedi |
+| E07 | H05 §2 | Farklılaşma hücresel özelleşmeyle ilgilidir | NCI, Cell differentiation; tanım | Kaynak eklendi; evrensel çok hücrelilik mekanizması sonucu kaldırıldı |
+| E08 | H04 §3A | Mekanik avantaj kuvvet büyüklüklerinin oranıdır | OpenStax §9.5, denklem 9.29 | Destekli; büyüklük ifadesi açıklandı |
+| E09 | H04 §3A | İdeal makine enerji üretmez | OpenStax §9.5 giriş; kuvvet/yol açıklaması | Destekli; normatif sonuca aktarılmadı |
+| E10 | H04 §3A | Her araç kuvveti büyütür genellemesi geçmez | OpenStax §9.5, Şekil 9.22b / 9.23c | Karşı-örnekler ana metne eklendi |
+| E11 | H02 §5A / H03 §7B | Aynı veriyle hesaplama ve yeni veriyle tekrar farklıdır | NASEM 2019, bölüm 3, s. 45–46, Sonuç 3-1 | Destekli; kaynak yeri netleştirildi |
+| E12 | H02 §5D / H03 §7B | Tekrar ilk ekipçe de yapılabilir | NASEM 2019, bölüm 3, s. 45–46 | Destekli; ekip bağımsızlığından ayrıldı |
+| E13 | H05 §5A | Jelbert deneylerinde katılımcı sayısı azalır | Jelbert 2014, Subjects / Results | Destekli; ayrılma nedeni ve deney bazlı örneklem yazıldı |
+| E14 | H05 §5A | Jelbert kuşlarına taş bırakma eğitimi verilmiştir | Jelbert 2014, Initial Training | Destekli; eğitimsiz çözüm yorumu önlendi |
+| E15 | H05 §5A | Dar/geniş tüpte ilk tercih verimliyi göstermedi; U-tüpü başarısı şans üstü değildi | Jelbert 2014, Results, Experiments 4 / 6 | Görev bazlı sonuçlar yazıldı; katılım kaybından ayrıldı |
+| E16 | H05 §5A | Bu örneklemden türün tamamında yetenek yokluğu çıkmaz | Jelbert 2014, Discussion; örneklem/kısıtlar | Kaynağın genelleme sınırı korundu |
+
+Kaynak erişimi: NIST H/He veri sayfaları; NIDC Isotope Basics; NHGRI Cell, DNA ve Mitosis; NCI Cell differentiation; OpenStax §9.5; NASEM bölüm 3 ve PLOS'un Jelbert 2014 ana metni doğrudan okundu. Bu tur ham veri, ek video veya deney tekrarı yapılmadı. Aynı kurumsal tanımın iki makalede kullanılması iki bağımsız veri kümesi sayılmadı.
+
+H02'de bu tur öncesi eklenen 5fefc6b13728cc88ac82f15ba28e7e6956a6e6dd commit'i korundu. İki ayrı “7B” başlığı oluştuğu için son eklenen alt bölüm 7C olarak numaralandırıldı; metni silinmedi. NASEM'in yeni veri ayrımı H02'den H03'e; hücresel özelleşmenin kapsamı H05'e; kuvvet kazancının koşullu oluşu H04'e doğrudan işlendi.
+
+**Açık kapsam:** E01–E16 seçilmiş dar önermelerdir; tüm atomik iddiaların tamamlandığına ilişkin payda veya yüzde verilmez. Önceki kaynak envanteri bütün metin kapsamını gösterir; bütün cümlelerin bilimsel doğruluğunu göstermez. Bağımsız ikinci değerlendirme ve bütünsel Halka 0 kapanışı açık; Halka 1 üretimine geçilmedi.

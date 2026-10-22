@@ -65,6 +65,8 @@ Kurucu tanım ikinci bilenin onayını bilgi kuruluşunun parçası sayar. Bu ma
 
 İkinci bilenin reddi, yanlış P önermesinin onaylanmış bilgiye dönüşmesi değildir; denetimin düzeltme veya ret sonucu verdiğini gösterir. Geçerli itiraz giderilmeden olumlu onay kaydı açılmaz. Gerekçeli olumlu onay da belirli kapsam ve sürüm içindir; daha sonra karşı-kanıtla değişebilir. Bu ayrım, onay ilkesini korurken her değerlendirme sonucuna aynı epistemik statüyü vermeyi önler. İlahî bilme ve hüküm hakkındaki kurucu kabul, bu insani değerlendirme işleminin ölçülmüş başarısından türetilmez.
 
+**Tekrar ile değerlendirici bağımsızlığı:** NASEM'in tanımında yeni veriyle tekrar çalışmasını ilk araştırmacılar da yapabilir (2019, bölüm 3, s. 45–46; Sonuç 3-1). Bu nedenle “yeni veri var” ile “değerlendirici ilk ekipten bağımsız” ayrı kayıt alanlarıdır. Çekirdeğin bağımsız ikinci değerlendirme koşulu yalnız tekrar adının kullanılmasına dayanarak karşılanmış sayılmaz.
+
 ## 6. Sevgi, akıl, fıtrat
 Özgün *Akıl ve Bilginin Kaynağı* Word metni aklın iyi ve doğruyu seçmesini sevgiyle ilişkilendirir; ruhun üflenmesi ve insanın özü de kurucu tartışmanın parçasıdır. Bu bağlantı, insanın ahlaki yöneliminin bilgiye etkisini araştırma sorusu yapar; psikolojik mekanizma veya doğa yasası olarak peşinen ispatlandığı iddia edilmez.
 
@@ -84,7 +86,7 @@ Kurucu tanım ikinci bilenin onayını bilgi kuruluşunun parçası sayar. Bu ma
 | Muhataplığın ontolojik, epistemik ve ahlaki düzeyleri | Kurucu kilometre taşı | İnsan bilincini cansızlara yayma gerekçesi değil |
 
 
-### 7B. Bağımsız onayın sınanabilirlik ve hata denetimi
+### 7C. Bağımsız onayın sınanabilirlik ve hata denetimi
 İkinci Bilenin onayı, aynı iddiayı tekrar etmekten farklı bir işlemdir. Bir uygulama kaydında (1) önceden belirlenmiş P önermesi, (2) doğrulayıcının ilk değerlendirmeden bilgi ve yöntem bakımından bağımsızlığı, (3) kabul/red eşiği, (4) ortak veri ve ortak yanlılık kaynakları, (5) olumsuz sonuçta düzeltme yolu yazılmalıdır. İki kişinin aynı kaynaktan aktardığı hüküm iki bağımsız kanıt sayılmaz. Farklı kişilerin aynı veriyi değerlendirmesi yöntemsel çapraz kontrol sağlayabilir; bağımsız tekrar deneyinin yerine geçmez. Bu ölçütler Zanabûn'un epistemolojik önerisinin uygulanabilirliğini sınamaya yöneliktir; Ehad veya Yek hakkında deneysel doğrulama iddiası değildir. H03'teki iddia-kaynak-karşı-örnek kaydıyla karşılıklı izlenir.
 
 ## 8. Sonuç

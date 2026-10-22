@@ -58,3 +58,8 @@ Kalite matrisinin başındaki güncel tablo, yalnız gerçekten geçen dar kontr
 H01 §4B, H02 §5D, H03 §7D-1, H04 §4B ve H05 §5D'ye açık soruları yanıtlamaya yönelik argüman ve karar kuralları işlendi. Kalite matrisinde her sorunun iç sonucu ile bağımsız denetim bekleyen kısmı ayrıldı. H03'ün doldurulmuş kaydı de573d2e7dc083709d06b7871d4a15b90b374ed6 sürümündeki H02 §5'e bağlanır; daha sonraki sürümle karıştırılmaz. Bu, protokolün yazılı örneğidir; başka bir denetçinin yeniden uygulaması değildir.
 
 Bu tur yeni makale veya araştırma eki oluşturulmadı. Beş ana metin ve iki mevcut denetim kaydı güncellendi; bütünsel kapanış kararı verilmedi.
+
+## E01–E16 doğrudan kaynak karşılaştırması
+Seçilmiş 16 bilimsel/yöntemsel ifade için kaynak yeri ve karar kalite matrisine işlendi. Ana metinlerde NIDC atfı, tekrar/değerlendirici bağımsızlığı, mekanik avantajın koşulları, hücresel özelleşme ve karga deneyindeki eğitim/katılım/görev sonucu ayrımları düzeltildi. H02'nin dalda bulunan ek commit'i korundu; çakışan alt bölüm numarası düzeltildi.
+
+Bu işlem iddia düzeyindeki denetimi ilerletir; bütün önermelerin veya bağımsız ikinci değerlendirme koşulunun tamamlandığı anlamına gelmez. Yayın kapısı ve Halka 0 önceliği korunur.
