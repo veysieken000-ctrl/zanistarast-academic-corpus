@@ -66,3 +66,6 @@ Bu işlem iddia düzeyindeki denetimi ilerletir; bütün önermelerin veya bağ�
 
 ## E17–E30 kaynak denetimi
 Nükleer süreç ve karga deneyleri için on dört dar önerme kalite matrisinde kaynak yerlerine bağlandı. On iki önermenin ilgili kaynak yerleri doğrudan yeniden okundu; maya çalışmasının iki önermesi bu turdaki erişim kısıtı nedeniyle kısmi bırakıldı. H01, H03 ve H05 ana metinleri güncellendi. Bu kayıt toplam iddia sayısı veya tamamlanma yüzdesi değildir; bağımsız ikinci değerlendirme ve bütünsel kapanış hâlâ açıktır.
+
+## Maya kaynağının kısmi kayıtlarının kapanması
+E29–E30, PNAS yayıncı ana metninin ilgili bölümlerine doğrudan erişilerek kontrol edildi; iki kaydın kaynak erişimi eksikliği kapandı. H01'e deney işleminin zaman içindeki değişimi işlendi, H03'e yöntem değişikliğini izleme kuralı geri beslendi. E31 bu dar yöntem bilgisinin kaydıdır. Önceki başarısız erişimler korunur. Bu olumlu sonuç yalnız belirtilen kayıtlar içindir; bütünsel çekirdek kapanışı veya yayın onayı değildir.

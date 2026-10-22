@@ -8,7 +8,7 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 524f15c4c497ca88733b8acbb1fdc4d23c988a1a; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 058f0cedce7a7cdba1e1ef728a044b73dac22d75; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -22,9 +22,9 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 24598 | 4 | 0 |
+| H01 | 25152 | 4 | 0 |
 | H02 | 17830 | 1 | 0 |
-| H03 | 19457 | 4 | 0 |
+| H03 | 19932 | 4 | 0 |
 | H04 | 13815 | 0 | 0 |
 | H05 | 24094 | 5 | 0 |
 
@@ -227,8 +227,8 @@ H02'de bu tur öncesi eklenen 5fefc6b13728cc88ac82f15ba28e7e6956a6e6dd commit'i 
 | E26 | H05 §5A | Kritik koşullarda dört kuştan üçü ölçütü aştı | Boeckle 2020, Results / Tablo 1; ayrıntılar Tablo 3 | Doğrudan destekli; tür başarı oranı sayılmadı |
 | E27 | H05 §5A | Ana şans karşılaştırması beş seçenek içinde bir doğru için %20'dir | Boeckle 2020, Methods: Statistics | Doğrudan destekli; kaynakta çeldirici duyarlılığı da tartışılır |
 | E28 | H05 §5B | 2020 yazarları bütün çağrışımsal açıklamaları dışlamadıklarını belirtir | Boeckle 2020, Discussion | Doğrudan destekli; yalnız 2021 eleştirisine atfedilmedi |
-| E29 | H01 §6 | On popülasyonda 60 seçilim turu sonrası benzer kümeli biçimler bildirildi | Ratcliff 2012, resmî PMC indeks kaydı / şekil açıklaması | Bu tur indeks düzeyinde teyit; yeni tam metin tekrar kontrolü kısmi |
-| E30 | H01 §6 | Küme mekanizması bölünme sonrası bağlı kalma olarak aktarılır | Ratcliff 2012, önceki turda okunan Results: Mechanism of Cluster Formation | Önceki kontrol korunur; bu tur doğrudan yeniden erişim tamamlanmadı |
+| E29 | H01 §6 | On popülasyonda 60 seçilim turu sonrası benzer kümeli biçimler bildirildi | Ratcliff 2012, resmî PMC indeks kaydı / şekil açıklaması | İlk kayıtta kısmi; aşağıdaki E29–E30 kapanışında yayıncı metniyle doğrudan doğrulandı |
+| E30 | H01 §6 | Küme mekanizması bölünme sonrası bağlı kalma olarak aktarılır | Ratcliff 2012, önceki turda okunan Results: Mechanism of Cluster Formation | İlk kayıtta yeniden erişim eksikti; aşağıdaki kapanışta ilgili bölüm ve şekil açıklaması doğrudan doğrulandı |
 
 ### Erişim ve yorum sınırı
 Kenward'ın bir sayfalık Oxford PDF'si, Boeckle 2020'nin yedi sayfalık Cambridge PDF'sindeki ilgili yöntem/sonuç/tartışma ve Adelberger'in açık yazar sürümü §II denklem 2 ile §IB açıklaması doğrudan okundu. Ek video ve ham veri yeniden analiz edilmedi. E23'te barındırma/gösterim karışmasının değerlendirilmesi bizim yöntemsel çıkarımımızdır; kaynağın kendi cümlesi gibi verilmedi.
@@ -236,3 +236,16 @@ Kenward'ın bir sayfalık Oxford PDF'si, Boeckle 2020'nin yedi sayfalık Cambrid
 Ratcliff için PMC çağrısı doğrulama ekranına döndü. PNAS ilk çağrıda yayın kaydı sundu; sonraki bölüm aramaları çerez sayfasına yönlendi. Resmî indeks E29'un dar ifadesini sundu. Bu yüzden önceki tam metin incelemesi silinmedi, fakat yeni doğrudan yeniden okuma tamamlandı denmedi. E29/E30 bu turdaki erişim kısıtı kapanmadan diğer satırlarla aynı statüde gösterilmez.
 
 H01'de net nükleer bilanço/ara süreç ayrımı; H05'te yaprak görevinin birey kapsamı, barındırma koşulu, test paydası, şans düzeyi ve 2020 makalesinin kendi sınırlaması işlendi. H03'e örneklem paydası ve seçenek uzayını kaydetme kuralı geri beslendi. Dış çekirdeğe geçilmedi; bağımsız değerlendirme ve bütünsel kapanış açık.
+
+## E29–E30 erişim ve iddia kontrolünün kapanışı
+**Taban:** 058f0cedce7a7cdba1e1ef728a044b73dac22d75. **22 Ekim 2026.** Önceki kısmi kayıtlardan sonra https://www.pnas.org/doi/10.1073/pnas.1115323109 adresindeki yayıncı ana metnine doğrudan erişildi. Başlık, yazarlar, yıl ve DOI H01 kaynakçasıyla eşleşti. Deney düzeni, Results girişi, Mechanism of Cluster Formation ve Şekil 2B açıklaması okundu.
+
+| Kayıt | Güncel karar | Metindeki sonuç |
+|---|---|---|
+| E29 | İlgili bölüm doğrudan destekli | On popülasyon / 60 aktarım ifadesi korundu; H01 §6 yöntem geçişini belirtti |
+| E30 | İlgili bölüm doğrudan destekli | Mekanizma yalnız incelenen kümelere bağlandı; evrensel kümelenme mekanizması yapılmadı |
+| E31 | Yeni dar yöntem kontrolü destekli | İlk haftadan sonraki santrifüj aşaması H01'e işlendi; H03'e süreç değişikliğini izleme kuralı aktarıldı |
+
+Bu kapanış erişim ve belirtilen üç önerme içindir. Ham ölçüm, ek video ve bağımsız deney tekrarı yapılmadı. Önceki PMC doğrulama ekranı, PNAS çerez yönlendirmesi, Ottawa PDF 404 ve diğer başarısız çağrılar gerçek erişim sonuçları olarak korunur; son başarı bunları geriye dönük değiştirmez. MuLTEE laboratuvar sayfası alternatif bir açıklama sundu, fakat kapanışın dayanağı yayıncının makale metnidir; aynı araştırmanın ikinci bağımsız deneyi sayılmadı.
+
+IUPAC C01022/A00499 sayfalarının doğrudan çağrıları yine 403 verdi; Nisâ 4:1 dinamik tefsir sayfası okunabilir gövde vermedi. Bu kayıtların önceki resmî indeks düzeyleri tam sayfa okunmuş gibi yükseltilmedi. Bütün atomik iddiaların denetimi ve bağımsız ikinci değerlendirme hâlâ açık.
