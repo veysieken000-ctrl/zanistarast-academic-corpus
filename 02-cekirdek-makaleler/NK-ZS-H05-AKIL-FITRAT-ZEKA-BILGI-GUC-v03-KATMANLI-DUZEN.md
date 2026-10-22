@@ -3,13 +3,15 @@
 **H05 | 22 Ekim 2026 | Birikimli akademik araştırma sürümü — yayıma hazır değil**
 
 ## Öz
-Zanistarast'ın beşli kavram çerçevesi fizik, biyoloji, zihin, ruh ve ahlak boyutlarındaki işleyişi karşılaştırmak için yeniden düzenlenir. Kurucu sınır şudur: **Akıl, yalnız insanda bulunan ilimden ilim üretme yeteneğidir.** Diğer varlıklardaki düzen ve düzenleyici ilişki insan aklı olarak adlandırılmaz. Her düzenin üzerinde bir bilen bulunduğu önermesi metafizik kurucu tez olarak incelenir; deneysel yasa diye sunulmaz.
+Zanistarast'ın beşli kavram çerçevesi fizik, biyoloji, zihin, ruh ve ahlak boyutlarındaki işleyişi karşılaştırmak için yeniden düzenlenir. Kurucu sınır şudur: **Akıl, yalnız insanda bulunan ilimden ilim üretme yeteneğidir.** Diğer varlıklardaki düzen ve düzenleyici ilişki insan aklı olarak adlandırılmaz. Her düzenin üzerinde bir bilen bulunduğu önermesi metafizik kurucu tez olarak incelenir; deneysel yasa diye sunulmaz. Güncel model hayvanda Öz–Duygu–Zekâ–Fıtrî Ahlak, insanda Öz–Duygu–Akıl–Fıtrî Ahlak ve bunları yönlendiren İradeli Ahlak ayrımını önerir; insan zekâsı aklın temelinde varlığını sürdürür.
 
 ## 1. Kavramlar ve düzeyler
 - **Güç:** Fiziksel etki ve iş yapma imkânı. Fizikte kuvvet, enerji ve güç ayrı büyüklüklerdir; araştırmada uygun ölçü ve birim seçilmelidir.
 - **Bilgi:** Biyolojik dizilim, öğrenilmiş temsil, gündelik bilgi ve bilimsel bilgi farklı türlerdir. DNA biyolojik bilginin taşıyıcısıdır; insanın gerekçeli bilgisiyle özdeş değildir.
 - **Zekâ:** İşlem, belek/bellek, algı ve seçenek değerlendirme. Hayvan bilişi hakkında kapsamlı ampirik iddialar ayrıca kanıt ister.
 - **Fıtrat:** Varlığın kendine özgü kuruluş düzeni, imkânları ve sınırları. Ruh/kanun/yazılım benzetmesi bir analojidir; moleküler mekanizmayla ontolojik özdeşlik değildir.
+- **Fıtrî ahlak:** Fıtratın varlıkların işleyiş ve ilişkilerinde görünen düzeni; bilinçli tercih anlamına gelmez.
+- **İradeli ahlak:** İnsanın fıtrî imkânları bilgi, niyet ve tercihle yönlendirmesi; hüküm karşısındaki özel sorumluluk.
 - **Akıl:** Yalnız insanda ilimden ilim üretme, yeni genel bilgi, yöntem ve araç geliştirme. Diğer boyutlar için akıl sözcüğü ancak açıkça **simge** olarak kullanılabilir; literal yetenek atfı yapılmaz.
 
 ## 2. Katmanlı düzen örnekleri
