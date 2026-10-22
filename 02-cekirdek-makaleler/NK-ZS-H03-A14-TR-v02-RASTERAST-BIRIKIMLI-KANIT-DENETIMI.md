@@ -5,6 +5,9 @@
 ## Öz
 Rasterast, Hebûn ontolojisinin ilk Yek → ikinci Yek → yeni Yekler → Komel kurucu türeme tezini ve Zanabûn epistemolojisinin bilen özne → bilinen nesne → sonuç → ikinci bilenin onayı ilkesini **anlamlarını değiştirmeden, kaynak ve kanıt türüne göre** değerlendiren denetim yöntemidir. Bu çalışma kurucu inanç, birincil metin, tefsir, mantıksal çıkarım, analoji ve ampirik iddialar için ayrı kayıt alanları önerir. Nisâ 4:1'in insan örneğiyle fiziksel ve biyolojik süreçlerin özdeş sayılmasını önleyen bir iddia soyağacı kurar. Bağımsız ikinci denetimin ortak hata koşullarını ele alır. Bu protokol henüz gerçek hakemli değerlendirmede doğrulanmış bir yöntem değildir. Güncel kurucu modelde fıtrat, fıtrî ahlak ve iradeli ahlak farklı kavramlardır; bunların ontolojik, deneysel ve teolojik dayanakları ayrı ayrı denetlenir.
 
+## Yöntem ve iddiaların kapsamı
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+
 ## 1. Devralınan bilgi: H01 ve H02
 **H01 Hebûn:** Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır. İlk Yek → ikinci Yek → üçüncü ve sonraki Yekler → Komel, kurucu ontolojik ilişkidir. Yek yaratılmış yedinci boyut değildir. Nisâ 4:1'de tek nefis, ondan eşi, ikisinden çoğalma bulunur; Âdem–Havva–çocuklar kurucu tefsir örneğidir. “Bel kemiği/kaburga” ayetin doğrudan lafzı değildir.
 **H02 Zanabûn:** Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı. Ontolojik ikinci Yek ile epistemolojik ikinci bilen farklı rollerdir. İki kişinin aynı sonucu söylemesi ortak hata olasılığını ortadan kaldırmaz.
@@ -57,8 +60,25 @@ Kur'an, Hz. Muhammed'in öğretisi ve Risale-i Nur, kurucu düşünsel yönelimi
 ## 7A. Beş çekirdek için uygulanabilir geri besleme denetimi
 Her bilimsel iddia için kayıt şeması: (i) makale ve bölüm, (ii) iddianın aynen yazımı, (iii) teolojik/felsefi/ampirik/hipotez/analojik statü, (iv) birincil kaynak ve varsa DOI, (v) bağımsız ikinci denetim, (vi) karşı-örnek, (vii) düzeltmenin etkileyeceği diğer çekirdekler. Kaynağı bulunmayan ampirik iddia açık olarak işaretlenir; felsefi kabul ampirik ispat olarak etiketlenmez. H01'de hidrojen-1, H05'te karga bilişi karşı-örnekleri bu protokolün başlangıç denemeleridir. Çekirdekteki her değişiklik ilgili diğer makaleye geri beslenip yeniden denetlenmeden kapanış verilmez.
 
+## 7B. Denetimin yeniden uygulanması ve karar kuralları
+NASEM (2019, bölüm 3) aynı verinin yeniden hesaplanmasını yeni veriyle sınamadan ayırır. Rasterast kaydı bu iki işlemi ayrı alanlarda tutar. Aynı DOI'ye dayanan iki özet iki bağımsız araştırma sayılmaz. Bir denetçinin kendi metnini yeniden okuması sürüm doğrulamasıdır; bağımsız hakemlik değildir.
+
+1. İncelenen metnin commit'i, bölüm ve iddia kimliği sabitlenir; sonraki değişiklik yeni kayıt açar.
+2. Kaynağın başlık–yazar–yıl–DOI eşleşmesi doğrulanır. Yalnız bibliyografik eşleşme ile yöntem ve bulgu kontrolü ayrı işaretlenir.
+3. Kaynağın erişilen kısmı (tam metin, özet, şekil veya yalnız kayıt) ve iddiayı destekleyen yer belirtilir. Erişilemeyen bölüm incelenmiş sayılmaz.
+4. İddiaya en güçlü karşı-örnek ve alternatif açıklama yazılır. Kapsam dışına taşan çıkarım daraltılır; karşıt bulgu saklanmaz.
+5. Karar **destekli / kısmen destekli / karşı-örnekle sınırlı / kaynak bekliyor** olarak gerekçelendirilir. Bu etiketler sayısal olasılık değildir.
+6. H01–H05'te ilgili tanımın geçtiği bölümler yeniden okunur. Bağımsız denetçi bulunmadıysa o alan açık bırakılır; aynı çalışma turu ikinci bağımsız onay gibi sunulmaz.
+
+**Deneme kayıtları:** H01 bölüm 5'te hidrojen-1, bütün atomlar için nötron zorunluluğunu sınırlar; bütün ontolojiyi tek başına değerlendirmez. H01 bölüm 6'daki maya deneyi çok hücrelilik için mekanizma gereğini görünür kılar. H05 bölüm 5'te karga alet üretimi ve planlama bulguları, basit “hayvan alet yapamaz” ayrımını sınırlar. Bu örneklerin kaynakları ilgili makalelerin dış kaynakçalarındadır. Deneme protokolün kullanılabilirliğini gösterir; hata yakalama başarısı hakkında bağımsız ölçüm yapılmış değildir.
+
+**Yöntemsel sınır:** Kurucu kaynak sadakati ile ampirik doğruluk iki ayrı denetimdir. Kanonik uyum bilimsel doğrulamanın yerine geçmez. Geçerli bir karşı-örnek geldiğinde ampirik uygulama düzeltilebilir; kurucu teolojik kabulün statüsü ayrıca belirtilir. Hedef, farklı iddia türleri arasındaki geçişin gerekçesini görünür kılmaktır.
+
 ## 8. Sonuç
 Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. Böylece H01 ve H02'nin kazanımları H04'e aktarılırken anlam kaybı ve gereksiz tekrar azalır.
+
+## Dış kaynakça
+- National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3, yöntemsel karşılaştırma; bölüm 7B'de kullanılır.
 
 ## Kaynak izi
 1. `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
