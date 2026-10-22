@@ -67,7 +67,7 @@ Hebûn'da ikinci Yek, ontolojik ilişkideki ikinci tekilliktir. Zanabûn'da **ik
 
 ## 11. Sonuç
 
-Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in ortaya çıkışı ve devamlılığıdır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin özgün iddiası budur; bütün boyutlarda tek bir doğa kanununun kanıtlandığı iddiası henüz değildir.
+Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in ortaya çıkışı ve devamlılığıdır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin özgün iddiası budur; bütün boyutlarda tek bir doğa kanununun kanıtlandığı iddiası henüz değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
 
 ## Kaynaklar ve izlenebilirlik
 
