@@ -31,3 +31,8 @@ Yeni kaynak veya karşı-örnek önceki makaleyi değiştiriyorsa geçmişi silm
 
 ## Oturum sınırı
 Dakikalık kullanıcı “devam” mesajlarıyla etkin çalışma sürdürülebilir; bu protokol kendi kendine kesintisiz arka plan yürütmesi vaat etmez. Yeni oturumlarda `AGENTS.md` ve bu protokol yeniden okunur.
+
+
+## Bilim felsefesi bilgi paketi (22.10.2026)
+
+**Araç → fıtrî imkânlardan yararlanma → seçeneklerin genişlemesi → iradeli ahlakın değerlendirilmesi → hüküm karşısında muhataplık** zinciri araştırma konusu olarak devralınır. Bilgi değerlendirmesi üç ayrı eksende yürütülür: **kanıt/doğruluk**, **fayda-zarar ve zaman ufku**, **ahlaki amaç/sorumluluk**. Peygamberin faydasız ilimden sığınma duası için hadis kaynak denetimi yapılır; sözde bilim ile bugün faydası bilinmeyen temel bilim ayrılır. İlgili çekirdek: `02-cekirdek-makaleler/NK-ZS-BILIM-FELSEFESI-ARAC-FITRI-IMKAN-IRADELI-AHLAK-v01.md`. Bu kazanım H01–H04 ve akıl/bilgi makalelerine yalnız konu bağımlılığı gerektirdiğinde aktarılır.
