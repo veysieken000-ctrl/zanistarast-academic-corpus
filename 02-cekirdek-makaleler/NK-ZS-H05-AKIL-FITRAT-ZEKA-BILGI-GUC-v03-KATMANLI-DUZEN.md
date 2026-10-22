@@ -44,7 +44,10 @@ Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 
 Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İnsana özgü akıl için ayrıca `A_h` değişkeni tanımlanabilir: yeni bilgi/araç geliştirme kapasitesinin operasyonel göstergeleri araştırılır. Ruh/melekî idare veya metafizik bilen, ölçüm yöntemi tanımlanmadan bu denkleme ampirik parametre olarak eklenmez.
 
-## 7. Rasterast değerlendirme planı
+## 7. Sonuç ve Rasterast değerlendirme planı
+İnsan ve hayvanın ontolojik ortak özü, aynı bilişsel yetenek ve aynı ahlaki sorumluluk anlamına gelmez. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve bunları yönlendiren iradeli ahlak şeması önerilir. İnsanın zekâsı akıl işleyişinin temelinde varlığını sürdürür. Fıtrî zekâ her zihinli canlıya uygulanır; akıl kurucu tanımda insana özgü ilimden ilim üretme kapasitesidir. Bu ayrımlar kavramsal tezlerdir; karşılaştırmalı biliş bulgularıyla ayrıca sınanmalıdır.
+
+### Rasterast değerlendirme planı
 1. Kavramların birbirine karışmadığını sınayan mantıksal denetim.
 2. Atom/yıldız, hücre/çok hücreli, duyu/sinir sistemi/zihin örneklerinde kaynaklı bilimsel açıklama.
 3. Zekâ ve insana özgü akıl ayrımına ilişkin karşılaştırmalı biliş literatürü ve karşı-örnekler.
