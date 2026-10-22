@@ -68,3 +68,9 @@ Kaynakla uyum, bir onermenin kurucu metinde yer aldigini gosterebilir; tek basin
 Karsilastirmali dis kaynak: Reiss ve Sprenger, Scientific Objectivity, Stanford Encyclopedia of Philosophy (2020 esasli revizyon): https://plato.stanford.edu/entries/scientific-objectivity/ . Bu kaynak Zanistarast'in kurucu iddialarini dogrulamaz.
 
 **Acik is:** Ozgun bilim DOCX paragraf eslemesi, bagimsiz ikinci okuma ve ampirik sinamalar. **Yayima hazir degil.**
+
+## Ozgun bilim belgesi kimlik denetimi (22.10.2026)
+
+Bagli Google Drive uzerinde `6-Bilim (1).docx` tam adiyla arama sonuc vermedi. `Bilim` aramasinda ise `7-Bilim.docx` adli 32515 baytlik bir belge ve ayni adla kopyalar goruldu. Ozellikle `7-Bilim.docx` (Drive kimligi `14oSElIHPtjTjMRna0zZXTS9n7xt3ACFM`) 25.12.2025 tarihli; diger kopyalar 2026 tarihlidir. **Bu iki dosya adinin ayni eseri temsil ettigi dogrulanmadi.** Yalnizca ad benzerliginden kaynak ozdesligi kurulamaz; 7-Bilim belgesine 6-Bilim icin paragraf numarasi atfedilmez.
+
+Sonraki K0 kontrolu: her iki belgenin varsa icerik karmasini, ilk basligini, bolum yapisini ve paragraf dizisini karsilastirmak; uyusma yoksa ayri eserler olarak kaydetmek. Bu turda Drive dosyasinin tam metni okunmadi. **Ozgun DOCX paragraf eslemesi halen acik, yayin hazirligi tamamlanmadi.**
