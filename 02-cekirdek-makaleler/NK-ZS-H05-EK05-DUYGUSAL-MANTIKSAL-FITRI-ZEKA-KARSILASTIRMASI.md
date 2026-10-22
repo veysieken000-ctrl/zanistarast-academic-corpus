@@ -22,7 +22,7 @@ Zanistarast'ın kurucu yaklaşımında zekâ; algı, işlem, bellek, öğrenme v
 6. Zentall (2023), *Comparative Cognition Research Demonstrates the Similarity between Humans and Other Animals*, Animals 13(7), 1165, DOI 10.3390/ani13071165. Karşılaştırmalı bilişte insan ve diğer hayvanların ortak kapasitelerine dair derleme: https://doi.org/10.3390/ani13071165
 
 ## H04 ile tutarlılık kararı
-Üçüncü kozmik boyutun ilk evresi zekâ, ikinci evresi kurucu tanımıyla insan aklıdır. Bu sınıflama, bütün zihinli canlıların ikinci evreye sahip olduğunu ileri sürmez. Duygusal ve mantıksal zekâ üçüncü bir kozmik evre veya ruh/melek boyutunun alt türleri değildir. Hayvanlarda fıtrî zekâ terimi açıklayıcı kurucu adlandırmadır, deneyle tespit edilmiş ayrı bir zekâ türü olduğu iddia edilmez.
+Üçüncü kozmik boyutun ilk evresi zekâ, ikinci evresi kurucu tanımıyla insan aklıdır. Bu sınıflama, bütün zihinli canlıların ikinci evreye sahip olduğunu ileri sürmez. Duygusal ve mantıksal zekâ üçüncü bir kozmik evre veya ruh/melek boyutunun alt türleri değildir. İnsan dâhil zihinli canlılarda fıtrî zekâ terimi açıklayıcı kurucu adlandırmadır; deneyle tespit edilmiş bağımsız bir zekâ türü olduğu iddia edilmez. Hayvanlarda öz, duygu, zekâ ve fıtrî ahlak; insanda öz, duygu, akıl ve fıtrî ahlak ile bunları yönlendiren iradeli ahlak ayrımı, güncel kurucu modeldir.
 
 ## Operasyonel araştırma taslağı
 - Duygusal işleme: duyguları tanıma, ayırt etme ve duruma uygun düzenleme görevleri.
