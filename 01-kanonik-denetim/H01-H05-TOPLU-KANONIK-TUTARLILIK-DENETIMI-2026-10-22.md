@@ -60,3 +60,6 @@ Bu bulgular fıtrat kavramıyla karşılaştırılabilir; fakat yaratılışın 
 6. Bu denetim ayrı makale sayılmaz; 412 benzersiz makale hedefine eklenmez.
 
 **Sonuç:** Çekirdek metinlerde açık temel çelişki saptanmadı; G1–G6 açıklama/kanıt gerektiren noktalar olarak kayıt altına alındı.
+
+## 6. Güncel denetim sonucu (22.10.2026)
+H01, H02, H03, H04 ve H05'in güncel sürümleri tekrar okundu; beşi de `KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md` kaydına bağlanmıştır. H05 Ek 05'te fıtrî zekânın hayvan merkezli örneklendirilmesi, kurucunun **insan dâhil tüm zihinli canlılar** yönündeki son açıklamasına göre dar ve eksik kalmaktadır. H05 v03 §10 doğru genişletmeyi içerir; Ek 05'in düzeltmesi **açık iş** olarak tutulur. H04 v03'te otonom kâinat benzetmesi, ontolojik kapsama, beşinci ahlak ve altıncı hüküm ayrımları açıkça yazılmıştır. H01 v03 ortak öz ve iki farklı kapsama ölçütünü, H02 v02 bilimsel/hükmî muhataplık ayrımını, H03 v02 iddia türlerini ayrı denetlemeyi içerir. Bu tarama belge içi kavram eşlemesidir; tüm kaynakların bağımsız doğrulanması veya yayıma hazırlık onayı değildir.
