@@ -24,13 +24,13 @@ Kavramsal gösterim: **S'nin O'ya yönelimi → P önermesinin kurulması → S�
 İnsan düzeyindeki onayın doğrudan nesnesi P iddiasıdır; onay, yönelinen varlığı yaratan ontolojik sebep olarak kullanılmaz. İlahî ilk Bilen ile insanın tasdiki arasında kurulan teolojik ilişkide de insanın onayı Ehad'ın var olmasının şartı değildir; insanın bilmesi ve muhataplığıyla ilgilidir. Böylece Hebûn'un varlık temeli ile Zanabûn'un insan bilgisinin değerlendirilmesi aynı bağımlılık ilişkisine indirgenmez.
 
 ## 3. İkinci Yek ile ikinci bilen neden karıştırılmamalı?
-İkinci Yek, Hebûn'un ontolojik dizisinde ayrı varlık/kimliktir. İkinci bilen, Zanabûn'un bilgi iddiasını değerlendiren muhataptır. İkinci bir varlığın ortaya çıkması tek başına doğrulama yapıldığı anlamına gelmez. Ontolojik muhataplık, bağımsız epistemik değerlendirme ve insanın hüküm karşısındaki iradeli sorumluluğu üç ayrı düzeydir. Bütün varlıklarda düzen bulunması, bütün varlıkların bilinçli bilimsel onay verdiğini göstermez. İkinci bilenin onayı da tek başına yanılmazlık sağlamaz; ortak veri veya yöntem hatası mümkündür. Bağımsız doğrulama, ikinci bilenin ilk bilenin hatasını yeniden üretmediğinin ayrıca gösterilmesini gerektirir.
+İkinci Yek, Hebûn'un ontolojik dizisinde ayrı varlık/kimliktir. İkinci bilen, Zanabûn'un bilgi iddiasını değerlendiren muhataptır. İkinci bir varlığın ortaya çıkması tek başına doğrulama yapıldığı anlamına gelmez. Ontolojik muhataplık, bağımsız epistemik değerlendirme ve insanın hüküm karşısındaki iradeli sorumluluğu üç ayrı düzeydir. Bütün varlıklarda düzen bulunması, bütün varlıkların bilinçli bilimsel onay verdiğini göstermez. İkinci bilenin onayı da tek başına yanılmazlık sağlamaz; ortak veri veya yöntem hatası mümkündür. Bağımsız doğrulamada, ilk bilenle paylaşılan hata kaynakları ve bunları sınayan ek işlemler ayrıca gösterilir. Belirli bir hatanın saptanmaması bütün olası hataların dışlandığı anlamına gelmez; bağımsızlık kapsamı, yanılmazlık güvencesi değildir.
 
 ## 4. Boyutlarda aynı soru, ayrı mekanizmalar
 | Boyut | Hebûn'da ilk–ikinci–yeni Yek | Zanabûn'da bilgi/onay karşılığı |
 |---|---|---|
 | Fizik | Atomik tekillikler, fiziksel etkileşim ve yeni örgütlenme | Enerji ve fiziksel düzen; insan gözlemcinin tasdikiyle özdeş değildir |
-| Biyoloji | İlk hücre, bölünmeyle ikinci hücre; daha sonra çok hücreli örgütlenme | Bilgi aktarımı ve DNA/RNA araçları; iki hücre kendiliğinden çok hücreli organizma değildir |
+| Biyoloji | Ana hücreden yavru hücrelere türeme; sayısal kimlik ile soy sürekliliği ayrılır (H01 §6) | Bilgi aktarımı ve DNA/RNA araçları; iki hücre kendiliğinden çok hücreli organizma değildir |
 | Zihin | İlk zihinli Yek, ikinci zihinli Yek ve hafıza soruları | Zekâ (işlem/bellek) ve akıl (yeni genel bilgi çıkarımı), karşılıklı değerlendirme |
 | Ruh | Ruh/fıtrat ve melekler | Kanun ve muhataplık: teolojik-ontolojik düzey |
 | Ahlak | Fıtrî ahlak ve iradeli ahlak | Sevgi, sorumluluk ve ahlaki değerlendirme |

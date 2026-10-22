@@ -1,4 +1,4 @@
-# Rasterast — Ehad–Yek Kurucu Tezinden Bağımsız Kanıt Denetimine
+# Rasterast — Birikimli Kanıt ve Bağımsız Denetim
 
 **H03/A14 Türkçe v02 | 22 Ekim 2026 | Birikimli akademik araştırma sürümü, gönderime hazır değil**
 
@@ -33,7 +33,7 @@ Her iddia şu alanlarla tutulur:
 | ID | Önerme | Tür | Denetim sonucu |
 |---|---|---|---|
 | R-H01-01 | Ehad Yek'tir | K | Kurucu kanonda kayıtlı; fiziksel deney kanıtı iddiası yok |
-| R-H01-02 | Nisâ 4:1 tek nefis, eş ve ikisinden çoğalmayı anlatır | T | Ayet metni ve tefsirle kontrol edilmeli; kaynak doğrudan belirtilmeli |
+| R-H01-02 | Nisâ 4:1 tek nefis, eş ve ikisinden çoğalmayı anlatır | T | H01 §3: Diyanet 2011 meal ve dipnotu doğrudan kontrol edildi; Kur'an Yolu tefsiri indekslenmiş resmî metinden incelendi. Erişim düzeyleri ayrı tutulur |
 | R-H01-03 | Âdem ilk Yek, Havva ikinci Yek, çocuklar sonraki Yeklerdir | Y | Kurucu tefsir; ayetin lafzı ile özdeş değil |
 | R-H01-04 | Aynı 1→2→3 şeması her boyutta aynı maddi mekanizmadır | E | **Desteklenmiyor**; boyuta özgü süreçler var |
 | R-H01-05 | Her atomda proton, nötron ve elektron bulunur | E | **Karşı-örnek: hidrojen-1 nötronsuzdur** |

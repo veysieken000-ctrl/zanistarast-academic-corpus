@@ -2,6 +2,49 @@
 
 **Tarih:** 22 Ekim 2026. **Kapsam:** GitHub'daki beş çekirdek makalenin gerçek metinlerinden yapılan ilk yapısal tarama. **Statü:** Açık kalite kapısı; yayıma hazır değil. Bu kayıt 412 makale sayısına eklenmez.
 
+## Güncel dar kapsamlı kontrol sonucu — 22 Ekim 2026
+
+Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir. “Yeşil” yalnız adı verilen kontrolün geçtiğini gösterir; makale doğruluğunun tümünü veya yayın iznini göstermez.
+
+| Denetim | Durum | Kanıt / sınır |
+|---|---|---|
+| Dal ve sürüm tabanı | Yeşil | Bu turun tabanı 8a76456ac478816c42b251841775a34f3985b9f2; değişiklikler bu beş ana metin üzerinde |
+| Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
+| Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
+| Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
+| Atıf aktarımındaki belirli bulgular | Yeşil | H01 NIDC kaynakçası tamamlandı; H03 R-H01-02 eski iş durumu düzeltildi |
+| Kavramsal geri beslemedeki belirli bulgular | Yeşil | H02 hücre tablosu H01 §6 ile eşlendi; bağımsızlık yanılmazlık sayılmadı; H04 eylem/erdem, H05 yenilik/bilgi ayrıldı |
+| Bütün atomik iddiaların bilimsel ve felsefi denetimi | Açık | Blok kapsamı ve ana önerme haritaları bu ölçütün tamamı değildir |
+| Bağımsız ikinci alan/argüman denetimi | Açık | Bu kayıt aynı çalışma akışınca hazırlandı; dış değerlendirme sonucu yok |
+| Bütünsel Halka 0 kapanışı | Yeşil değil | Önceki iki açık ölçüt kapanmadan dış çekirdek üretimine geçilmez |
+| 412 makale yayın kapısı | Kapalı | Bütün envanter, bütünsel uyum ve kurucu nihai onayı koşulları korunur |
+
+### Son sürüm ölçümü
+| Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
+|---|---:|---:|---:|
+| H01 | 22725 | 4 | 0 |
+| H02 | 15566 | 1 | 0 |
+| H03 | 17078 | 4 | 0 |
+| H04 | 12621 | 0 | 0 |
+| H05 | 20807 | 5 | 0 |
+
+Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
+
+### Kapanışı bekleyen somut iddia soruları
+Bu sorular makalelerin açık araştırma konularından ayrı olarak, mevcut metnin gerekçelendirme yeterliliğinin denetimi içindir. Her yanıt iddia, kaynak yeri/öncül, karşı-örnek, karar ve gerekiyorsa diğer dört metne düzeltme alanlarıyla kaydedilmelidir.
+
+| Kimlik | Denetlenecek yer | Karar verilmesi gereken soru | Beklenen kayıt |
+|---|---|---|---|
+| D01 | H01 §§4–6, 10A | Komel'in önerilen örgütlenme ölçütleri, verilen fizik ve biyoloji örneklerinde kapsamı aşan çıkarımı gerçekten engelliyor mu? | Örnek bazında mekanizma ve kimlik sınırı; bağımsız alan görüşü |
+| D02 | H02 §§2–5C, 7B | Kurucu onay tanımı ile kamusal, düzeltilebilir gerekçelendirme yorumu arasındaki köprü yeterince gerekçeli mi? | Öncül–sonuç incelemesi; döngüsellik ve ortak hata itirazlarına gerekçeli karar |
+| D03 | H03 §§3, 7A–7E | Örnek soyağacı kaydı başka bir denetçinin aynı iddia ve kaynak yerine ulaşmasına yeterli mi? | Bağımsız yeniden uygulama; eksik alan ve uyuşmazlık kaydı |
+| D04 | H04 §§2–5D | İmkân, bilgi, niyet ve kontrol koşulları normatif sonucu açıkça sınırlıyor mu; evre tablosu tarihsel zorunluluk ima ediyor mu? | Felsefi argüman ve kanonik kapsam incelemesi |
+| D05 | H05 §§1–6A | Akıl tanımı ile önerilen davranış göstergeleri arasında döngüsellik veya tanımla ampirik sonucu garanti etme sorunu kalıyor mu? | Karşılaştırmalı biliş ve kavram incelemesi; kaynakların desteklediği dar sonuçlar |
+
+Bu beş soru beş atomik iddia sayımı değildir; inceleme başlıklarıdır. İki özgün kaynağın bütün metin kapsamının taranmış olması, burada beklenen kararları kendiliğinden üretmez. Bağımsız denetçi/sonuç alanları doldurulmadı. Gönderim veya dış kişiye mesaj işlemi yapılmadı. Yeni inceleme bu turdan sonraki commit'i esas almalı; ilgili ana metin değişirse kararın sürüm kapsamı yeniden kontrol edilmelidir.
+
+---
+
 ## Doğrulanmış yapısal envanter
 | Kimlik | Makale | Metin karakteri | Bölüm yapısı | DOI biçimli kayıt | Dış URL |
 |---|---|---:|---|---:|---:|

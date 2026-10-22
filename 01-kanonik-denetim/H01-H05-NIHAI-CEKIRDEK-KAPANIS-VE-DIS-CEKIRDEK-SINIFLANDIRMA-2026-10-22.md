@@ -48,3 +48,8 @@ Güncel ölçüm ve kaynak erişim ayrıntıları kalite matrisi ile kaynak akta
 Öncül–sonuç ve kapsam incelemesinde sekiz bulgu ana metinlere işlendi: yerel Yek indisleri; hücrede soy/kimlik sürekliliği; özne–nesne rolü; onayın iddiaya yönelmesi ve ontolojik bağımlılıktan ayrılması; kanıt bağımlılığının katmanları; evrelerin bireylere uygulanma kapsamı; her düzene bir bilen ile aynı tek bilen arasındaki çıkarım farkı; kavramsal şemanın ölçüm türleri. Ayrıntılı L01–L08 kaydı kalite matrisindedir.
 
 Bu işlem önceki iç editoryal aşamanın devamıdır; ayrı bir denetçi veya hakem bulunmuş gibi gösterilmez. Kurucu Ehad–Yek kabulü ve güncel kanon korunmuş; eksik ara öncüller bilimsel olarak kanıtlanmış varsayılmamıştır. Ana metinlerin bütünsel kapanışı, bağımsız alan/argüman denetimi ve kalan iddia kontrolleri açık olduğundan dış çekirdeğe geçilmez.
+
+## Güncel kapanış engelinin somutlaştırılması
+Kalite matrisinin başındaki güncel tablo, yalnız gerçekten geçen dar kontrolleri yeşil gösterir. Son turda H01'in NIDC kaynakçası, H02'nin hücre/kimlik tablosu ve bağımsızlık cümlesi, H03'ün kaynak denetimi durumu, H04'ün eylem/erdem ayrımı ve H05'in yeni çıktı/yeni bilgi ölçütü doğrudan düzeltildi. D01–D05 soruları, kalan iddia düzeyi ve bağımsız değerlendirme için metin yerleriyle tanımlandı. Başka bir denetçiden sonuç alınmış gibi kayıt oluşturulmadı.
+
+**Karar:** İç kontrollerdeki yeşil satırlar bütünsel çekirdek kapanışı değildir. Atomik iddia denetimi ve bağımsız ikinci değerlendirme açıkken Halka 1'e geçiş ve yayın onayı verilmez. Bu sınır, açık soruları saklayarak veya aynı asistanın yeniden okumasını bağımsız onay sayarak kaldırılamaz.
