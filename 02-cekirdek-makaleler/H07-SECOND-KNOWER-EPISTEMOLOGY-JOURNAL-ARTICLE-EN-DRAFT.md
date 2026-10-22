@@ -222,3 +222,30 @@ This section distinguishes **established bibliographic leads** from **source-ver
 5. Before selecting a journal, confirm that the article makes a sufficiently distinct argument relative to established social epistemology; otherwise consider publishing it as a critical edition with commentary rather than overstating theoretical novelty.
 
 **Next verification gate:** retrieve publisher or journal records for each lead, confirm exact bibliographic metadata and accessible argument summaries, then insert only verified references into the formal bibliography. A subsequent step should assess candidate philosophy-of-science journals against actual editorial instructions.
+
+## 13. Bibliographic verification of six primary scholarship leads (22 October 2026)
+
+**Method and scope.** Bibliographic information below was checked against publisher, journal, institutional, or scholarly catalog records. Book descriptions and abstracts were consulted where available; **full texts of the six works were not comprehensively read or annotated**. Consequently, the following is a verified bibliography and a preliminary comparative reading guide, **not** a completed literature review. No invented page-specific quotations are offered.
+
+| Work | Bibliographic verification | Verified source | Interpretive relevance (editorial, not an author quotation) |
+|---|---|---|---|
+| Longino, Helen E. (1990). *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*. Princeton University Press. | Title, author, publisher, year; DOI `10.2307/j.ctvx5wbfz` for the JSTOR book record | https://doi.org/10.2307/j.ctvx5wbfz | The publisher description frames objectivity as social rather than purely individual inquiry; compare with the H07 requirement of a second knower. |
+| Longino, Helen E. (2002). *The Fate of Knowledge*. Princeton University Press. | Title, author, publisher and 2002 copyright/publication record; different editions may have different ISBNs | https://www.jstor.org/stable/j.ctv2tvzv0 | Publisher description discusses integrating social and cognitive dimensions; compare with the source's knowing subject and social recognition. |
+| Goldman, Alvin I. (1999). *Knowledge in a Social World*. Oxford University Press. | Title, author, publication date 14 January 1999, DOI `10.1093/0198238207.001.0001` | https://doi.org/10.1093/0198238207.001.0001 | Publisher abstract emphasizes truth and reliable social practices, helping distinguish approval from reliability. |
+| Hardwig, John (1985). “Epistemic Dependence.” *The Journal of Philosophy*, 82(7), 335–349. | Journal, volume, issue, pages and DOI `10.2307/2026523` verified; full article behind paywall | https://doi.org/10.2307/2026523 | Relevant to dependence on others' knowledge, but a close claim-level comparison requires the article text. |
+| Merton, Robert K. (1942). “Science and Technology in a Democratic Order.” *Journal of Legal and Political Sociology*, 1, 115–126. | Original 1942 title and pagination reported in a later reprint's source note; “The Normative Structure of Science” is a **later reprint title**, not the original 1942 article title | https://stsinfrastructures.org/sites/default/files/artifacts/media/pdf/thenormativestructureofscience_merton_1942.pdf | Clarify scientific institutional norms versus the evidential truth of individual claims. Verify reprint edition before page-level citation. |
+| Oreskes, Naomi (2019). *Why Trust Science?* Princeton University Press. | Author, year, publisher and book identity corroborated by Harvard's publication record | https://histsci.fas.harvard.edu/publications/why-trust-science | Institutional abstract stresses rigorous social vetting; compare with the H07 idea of a second knower without equating consensus with proof. |
+
+### Corrected metadata and citation precautions
+
+- **Merton:** Earlier shorthand “The Normative Structure of Science (1942)” risks anachronism. Cite the **1942 original as “Science and Technology in a Democratic Order”** or cite the later reprint under its own title and edition; do not merge their titles and dates.
+- **Longino 2002:** The 2002 Princeton/JSTOR publication record is used here; edition-specific publication-year differences in institutional biographies are not treated as evidence of two distinct works.
+- **Hardwig:** A publisher/journal metadata record confirms bibliographic identity, **not** the detailed argument. Marked for full-text review.
+- **DOIs:** Only the identifiers actually visible in the checked records are included; no DOI is assigned to works where one was not verified.
+- **Research status:** None of these sources endorses Zanabûn merely because it discusses social knowledge. The article's potential originality remains unproven pending deeper primary-text comparison.
+
+### Focused comparative synthesis
+
+The verified **publisher summaries** already establish that the philosophical problems of communal objectivity, social knowledge, expertise, and justified trust predate this journal-oriented reconstruction. The article must therefore not claim that requiring other knowers is historically unprecedented. A plausible narrower contribution would be an **accurate exposition and critical examination of the specific Zanabûn subject–object–second-knower configuration**, including its unresolved ambiguity between assent, practical recognition, and independent evidential scrutiny. This is a provisional scholarly positioning, not a result of comprehensive full-text analysis.
+
+**Next gate:** Read the accessible primary works at chapter/article level, verify exact claims with page references, identify at least one serious rival interpretation, and assess the submission instructions of a specifically selected philosophy-of-science journal. This file remains a draft.
