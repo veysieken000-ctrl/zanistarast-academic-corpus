@@ -75,3 +75,6 @@ Güncel kurucu kilometre taşı temel alınarak H04 Ek 03 (zihin–zekâ–akıl
 
 ## 10. Kaynak doğrulama kalite kapısı (22.10.2026)
 `H05-KAYNAK-DOGRULAMA-KARGALAR-HIDROJEN-2026-10-22.md` dosyasında iki hayvan bilişi yayını (Kenward 2005; Boeckle 2020) ile hidrojen-1 karşı-örneği için kaynak–iddia–sınır eşlemesi kaydedildi. Bu, üç kayıt için sınırlı bir doğrulamadır; H01–H05'in bütün kaynaklarının veya 412 makalenin doğrulandığı anlamına gelmez. Sonraki kapılar: geri kalan kaynak künyeleri ve DOI denetimi, özgün metin paragraf eşlemesi, bağımsız karşı-örnek incelemesi, hedef dergi biçimlendirmesi ve kurucu onayı.
+
+## 11. H05 Ek 05 kaynakça kalite kapısı (22.10.2026)
+`H05-EK05-DOI-KUNYE-DENETIMI-2026-10-22.md` kaydı oluşturuldu. Mayer–Salovey–Caruso (2004), Penn–Povinelli (2007) ve Đokić–Koso-Drljević–Bilalić (2025) için DOI, künye ve iddia kapsamı karşılaştırması yapıldı. H05 Ek 05'teki Penn–Povinelli başlığının nihai kaynakçada tam verilmesi gerekir. Üç diğer Ek 05 kaynağı ve H01–H05 kaynaklarının tamamı için genel onay verilmemiştir. Kaynakça kalite kapısı kısmen açık kalır.
