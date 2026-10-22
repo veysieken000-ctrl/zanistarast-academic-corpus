@@ -5,6 +5,9 @@
 ## Öz
 Zanistarast'ın beşli kavram çerçevesi fizik, biyoloji, zihin, ruh ve ahlak boyutlarındaki işleyişi karşılaştırmak için yeniden düzenlenir. Kurucu sınır şudur: **Akıl, yalnız insanda bulunan ilimden ilim üretme yeteneğidir.** Diğer varlıklardaki düzen ve düzenleyici ilişki insan aklı olarak adlandırılmaz. Her düzenin üzerinde bir bilen bulunduğu önermesi metafizik kurucu tez olarak incelenir; deneysel yasa diye sunulmaz. Güncel model hayvanda Öz–Duygu–Zekâ–Fıtrî Ahlak, insanda Öz–Duygu–Akıl–Fıtrî Ahlak ve bunları yönlendiren İradeli Ahlak ayrımını önerir; insan zekâsı aklın temelinde varlığını sürdürür.
 
+## Yöntem ve iddiaların kapsamı
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+
 ## 1. Kavramlar ve düzeyler
 - **Güç:** Fiziksel etki ve iş yapma imkânı. Fizikte kuvvet, enerji ve güç ayrı büyüklüklerdir; araştırmada uygun ölçü ve birim seçilmelidir.
 - **Bilgi:** Biyolojik dizilim, öğrenilmiş temsil, gündelik bilgi ve bilimsel bilgi farklı türlerdir. DNA biyolojik bilginin taşıyıcısıdır; insanın gerekçeli bilgisiyle özdeş değildir.
@@ -34,6 +37,13 @@ Kurucu tez: **Her kanunun/düzenin üzerinde bir bilen vardır.** Buradaki bilen
 ## 5. Karınca, insan ve yapay zekâ karşılaştırması
 Karıncanın bedeni, çevresi, duyuları, öğrenme olanakları ve koloni etkileşimleri, mümkün davranışları birlikte sınırlar. Yeni Kaledonya kargalarında genç bireylerin alet yapması (Kenward ve ark., 2005, DOI: 10.1038/433121a) ve gelecekteki göreve uygun araç seçimi (Boeckle ve ark., 2020, DOI: 10.1098/rspb.2020.1490) gözlenmiştir; bu sonuçlar hayvan bilişini küçümseyen genellemeleri sınırlar, kurucu akıl tanımını deneysel olarak ispatlamaz. İnsanın bilimsel bilgi üretimi ve mühendisliği yeni araçlar geliştirir. Bilgisayarın donanımı, kodu ve hesaplama işlemi farklı işlevlerdir. Kod–fıtrat veya algoritma–zeka karşılaştırmaları açıklayıcı analojidir; yapay zekâya insana özgü akıl veya meleklere ait ontolojik statü otomatik yüklenmez.
 
+### 5A. Karşı-örneğin kapsamı ve operasyonel ayrım
+Kenward ve ark. (2005) alet yapımını deneyimsiz genç kargalarda ele alır; bu nedenle yalnız “alet yapma”yı insan aklının yeterli ayırıcı ölçütü saymak uygun değildir. Boeckle ve ark. (2020) belirli gelecek görevine yönelik araç seçimini inceler; bu sonuç bütün hayvanlara veya insan bilimsel düşüncesinin bütün özelliklerine genellenmez. Bu turda ilk çalışmanın bibliyografik kaydı, ikinci çalışmanın kaydı ve özeti doğrulanmıştır; ikisi için de tam yöntem denetimi tamamlanmış sayılmaz.
+
+Jelbert ve ark. (2014) su yer değiştirme deneylerinde altı Yeni Kaledonya kargasını incelemiş; bütün kuşlar bütün görevleri tamamlamamıştır (Yöntem: Subjects). Bu örnek, başarı kadar başarısızlık ve görev koşullarının da kaydedilmesi gerektiğini gösterir. Küçük ve tek türden bir örneklemden “hayvan mantığı yoktur” veya “insan ve hayvan aynı genel akla sahiptir” sonucu çıkmaz.
+
+Kurucu **akıl = ilimden ilim üretme** tanımı korunur. Ampirik karşılaştırma için yeni probleme aktarım, öğrenilmiş ödül ilişkisinden bağımsız çözüm, yeni araç geliştirme, gerekçenin ifade ve eleştiriye açılması, bilginin birikimli aktarımı ayrı göstergeler olarak önerilir. Bunların hiçbiri bu çalışmada ölçülmüş veya tek başına insana özgü olduğu kanıtlanmış değildir. Türler arası karşılaştırma duyusal ve motor olanakları, önceki deneyimi ve motivasyonu denetlemelidir. Bir yeteneğe “insana özgü” adını vermek, aynı işlevin hayvanda bulunamayacağının deneysel ispatı olmaz. Karşıt bulgular geldiğinde operasyonel sınır yeniden değerlendirilir; tanımsal tercih ile biyolojik iddia ayrılır.
+
 ## 6. Matematiksel araştırma için asgari şema
 Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 - `P`: fiziksel koşullar ve ölçülebilir kapasite;
@@ -56,6 +66,11 @@ Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İns
 
 ## 8. Kurmancî kavram adayları — isim vermeden önce anlamı koru
 Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–icra ayrımı; fıtrî imkânın araçla genişlemesi; bilenin ontolojik/epistemolojik anlam farkı. Bu alanlar toplu değerlendirmeye alınır. Dilsel doğrulama ve kurucu onayından önce yeni sözcük kesinleştirilmez.
+
+## Dış kaynakça
+- Kenward, B., Weir, A. A. S., Rutz, C. ve Kacelnik, A. (2005). Tool manufacture by naive juvenile crows. *Nature, 433*, 121. https://doi.org/10.1038/433121a . Kullanım: bölümler 5 ve 5A; bibliyografik kayıt doğrulandı, tam metin denetimi açık.
+- Boeckle, M., Schiestl, M., Frohnwieser, A., Gruber, R., Miller, R., Suddendorf, T., Gray, R. D., Taylor, A. H. ve Clayton, N. S. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: bölümler 5 ve 5A; kayıt ve özet doğrulandı, tam yöntem denetimi açık.
+- Jelbert, S. A., Taylor, A. H., Cheke, L. G., Clayton, N. S. ve Gray, R. D. (2014). Using the Aesop's Fable Paradigm to Investigate Causal Understanding of Water Displacement by New Caledonian Crows. *PLOS ONE, 9*(3), e92895. https://doi.org/10.1371/journal.pone.0092895 . Kullanım: bölüm 5A; açık tam metnin yöntem/örneklem bölümü kontrol edildi.
 
 ## 9. Birikimli kaynak izi
 - `NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v02.md`
