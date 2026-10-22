@@ -188,3 +188,22 @@ The conclusion portrays animals as living in ways suited to their needs and desc
 - The conclusion's historical fourth-dimensional and sixth-dimensional terminology is not automatically identical to the later founder-approved stages (spirit/angels; judgment and its afterlife outcome).
 
 **H07 milestone:** The introduction, 1.1 and its six-times passage, 1.2, and conclusion now each have at least a source-based English rendering in this audit document. This is **coverage by condensed excerpts**, not a complete paragraph-by-paragraph English translation. Remaining work includes full faithful translation, source-to-translation alignment, verified scholarly references, independent critique, and journal formatting.
+
+## H07 original-source line alignment register (22 October 2026)
+
+**Source of numbering:** `veysieken000-ctrl/hebun-zanabun`, branch `main`, `articles/makale-06.md`, read on 22 October 2026. These are line positions in the Markdown file as retrieved, **not DOCX paragraph indices**. There are 142 lines in the retrieved source, including blank lines. The English passages above are condensed thematic renderings and therefore do **not** yet provide one-to-one paragraph alignment.
+
+| Source Markdown lines | Original section / content | Current English coverage | Fidelity status |
+|---|---|---|---|
+| 1–27 | Title, introduction, two-knower epistemology | English introduction and shared-reality rendering | Condensed; line-by-line audit outstanding |
+| 31–43 | 1.1 creation, two subjects, object, physical origin, definition of being | English 1.1 opening | Condensed; cosmological claims annotated |
+| 45–55 | Physical, biological, mental systems and ordering law | Three-systems rendering | Condensed; historical taxonomy retained |
+| 57–67 | Induction, verification, two subjects, knowledge and creation | English 1.1 epistemic account | Partial; unrendered details remain |
+| 69–79 | Human development, scientific intent, knowledge, continuation of time | Mentioned in earlier synopsis | **Not translated paragraph by paragraph** |
+| 81–106 | Six modes of time, physical through eschatological | Six-times English rendering | Condensed; historical/canonical distinction recorded |
+| 109–121 | 1.2 Creative Science | English 1.2 rendering | Condensed; some claims omitted |
+| 124–129 | Conclusion | English conclusion rendering | Condensed; scientific caveats supplied |
+
+**Priority translation gap:** Lines 69–79 contain substantive authorial arguments about the expansion of existence, human needs, scientific objectivity, goodness and truth, the intention to know, and the distinction between learning and creative production. These should be translated closely rather than treated as already complete.
+
+**Source-provenance rule:** The source line ranges identify this GitHub Markdown version. The four Google Drive `7-Bilim.docx` copies have matching extracted readable text but are not assigned the same paragraph IDs, and the older `6-Bilim (1).docx` filename remains unverified. No original file is modified by this register.
