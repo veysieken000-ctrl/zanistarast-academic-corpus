@@ -25,6 +25,16 @@ Bir bilginin ontolojik imkânının açıklanması, belirli bir önermenin doğr
 ## 5. Rakip yaklaşım ve yanıt
 Bilginin kaynağını yalnız duyusal veriye indirgeyen yaklaşım, kavramsal ve mantıksal gerekçelendirmeyi ayrıca açıklamak zorundadır. Kaynağı yalnız kurucu ontolojiyle açıklayan yaklaşım ise tek tek bilimsel iddiaların hata denetimini açıklamak zorundadır. A04 bu iki yaklaşımı peşinen yanlış ilan etmez; her birinin farklı sorulara yanıt verdiğini sınar.
 
+## 5A. Bilginin kaynağında üç geçersiz çıkarım
+
+**Ontolojik imkân ≠ özel iddianın doğruluğu.** Bilen ve bilinenin varlık koşullarını açıklamak, belirli bir önermenin kanıtını tek başına sağlamaz.
+
+**Bilme kapasitesi ≠ her bilişsel sonucun doğruluğu.** Öğrenme ve hafıza yetisi, hata ve yanlış hatırlama olasılığını ortadan kaldırmaz.
+
+**İkinci değerlendirme ≠ yanılmazlık.** İki değerlendirme aynı veriye veya ortak hataya dayanabilir. Bağımsızlık koşulları ayrıca araştırılmalıdır.
+
+Bu ayrımlar Hebûn ile Zanabûn'u koparmaz: ontolojik temel, bilişsel yeti ve gerekçelendirme ilişkili fakat farklı açıklama sorularıdır. Ontolojik İkinci Bilen temsili bilimsel tekrar işlemine indirgenemez.
+
 ## 6. Yöntem, ayırıcı katkı ve çapraz uyum
 Yöntem kavramsal çözümleme, anlam ayrımı ve karşı-örnektir; yeni ampirik veri sunulmaz. H02 bilme ilişkisini kurarken A04 özellikle “kaynak” sözcüğünün farklı anlamları arasındaki geçersiz çıkarımları inceler. H01 ontolojik temel, H03 Rasterast, H05 bilişsel ayrımlar, A06 bağımsız ikinci değerlendirme, A14 iddia statüsü denetimiyle bağlantılıdır.
 
