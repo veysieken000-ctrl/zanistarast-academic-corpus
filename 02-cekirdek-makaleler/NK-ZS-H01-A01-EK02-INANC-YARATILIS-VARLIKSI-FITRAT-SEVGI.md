@@ -60,6 +60,9 @@ Kozmik evreler fizik için atom/yıldız–gezegen; biyoloji için tek hücreli/
 
 Zanabûn bu çalışmadan varlık, öz, fıtrat, akıl ve yönelim kavramlarını devralır; bunları yeniden tanımlamak yerine bilen özne, bilinen nesne, ortaya çıkan sonuç ve ikinci bilenin onayı ilişkisini özgün epistemolojik katkı olarak temellendirir. Rasterast ise özgün Word, son kurucu karar, yorum ve ampirik iddialar arasındaki kaynak zincirini doğrular; karşı-örnekleri saklamaz.
 
+## Güncel kurucu ayrımın aktarımı
+Fıtrat varlığın kuruluş, imkân, sınır ve ilişkisel düzeni; fıtrî ahlak bu düzenin işleyiş ve ilişkilerdeki görünümüdür. İnsanda bu katmanların üstünde iradeli ahlak, bilgi ve tercihin hüküm karşısındaki özel sorumluluğunu ifade eder. Hayvanın duygu ve zekâsı inkâr edilmez. Kurucu ontolojik anlamdaki ahlak ile normatif sorumluluk ayrıdır. Kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
 ## 9. Sonuç ve kalan araştırma
 
 Hebûn'un kurucu araştırma başlangıcı inanç–Ehad–Yek–yaratılış eksenidir. Varlık/varlıksı, ruh/fıtrat, sevgi/ahlak ve boyut/evre ayrımları bu başlangıçla ilişkilidir. Bu ek, söz konusu kavramların kaynaklarını ve anlam sınırlarını belirginleştirir; ne metafizik savların laboratuvarda ispatlandığını ne de tüm bilimsel literatürün tarandığını ileri sürer.
