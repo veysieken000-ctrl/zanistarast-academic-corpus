@@ -266,3 +266,41 @@ The conclusion portrays animals as living in ways suited to their needs and desc
 - Line 67's claims about creation, spirit, and the afterlife are theological/metaphysical propositions and are not presented as experimentally verified.
 
 **Progress:** The source's lines 21–27 and 57–67 now have individual English working renderings. The remaining earlier passages and six-times section still require sentence-by-sentence fidelity checks before H07 can be called fully translated.
+
+## H07 closer English translation — source lines 33–55 (22 October 2026)
+
+**Primary source:** `hebun-zanabun/articles/makale-06.md`, `main`, section 1.1. This is a source-line-aligned working translation of the original historical text. It does not silently substitute later canonical definitions. Commentary below is separate.
+
+**Line 33.** The following explanation is offered from the perspective of a creator and the requirement of two knowing subjects.
+
+**Line 35 — initial creation.** For a knowing subject to display its knowledge, it must turn toward a second knower. Since the existence of that second knower depends on the first knower's act of creation, the first knower must also bring into existence the object—the known thing arising from knowledge—so that the second may see the resulting product. If no one can see it, knowledge is treated as if it did not exist. The author maintains that the essence of a being requires a body in which to exercise its rule, and that every being has a corporeal form. To reach the second knower, the first requires a third term, a known object or product. The author then posits a fourth term, a common linear plane or ordering shared by the three. In this model God creates the spirit as second subject and the physical world as third term, enabling the second subject to take form. The human second subject enters an order constituted by the fourth term, understood as law between beings. The first, second, third, and fourth terms are joined in an account of the source of human knowledge: world and order. The creator, as first knowing subject, is said to realize science by applying the same system to all beings.
+
+**Line 37 — differentiation and spirit.** Creation begins with differentiation and with the creator's breathing of spirits. The creator brings forth beings through the wish to realize the self. The initial differentiation is described as spirit, given through the creator's breath, which must possess a body. The author argues that the existence of the first physical being requires a creator possessing knowledge, will, consciousness, and power; the claim rests on the principle that an action requires an agent.
+
+**Line 39 — cosmological proposal.** If the Big Bang is accepted as a beginning, the author treats it as a passage from nonexistence into existence. The Higgs boson is described as giving rise to the first mass, after which differentiation moves toward conscious orientation. The text speculates that the proton forms through the law holding subatomic particles together, that a neutron arises from the proton, and that an electron arises from both. It adds a theological analogy involving Eve's creation from Adam and the first subject bringing forth a second subject.
+
+**Line 41.** The realization of existence begins with the establishment of a dual order.
+
+**Line 43 — definition of being.** The author proposes that a being may be defined as anything that exhibits existence in accordance with a law, consisting of center and periphery (nucleus and layer), three principal internal parts, and a common linear ordering.
+
+**Line 45 — first system, physics.** The first system consists of physical beings. The author describes a first atom in terms of proton, neutron, and electron and labels it helium; a second atom is associated with hydrogen. Their combinations are said to lead to the second stage of the physical system: stars and planets, organized around nuclei and layers, with gravitation presented as a fourth force.
+
+**Line 47 — second system, biology.** The second system consists of biological beings. The author associates DNA, RNA, and protein with the first cell, cell division with a second cell, and sexual combinations with the second stage of multicellular beings and plants. Biological laws are described as a fourth ordering influence on the DNA–RNA–protein triad.
+
+**Line 49 — third system, mind.** The third system consists of beings with minds. The author connects the nervous system, senses, and memory with intelligence, and discusses male and female beings and emotional and logical intelligence as a second mental configuration. The transition from intelligence in a first stage to reason in a second stage is then proposed. Spirit is described as a fourth force operating the nervous system, senses, memory, and intelligence.
+
+**Line 51 — law, spirit, and angels.** The physical, biological, and mental systems are said to require laws that order their operation. Physical laws concern matter, biological laws concern cells, and the laws of spirit or innate disposition (*fıtrat*) concern animals. The author associates physical law with the atomic triad, biological law with DNA, RNA, and proteins, and spirit with the nervous system, senses, and memory. Natural laws are also associated with angels. The passage presents biological organisms as governing their physical bodies, minded organisms as governing biological functions, and spirit and angels as proposed higher-order regulators of the mental and natural systems.
+
+**Line 53.** Because every law is said to consist of knowledge, human beings who act through the heart are described as higher beings.
+
+**Line 55.** By investigating creation, the knowledge and order of beings, humanity's position in the natural order, and the law of the first being and its manifestations, the author seeks to articulate universal rules explaining the formation of being, order, and knowledge.
+
+### Editorial audit (not translated source)
+
+1. **Physics:** Hydrogen-1 consists of one proton and one electron and no neutron; helium has two protons. The source reverses hydrogen and helium in line 45. Proton, neutron, and electron are particles, not the four fundamental forces. The proposed sequential particle origin and Higgs account in line 39 are not accepted descriptions of established physics.
+2. **Biology:** DNA, RNA, and protein do not form a universal three-part definition of a cell, and the historical association of sexual reproduction with multicellularity is not a valid general biological rule. Later founder-approved stages are unicellular and multicellular; this revision belongs in an editorial note, not inside the historical quotation.
+3. **Mind and spirit:** The source's intelligence-to-reason transition is a philosophical distinction; neural and sensory structures are biological. The spirit/angel law account is theological and cannot be described as a measured physical fourth force.
+4. **Ontology:** Center/periphery and a three-part interior are proposed analogies rather than universal empirically established properties of all beings. The 'first/second/third/fourth' schema is the author's metaphysical reconstruction, not a demonstrated sequence of creation.
+5. **Textual fidelity:** The historical phrasing in line 35 identifies the spirit as second subject in its creation account, while elsewhere the second knower is human. A complete critical edition should flag this shift instead of forcing an artificial consistency.
+
+**Progress boundary:** Source lines 33–55 now have separate working English renderings. The complete H07 English critical edition still needs close treatment of the six-times passage and detailed reconciliation of other condensed passages; no claim of publication readiness is made.
