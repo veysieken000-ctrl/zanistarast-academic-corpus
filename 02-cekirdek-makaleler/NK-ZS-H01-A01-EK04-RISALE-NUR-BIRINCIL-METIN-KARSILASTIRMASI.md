@@ -30,6 +30,9 @@ Metin iman, yaratılmış olma ve kâinatın güzellikleri üzerinden varlığı
 
 Sayfa iman, tasdik ve delillendirme bağlamını ele alır; ayrıca başka eserlerden aktarımlar içerir. **Zanabûn bağlantısı:** İnancın gerekçelerle incelenmesi ile ikinci bilenin onayının hangi anlamlarda karşılaştırılabileceği araştırılabilir. **Sınır:** Bu derleme sayfası tek başına Zanabûn'un epistemolojik üçlü formülünün Risale-i Nur'da aynen bulunduğunu göstermez.
 
+## Güncel kanonla karşılaştırma sınırı
+Zanistarast'ın fıtrat–fıtrî ahlak–iradeli ahlak ayrımı kurucu yorum olarak kullanılır; Risale-i Nur metinlerinde aynı terimlerle birebir sistem bulunduğu varsayılmaz. Benzer temalar birincil metin alıntısı ve yorum düzeyinde ayrılır. İnsan ve hayvan katmanları ile kozmik 6+Tek şeması bu kaynakların ampirik olarak kanıtladığı bir model şeklinde sunulmaz.
+
 ## Kanıt matrisi
 
 | İddia | Kaynak durumu | Sonuç |
