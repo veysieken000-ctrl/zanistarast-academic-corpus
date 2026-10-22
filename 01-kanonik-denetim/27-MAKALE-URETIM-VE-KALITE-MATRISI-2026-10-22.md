@@ -43,7 +43,7 @@ Mira araştırır, Rasterast doğrular, Müdebbir karar verir. **Güncel bağlay
 - **A19** — Suç–ceza orantılılığı hangi karşı örneklerle sınanır? **İş:** özgün metinden tam paragraf izi; literatürde karşıt görüş; ayrı Tek ve Yek kararı; uygun yöntem; bağımsız ikinci denetçi; sonuç/olumsuz sonuç kaydı. **Durum:** ayrıştırılmış aday, K1–K6 açık.
 - **A20** — Ahlak ile hukuk hangi koşullarda çatışır? **İş:** özgün metinden tam paragraf izi; literatürde karşıt görüş; ayrı Tek ve Yek kararı; uygun yöntem; bağımsız ikinci denetçi; sonuç/olumsuz sonuç kaydı. **Durum:** ayrıştırılmış aday, K1–K6 açık.
 
-### İnsan ve toplum — kaynak: 8-insan ve toplum.docx
+### İnsan ve toplum — kaynak: 8-insan ve toplum.docx (eski çalışma etiketi; Drive'da doğrulanan özgün dosya adı: 9-insan ve toplum.docx)
 - **A21** — Birey–toplum ilişkisinde doğallık ne demektir? **İş:** özgün metinden tam paragraf izi; literatürde karşıt görüş; ayrı Tek ve Yek kararı; uygun yöntem; bağımsız ikinci denetçi; sonuç/olumsuz sonuç kaydı. **Durum:** ayrıştırılmış aday, K1–K6 açık.
 - **A22** — İnsan katmanları toplumsal role nasıl bağlanır? **İş:** özgün metinden tam paragraf izi; literatürde karşıt görüş; ayrı Tek ve Yek kararı; uygun yöntem; bağımsız ikinci denetçi; sonuç/olumsuz sonuç kaydı. **Durum:** ayrıştırılmış aday, K1–K6 açık.
 
