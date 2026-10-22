@@ -24,7 +24,10 @@ Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme k
 
 Faydasız bilgi, sözde bilim ve henüz pratik uygulaması bilinmeyen temel araştırma aynı kategori değildir. Dinî/normatif hükümler ampirik bulgu olarak gösterilmez.
 
-## 6. Açık araştırma soruları
+## 6. Sonuç ve açık araştırma soruları
+Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu düzenin varlıklardaki işleyişi; **iradeli ahlak** insanın bilgi, niyet ve tercihleriyle fıtrî imkânları yönlendirmesi olarak ayrılır. Bu son evre hüküm karşısında özel sorumluluk taşır. Fizik–biyoloji–zihin–ruh düzeylerinin kapsanması fiziksel hacim veya deneysel boyut sayısı değil, felsefi açıklama ilişkisidir. Kurucu modelin bilimsel geçerliliği henüz gösterilmiş değildir.
+
+### Açık araştırma soruları
 1. Hangi araçlar insanın kullanılabilir seçeneklerini gerçekten artırır, hangileri yeni bağımlılıklar üretir?
 2. Seçenek artışı ile sorumluluk artışı hangi koşullarda birlikte görülür?
 3. Fıtrî ahlakın sınırları ile araçla genişleyen eylem kapasitesi nasıl tanımlanabilir?
