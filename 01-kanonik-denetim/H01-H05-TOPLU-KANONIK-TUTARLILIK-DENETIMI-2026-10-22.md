@@ -78,3 +78,6 @@ Güncel kurucu kilometre taşı temel alınarak H04 Ek 03 (zihin–zekâ–akıl
 
 ## 11. H05 Ek 05 kaynakça kalite kapısı (22.10.2026)
 `H05-EK05-DOI-KUNYE-DENETIMI-2026-10-22.md` kaydı oluşturuldu. Mayer–Salovey–Caruso (2004), Penn–Povinelli (2007) ve Đokić–Koso-Drljević–Bilalić (2025) için DOI, künye ve iddia kapsamı karşılaştırması yapıldı. H05 Ek 05'teki Penn–Povinelli başlığının nihai kaynakçada tam verilmesi gerekir. Üç diğer Ek 05 kaynağı ve H01–H05 kaynaklarının tamamı için genel onay verilmemiştir. Kaynakça kalite kapısı kısmen açık kalır.
+
+## 11. H05 Ek 05 bibliyografik denetim kapısı (22.10.2026)
+`H05-EK05-DOI-KUNYE-DENETIMI-2026-10-22.md` kaydında Mayer–Salovey–Caruso (2004), Penn–Povinelli (2007) ve Đokić–Koso-Drljević–Bilalić (2025) kaynakları için DOI, künye ve yorum sınırları işlendi. Penn–Povinelli makalesinin tam alt başlığının korunması ve DOI içindeki yılın yayın yılı sanılmaması gerektiği kaydedildi. Bu yalnız üç kaynak için kontrol noktasıdır; diğer Ek 05 referansları ve tüm H01–H05 bibliyografyası açık kalite kapısıdır. 412 bağımsız makale sayısına eklenmez.
