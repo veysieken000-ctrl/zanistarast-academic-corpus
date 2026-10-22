@@ -82,6 +82,9 @@ Bu taslakta **görevde başarılı olma**, **başarının mekanizması** ve **ku
 
 **Ayırt edici değerlendirme sorusu:** Bir üretim zincirinde hangi aşama mevcut bilginin uygulanması, hangi aşama yeni ve denetlenebilir bilgi üretimi, hangi aşama ise yalnız yeni ürün elde edilmesidir? Bu üç düzey ayrı izlenmedikçe «ilimden ilim» slogan değil, araştırılabilir bir kavram olarak kullanılamaz.
 
+### 5F. İlimden ilim ilkesinin denetim ölçütleri
+İlimden ilim, insanın birikmiş bilgiden yeni bilgi ve yöntemler geliştirmesini anlatan kurucu akıl tanımıdır. Demir, bakır ve petrol gibi doğal maddelerden uçak ve gemi üretimi, farklı bilgi alanlarının ortak uygulanmasına örnektir. Çorba hazırlamak ise gündelik bilgi ve yöntemin kullanımıdır. Her yeni ürün yeni bilimsel keşif sayılmaz: bilgi uygulaması, denetlenebilir yeni bilgi elde edilmesi ve ürün ortaya çıkarılması üç ayrı sonuçtur. Felsefe ile fizik, kimya ve biyoloji arasındaki tarihsel ilişki, araştırma sorularının ve yöntemlerin ayrışıp karşılıklı beslenmesi üzerinden ele alınır; bütün disiplinler tek çizgili bir soy ağacına indirgenmez. Hayvanların öğrenme ve araç kullanma becerileri insan aklına ilişkin tezin karşı-örneği olarak ciddiye alınır. Kurucu ayırt edici vurgu, insanın birikimli bilgiyi matematik, deney, öğretim ve kurumlarla yeni araştırma alanlarına dönüştürmesidir. Bu önerme, hayvanların zekâ ve duygularını reddetmez. H02 yeni bilgi iddiasının gerekçesini, H03 bağımsız denetimini, H04 ise ortaya çıkan gücün ahlaki sorumluluğunu inceler.
+
 ## 6. Matematiksel araştırma için asgari şema
 Bir varlık/sistem için `S = (C_f, I, Z, F, C)` gösterimi önerilir:
 - `C_f`: fiziksel koşullar ve alana özgü ölçülebilir kapasite; fiziksel güç P ile aynı değişken değildir;
