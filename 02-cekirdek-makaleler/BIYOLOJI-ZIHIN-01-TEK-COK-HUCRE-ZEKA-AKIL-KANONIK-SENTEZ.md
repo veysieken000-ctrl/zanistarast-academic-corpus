@@ -88,3 +88,13 @@ Altıncı boyutun güncel kabul edilen adı hüküm/ahirettir. Kaynağın giriş
 
 ### Bağımsızlık ve kalite
 Bu işlem birincil metin kontrolüdür; bağımsız ikinci araştırmacı değerlendirmesi değildir. K0 kısmi (iki kaynak ve sürüm izi var; DOCX eşlemesi yok), K1 açık, K2 kısmi, K3–K6 açık. Makale yayıma hazır değildir.
+
+## 10. Altıncı boyutun kurucu belgeyle çözülmesi — 22 Ekim 2026
+
+Bir önceki Rasterast denetiminde **BZ-08** için açık bırakılan altıncı boyut evre adlandırması, doğrudan kurucu belge okunarak yeniden değerlendirildi. Birincil belge: `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md`, GitHub blob `312510036f6c6516468296019b9dff2e489e74a8`.
+
+Belgenin **“KURUCU ONAYLI NİHAİ TABLO — 6 BOYUT / 12 EVRE (16.10.2026)”** bölümünde altıncı boyut açıkça **1. evre hesap/hüküm; 2. evre hükmün sonucu (ahiret karşılığı)** olarak tanımlanır. Aynı bölümün sonunda evre adlandırması kararının kapandığı belirtilir. Böylece BZ-08 için önceki “açık kanonik sürüm uyuşmazlığı” değerlendirmesi, **16.10.2026 tarihli yazılı kurucu kaynak açısından çözüldü** olarak güncellenir. Bu kayıt, belgeden daha sonra verilmiş bir kurucu düzeltmenin bulunmadığına ilişkin kapsamlı tarih taraması değildir.
+
+**Düzeltme ilkesi:** Önceki §9.1 araştırma sürecinin tarihsel izi olarak korunur; bu §10, onun daha sonra doğrulanmış sonucudur. Makalenin önceki “altıncı boyut için iki evre kesinleşmemiştir” ifadesi, söz konusu kurucu belgeyle **uyuşmamaktadır**; geçerli kaynak okuması bu bölümdeki iki evredir. Hüküm/ahiret teolojik-ontolojik bir sınıflamadır; deneysel kanıt olarak sunulmaz.
+
+**Rasterast kaydı:** BZ-08, kaynakla doğrulandı; bağımsız dış hakemlik yapılmadı. K0 kurucu belge karşılaştırması bu iddia için tamamlandı, diğer iddiaların K0–K6 eksikleri sürmektedir.
