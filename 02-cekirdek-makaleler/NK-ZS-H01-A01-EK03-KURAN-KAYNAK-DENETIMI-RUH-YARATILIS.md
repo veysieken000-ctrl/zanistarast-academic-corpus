@@ -12,6 +12,9 @@
 
 **KQ-02 — Rahmân 55:29.** Diyanet'in meal ve tefsirinde Allah'ın sürekli yaratıcı kudretine ilişkin açıklama vardır: https://kuran.diyanet.gov.tr/tefsir/Rahm%C3%83%C6%92%C3%82%C2%A2n-suresi/4930/29-30-ayet-tefsiri . Bu ayet, varlığın yalnız ilk kuruluşunu değil devamlılığını da konu alan Hebûn–Zanabûn tartışmasıyla ilişkilendirilebilir. **Sınır:** Süreklilik yorumu, fiziksel bir süreç için kendiliğinden ölçülmüş veri sağlamaz.
 
+## Güncel kurucu terimlerin kaynak sınırı
+Fıtrat, fıtrî ahlak ve iradeli ahlak ayrımı Zanistarast'ın kurucu felsefi yorumudur; aşağıda sıralanan ayetlerin lafzına doğrudan bu üçlü şema atfedilmez. Kur'an metnindeki yaratılış ve ruh anlatıları ile modelin insan katmanları arasında kurulan bağ tefsir/yorum statüsündedir, deneysel doğrulama değildir. Nisâ 4:1'in lafzı kaburga veya bel kemiği ayrıntısını açıkça içermez.
+
 ## İddia ve kaynak statüsü
 
 | Kimlik | İddia | Statü | Kullanım |
