@@ -232,3 +232,37 @@ The conclusion portrays animals as living in ways suited to their needs and desc
 - Line 79's definition of time as continuing repetition is a philosophical proposal and should not be represented as a consensus definition in contemporary physics.
 
 **Alignment update:** The previously flagged 69–79 gap now has six source-line-matched English paragraphs. They remain working translations requiring author review; this does not certify a complete manuscript or validated bibliography.
+
+## H07 closer English translation — source lines 21–27 and 57–67 (22 October 2026)
+
+**Source:** `hebun-zanabun/articles/makale-06.md` on `main`. These paragraphs provide more faithful line-specific working translations of passages previously rendered only thematically. They retain the author's historical claims, including contested ones; the notes below are editorial and not part of the original.
+
+**Line 21.** Throughout history, people have tried to comprehend both existing things and conceptual notions and to acquire the knowledge necessary for the formation of science. The data needed for science have arisen through the consistency and accumulation of knowledge that can be arranged in succession, whether objective or subjective.
+
+**Line 23.** Humanity has transmitted its accumulated knowledge through cultures, discoveries, civilizations, traditions and customs, books and inscriptions, as well as historical remains and symbols, including tools and equipment. These are various ways of conveying identity and knowledge.
+
+**Lines 25–26.** Science is described as an orderly and consistent way of knowing that investigates portions of the universe and its events through methods and experiments, seeks reality, and arrives at laws. Systematic knowledge (*ilim*) is described as methodically obtained and practically confirmed knowledge possessing universal validity and certainty. These are the source's definitions, not settled universal definitions of science.
+
+**Line 27.** The author argues that the science of eternal things is possible and that knowledge requires a knowing subject. For knowledge to endure, the author posits a second knowing subject. When one person knows something, a second must confirm it, while a reality independent of both must exist. Reason is the common meeting place of the two subjects; a third term, independent of their reasoning, forms their shared ground. The author then infers that the objective reality known by reason must either possess consciousness, life, intelligence, and knowledge or have been produced by one who does. Universal laws are presented as pointing toward a universal knower. Finally, the author attributes knowing-subject characteristics to the human being, the body, and the natural world in which that body exists. The inference to a universal knower is theological-philosophical, not a measurement result.
+
+**Line 57.** In seeking consistent knowledge, the author associates verification with induction and falsifiability with deduction, and turns toward the knowing subject through science as an activity. The question ultimately becomes whether the thing discussed exists.
+
+**Line 59.** The author argues that producing consistent knowledge involves bringing something into being, offering mathematics and the alphabet as examples. The text compares hydrogen and helium, sexual and asexual reproduction, intelligence and reason, true and false, good and evil, and creator and human. It proposes that the interaction of two subjects brings about a third thing, which is not independent of both subjects.
+
+**Line 61.** The author asserts that human products arise through the interaction of at least two people, including technological and other forms of production. Existing things can become objects of science: physical beings, living beings, and products of the mind. Stories and dreams are said not to constitute knowledge because they have not passed confirmation by two minds.
+
+**Line 63.** Science is defined as the occurrence of the same result under the same conditions at any time and place. The author argues that the being yielding consistent results through induction and deduction, rather than merely a human opinion, constitutes the science of being. Rational productions in accordance with the rule of creation, including technical, artistic, and everyday knowledge, are placed within the science of creation.
+
+**Line 65.** To understand science, the author proposes examining the conditions of existence at the foundation of a creation-oriented perspective.
+
+**Line 67.** The author describes the creator as the first subject, whose initial act is to will existence. Willing presupposes knowing what is desired. In this account, intentional design requires relations of identity or similarity, and the two minds must share a common ordering. Reaching the second knower makes the continuation of repeated knowledge possible. The creator is then said to bring forth physical, biological, and mental orders, natural law, spirit for the body, morality for the second knowing being, reason, and the encompassing self. The account connects human embodiment with the creation of space and time and describes paradise and hell as conditions of a renewed, continuing existence. This is a theological account presented by the historical source.
+
+### Critical editorial distinctions
+
+- The source's assertion that two-person confirmation is necessary and sufficient for science is a philosophical thesis requiring qualification: solitary discovery is possible, and consensus can share systematic error.
+- Induction, deduction, verification, and falsification cannot be paired as exact synonyms; the source's line 57 is retained in translation but should be examined against philosophy-of-science literature.
+- The line 59 comparison of physical elements, reproductive modes, and ethical opposites is an analogy, not a single demonstrated causal law. Later canonical biology uses unicellular and multicellular stages; historical reproduction wording must remain identifiable.
+- Line 61's exclusion of stories and dreams from all knowledge is too broad without specifying a particular definition of empirical knowledge.
+- Line 67's claims about creation, spirit, and the afterlife are theological/metaphysical propositions and are not presented as experimentally verified.
+
+**Progress:** The source's lines 21–27 and 57–67 now have individual English working renderings. The remaining earlier passages and six-times section still require sentence-by-sentence fidelity checks before H07 can be called fully translated.
