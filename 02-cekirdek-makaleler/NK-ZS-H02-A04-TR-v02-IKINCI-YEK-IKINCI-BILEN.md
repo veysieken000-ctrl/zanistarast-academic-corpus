@@ -51,3 +51,6 @@ Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu d
 - Nisâ 4:1, Diyanet Kur'an Yolu: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri
 
 **Açık kapılar:** Word paragraf eşlemesi, bağımsız bilim felsefesi taraması, hedef dergi standartları ve kurucu onayı. Önceki sürümler korunur.
+
+## Yeni kurucu aktarım — bilimsel ve ahlaki muhataplık (22.10.2026)
+İnsan ve hayvan dış dünyayla ilişki kurar; insanın aklı gözlem, matematik, deney, araç ve edevat sayesinde bedeniyle erişemediği kuantum ve kozmik alanları araştırabilir. **Bilimsel muhataplık** ile **nihai ahlaki/hükmî muhataplık** ayrı tanımlanır: birincisi bilgi edinme ve sınama imkânı, ikincisi iradeli ahlakın altıncı boyut hüküm karşısındaki sorumluluğudur. İkinci ontolojik Yek, otomatik olarak ikinci epistemik Bilen değildir. İnsanın daha geniş muhataplığı hayvanlarda fıtrî duygu, fıtrî mantık veya öğrenmenin yokluğunu gerektirmez. Bilimsel erişim sınırsız bilme garantisi vermez. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. İlahî hüküm açıklaması teolojik önerme olarak işaretlenir.
