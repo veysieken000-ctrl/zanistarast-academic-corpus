@@ -249,3 +249,35 @@ This section distinguishes **established bibliographic leads** from **source-ver
 The verified **publisher summaries** already establish that the philosophical problems of communal objectivity, social knowledge, expertise, and justified trust predate this journal-oriented reconstruction. The article must therefore not claim that requiring other knowers is historically unprecedented. A plausible narrower contribution would be an **accurate exposition and critical examination of the specific Zanabûn subject–object–second-knower configuration**, including its unresolved ambiguity between assent, practical recognition, and independent evidential scrutiny. This is a provisional scholarly positioning, not a result of comprehensive full-text analysis.
 
 **Next gate:** Read the accessible primary works at chapter/article level, verify exact claims with page references, identify at least one serious rival interpretation, and assess the submission instructions of a specifically selected philosophy-of-science journal. This file remains a draft.
+
+
+## 14. Candidate journal fit and primary-argument check (22 October 2026)
+
+**Candidate journal, not selected or submitted:** *Philosophy of Science* (Cambridge University Press / Philosophy of Science Association). Current publisher instructions consulted on 22 October 2026:
+
+- Research **Articles** must contribute novel work to contemporary philosophy-of-science debates and situate that work in existing literature; **9,000-word maximum** inclusive of abstract, notes, tables, and print appendices, but excluding references and online-only appendices. Source: https://www.cambridge.org/core/journals/philosophy-of-science/information/author-instructions .
+- **Discussion Notes** are ordinarily limited to **4,000 words** and should make a focused, novel contribution, often engaging recent journal articles. This H07 text is not currently structured as a response to a specific recent article, so an ordinary research article is the more plausible category if a publishable original argument can be established. Same source.
+- **Abstract maximum: 100 words**, manuscript prepared for anonymous review; final reference formatting follows Chicago author-date and requires accurate DOIs where available. Source: https://www.cambridge.org/core/journals/philosophy-of-science/information/author-guidelines and https://www.cambridge.org/core/journals/philosophy-of-science/information/author-instructions/preparing-your-materials .
+- Initial submissions may be in readable Word, PDF, TeX, or LaTeX formats, with submission handled through Editorial Manager; the author must inspect and approve the compiled submission PDF. Source: https://www.cambridge.org/core/journals/philosophy-of-science/information/author-instructions/submitting-your-materials .
+- Publisher policy requires accountable disclosure of AI-generated content and does not treat generative AI as an author. A submission will need author verification and an appropriate AI-use statement. Source: https://www.cambridge.org/core/journals/philosophy-of-science/information/author-instructions/preparing-your-materials .
+
+### Specific fit assessment
+
+| Criterion | Current H07 draft | Action required |
+|---|---|---|
+| Contemporary philosophy-of-science question | Yes: second-knower assessment, objectivity and public warrant | Focus title, introduction, and contribution on a specific unresolved problem |
+| Demonstrably novel argument | **Not established** | Read Longino, Goldman, Hardwig and relevant contemporary debates in detail; articulate a defensible nontrivial difference |
+| 9,000-word article cap | Likely within cap, but **not yet formally counted in a clean submission version** | Generate a clean manuscript and count words excluding reference section according to journal policy |
+| 100-word abstract | Current abstract **not yet certified to journal length** | Rewrite and count a <=100-word abstract |
+| Anonymous review | Not prepared | Remove identifying self-references, metadata and acknowledgments from blinded file |
+| Accurate references and DOI | Partial | Verify page-specific scholarly arguments and complete bibliography |
+| AI-use disclosure | Pending author-approved statement | Disclose assistance according to journal rules; do not list AI as author |
+| Primary text and translation | Working source alignment available | Confirm authorship/provenance and complete author-reviewed quotation translation |
+
+### Direct comparison with transformative criticism
+
+The *Stanford Encyclopedia of Philosophy* entry on *Scientific Objectivity* describes Longino's conditions for transformative criticism: channels for criticism, shared standards, uptake of criticism, and equality of intellectual authority among qualified participants. Source: https://plato.stanford.edu/entries/scientific-objectivity/ . This is a **secondary scholarly exposition**, not a claim of direct reading of Longino's books. It sets a demanding prior-art test for the H07 proposal. Merely stating that two knowers agree is weaker than a framework specifying institutional conditions under which criticism can actually change inquiry. The article's plausible contribution, if demonstrated, would be its historically situated subject–object–second-knower reconstruction and its distinction between recognition, practical use, and evidential scrutiny, rather than an unprecedented discovery of communal objectivity.
+
+### Editorial decision
+
+**Proceed with revision; do not submit.** *Philosophy of Science* is a **candidate only**, not a chosen journal or evidence of likely acceptance. Next steps: produce a <=100-word abstract, run a reliable word-count audit on a clean version, verify primary literature beyond abstracts, and prepare a blinded manuscript plus separate provenance/AI-disclosure notes. Keep the historical critical edition untouched.
