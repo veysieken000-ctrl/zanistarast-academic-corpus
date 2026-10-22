@@ -5,6 +5,8 @@
 ## Öz
 Rasterast, Hebûn ontolojisinin ilk Yek → ikinci Yek → yeni Yekler → Komel kurucu türeme tezini ve Zanabûn epistemolojisinin bilen özne → bilinen nesne → sonuç → ikinci bilenin onayı ilkesini **anlamlarını değiştirmeden, kaynak ve kanıt türüne göre** değerlendiren denetim yöntemidir. Bu çalışma kurucu inanç, birincil metin, tefsir, mantıksal çıkarım, analoji ve ampirik iddialar için ayrı kayıt alanları önerir. Nisâ 4:1'in insan örneğiyle fiziksel ve biyolojik süreçlerin özdeş sayılmasını önleyen bir iddia soyağacı kurar. Bağımsız ikinci denetimin ortak hata koşullarını ele alır. Bu protokol henüz gerçek hakemli değerlendirmede doğrulanmış bir yöntem değildir. Güncel kurucu modelde fıtrat, fıtrî ahlak ve iradeli ahlak farklı kavramlardır; bunların ontolojik, deneysel ve teolojik dayanakları ayrı ayrı denetlenir.
 
+**Anahtar sözcükler:** Rasterast, kanıt, kaynak soyağacı, karşı-örnek, bağımsız denetim, geri besleme.
+
 ## Yöntem ve iddiaların kapsamı
 Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
 
@@ -51,11 +53,11 @@ Birinci bilen bir cihazdan P sonucunu üretir; ikinci bilen aynı hatalı cihazd
 ## 6. Kaynak karşılaştırma ilkesi
 Kur'an, Hz. Muhammed'in öğretisi ve Risale-i Nur, kurucu düşünsel yönelimin kaynaklarıdır. Kur'an'daki ayet lafzı, geleneksel tefsir, kurucu yorum ve bilimsel çıkarım **dört ayrı aşama** olarak gösterilir. Doğrulanmamış hadis veya Risale-i Nur cümlesi doğrudan alıntı gibi verilmez. Özgün Word kaynakları ve son kurucu kararlar sürümleriyle izlenir.
 
-## 7. Birikimli aktarım: H04'e hazır bilgi paketi
+## 7. Birikimli aktarım: beş çekirdeğin ortak bilgi paketi
 **Devredilecek tanımlar:** Ehad–Yek, ilk/ikinci/yeni Yek, Komel, kıble/merkez–çevre, 6+Tek, insan katmanlarının ayrılığı.
 **Devredilecek yöntem:** K/T/Y/M/A/E statüleri, iddia soyağacı, bağımsız ikinci denetim, karşı-örnek kaydı.
 **Devredilecek sınırlar:** Her boyutta aynı mekanizma yok; evreler eşeysiz/eşeyli değildir; hidrojen-1 üç parçacık zorunluluğuna karşı-örnektir; ontolojik ikinci Yek epistemolojik ikinci bilenle özdeş değildir.
-**Açık kanıt işleri:** Her boyutun tarihsel ve ampirik örnekleri, özgün Word paragraf eşlemesi, bağımsız alan literatürü, dergi standardı, kurucu son onayı.
+**Kapsam sınırı:** Her boyut için tarihsel ve ampirik açıklama tamamlanmış değildir. Özgün Word'lerin bütün metin kapsamı envanterde mevcuttur; her cümlenin dış kaynaklarla bağımsız doğrulaması ayrıca değerlendirilir. Bağımsız alan denetimi ile 412 makale yayın kapısı bu protokolün dışında tamamlanmış varsayılmaz.
 
 ## 7A. Beş çekirdek için uygulanabilir geri besleme denetimi
 Her bilimsel iddia için kayıt şeması: (i) makale ve bölüm, (ii) iddianın aynen yazımı, (iii) teolojik/felsefi/ampirik/hipotez/analojik statü, (iv) birincil kaynak ve varsa DOI, (v) bağımsız ikinci denetim, (vi) karşı-örnek, (vii) düzeltmenin etkileyeceği diğer çekirdekler. Kaynağı bulunmayan ampirik iddia açık olarak işaretlenir; felsefi kabul ampirik ispat olarak etiketlenmez. H01'de hidrojen-1, H05'te karga bilişi karşı-örnekleri bu protokolün başlangıç denemeleridir. Çekirdekteki her değişiklik ilgili diğer makaleye geri beslenip yeniden denetlenmeden kapanış verilmez.
@@ -101,18 +103,22 @@ Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek de
 ## Dış kaynakça
 - National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3, yöntemsel karşılaştırma; bölüm 7B'de kullanılır.
 
+- Boeckle, M. ve ark. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: §7C; gözlem/yorum ayrımı için H05'te incelenen araştırma.
+- de Mahy, D., Esteve, N. A. ve Santariello, A. (2021). New test, old problems: comment on ‘New Caledonian crows plan for specific future tool use’. *Proceedings of the Royal Society B, 288*, 20210186. https://doi.org/10.1098/rspb.2021.0186 . Kullanım: §7C; eleştiri metni, yeni deney değil.
+- Boeckle, M. ve ark. (2021). New Caledonian crows' planning behaviour: a reply to de Mahy et al. *Proceedings of the Royal Society B, 288*, 20211271. https://doi.org/10.1098/rspb.2021.1271 . Kullanım: §7C; yazar yanıtı, bağımsız tekrar değil. Erişim sınırları H05 kaynakçasında belirtilmiştir.
+
 ## Kaynak izi
-1. `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
-2. `02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md`.
-3. `02-cekirdek-makaleler/NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md`.
-4. `02-cekirdek-makaleler/NK-ZS-H03-A14-EK01-KANIT-SOYAGACI-VE-IKINCI-DENETIM.md`.
+1. `../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
+2. `NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md`.
+3. `NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md`.
+4. `NK-ZS-H03-A14-EK01-KANIT-SOYAGACI-VE-IKINCI-DENETIM.md`.
 5. Özgün Word metinleri ve Nisâ 4:1 Diyanet tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri .
 
 ## Ek A — Yöntem denetimi — boyut ve muhataplık (22.10.2026)
-Yeni kurucu açıklamalar için beş ayrı doğrulama satırı tutulur: (1) fiziksel hacim/kütle iddiası; (2) biyolojik bilgi ve işlevsel örgütlenme iddiası; (3) ontolojik kapsama ve atom–yıldız benzetmesi; (4) insan/hayvan davranışı ve otonom sinir sistemi hakkındaki ampirik iddialar; (5) iradeli ahlak, Ehad ve hüküm/ahiret hakkındaki teolojik yorumlar. Bir satırın kanıtı diğerine otomatik aktarılmaz. Altı ontolojik boyut fizik bilimindeki koordinat sayısıyla özdeş değildir. Lokmân 31:27 ve Kehf 18:109 ayet atıfları metinle kontrol edilir; “yere göğe sığmadım...” ifadesi sahih kudsî hadis diye kesin sunulmaz. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Akademik doğrulama, karşı örnek ve literatür taraması sürmektedir.
+Yeni kurucu açıklamalar için beş ayrı doğrulama satırı tutulur: (1) fiziksel hacim/kütle iddiası; (2) biyolojik bilgi ve işlevsel örgütlenme iddiası; (3) ontolojik kapsama ve atom–yıldız benzetmesi; (4) insan/hayvan davranışı ve otonom sinir sistemi hakkındaki ampirik iddialar; (5) iradeli ahlak, Ehad ve hüküm/ahiret hakkındaki teolojik yorumlar. Bir satırın kanıtı diğerine otomatik aktarılmaz. Altı ontolojik boyut fizik bilimindeki koordinat sayısıyla özdeş değildir. Bu makalede doğrudan doğrulanmamış ayet, hadis veya Risale-i Nur cümlesi bağımsız kanıt olarak kullanılmaz; ilgili tarihsel notun kaynak denetimi ayrı kayıtta tutulur. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Akademik doğrulama, karşı örnek ve literatür taraması sürmektedir.
 
 ## Ek B — Kurucu kilometre taşı için Rasterast denetimi
-Fıtrat (kuruluş/imkân/sınır), fıtrî ahlak (düzenin tezahürü), iradeli ahlak (insanın bilinçli tercihi) ayrı kavramlar olarak test edilir. Hayvanların duygu, öğrenme ve fıtrî mantığı inkâr edilmez; insanın özel hükmî sorumluluğu teolojik yorumdur. Ontolojik muhataplık ile bağımsız ikinci Bilen'in epistemik onayı aynı sayılmaz. Bu ayrımların ampirik, felsefi ve teolojik dayanakları ayrı kaydedilir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+Fıtrat, fıtrî ahlak, iradeli ahlak ve muhataplık ayrımları §§2–5'teki iddia türleriyle denetlenir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Bu tekrar kaydı yeni bir kanıt veya bağımsız makale sayılmaz.
 
 ## Ek C — Özgün kaynak izi — 22 Ekim 2026
-İki özgün Word dosyası Google Drive üzerinden okunmuştur. Bu çalışmadaki P numaraları, okuyucunun döndürdüğü düz metnin boş olmayan satır/paragraflarını 1'den sayar; Word sayfası veya kalıcı belge paragraf kimliği değildir. Kaynak dosyaları değişirse bu numaralar yeniden üretilmelidir. *Akıl ve Bilginin Kaynağı* P5/P43'ün onay ve ontolojik oluşum kullanımları H02'de; *Varlık Sistemleri ve Boyutları* P66/P71/P90'ın evre kullanımları H04/H05'te karşılaştırılmıştır. Seçilmiş kavramsal eşleme yapılmıştır; her cümlenin tam diplomatik karşılaştırması veya bağımsız ikinci denetim yapılmış değildir.
+İki özgün Word dosyası Google Drive üzerinden okunmuştur. Bu çalışmadaki P numaraları, okuyucunun döndürdüğü düz metnin boş olmayan satır/paragraflarını 1'den sayar; Word sayfası veya kalıcı belge paragraf kimliği değildir. Kaynak dosyaları değişirse bu numaralar yeniden üretilmelidir. *Akıl ve Bilginin Kaynağı* P5/P43'ün onay ve ontolojik oluşum kullanımları H02'de; *Varlık Sistemleri ve Boyutları* P66/P71/P90'ın evre kullanımları H04/H05'te karşılaştırılmıştır. Bütün metin kapsamını içeren 65 bloklu ana önerme envanteri daha sonra tamamlanmıştır; her cümlenin tam diplomatik karşılaştırması veya bağımsız ikinci denetim yapılmış değildir. Güncel iz §7E'de belirtilen envanterdir.

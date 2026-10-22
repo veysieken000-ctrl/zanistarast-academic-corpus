@@ -76,3 +76,25 @@ Son işlem günlüğü: `H01-H05-KAYNAK-AKTARIMI-VE-OZGUN-METIN-DENETIMI-2026-10
 Karakter ve DOI sayımı önceki yöntemle yapılmıştır; bunlar kalite veya bağımsız kanıt puanı değildir. H01'de NIST atom numaraları ve IUPAC element tanımı; H01/H04'te NHGRI hücresel kuruluş kontrolü; H02/H05'te sevgi, doğruluk, duygu ve bilişsel kapasite ayrımları kaynak paragraf izleriyle ana gövdeye işlendi. H03'e bütün-paragraf kapsam taramasının sınırları eklendi.
 
 Tam akademik kapanış, bağımsız ikinci denetim, ilgili birincil kaynak/rivayetlerin kalan kontrolleri ve bütünsel editoryal denetim açık. Dış çekirdeğe geçilmedi; 412 yayın kapısı korunuyor.
+
+## Kaynak yerleri ve iç editoryal kontrol — devam turu
+
+| Makale | Karakter | Benzersiz DOI | Yazar/kurum–kaynakça eşleşmesi |
+|---|---:|---:|---|
+| H01 | 21422 | 4 | Kontrol edildi |
+| H02 | 14396 | 1 | Kontrol edildi |
+| H03 | 16309 | 4 | Kontrol edildi |
+| H04 | 12051 | 0 | Kontrol edildi |
+| H05 | 19039 | 5 | Kontrol edildi |
+
+Ölçüm önceki metin uzunluğu/tekil DOI yöntemiyle yapılır; kalite puanı değildir. Otomatik isim varlığı kontrolü, ilgili paragrafların elle okunan iddia–kaynak karşılaştırmasını tamamlar; onun yerine geçmez. Başlık, öz, anahtar sözcükler, yöntem, argüman, sonuç ve kaynak bölümleri beşinde de mevcuttur. H03'te atıf yapılan karga çalışması ve 2021 eleştiri/yanıtının künyeleri kendi kaynakçasına da eklendi.
+
+### Kaynak erişiminde kapanan dar ölçütler
+- Nisâ 4:1: Diyanet 2011 basılı meal s. 87, dipnot 1 ve PDF sayfası 150 doğrudan metin/görüntü kontrolü. Tefsir belgesiyle karıştırılmadı.
+- Adelberger: erişilen arXiv:1004.2318v3 yazar sürümü §II, denklem 2 ve ara tepkimeler dizisi incelendi. Kontrol sürümü 2010; dergi künyesi 2011. Bütün 57 sayfanın veya 2011 son sürümün eksiksiz karşılaştırması iddia edilmedi.
+- NHGRI DNA ve NCI otonom sinir sistemi: doğrudan resmî tanımlar okundu. Biyolojik bilgi ve otonom işleyişin metafizik yorumlardan ayrıldığı kaynak yerleri işlendi.
+
+### Editoryal düzeltmeler
+H01'de H02/H03 için artık yapılmış aktarım gelecek zamanla anlatılmıyor; tamamlanan paragraf kapsam taraması eski “yapılacak” listesinde bırakılmadı. H02'de doğrudan meal atfı eklendi. H03'ün özgün kaynak kapsam notu güncellendi. Kanonik Ek B tekrarları kısaltılıp tanımların ana gövdedeki yerlerine bağlandı. H05'in dilsel aday notları sonuçtan Ek D'ye taşındı; sonuç araştırmanın gerçekten gösterdiği kapsamla sınırlandı. Yerel kaynak yolları bulundukları klasöre göre düzeltildi.
+
+Bu tur **iç editoryal geçiştir**. Bağımsız ikinci denetim, kalan atomik iddia karşılaştırmaları ve bütünsel çekirdek kapanışı tamamlanmış değildir. 412 makale yayın kapısı ile Halka 0 önceliği aynen korunur.

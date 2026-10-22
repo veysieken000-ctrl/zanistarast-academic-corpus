@@ -22,7 +22,24 @@
 Bu halkalar öncelik şemasıdır, henüz sayılmış 412 makalenin gerçek envanteri değildir. Başlıkların bağımsızlığı ve yerleşimi içerik denetimiyle kesinleşir.
 
 ## Denetim durumu
-Beş ana metin GitHub'da mevcuttur ve sonuç bölümleri vardır. Kanonik terminoloji çalışması yapılmıştır; ana metinlerde tam DOI/atıf eşlemesi, özgün kaynak paragraf karşılaştırması ve çapraz kalite kapanışı henüz tamamlanmış değildir. Dolayısıyla **beş çekirdeğin nihai akademik kapanışı yeşil değildir**. Kaynaklar ve bilimsel karşı-örnekler araştırma eklerinde kayıtlıdır; bunların ana metinlere taşınması ve tekrar doğrulanması gerekir.
+Beş ana metinde kaynaklar ve karşı-örnekler ilgili iddialara taşınmıştır. İki özgün Word kaynağının bütün okunabilir metin kapsamı 372 birim/65 blokla eşlenmiş; ana önerme–kaynak–statü tabloları beş metne işlenmiştir. Mevcut dış atıfların yazar/kurum–kaynakça eşleşmesi kontrol edilmiş, bilimsel ve teolojik yorumların kapsamı belirtilmiştir. Bu turda sınırlı iç editoryal geçiş tamamlanmıştır; bunun anlamı makalelerin bağımsız hakemlikten geçtiği değildir. **Beş çekirdeğin bütünsel akademik kapanışı hâlâ yeşil değildir:** bağımsız alan/argüman denetimi ve kalan iddia düzeyi kontrolleri açıktır.
 
 ## İşletim kuralı
 Bir makale kapanışı için: özgün metin → kanonik iddia tablosu → kaynak/DOI → karşı-örnek → ana metin düzeltmesi → diğer dört çekirdeğe geri besleme → yeniden doğrulama → kapanış kaydı. Her dosyanın gerçek GitHub içeriği kontrol edilmeden tamamlandı denmez.
+
+## Kaynak ve iç editoryal aşama — güncel ölçütler
+| Ölçüt | Durum | Sınır |
+|---|---|---|
+| İki özgün kaynağın bütün paragraf kapsamı | Tamamlandı | 372 metin birimi, 65 blok; tek tek bütün atomik iddiaların doğrulaması değil |
+| Ana metne kaynak ve karşı-örnek aktarımı | Yapıldı | Beş metinde ilgili bölüm ve dış kaynakça mevcut |
+| Nisâ 4:1 basılı meal ve dipnot | Doğrudan kontrol edildi | Diyanet 2011, basılı s. 87; PDF sayfası 150 görüntüsü de incelendi |
+| Nükleer süreç örneğinin ilgili kaynak bölümü | Doğrudan kontrol edildi | Açık 2010 yazar sürümü §II, denklem 2; 2011 nihai dergi metniyle satır satır karşılaştırma değil |
+| Atıf–kaynakça ve bölüm bağlantıları | İç kontrol yapıldı | Yazar/kurum ve DOI/başlık eşleşmesi; her kaynak tüm iddiaları kanıtlamaz |
+| Kavramsal tutarlılık ve akademik dil | İç editoryal geçiş yapıldı | Seçilmiş tanımlar, sonuçların kapsamı, tekrarlar ve eski iş durumu ifadeleri düzeltildi |
+| Bağımsız ikinci denetim | Açık | Aynı çalışma akışının yeniden okuması bu koşulu karşılamaz |
+| Bütünsel çekirdek kapanışı | Açık | Halka 1'e geçiş izni verilmedi |
+| 412 makale yayın kapısı | Kapalı | Nihai yayın kararı yalnız kurucuya ait |
+
+Kur'an Yolu tefsirinin ilgili paragrafı resmî indeks metninden; IUPAC tanımları da indekslenmiş resmî kayıttan kontrol edilmiştir. Dinamik/korumalı sayfaların doğrudan erişimi tamamlanmış gibi gösterilmez. NHGRI DNA ve NCI otonom sinir sistemi tanımları doğrudan okunmuştur. Araştırma sorularının açık kalması ile yapılmış işlemin kaydının eksik olması aynı durum değildir; deney önerileri uygulanmış bulgu diye yazılmaz.
+
+Güncel ölçüm ve kaynak erişim ayrıntıları kalite matrisi ile kaynak aktarımı kaydında bulunur. Eski sürüm ve ekler korunur; bu kayıtlar 412 makaleye eklenmez.

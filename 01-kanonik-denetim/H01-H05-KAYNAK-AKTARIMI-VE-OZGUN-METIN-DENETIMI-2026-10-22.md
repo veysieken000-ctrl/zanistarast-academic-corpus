@@ -62,3 +62,15 @@ Beş ana metin yeniden dal üzerinden okundu; gönderilen içeriklerle birebir e
 - Bağımsız ikinci denetim ve bütünsel editoryal kapanış. Bu tur da aynı çalışma akışıdır; bağımsız denetçi varmış gibi gösterilemez.
 
 Dış çekirdeğe geçilmedi. Beş çekirdek akademik çalışma sürümü kapanışı henüz tam yeşil değildir. 412 makale yayın kapısı korunur.
+
+## Doğrudan kaynak yeri ve iç editoryal kontrol — sonraki tur
+
+Nisâ 4:1 için Diyanet'in 2011 tarihli *Kur'an-ı Kerim Meâli*, 12. basım, basılı s. 87 (PDF sayfası 150) metni ve dipnot 1 doğrudan okundu; sayfa görüntüsü incelendi. Bu kontrol dinamik Kur'an Yolu tefsir sayfasının tam okunmasıyla özdeş değildir. H01/H02 kaynakları belge türüne göre ayrıldı.
+
+Adelberger ve ark. için eScholarship'teki 57 sayfalık açık yazar sürümüne ulaşıldı: arXiv:1004.2318v3, 10 Ekim 2010. §II, denklem 2 ve ara nükleer tepkimelerin açıklama yerleri incelendi. H01'de net tepkimenin tek nötr atom dönüşümü olmadığı açıklandı. Yayın kaydı 2011 DOI'siyle eşlendi; erişilen sürüm farkı kaynakçada belirtildi. Derginin son dizgisiyle satır satır karşılaştırma veya tüm tepkime hızlarının yeniden analizi yapılmadı. Nükleer PDF ekran görüntüsü çağrısı hata verdi; bu kaynak için görüntü doğrulaması başarılı gösterilmedi, okunabilir metin kullanıldı.
+
+NHGRI DNA tanımı ve NCI otonom sinir sistemi tanımı doğrudan okundu. H01/H05'te moleküler bilgi ile gerekçeli bilgi ayrımı, H05 Ek A'da biyolojik otonom işleyiş ile kozmik analoji ayrımı kaynaklandı. IUPAC doğrudan erişimleri 403 döndü; önceki resmî indeks metni statüsü korunur.
+
+Beş metinde anahtar sözcükler, kaynak–iddia bağlantıları, atıf yapılan kurum/yazarların kaynakçada bulunması, sonuçların kapsamı, bölüm bağlantıları ve tablo yapısı iç kontrolden geçirildi. H03'ün kendi kaynakçasındaki eksik eleştiri/yanıt künyeleri eklendi; H05 dilsel aday notları Ek D'ye taşındı. Kaynak sadakati, kanonik uyum ve bilimsel doğruluk ayrı ölçütler olarak tutuldu.
+
+**Kapanış ayrımı:** Bu turdaki iç editoryal geçiş yapıldı. Tamamlanan kaynak kapsam taraması ve ilgili dar kaynak kontrolleri açık iş gibi bırakılmadı. Buna karşılık bağımsız alan/argüman denetimi ile bütünsel akademik kapanış açık; yayın onayı ve Halka 1'e geçiş yok.

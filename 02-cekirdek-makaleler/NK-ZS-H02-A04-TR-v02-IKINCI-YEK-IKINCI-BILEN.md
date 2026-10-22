@@ -5,11 +5,13 @@
 ## Öz
 Hebûn, Ehad–Yek kurucu kabulünden ilk Yek, ikinci Yek, bunların ilişkisinden yeni Yekler ve Komel'in kuruluşunu inceler. Zanabûn, bu ontolojik düzenin içinde bilginin kuruluşunu inceler: **Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı.** Ontolojik ikinci Yek ile epistemolojik ikinci bilen farklı kavramlardır; insan dünyasında aynı kişi her iki rolü üstlenebilir. Makale, kurucu türeme şemasını Nisâ 4:1'in teolojik anlatısıyla ilişkilendirir; fizik, biyoloji ve zihin boyutlarında farklı mekanizmaları özdeşleştirmez. Fıtrî ahlakın bütün varlıklardaki düzen anlamı, ikinci Bilen'in bağımsız epistemik doğrulaması ve insandaki iradeli ahlakın hüküm karşısındaki sorumluluğundan ayrılır.
 
+**Anahtar sözcükler:** Zanabûn, ikinci bilen, ikinci Yek, bağımsız doğrulama, epistemoloji, muhataplık.
+
 ## Yöntem ve iddiaların kapsamı
 Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
 
 ## 1. Devralınan kurucu kanon
-**Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Kurucu türeme sırası: **ilk Yek → ikinci Yek → ikisinin ilişkisinden üçüncü ve sonraki Yekler → Komel**. Yek yedinci yaratılmış boyut veya insan özü değildir; Komel Yek'in eşanlamlısı değildir. Nisâ 4:1'de tek nefis, ondan eş ve ikisinden çok sayıda insanın ortaya çıkışı anlatılır. Hz. Âdem–Hz. Havva–çocuklar, kurucu tefsir örneğidir; isimler ve “bel kemiği” ayetin açık lafzında bulunmaz.
+**Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Kurucu türeme sırası: **ilk Yek → ikinci Yek → ikisinin ilişkisinden üçüncü ve sonraki Yekler → Komel**. Yek yedinci yaratılmış boyut veya insan özü değildir; Komel Yek'in eşanlamlısı değildir. Nisâ 4:1'de tek nefis, ondan eş ve ikisinden çok sayıda insanın ortaya çıkışı anlatılır. Hz. Âdem–Hz. Havva–çocuklar, kurucu tefsir örneğidir; isimler ve “bel kemiği” ayetin açık lafzında bulunmaz. Meal metni ve dipnot için Diyanet İşleri Başkanlığı (2011), Nisâ 4:1; yorum ayrımı için H01 §3 esas alınır.
 
 ## 2. Epistemolojik kuruluş
 **Z1 — Bilen:** Bilen özne (S) bir nesneye (O) yönelir.  
@@ -20,7 +22,7 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 Kavramsal gösterim: **S → O → P → S₂'nin değerlendirmesi**. Bu, deneyle kanıtlanmış evrensel matematik yasa değil, araştırma modelidir.
 
 ## 3. İkinci Yek ile ikinci bilen neden karıştırılmamalı?
-İkinci Yek, Hebûn'un ontolojik dizisinde ayrı varlık/kimliktir. İkinci bilen, Zanabûn'un bilgi iddiasını değerlendiren muhataptır. İkinci bir varlığın ortaya çıkması tek başına doğrulama yapıldığı anlamına gelmez. İkinci bilenin onayı da tek başına yanılmazlık sağlamaz; ortak veri veya yöntem hatası mümkündür. Bağımsız doğrulama, ikinci bilenin ilk bilenin hatasını yeniden üretmediğinin ayrıca gösterilmesini gerektirir.
+İkinci Yek, Hebûn'un ontolojik dizisinde ayrı varlık/kimliktir. İkinci bilen, Zanabûn'un bilgi iddiasını değerlendiren muhataptır. İkinci bir varlığın ortaya çıkması tek başına doğrulama yapıldığı anlamına gelmez. Ontolojik muhataplık, bağımsız epistemik değerlendirme ve insanın hüküm karşısındaki iradeli sorumluluğu üç ayrı düzeydir. Bütün varlıklarda düzen bulunması, bütün varlıkların bilinçli bilimsel onay verdiğini göstermez. İkinci bilenin onayı da tek başına yanılmazlık sağlamaz; ortak veri veya yöntem hatası mümkündür. Bağımsız doğrulama, ikinci bilenin ilk bilenin hatasını yeniden üretmediğinin ayrıca gösterilmesini gerektirir.
 
 ## 4. Boyutlarda aynı soru, ayrı mekanizmalar
 | Boyut | Hebûn'da ilk–ikinci–yeni Yek | Zanabûn'da bilgi/onay karşılığı |
@@ -80,20 +82,22 @@ Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu d
 ## Dış kaynakça
 - National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3: aynı veriyle hesaplama ve yeni veriyle sınama ayrımı; bölüm 5A'da kullanılır. Kurumun yöntem raporudur, Zanabûn hakkında deney değildir.
 
+- Diyanet İşleri Başkanlığı. (2011). *Kur'an-ı Kerim Meâli*. Hazırlayanlar: Halil Altuntaş ve Muzaffer Şahin. 12. basım. Nisâ 4:1, basılı s. 87 (PDF sayfası 150). https://webdosya.diyanet.gov.tr/kuran/kuranikerim/dosyalar/document/kuran_meal.pdf . Kullanım: §1; teolojik metin izi. Meal ve dipnot H01'de doğrudan karşılaştırılmıştır.
+
 ## Kaynaklar
-- Kurucu kanon: `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`
-- Hebûn v03: `02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md`
-- Zanabûn EK01: `02-cekirdek-makaleler/NK-ZS-H02-A04-EK01-IKINCI-BILEN-BAGIMSIZLIK-VE-KANIT.md`
+- Kurucu kanon: `../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`
+- Hebûn v03: `NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md`
+- Zanabûn EK01: `NK-ZS-H02-A04-EK01-IKINCI-BILEN-BAGIMSIZLIK-VE-KANIT.md`
 - Özgün Word: https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit
 - Nisâ 4:1, Diyanet Kur'an Yolu: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri
 
-**Açık kapılar:** Word paragraf eşlemesi, bağımsız bilim felsefesi taraması, hedef dergi standartları ve kurucu onayı. Önceki sürümler korunur.
+**Denetim sınırı:** İki özgün metnin bütün metin kapsamı envantere bağlanmıştır. Makalenin epistemik modeli kavramsal olarak kurulmuş, karşı-örnekleri ve sınama önerisi yazılmıştır; önerilen deney uygulanmamıştır. NASEM karşılaştırması yöntem raporuna dayanır. Bağımsız bilim felsefesi değerlendirmesi ile yayın kapısı açık kalır; hedef dergiye gönderim kararı verilmemiştir. Önceki sürümler korunur.
 
 ## Ek A — Kurucu aktarım — bilimsel ve ahlaki muhataplık (22.10.2026)
 İnsan ve hayvan dış dünyayla ilişki kurar; insanın aklı gözlem, matematik, deney, araç ve edevat sayesinde bedeniyle erişemediği kuantum ve kozmik alanları araştırabilir. **Bilimsel muhataplık** ile **nihai ahlaki/hükmî muhataplık** ayrı tanımlanır: birincisi bilgi edinme ve sınama imkânı, ikincisi iradeli ahlakın altıncı boyut hüküm karşısındaki sorumluluğudur. İkinci ontolojik Yek, otomatik olarak ikinci epistemik Bilen değildir. İnsanın daha geniş muhataplığı hayvanlarda fıtrî duygu, fıtrî mantık veya öğrenmenin yokluğunu gerektirmez. Bilimsel erişim sınırsız bilme garantisi vermez. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. İlahî hüküm açıklaması teolojik önerme olarak işaretlenir.
 
 ## Ek B — Kurucu kilometre taşı: muhataplığın üç düzeyi
-Fıtrî ahlak bütün varlıklardaki kuruluş düzeni ve işleyişin ilişkisel görünümü olarak önerilir; bu, her varlığın bilinçli epistemik onay verdiği anlamına gelmez. **Ontolojik muhataplık**, **ikinci Bilen'in bağımsız epistemik doğrulaması** ve **insanın iradeli ahlakla hüküm karşısındaki özel sorumluluğu** ayrı tanımlanır. İkinci Yek otomatik ikinci Bilen değildir. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+Üç muhataplık düzeyi §3'te ayrılmıştır. Güncel kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Bu kayıt, ontolojik ikinci Yek ile epistemik ikinci Bilenin özdeş olmadığını belirleyen kanonik dayanak olarak kullanılır.
 
 ## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 *Akıl ve Bilginin Kaynağı* (Drive kimliği: 1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM; son değişiklik: 25 Aralık 2025), boş olmayan metin paragraflarıyla P5'te ikinci öznenin onayını, P43'te yaratılış ve ikinci bilen ilişkisini tartışır. P5'in mutlak bilgiye geçişi bölüm 5 ve 5A'da ortak hata bakımından sınırlandırılmıştır. P43'ün ontolojik ikinci özne kullanımı, güncel kanondaki ikinci Yek/ikinci Bilen ayrımıyla açıklanır. Kaynakta bulunması bu çıkarımları bağımsız bilimsel kanıt yapmaz.

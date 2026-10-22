@@ -1,9 +1,11 @@
 # 6+Tek: Fıtrî İmkân, Araç ve İradeli Ahlak — Türkçe v03 akademik çalışma metni
 
-**H04/A02 | 22 Ekim 2026 | v02 üzerine birikimli araştırma sürümü; dergiye gönderime hazır değil**
+**H04/A02 | Türkçe v03 | 22 Ekim 2026 | Birikimli akademik çalışma sürümü; bağımsız denetim ve yayın kapısı açık**
 
 ## Öz
 6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir. Fıtrat varlığın kuruluş imkân ve sınırlarıdır; fıtrî ahlak bu düzenin tezahürü, iradeli ahlak ise insanda bilgi ve tercihle bu imkânların yönetilmesidir. Hüküm karşısındaki özel ahlaki sorumluluk iradeli ahlakla ilişkilidir.
+
+**Anahtar sözcükler:** 6+Tek, Yek, fıtrat, fıtrî ahlak, iradeli ahlak, ontolojik kapsama.
 
 ## Yöntem ve iddiaların kapsamı
 Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
@@ -78,7 +80,7 @@ Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu d�
 
 - National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §5D; hücresel kuruluş. Kurumsal biyoloji açıklaması, ontolojik boyut sayısının kanıtı değildir. Erişim: 22 Ekim 2026.
 
-## 7. Kaynak ve sürüm izi
+## Kaynak ve sürüm izi
 - `NK-ZS-H04-A02-TR-v02-ALTI-ARTI-TEK-TUREME-KOMEL.md`
 - `NK-ZS-H03-A14-EK02-UCLU-DENETIM.md`
 - `NK-ZS-BILIM-FELSEFESI-ARAC-FITRI-IMKAN-IRADELI-AHLAK-v01.md`
@@ -92,7 +94,7 @@ Fiziksel evrenin kütle/hacimce büyüklüğü, Zanistarast'taki **birinci ontol
 **Kurucu kaynak:** `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`.
 
 ## Ek B — Kurucu kilometre taşı: fıtrî ahlak ile iradeli ahlakın kapsamı
-Beşinci boyutun fıtrî ahlak evresi, fizik–biyoloji–zihin–ruh düzenlerinin varlıkta tezahürünü; iradeli ahlak evresi ise insanın bilgi, niyet ve seçimle bu imkânları yönlendirmesini açıklayan kurucu ayrımdır. Altıncı boyut hüküm/ahiret, insanın iradeli ahlak bakımından nihai muhataplık ufkudur. Ehad bu boyutlardan biri değildir. Doğal düzen anlamındaki ahlak, normatif sorumlulukla özdeşleştirilmez. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+Fıtrî işleyiş ile insanın bilgi, niyet ve tercih sorumluluğu §§4–5D'de ayrılmıştır. Güncel kanonik dayanak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Altıncı boyut yaratılmış hüküm/ahiret düzenidir; Ehad bu boyutun bir bileşeni değildir.
 
 ## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 *Varlık Sistemleri ve Boyutları* özgün Word dosyasının boş olmayan metin paragraflarında P66 üreme biçimleriyle evreleri karıştırırken P71 tek hücrelileri birinci evre diye adlandırır. Güncel kurucu karar uyarınca bölüm 5A tek hücreli/çok hücreli ayrımını esas alır. P90 zekâ/akıl ayrımıyla uyumludur. P161 ve devamında dünya/ahiret evre anlatımı bulunur; güncel tabloda bunun tarihsel teolojik anlatım olduğu korunur, yeni ampirik evre dizisi kurulmaz. Bu nedenle “altıncı boyut için özgün kaynakta hiçbir evre anlatımı yoktur” sonucu çıkarılmamalıdır. Kaynak: https://drive.google.com/file/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d .
