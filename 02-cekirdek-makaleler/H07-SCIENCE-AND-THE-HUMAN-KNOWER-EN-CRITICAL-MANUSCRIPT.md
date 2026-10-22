@@ -278,3 +278,41 @@ The following three source-aligned working translation sections are reproduced f
 - **Still held in the companion matrix:** detailed source 69–79, plus the opening introduction and earlier condensed renderings. Their omission from this appendix does not mean they have not been translated elsewhere.
 - **Editorial independence:** historical wording, later canonical formulations, and scientific corrections remain distinguishable; overlapping coverage between narrative sections and appendices is intentional and will need final copyediting.
 - **Not yet verified:** exhaustive sentence-level bilingual equivalence, full peer-reviewed literature coverage, or journal readiness.
+
+
+---
+
+## Appendix C. The scope of being, verification, and accumulated knowledge (source lines 69–79)
+
+This appendix incorporates the source-aligned English working translation previously held only in the evidence matrix. The authorial text and editorial notes remain distinct.
+
+## H07 closer English translation — source lines 69–79 (22 October 2026)
+
+**Primary source:** `hebun-zanabun/articles/makale-06.md`, main, lines 69, 71, 73, 75, 77, and 79. This is a paragraph-matched English working translation; interpretive notes follow separately. Blank source lines 70, 72, 74, 76, and 78 divide the paragraphs.
+
+**Source line 69 — science of being and the expansion of existence.** The science of being may be seen as the development of the intelligence of a being endowed with reason. It is the expansion of the sphere of existence of the self that seeks to exist. In this sense, the science of being concerns the subordinate beings through which such expansion is achieved. The knowledge by which human beings meet their needs for security, shelter, and food, and share that knowledge with spouses and children to sustain and extend life, is science as lived. The creator's sharing of knowledge with the human being, a second knower endowed with reason, is presented as an example of the continual renewal and enlargement of human existence. Because human production occurs through humans created by God, the author attributes its possibility to divine creation. The author argues that science does not move backward, comparing the destruction of evil to the inward collapse of an enlarged star into a black hole. The science of being is said to begin at a singularity; a process that ends in singularity is treated as limited rather than eternal. The source then describes physical science as beginning with the atom and reaching a second stage with stars, and it claims that black holes break atoms apart and bring motion to a halt, returning things to a state comparable to nothingness. Atoms and stars are described as reasons for existence.
+
+**Source line 71 — objectivity and the knower.** Science aims to understand nature and the universe concretely and impartially. To attain that goal, one must identify with the object under investigation. The person who does not identify with knowledge becomes, in the author's terms, its counterpart in activity. Activities that fail to accord with natural structure or science are characterized as false and liable to disappear; false information can elicit criticism and be changed. To reach consistent, systematic, universal, and absolute knowledge, the author argues that we must know nature as natural beings: our physical bodies correspond to the physical universe, our biological constitution to biological nature, and our status as minded living beings to other beings with minds. Alongside this natural condition, two people and reason capable of reaching a shared conclusion are required.
+
+**Source line 73 — goodness and truth.** The author regards actions that sustain human existence as natural conditions of science. Shoes and vehicles serve physical comfort, medicines serve health, and the senses contribute to the accumulation of knowledge associated with intelligence. Feelings and the influence of other people are linked to moral formation and to the self's effort to protect and expand its sphere of existence. The author argues that truth and goodness are necessary across these dimensions. Goodness is defined as that with which all existing beings are content; what everyone accepts is called true; truth is described as the system to which all beings conform as a whole. The author interprets evil as the interruption, regression, or negation of development. Observation, causal relationships, experiment, and the examination or improvement of existing things are associated with the good and truthful human being. The passage ends by linking reason, a second knower, truthful good action, and eternity.
+
+**Source line 75 — the intention to know.** Scientists who contribute to developments in science identify with knowledge and bring it to light. The author argues that reason, regarded as independent for the purposes of knowing, should be observed with the intention to know and confirmed by experiment. Accordingly, the foundation of a human being's science of being is an intention to know that begins with the question, 'How did it come about?'
+
+**Source line 77 — from accumulation to creative production.** The human intention to know is explained by the fact that humans themselves are beings, and by the drive to exist, preserve their sphere of existence, and expand it that the author believes can be observed in beings generally. A person seeking the science of being through this natural condition begins to accumulate knowledge and, through that accumulation, reaches universal rules. As a rational being, the person then combines existing parts in accordance with universal laws in pursuit of a broader sphere of existence. The author calls this a second stage of science, or creativity that may be described as a new science.
+
+**Source line 79 — time.** The science of being is knowledge of existing things and of the formation of space and time that continues through their interactions. Time is continuing repetition.
+
+### Editorial notes, not translated source
+
+- Line 69's claims about black holes halting all motion and converting matter to nothingness are not established physical descriptions. They require correction in any empirical exposition while remaining identifiable as historical authorial claims here.
+- Line 73's universal agreement criterion for truth is a normative/epistemological definition, not a reliable empirical truth test: shared error is possible.
+- Lines 75–77 connect inquiry, experimental confirmation, and creative construction; these can be reconstructed as a philosophical account of inquiry, but the source does not provide a controlled study establishing that all beings intend to expand their existence.
+- Line 79's definition of time as continuing repetition is a philosophical proposal and should not be represented as a consensus definition in contemporary physics.
+
+**Alignment update:** The previously flagged 69–79 gap now has six source-line-matched English paragraphs. They remain working translations requiring author review; this does not certify a complete manuscript or validated bibliography.
+
+### Consolidation and textual fidelity checkpoint
+
+The standalone manuscript now contains the detailed working renderings for the original's main substantive passages: **21–27, 33–55, 57–79, 81–106, and 109–129**. The opening paragraphs (notably 6–12), some transitions and headings, and individual sentence equivalence still require a final bilingual comparison. The manuscript's narrative §§1–8 are a **critical reconstruction**, not a literal translation; Appendices A–C preserve closer source correspondence. The separate matrix remains the working audit trail. Historical claims are not silently updated to later canon or modern science.
+
+**Next editorial gate:** inspect introduction line by line, audit repeated passages between §§1–8 and Appendices A–C, and only then determine whether to maintain a critical edition and a journal article as separate deliverables. No assertion of journal readiness is made.
