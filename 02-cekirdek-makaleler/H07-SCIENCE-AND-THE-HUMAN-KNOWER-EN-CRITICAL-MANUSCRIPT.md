@@ -316,3 +316,33 @@ This appendix incorporates the source-aligned English working translation previo
 The standalone manuscript now contains the detailed working renderings for the original's main substantive passages: **21–27, 33–55, 57–79, 81–106, and 109–129**. The opening paragraphs (notably 6–12), some transitions and headings, and individual sentence equivalence still require a final bilingual comparison. The manuscript's narrative §§1–8 are a **critical reconstruction**, not a literal translation; Appendices A–C preserve closer source correspondence. The separate matrix remains the working audit trail. Historical claims are not silently updated to later canon or modern science.
 
 **Next editorial gate:** inspect introduction line by line, audit repeated passages between §§1–8 and Appendices A–C, and only then determine whether to maintain a critical edition and a journal article as separate deliverables. No assertion of journal readiness is made.
+
+
+---
+
+## Appendix D. Opening-title and introduction fidelity check (source lines 1–20)
+
+**Source title (line 1):** *VARLIK VE YARATICI BİLİMİNİN TEMELİ* — **The Foundation of the Science of Being and Creative Science**.
+
+**Subtitle (line 3, repeated at line 18):** *BİLİM VE İNSAN* — **Science and the Human Being**.
+
+**Heading (line 6):** *GİRİŞ* — **Introduction**.
+
+**Source line 10 — close English working translation.** As a living species capable of existing in communities in nature, the human being seeks to recognize nature and live within it in order to adapt to nature. This is a repetition of a natural outcome associated with the desire to exist and to enlarge one's sphere of existence. In the struggle to hold on to life that begins at birth and continues until death, every impression constitutes knowledge for the individual. Social knowledge may be viewed as a consensus reached through individuals' shared struggle to live.
+
+**Source line 12 — close English working translation.** The classification of accumulated knowledge, defined as the product emerging from a knowing subject's orientation toward a known object, has contributed to the formation of branches of science throughout history. The definition and necessity of knowledge are directly related to what the subject is and what it needs. The definition of science is the definition of generally valid knowledge extending from past to future. Because knowledge is necessary for humanity, this study will seek human knowing within the knowledge that lies at the foundation of the philosophy of science.
+
+**Source lines 16 and 18:** the title and subtitle repeat; they are structural repetitions in the historical source, not new arguments.
+
+### Editorial comparison with the independent manuscript
+
+- **Title:** The standalone English title is a scholarly reframing that foregrounds the second-knower thesis. It is **not** a literal translation of the historical title. A faithful edition should display both.
+- **Introduction:** Manuscript §1 paraphrases the two substantive introductory paragraphs, but does not explicitly preserve the historical author's characterization of *science as generally valid knowledge from past to future*. This wording is now available above for source checking.
+- **Terminology:** *Varlık alanı* is rendered as **sphere of existence**; *mutabakat* as **consensus**; *bilen özne* as **knowing subject**; *bilinen nesne* as **known object**. These are working choices pending bilingual editorial approval.
+- **Claim status:** The idea that every impression is knowledge and that social knowledge is consensus is an authorial epistemological position, not a generally accepted definition of scientific knowledge.
+
+### Duplication and structure audit (first pass)
+
+The manuscript currently has two legitimate but different functions: **§§1–9** are a concise critical reconstruction with a small verified reference set, whereas **Appendices A–D** preserve closer source-aligned working translations and historical claims. The repeated discussion of the second knower, six modes of time, and creative science is therefore **intentional across the two layers**, but would be excessive in a single journal article. For a journal version, use the critical synthesis as the basis and cite selected historical passages rather than appending the full translation. For the critical edition, keep the source-aligned appendices and verify every sentence against the original.
+
+**Next fidelity gate:** compare the opening and all remaining source paragraphs sentence by sentence, then produce a separate journal-oriented file without deleting or altering the critical edition. Neither output is yet certified for submission.
