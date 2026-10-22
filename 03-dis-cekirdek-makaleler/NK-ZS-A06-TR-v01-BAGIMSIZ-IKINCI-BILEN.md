@@ -59,6 +59,26 @@ Kavramsal çözümleme, koşullu çıkarım ve düşünce deneyleri kullanılır
 ## 5. Temel argüman
 İkinci onayın değeri kişi sayısına değil, ilk değerlendirmede sınanmayan hata yollarının incelenmesine bağlıdır. Mutlak bağımsızlık gerekmez; hangi bağımlılığın sürdüğü açıkça kaydedilmelidir. Aynı yöntemin tekrarı uygulama hatasını yakalayabilir fakat bütün sistematik hataları gidermez.
 
+## 5A. Ontolojik temsil ile epistemik doğrulama arasında geçiş ilkeleri
+
+**Geçiş ilkesi 1 — varlık, bilgi değildir.** Yek'in varlığı ve fıtrî düzeni, bilen bir öznenin o Yek hakkında doğru bir önerme kurduğunu tek başına göstermez. Bu nedenle Hebûn'un varlık açıklaması Zanabûn'un bilgi açıklamasının yerine geçmez.
+
+**Geçiş ilkesi 2 — temsil, insan tipi bilinç değildir.** Ehad karşısında her Yek'in ikinci bileni ontolojik olarak temsil etmesi, fiziksel parçacıkların akıl yürüttüğü veya hücrelerin bilimsel hüküm verdiği iddiası değildir. Fıtrî ahlak düzeyinde muhataplık, yaratılmışın kuruluş ve işleyişiyle; epistemolojik onay ise bilgi sonucunun değerlendirilmesiyle ilgilidir.
+
+**Geçiş ilkesi 3 — bilme tek biçimli değildir.** Canlılıkta bilgi işleme, zihinli canlılarda öğrenme ve hafıza, insanda ilimden ilim üretme aynı sözcükle ifade edilse bile farklı araştırma ölçütleri ister. İlk hafıza ve ilk zihinli Yek'in tarihsel kimliği, mevcut metnin çözülmüş ampirik sonucu değildir.
+
+**Geçiş ilkesi 4 — hüküm, yalnız doğruluk denetimi değildir.** İnsan, iradeli ahlakla bilgi, niyet, tercih ve eylemin sonuçları bakımından hükme muhataptır. Bir önermenin bilimsel doğrulanmasıyla bir eylemin ahlaki değerlendirilmesi farklı sorulardır.
+
+### İki örnek üzerinde kavramsal denetim
+**Birinci örnek: metalin işlenmesi.** Metalin fiziksel özellikleri fıtrî kuruluş ve düzen düzeyindedir. Bir öznenin bunları araştırması epistemolojik yöneliştir. Başka bir bilenin farklı ölçümle iddiayı sınaması bilimsel ikinci onaydır. Bu bilgiyi zarar vermek veya yarar sağlamak için kullanma kararı insanda iradeli ahlakın konusudur. Aynı olay dizisinde dört ayrı yüklem vardır; hiçbiri diğerine indirgenmez.
+
+**İkinci örnek: canlıdaki tepki.** Bir canlının çevresine tepki vermesi biyolojik işleyişi gösterir. Öğrenme ve hafıza iddiası için ayrıca davranışsal kanıt gerekir. Bilinçli gerekçelendirme veya iradeli ahlak iddiası ise daha güçlü ve ayrı dayanak ister. Böylece ontolojik ikinci bilen temsili korunurken her canlıya insanın epistemik ve normatif yetileri yüklenmez.
+
+### Eleştirel değerlendirme
+**İtiraz:** İkinci Bilen hem bütün Yekleri hem başka bir araştırmacıyı anlatıyorsa kavram belirsizleşir. **Yanıt:** Kavramın ontolojik, bilişsel, epistemik-denetimsel ve iradeli-ahlaki yüklemleri açıkça ayrılmalıdır. Aynı sözcük kullanılması aynı yetilerin bulunduğu anlamına gelmez. Kurucu felsefenin sınanabilirliği de bu yüklem ayrımının korunmasına bağlıdır.
+
+**İtiraz:** Fıtrî ahlak doğal işleyişten insan için ahlaki ödev çıkarmaya yeter. **Yanıt:** Hayır. Normatif yükümlülük bilgi, niyet, tercih ve gerekçeyle ayrıca tartışılır; doğallık tek başına ahlaki doğruluk değildir.
+
 ## 6. Beş çekirdekle bağ
 H01 ontolojik ikinci Yek ile epistemik ikinci bileni ayırır. H02 bilgi sonucunun gerekçeli onayını kurar. H03 karşı-örnek ve geri beslemeyi yönetir. H04 denetimin ahlaki sorumluluğunu, H05 yeni bilgi üretiminin gerekçelendirme ihtiyacını açıklar. A06 bu metinleri tekrarlamaz; bağımsızlığın koşullarını araştırır.
 
