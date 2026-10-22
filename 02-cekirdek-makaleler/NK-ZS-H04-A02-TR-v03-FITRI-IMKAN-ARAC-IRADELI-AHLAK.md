@@ -37,3 +37,8 @@ Faydasız bilgi, sözde bilim ve henüz pratik uygulaması bilinmeyen temel ara�
 - `../01-kanonik-denetim/FITRI-IRADELI-AHLAK-HUKMUN-AHLAKI-MUHATAPLIK-2026-10-22.md`
 
 **Durum:** Kurucu görüşlerin akademik taslağıdır; dış literatür karşılaştırması ve bağımsız hakem denetimi henüz tamamlanmadı.
+
+## 8. Yeni kurucu açıklama: ontolojik kapsama, ahlak ve hüküm (22.10.2026)
+Fiziksel evrenin kütle/hacimce büyüklüğü, Zanistarast'taki **birinci ontolojik boyut** oluşuyla çelişmez. Biyoloji fizik içinde var olur; ancak canlılık ve bilgi düzeniyle yeni açıklama alanı açar. Zihin ve ruh bunu takip eder. **Beşinci boyut ahlak**, fıtrî düzen ve insandaki iradeli sorumluluk bakımından ilk dört boyutu kapsayan bir ufuk olarak yorumlanır. **Altıncı boyut hüküm/ahiret**, iradeli ahlakın nihai muhataplık ufkudur. Ehad bu yaratılmış boyutlardan biri değildir, hüküm sahibidir. “Küçük büyüğün içinde, büyük küçüğün içinde” fiziksel hacim eşitliği değil fiziksel içerilme ile ontolojik/açıklayıcı kapsamanın iki ayrı ilişkisidir. Otonom kâinat benzetmesi ilahî düzenden bağımsızlık iddiası değildir. Bu yaklaşım felsefi/teolojik tez olarak sunulur; fiziksel boyut teorisi veya ampirik ispat olarak gösterilmez.
+
+**Kurucu kaynak:** `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`.
