@@ -20,7 +20,7 @@ Rasterast bu iki makaleyi yeniden yazmaz; onlardan devralınan iddiaların hangi
 **Y — Yorum:** Hz. Âdem–Hz. Havva–çocuklar özdeşleştirmesi veya boyutlara uygulama. Metnin lafzından ayrılır.
 **M — Mantıksal çıkarım:** Açık öncüllerden sonuç. Geçerlilik, öncüllerin doğruluğundan ayrı denetlenir.
 **A — Analoji:** İnsan türemesi, hücre bölünmesi ve atomik örgütlenme arasında kurucu benzerlik. Mekanizmaların aynılığı iddia edilmez.
-**E — Ampirik hipotez:** Nükleosentez, hücre bölünmesi, çok hücrelilik, bellek gibi gözlem/deney gerektiren iddialar. Alan verisi ve karşı-örnek gerekir.
+**E — Ampirik iddia alanı:** Nükleosentez, hücre bölünmesi, çok hücrelilik ve bellek hakkındaki gözlem/deney gerektiren önermeler. Bu alanın içinde **E-bulgu** yayımlanmış gözlemi, **E-hipotez** henüz sınanacak açıklamayı gösterir; ikisi aynı doğrulanmışlık derecesinde değildir. Kaynağın kendi sonucu ile bu makalenin o sonuçtan çıkardığı yorum ayrı satırlarda tutulur.
 
 ## 3. Denetlenebilir kaynak soyağacı
 Her iddia şu alanlarla tutulur:
@@ -74,8 +74,22 @@ NASEM (2019, bölüm 3) aynı verinin yeniden hesaplanmasını yeni veriyle sın
 
 **Yöntemsel sınır:** Kurucu kaynak sadakati ile ampirik doğruluk iki ayrı denetimdir. Kanonik uyum bilimsel doğrulamanın yerine geçmez. Geçerli bir karşı-örnek geldiğinde ampirik uygulama düzeltilebilir; kurucu teolojik kabulün statüsü ayrıca belirtilir. Hedef, farklı iddia türleri arasındaki geçişin gerekçesini görünür kılmaktır.
 
+### 7C. H05 üzerinden bir gerçek itiraz–yanıt denetimi
+H05'te Boeckle ve ark. (2020) için deneydeki araç seçimi, araştırmacıların planlama yorumu ve bu yorumun eleştirisi ayrı kaydedilir. de Mahy ve ark. (2021) çağrışımsal açıklamanın dışlanmasını sorgular; Boeckle ve ark. (2021) yanıt verir. Ayrıntılı kaynaklar H05 dış kaynakçasındadır. Bu, aynı yazarın çalışmasına verdiği yanıtın bağımsız tekrar deneyi sayılmaması gerektiğini gösteren bir örnektir. Deneysel sonuç, yorum ve eleştiri zinciri birlikte görünür tutulur.
+
+Rasterast için iki başarım ayrı ölçülmelidir: bibliyografik hatayı bulma ve çıkarımın kaynak kapsamını aştığını bulma. Bu makalede protokol tasarlanıp örneklendirilmiştir; duyarlılık, hata oranı veya başka denetçiler arasındaki uyum ölçülmemiştir. Dolayısıyla protokolün mevcut akademik denetim yöntemlerinden üstün olduğu ileri sürülmez.
+
+### 7D. Ana önermelerin kaynak ve statü haritası
+| Önerme | Dayanak | Statü ve aktarım sınırı |
+|---|---|---|
+| Kaynak sadakati ile ampirik doğruluk ayrı denetlenir | H01/H02 iddia türlerinin çözümlemesi | Önerilen yöntem; başarı oranı ölçülmedi |
+| Aynı DOI'yi tekrar eden özetler bağımsız kanıt değildir | Kaynak soyağacı mantığı | Bağımlılık denetimi; kaynak sayısı kanıt ağırlığı değildir |
+| Aynı veri ve yeni veri işlemleri farklıdır | NASEM, 2019, bölüm 3 | Dış yöntem karşılaştırması |
+| Sonuç–yorum–eleştiri ayrı tutulur | H05'te Boeckle 2020 ve 2021 tartışması | Gerçek yayın zincirinde örnekleme; bağımsız tekrar yok |
+| Karar kayıtları düzeltilebilir olmalıdır | Bölüm 7B protokolü | Rasterast'ın önerisi; üstünlüğü henüz sınanmadı |
+
 ## 8. Sonuç
-Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. Böylece H01 ve H02'nin kazanımları H04'e aktarılırken anlam kaybı ve gereksiz tekrar azalır.
+Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. H01–H05'e uygulanan kayıt düzeni, kavram ve kaynak aktarımını izlenebilir kılar. Bunun hata azaltma etkisi henüz karşılaştırmalı olarak ölçülmemiştir; yöntemsel katkı protokol ve örnek denetim düzeyindedir.
 
 ## Dış kaynakça
 - National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3, yöntemsel karşılaştırma; bölüm 7B'de kullanılır.
@@ -87,11 +101,11 @@ Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek de
 4. `02-cekirdek-makaleler/NK-ZS-H03-A14-EK01-KANIT-SOYAGACI-VE-IKINCI-DENETIM.md`.
 5. Özgün Word metinleri ve Nisâ 4:1 Diyanet tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri .
 
-## Yeni yöntem denetimi — boyut ve muhataplık (22.10.2026)
+## Ek A — Yöntem denetimi — boyut ve muhataplık (22.10.2026)
 Yeni kurucu açıklamalar için beş ayrı doğrulama satırı tutulur: (1) fiziksel hacim/kütle iddiası; (2) biyolojik bilgi ve işlevsel örgütlenme iddiası; (3) ontolojik kapsama ve atom–yıldız benzetmesi; (4) insan/hayvan davranışı ve otonom sinir sistemi hakkındaki ampirik iddialar; (5) iradeli ahlak, Ehad ve hüküm/ahiret hakkındaki teolojik yorumlar. Bir satırın kanıtı diğerine otomatik aktarılmaz. Altı ontolojik boyut fizik bilimindeki koordinat sayısıyla özdeş değildir. Lokmân 31:27 ve Kehf 18:109 ayet atıfları metinle kontrol edilir; “yere göğe sığmadım...” ifadesi sahih kudsî hadis diye kesin sunulmaz. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Akademik doğrulama, karşı örnek ve literatür taraması sürmektedir.
 
-## Kurucu kilometre taşı için Rasterast denetimi
+## Ek B — Kurucu kilometre taşı için Rasterast denetimi
 Fıtrat (kuruluş/imkân/sınır), fıtrî ahlak (düzenin tezahürü), iradeli ahlak (insanın bilinçli tercihi) ayrı kavramlar olarak test edilir. Hayvanların duygu, öğrenme ve fıtrî mantığı inkâr edilmez; insanın özel hükmî sorumluluğu teolojik yorumdur. Ontolojik muhataplık ile bağımsız ikinci Bilen'in epistemik onayı aynı sayılmaz. Bu ayrımların ampirik, felsefi ve teolojik dayanakları ayrı kaydedilir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
-## Özgün kaynak izi — 22 Ekim 2026
+## Ek C — Özgün kaynak izi — 22 Ekim 2026
 İki özgün Word dosyası Google Drive üzerinden okunmuştur. Bu çalışmadaki P numaraları, okuyucunun döndürdüğü düz metnin boş olmayan satır/paragraflarını 1'den sayar; Word sayfası veya kalıcı belge paragraf kimliği değildir. Kaynak dosyaları değişirse bu numaralar yeniden üretilmelidir. *Akıl ve Bilginin Kaynağı* P5/P43'ün onay ve ontolojik oluşum kullanımları H02'de; *Varlık Sistemleri ve Boyutları* P66/P71/P90'ın evre kullanımları H04/H05'te karşılaştırılmıştır. Seçilmiş kavramsal eşleme yapılmıştır; her cümlenin tam diplomatik karşılaştırması veya bağımsız ikinci denetim yapılmış değildir.
