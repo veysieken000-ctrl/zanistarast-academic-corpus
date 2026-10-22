@@ -73,3 +73,6 @@ Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu d
 
 ## Kurucu kilometre taşı: muhataplığın üç düzeyi
 Fıtrî ahlak bütün varlıklardaki kuruluş düzeni ve işleyişin ilişkisel görünümü olarak önerilir; bu, her varlığın bilinçli epistemik onay verdiği anlamına gelmez. **Ontolojik muhataplık**, **ikinci Bilen'in bağımsız epistemik doğrulaması** ve **insanın iradeli ahlakla hüküm karşısındaki özel sorumluluğu** ayrı tanımlanır. İkinci Yek otomatik ikinci Bilen değildir. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
+## Özgün metin karşılaştırması — 22 Ekim 2026
+*Akıl ve Bilginin Kaynağı* (Drive kimliği: 1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM; son değişiklik: 25 Aralık 2025), boş olmayan metin paragraflarıyla P5'te ikinci öznenin onayını, P43'te yaratılış ve ikinci bilen ilişkisini tartışır. P5'in mutlak bilgiye geçişi bölüm 5 ve 5A'da ortak hata bakımından sınırlandırılmıştır. P43'ün ontolojik ikinci özne kullanımı, güncel kanondaki ikinci Yek/ikinci Bilen ayrımıyla açıklanır. Kaynakta bulunması bu çıkarımları bağımsız bilimsel kanıt yapmaz.

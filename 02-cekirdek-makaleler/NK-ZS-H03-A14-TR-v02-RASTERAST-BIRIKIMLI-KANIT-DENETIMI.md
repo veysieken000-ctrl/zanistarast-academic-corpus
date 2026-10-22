@@ -92,3 +92,6 @@ Yeni kurucu açıklamalar için beş ayrı doğrulama satırı tutulur: (1) fizi
 
 ## Kurucu kilometre taşı için Rasterast denetimi
 Fıtrat (kuruluş/imkân/sınır), fıtrî ahlak (düzenin tezahürü), iradeli ahlak (insanın bilinçli tercihi) ayrı kavramlar olarak test edilir. Hayvanların duygu, öğrenme ve fıtrî mantığı inkâr edilmez; insanın özel hükmî sorumluluğu teolojik yorumdur. Ontolojik muhataplık ile bağımsız ikinci Bilen'in epistemik onayı aynı sayılmaz. Bu ayrımların ampirik, felsefi ve teolojik dayanakları ayrı kaydedilir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
+## Özgün kaynak izi — 22 Ekim 2026
+İki özgün Word dosyası Google Drive üzerinden okunmuştur. Bu çalışmadaki P numaraları, okuyucunun döndürdüğü düz metnin boş olmayan satır/paragraflarını 1'den sayar; Word sayfası veya kalıcı belge paragraf kimliği değildir. Kaynak dosyaları değişirse bu numaralar yeniden üretilmelidir. *Akıl ve Bilginin Kaynağı* P5/P43'ün onay ve ontolojik oluşum kullanımları H02'de; *Varlık Sistemleri ve Boyutları* P66/P71/P90'ın evre kullanımları H04/H05'te karşılaştırılmıştır. Seçilmiş kavramsal eşleme yapılmıştır; her cümlenin tam diplomatik karşılaştırması veya bağımsız ikinci denetim yapılmış değildir.

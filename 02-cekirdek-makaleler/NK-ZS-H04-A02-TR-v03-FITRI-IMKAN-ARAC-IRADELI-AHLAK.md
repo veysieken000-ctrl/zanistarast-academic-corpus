@@ -72,3 +72,6 @@ Fiziksel evrenin kütle/hacimce büyüklüğü, Zanistarast'taki **birinci ontol
 
 ## 9. Kurucu kilometre taşı: fıtrî ahlak ile iradeli ahlakın kapsamı
 Beşinci boyutun fıtrî ahlak evresi, fizik–biyoloji–zihin–ruh düzenlerinin varlıkta tezahürünü; iradeli ahlak evresi ise insanın bilgi, niyet ve seçimle bu imkânları yönlendirmesini açıklayan kurucu ayrımdır. Altıncı boyut hüküm/ahiret, insanın iradeli ahlak bakımından nihai muhataplık ufkudur. Ehad bu boyutlardan biri değildir. Doğal düzen anlamındaki ahlak, normatif sorumlulukla özdeşleştirilmez. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
+## Özgün metin karşılaştırması — 22 Ekim 2026
+*Varlık Sistemleri ve Boyutları* özgün Word dosyasının boş olmayan metin paragraflarında P66 üreme biçimleriyle evreleri karıştırırken P71 tek hücrelileri birinci evre diye adlandırır. Güncel kurucu karar uyarınca bölüm 5A tek hücreli/çok hücreli ayrımını esas alır. P90 zekâ/akıl ayrımıyla uyumludur. P161 ve devamında dünya/ahiret evre anlatımı bulunur; güncel tabloda bunun tarihsel teolojik anlatım olduğu korunur, yeni ampirik evre dizisi kurulmaz. Bu nedenle “altıncı boyut için özgün kaynakta hiçbir evre anlatımı yoktur” sonucu çıkarılmamalıdır. Kaynak: https://drive.google.com/file/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d .

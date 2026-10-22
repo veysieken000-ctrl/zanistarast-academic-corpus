@@ -98,3 +98,6 @@ Varlığın devamlılığı fizik düzeyinde kanunlarla işleyen düzen, biyoloj
 
 ## Kurucu kilometre taşı: fıtrat ve ortak öz
 Fıtrat varlığın kuruluşu, imkânları, sınırları ve ilişkisel düzenidir. Fıtrî ahlak bu düzenin işleyiş ve ilişkilerdeki tezahürüdür; cansız varlıklara bilinçli ahlaki seçim yüklenmez. İnsan ve hayvanın ortak özünün kabulü, iradeli ahlak bakımından aynı sorumluluğa sahip oldukları anlamına gelmez. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
+## Özgün metin karşılaştırması — 22 Ekim 2026
+Özgün *Varlık Sistemleri ve Boyutları* dosyası (Drive kimliği: 1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d; son değişiklik: 5 Şubat 2026) okunmuştur. Düz metinde boş olmayan satır/paragraf sırasına göre P122, Âdem–Havva–çocuk analojisinin; *Akıl ve Bilginin Kaynağı* P45, parçacık türemesi varsayımının izidir. İkinci kaynakta protondan nötron ve ikisinden elektron oluşması ihtimal olarak yazılmıştır; bölüm 5 bunu bilimsel bulguya dönüştürmez. Özgün metin korunur; güncel kanon ve kaynak denetimiyle yapılan sınırlandırma tarihsel kaynaktan sessizce silinmez.
