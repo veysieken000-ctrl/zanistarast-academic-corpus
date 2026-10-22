@@ -39,3 +39,7 @@ Bu metin modelin iç tutarlılığını sınamaya yönelik bir başlangıçtır;
 2. `zanistarast-papers/docs/architecture/ZANISTARAST_MIRA_MASTER_ROADMAP.md` (kanonik mimari).
 3. `zanistarast-papers/reference-implementation/mira/src/zanistarast_scientific_mission.rs` (Mira bilimsel misyonu).
 4. `zanistarast-academic-corpus/01-kanonik-denetim/27-MAKALE-URETIM-VE-KALITE-MATRISI-2026-10-22.md` (A02 araştırma kaydı).
+
+## 8. Kurucu tabloya göre altıncı boyutun kaynak doğrulaması (22.10.2026)
+
+Önceki §2'deki “altıncı boyutun iki evresine ilişkin doğrulanmış ayrıntı bulunmadığı” ifadesi, artık doğrudan denetlenen kurucu belge karşısında **geçersiz kaynak durumu** olarak düzeltilmiştir. `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` belgesinin “KURUCU ONAYLI NİHAİ TABLO — 6 BOYUT / 12 EVRE” bölümünde **1. evre hesap/hüküm, 2. evre hükmün sonucu (ahiret karşılığı)** açıkça yazılıdır. Doğrulanan GitHub blobu: `312510036f6c6516468296019b9dff2e489e74a8`. Bu ontolojik-teolojik kurucu sınıflamadır; deneysel doğrulama değildir. Önceki ifadeler sürüm izi olarak korunur, ancak bu paragraf geçerli kaynak sonucu olarak esas alınır.
