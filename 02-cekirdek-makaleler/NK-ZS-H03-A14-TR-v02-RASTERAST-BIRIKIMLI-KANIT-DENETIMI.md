@@ -54,6 +54,9 @@ Kur'an, Hz. Muhammed'in öğretisi ve Risale-i Nur, kurucu düşünsel yönelimi
 **Devredilecek sınırlar:** Her boyutta aynı mekanizma yok; evreler eşeysiz/eşeyli değildir; hidrojen-1 üç parçacık zorunluluğuna karşı-örnektir; ontolojik ikinci Yek epistemolojik ikinci bilenle özdeş değildir.
 **Açık kanıt işleri:** Her boyutun tarihsel ve ampirik örnekleri, özgün Word paragraf eşlemesi, bağımsız alan literatürü, dergi standardı, kurucu son onayı.
 
+## 7A. Beş çekirdek için uygulanabilir geri besleme denetimi
+Her bilimsel iddia için kayıt şeması: (i) makale ve bölüm, (ii) iddianın aynen yazımı, (iii) teolojik/felsefi/ampirik/hipotez/analojik statü, (iv) birincil kaynak ve varsa DOI, (v) bağımsız ikinci denetim, (vi) karşı-örnek, (vii) düzeltmenin etkileyeceği diğer çekirdekler. Kaynağı bulunmayan ampirik iddia açık olarak işaretlenir; felsefi kabul ampirik ispat olarak etiketlenmez. H01'de hidrojen-1, H05'te karga bilişi karşı-örnekleri bu protokolün başlangıç denemeleridir. Çekirdekteki her değişiklik ilgili diğer makaleye geri beslenip yeniden denetlenmeden kapanış verilmez.
+
 ## 8. Sonuç
 Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. Böylece H01 ve H02'nin kazanımları H04'e aktarılırken anlam kaybı ve gereksiz tekrar azalır.
 
