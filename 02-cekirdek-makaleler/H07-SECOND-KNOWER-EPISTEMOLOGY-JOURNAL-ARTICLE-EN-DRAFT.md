@@ -138,3 +138,55 @@ The *Stanford Encyclopedia of Philosophy* entry *Epistemological Problems of Tes
 - *Epistemological Problems of Testimony*. *Stanford Encyclopedia of Philosophy*. First published 2021. https://plato.stanford.edu/entries/testimony-episprob/ . (Overview of reductionist, non-reductionist, and hybrid approaches to testimonial justification.)
 
 **Verification scope:** The entries and their relevant arguments were checked against their online texts. This is a focused literature expansion, not a systematic literature review; precise bibliographic authorship and edition details still require final reference-style verification. None of these sources is evidence that the historical author's theological claims are empirically established.
+
+
+## 10. Replies to objections and a delimited contribution (revision, 22 October 2026)
+
+### 10.1 Response to the prior-art objection
+
+The existence of mature traditions of intersubjective objectivity and social epistemology prevents a defensible claim that H07 discovered social checking as such. Its **candidate contribution** is instead a historical and conceptual reconstruction of a three-position relation: the initiating knower, the object investigated, and the second knower who assesses a resulting product. This is a contribution to interpretation and conceptual comparison, contingent on faithful translation and demonstrable differences from existing formulations. It is **not yet** an established novel theory of scientific justification.
+
+### 10.2 Response to the ambiguity of *onay*
+
+The Turkish term *onay* in the primary manuscript should not automatically be translated as laboratory verification. Depending on context, it may indicate assent, recognition, practical uptake, normative approval, or an attempt at evidential confirmation. The journal article should use **second-knower assessment** as a neutral umbrella term, and reserve **verification**, **replication**, and **reproduction** for explicitly specified methodological acts. Where the historical text appears to identify these senses, the article must report the ambiguity rather than erase it.
+
+### 10.3 Response to infinite regress
+
+The historical assertion that a second knower is required can generate a regress: if each approval itself requires another knower's approval, no result ever becomes warranted. A restricted interpretation avoids this by distinguishing **actual serial endorsements** from **public contestability**. A result can be provisionally warranted when it is available to qualified scrutiny under revisable standards; no endless chain of positive votes is required. This is the present article's **editorial proposal**, not a resolution explicitly supplied by the primary text. The original metaphysical claim about a first knower remains a separate question.
+
+### 10.4 Response to unequal authority and epistemic exclusion
+
+A second knower can be mistaken, coerced, excluded, or systematically privileged. Accordingly, counting confirmations cannot by itself measure epistemic reliability. Review practices should enable reasoned dissent, make evidence accessible where ethically and practically possible, document conflicts of interest, and respond to substantive criticism. These conditions draw on established social-epistemological discussions; they are not claims that the original H07 text already specified modern institutional safeguards.
+
+### 10.5 Response to truth versus warrant
+
+**Truth** concerns whether a proposition corresponds to the relevant state of affairs; **warrant** concerns what reasons or evidence justify accepting it. A true claim need not await another person's assent to become true. Conversely, two or more agreeing people can accept a false claim. The strongest academically defensible reading of the second-knower thesis concerns the **public assessment and defeasible warrant** of knowledge claims, rather than the creation of truth by consensus. This reading narrows the historical author's more expansive formulation and must be labeled as reconstruction.
+
+### 10.6 Formalized thesis, counterexample, and research boundary
+
+**Restricted thesis R:** *When an inquiry produces a publicly assessable claim about an independently existing object, methodologically competent and suitably independent second-person scrutiny can strengthen its public warrant by exposing errors that uncritical assent would leave undetected.*
+
+R is **defeasible**, not a biconditional or a universal necessity claim. It does not imply that every truth needs two people, that two people suffice to establish truth, or that theological propositions become empirically testable through agreement. A simple counterexample to the unrestricted version is a pair of observers who agree because they use the same miscalibrated instrument. A counterexample to the claim that actual approval is necessary for truth is a correct result not yet reviewed by anyone else.
+
+**Originality boundary:** R overlaps with existing accounts of criticism, testimony, and replication. The publishable question is whether a careful interpretation of Zanabûn supplies a distinctive conceptual articulation, historical perspective, or productive criticism of these accounts. That cannot be decided without further literature and primary-text review.
+
+## 11. Journal-methodology and evidence gate
+
+**Article type:** conceptual analysis and critical reconstruction in philosophy of science, not empirical research, systematic review, or scientific demonstration of the complete Zanistarast ontology.
+
+**Corpus:** one identified historical Turkish H07 primary text. Other canonical notes may inform later author-approved interpretation but must not be silently attributed to this historical document.
+
+**Procedure to document:** versioned primary text; bilingual passage selection; explicit translation decisions for *bilen özne*, *bilinen nesne*, *ikinci bilen*, *onay*, *varlık*, and *ilim*; a claim-to-source-line table; comparison with rival interpretations; and independently checked bibliography.
+
+**Evidence table:**
+
+| Article claim | Primary-text anchor | Evidentiary status |
+|---|---|---|
+| Knowledge as the result of orientation toward an object | H07 lines 12, 111 | Historical authorial definition |
+| Second-knower confirmation in science | H07 lines 27, 113, 117 | Historical authorial proposition; meaning of confirmation contested |
+| Creative knowledge from prior knowledge | H07 lines 111–115 | Historical authorial proposition |
+| Morality and truthfulness in science | H07 lines 117–121 | Normative authorial proposition, not an established universal empirical law |
+| Four-level typology of confirmation | This article §5 | Editorial analytical proposal; not a quotation from H07 |
+| Restricted thesis R | This article §10.6 | Editorial reconstruction requiring external scholarly criticism |
+
+**Pre-submission blockers:** (1) confirm author and provenance metadata; (2) complete author-reviewed bilingual quotation audit; (3) broaden the literature to primary research monographs and articles, not only encyclopedic reference entries; (4) check journal scope and formatting after a target is selected; (5) obtain external critical review. Until these gates are met, the draft must not be labeled accepted, peer reviewed, or submission ready.
