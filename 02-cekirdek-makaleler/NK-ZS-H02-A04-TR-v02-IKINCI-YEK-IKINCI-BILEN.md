@@ -83,6 +83,10 @@ Kurucu tanım ikinci bilenin onayını bilgi kuruluşunun parçası sayar. Bu ma
 | Kişi sayısı tek başına ortak hatayı gidermez | Bölüm 5'teki bozuk cihaz düşünce deneyi | Mantıksal karşı-örnek; gerçekleşmiş deney raporu değil |
 | Muhataplığın ontolojik, epistemik ve ahlaki düzeyleri | Kurucu kilometre taşı | İnsan bilincini cansızlara yayma gerekçesi değil |
 
+
+### 7B. Bağımsız onayın sınanabilirlik ve hata denetimi
+İkinci Bilenin onayı, aynı iddiayı tekrar etmekten farklı bir işlemdir. Bir uygulama kaydında (1) önceden belirlenmiş P önermesi, (2) doğrulayıcının ilk değerlendirmeden bilgi ve yöntem bakımından bağımsızlığı, (3) kabul/red eşiği, (4) ortak veri ve ortak yanlılık kaynakları, (5) olumsuz sonuçta düzeltme yolu yazılmalıdır. İki kişinin aynı kaynaktan aktardığı hüküm iki bağımsız kanıt sayılmaz. Farklı kişilerin aynı veriyi değerlendirmesi yöntemsel çapraz kontrol sağlayabilir; bağımsız tekrar deneyinin yerine geçmez. Bu ölçütler Zanabûn'un epistemolojik önerisinin uygulanabilirliğini sınamaya yöneliktir; Ehad veya Yek hakkında deneysel doğrulama iddiası değildir. H03'teki iddia-kaynak-karşı-örnek kaydıyla karşılıklı izlenir.
+
 ## 8. Sonuç
 Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Makalenin katkısı, ikinci onayın bilgiye ne kattığını kişi sayısı yerine gerekçenin denetlenebilirliğiyle tartışmasıdır. Bölüm 5A'daki sınama önerisi uygulanmamıştır; ikinci onayın bütün bilgi türleri için zorunlu ve yeterli olduğu gösterilmiş değildir.
 
