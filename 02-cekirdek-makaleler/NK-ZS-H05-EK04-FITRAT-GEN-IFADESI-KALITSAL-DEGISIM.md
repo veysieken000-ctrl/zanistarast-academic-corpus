@@ -14,6 +14,9 @@ Bir tilkinin farklı iklimlerde yaşayabilmesi yalnız DNA'sında önceden bulun
 ## Güncel kavram sınırı
 **Fıtrat** kuruluş, imkân ve sınırların ontolojik açıklamasıdır; **fıtrî ahlak** bu düzenin işleyiş ve ilişkilerdeki tezahürüdür. Gen ifadesi, fenotipik esneklik ve kalıtsal genetik değişim ise ayrı ayrı ampirik mekanizmalardır. Bu kavramlar birbirlerinin deneysel eşanlamlısı değildir. Hayvanın fıtrî ahlakı ona insanın iradeli ahlaki sorumluluğunu yüklemez. Kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
+## Güncel fıtrat–fıtrî ahlak ayrımı
+Fıtrat varlığın kuruluş imkânları ve sınırlarıdır; fıtrî ahlak bu düzenin işleyiş ve ilişkilerdeki görünümüdür. Gen ifadesi, fenotipik esneklik ve kalıtsal değişim ise ayrı ampirik mekanizmalardır; fıtrat bunların yerine geçen genetik açıklama değildir. Hayvanların fıtrî ahlakı insanın iradeli ahlaki sorumluluğuyla özdeşleştirilmez. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
 ## Tilki örneğinin sınırları
 Kızıl tilkinin farklı habitatlarda bulunması ve kutup tilkisinin soğuk iklime uygun özellikler taşıması tek bir tilki bireyinin her ortamda aynı biçimde yaşayabildiği anlamına gelmez. Ayrıca kızıl tilki ile kutup tilkisi ayrı türlerdir; aralarındaki bütün farklılıklar tek bireyin çevresel koşullara göre değişimi olarak açıklanamaz.
 
