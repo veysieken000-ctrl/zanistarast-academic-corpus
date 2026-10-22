@@ -26,7 +26,7 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 
 Nisâ 4:1, insanlığın **tek nefisten** yaratılmasını, **ondan eşinin** meydana getirilmesini ve **ikisinden çok sayıda erkek ve kadının** türemesini anlatır. Kurucu yorumda Hz. Âdem ilk insan Yek, Hz. Havva ikinci insan Yek, çocukları üçüncü ve sonraki Yeklerdir. İlk ve ikinci tekillikler özdeş değildir; çocuk da iki ebeveynin mekanik toplamı değil yeni kimliği olan insandır.
 
-**Kaynak ayrımı:** Âdem ve Havva isimleri Nisâ 4:1'in açık lafzında geçmez. Eşin “bel kemiğinden/kaburgadan” yaratılması da ayette doğrudan yazılı değildir. Kurucu Âdem–Havva okuması geleneksel tefsir ve kullanıcı yorumuyla ilişkilendirilir; bu ayrım gizlenmez.
+**Kaynak ayrımı:** Âdem ve Havva isimleri Nisâ 4:1'in açık lafzında geçmez. Eşin “bel kemiğinden/kaburgadan” yaratılması da ayette doğrudan yazılı değildir. Kurucu Âdem–Havva okuması teolojik yorum olarak korunur. Diyanet'in Kur'an Yolu açıklaması ise eşin yaratılışını aynı öz ve türden oluş bakımından yorumlar; kaburga ifadesini doğrudan anatomik köken kanıtı saymaz (Diyanet, Nisâ 4:1 tefsiri). Bu kaynak kurucu anatomik yorumun teyidi gibi kullanılamaz. Ayet, meal, tefsir ve kurucu yorum birbirinden ayrılır. Bu turda Diyanet'in indekslenmiş resmî metni kontrol edilmiştir; dinamik sayfanın doğrudan gövde aktarımı boş döndüğünden tam sayfa denetimi açık tutulur.
 
 **Kaynak:** Diyanet İşleri Başkanlığı, Kur'an Yolu, Nisâ 4:1 meal ve tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri
 
@@ -35,6 +35,11 @@ Nisâ 4:1, insanlığın **tek nefisten** yaratılmasını, **ondan eşinin** me
 **K3 — Dizilim:** İlk Yek (Y₁) → ikinci Yek (Y₂) → ikisinin ilişkisi R(Y₁,Y₂) ile yeni Yek(ler) Y₃… → ilişkisel Komel K. Şema, ilk Yek'in ikinci Yek'e ontolojik önceliğini, ikinciyle ilişkinin yeni oluşumu ve devamlılığı mümkün kılmasını savunur. Komel, ilişkili Yeklerin kurduğu bütündür; her Yek'in ayrı kimliği korunur.
 
 **Mantıksal sınır:** Şema kendi başına her fiziksel veya biyolojik oluşumda iki önceden var olan bireyin zorunlu olduğunu ispatlamaz. İlk, ikinci ve üçüncü terimlerinin her boyutta **hangi varlık düzeyini** gösterdiği açıklanmalıdır. Aksi halde hücre bölünmesi, nükleer sentez, zihin öğrenmesi ve insan üremesi aynı işlem sanılır.
+
+### 4A. Argümanın yükü ve Komel'in ayırt edilmesi
+Kurucu kabulden ilişkisel kuruluş sorusuna geçiş, bir açıklama programı kurar. Ancak “her yeni Yek yalnız iki bireyin ilişkisiyle oluşur” biçimindeki evrensel sonuç, bu kabulden tek başına çıkmaz. Bunun için her alanda bireyin sınırı, ilişkinin mekanizması ve yeni bütünün ölçütü gerekir. Burada Komel'i gözlemsel olarak araştırmak için süreklilik gösteren ilişki, bileşen kimliklerinin izlenmesi ve bütün düzeyinde örgütlenme önerilir; bunlar henüz evrensel olarak doğrulanmış ölçütler değildir.
+
+Bir kaptaki iki bağımsız hücre ile kalıcı hücresel örgütlenme aynı şekilde sınıflandırılmamalıdır. Hücre sayısı veya sırf birlikte bulunma ölçütü bu ayrımı yapamıyorsa modelin uygulaması yetersizdir. Böylece karşı-örnek, yalnız dışarıdan yöneltilen itiraz değil, kavramı daraltan bir denetim olur. Teolojik kurucu kabulün korunması, bu biyolojik uygulamanın değişmez olduğu anlamına gelmez.
 
 ## 5. Fizik: atomik Yek'ten sistem Komeline
 
@@ -48,7 +53,7 @@ Birinci biyoloji evresi **tek hücreliler**, ikinci evre **çok hücreliler**dir
 
 Kurucu 1→2 örneği, bir hücrenin bölünmesi sonucunda ikinci hücrenin ortaya çıkmasıdır. İkinci hücre birinciden ayrı bir hücresel kimlik kazanır. Ancak bölünme sonucu iki hücrenin bulunması ile işlevsel olarak bütünleşmiş çok hücreli bir organizmanın oluşması aynı olay değildir. Komel kavramının biyolojideki uygulaması hücreler arası düzen, karşılıklı bağımlılık ve örgütlenme ölçütleriyle araştırılmalıdır. DNA ve RNA bilgi aktarım araçlarıdır; kurucu yaklaşımda esas tartışma **bilgi**dir.
 
-**Deneysel karşılaştırma:** Ratcliff ve ark. (2012), seçilim uygulanan maya popülasyonlarında bölünme sonrası ayrılmayan hücrelerden oluşan kümeler ve küme düzeyinde üreme gözledi. Bu, yalnız hücre sayısını değil kalıcı bağlılık ve yaşam döngüsünü de incelemeyi gerektirir. Deney ilk yaşamın veya bütün çok hücreli soyların tarihini yeniden kurmaz; Komel'in metafizik zorunluluğunu da sınamaz. Çalışma evrimsel bir mekanizma önerir; kurucu türeme yaklaşımı bu açıklamaya alternatif bir bilimsel model olacaksa aynı gözlemleri açıklayan mekanizma ve ayırt edici öngörü sunmalıdır. Komel adlandırması tek başına bu deneysel açıklamayı geçersiz kılmaz.
+**Deneysel karşılaştırma:** Ratcliff ve ark. (2012), seçilim uygulanan maya popülasyonlarında bölünme sonrası ayrılmayan hücrelerden oluşan kümeler ve küme düzeyinde üreme gözledi. Ana metnin yöntem ve sonuçlarında başlangıçtaki on paralel popülasyona çökelme seçilimi uygulandığı, 60 aktarım sonunda kümeli biçimin baskınlaştığı açıklanır. Mikroskopi, oluşumun önceden ayrı hücrelerin toplanmasından değil bölünme sonrası bağlı kalmadan kaynaklandığını gösterir (Results: Mechanism of Cluster Formation; Şekil 2B). Bu, yalnız hücre sayısını değil kalıcı bağlılık ve yaşam döngüsünü de incelemeyi gerektirir. Deney ilk yaşamın veya bütün çok hücreli soyların tarihini yeniden kurmaz; Komel'in metafizik zorunluluğunu da sınamaz. Çalışma evrimsel bir mekanizma önerir; kurucu türeme yaklaşımı bu açıklamaya alternatif bir bilimsel model olacaksa aynı gözlemleri açıklayan mekanizma ve ayırt edici öngörü sunmalıdır. Komel adlandırması tek başına bu deneysel açıklamayı geçersiz kılmaz.
 
 ## 7. Zihin: ilk zihinli Yek, ikinci zihinli Yek ve hafıza
 
@@ -70,13 +75,22 @@ Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik
 
 Hebûn'da ikinci Yek, ontolojik ilişkideki ikinci tekilliktir. Zanabûn'da **ikinci bilen**, bilen öznenin bilinen nesneye yönelimiyle ortaya çıkan sonucu onaylayan epistemolojik muhataptır. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları Zanabûn'da ayrı kurulacaktır. Rasterast bu sürecin kaynak, karşı-örnek ve denetim zincirini inceleyecektir.
 
+### 10A. Ana önermelerin kaynak ve statü haritası
+| Önerme | Dayanak | Statü ve aktarım sınırı |
+|---|---|---|
+| Ehad–Yek kurucu ilişkisi | 22 Ekim Ehad–Yek kurucu kanonu | Teolojik/ontolojik kabul; deney sonucu değil |
+| İlk–ikinci–yeni Yek ilişkisi | Özgün Varlık Sistemleri P122; güncel kanon | İnsan örneğinden türetilen ontolojik öneri; bütün mekanizmalara ispat diye aktarılamaz |
+| Atomlar için nötron zorunlu değildir | DOE izotop açıklaması; bölüm 5 | Ampirik bilgi; fiziksel üçlü zorunluluğunu sınırlar |
+| Hücre sayısı ile bütünleşmiş yaşam döngüsü farklıdır | Ratcliff ve ark., 2012; bölüm 6 | Birincil deneyle karşılaştırma; bütün türlerin tarihine genellenmez |
+| Fıtrat ve iki ahlak ayrımı | 22 Ekim kurucu kilometre taşı | Güncel felsefi/teolojik tanım; H04/H05'e aktarılır |
+
 ## 11. Sonuç
 
-Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in ortaya çıkışı ve devamlılığıdır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin özgün iddiası budur; bütün boyutlarda tek bir doğa kanununun kanıtlandığı iddiası henüz değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
+Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in ortaya çıkışı ve devamlılığıdır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin katkısı, tekillik ve örgütlü bütün sorusunu ortak bir ontolojik dilde kurarken alanların kanıt yüklerini ayırmasıdır. Hidrojen-1 ve hücresel örgütlenme karşılaştırmaları, kurucu şemanın belirli bilimsel uygulamalarını sınırlar; bütün boyutlarda tek bir doğa kanunu kanıtlanmış değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
 
 ## Dış kaynakça
 - Adelberger, E. G. ve ark. (2011). Solar fusion cross sections. II. The pp chain and CNO cycles. *Reviews of Modern Physics, 83*, 195–245. https://doi.org/10.1103/RevModPhys.83.195 . Kullanım: bölüm 5, nükleer mekanizma; araştırma sentezi.
-- Ratcliff, W. C., Denison, R. F., Borrello, M. ve Travisano, M. (2012). Experimental evolution of multicellularity. *PNAS, 109*(5), 1595–1600. https://doi.org/10.1073/pnas.1115323109 . Kullanım: bölüm 6; birincil deney, özet ve Şekil 1 açıklaması üzerinden sınırlı denetim.
+- Ratcliff, W. C., Denison, R. F., Borrello, M. ve Travisano, M. (2012). Experimental evolution of multicellularity. *PNAS, 109*(5), 1595–1600. https://doi.org/10.1073/pnas.1115323109 . Kullanım: bölüm 6; birincil deney; bu turda açık ana metnin yöntem, sonuç ve tartışması kontrol edildi. Ek veri, videolar ve ham ölçümler yeniden analiz edilmedi. Tam metin: https://pmc.ncbi.nlm.nih.gov/articles/PMC3277146/ .
 - U.S. Department of Energy (DOE). (Tarihsiz). *DOE Explains… Isotopes*. https://www.energy.gov/science/doe-explainsisotopes . Kullanım: bölüm 5, izotop ayrımı; kurumsal açıklama, deney makalesi değildir. Erişim: 22 Ekim 2026.
 
 ## Kaynaklar ve izlenebilirlik
@@ -89,15 +103,15 @@ Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, 
 
 **Eksikler:** Özgün Word'lerin paragraf eşlemesi, nükleer fizik kaynaklarının tam metin ve hücre biyolojisi literatürünün genişletilmiş denetimi, ikinci Yek'in her boyuttaki somut modelinin karşı-örnek denetimi, hakemlik ve kurucu onayı.
 
-## Kurucu ek: ortak öz ve iki kapsama ilişkisi (22 Ekim 2026)
+## Ek A — Kurucu açıklama: ortak öz ve iki kapsama ilişkisi (22 Ekim 2026)
 Kurucunun güncel ontolojik tasavvurunda insan ile hayvanın özü aynı temel ontolojik niteliğe sahiptir. Ayrım, özün varlıkla ilişki kurma kapsamı ve insanda iradeli ahlakla bağlantılı sorumluluk alanıdır. Atom ve yıldız örneği bu kapsam farkını açıklayan bir benzetmedir; fiziksel eşitlik iddiası değildir.
 
 Fiziksel içerilme ile ontolojik kapsama ayrı tutulur: tek hücreli canlı fiziksel kâinatın içinde küçük bir varlıktır, fakat yaşamın bilgi ve örgütlenmesi biyolojik düzeyde yeni bir açıklama alanı açar. Bu nedenle “küçük büyüğün içinde, büyük küçüğün içinde” sözü iki ayrı kapsama ölçütüne işaret eder; hücrenin fiziksel evrenden daha hacimli olduğu anlamına gelmez.
 
 Varlığın devamlılığı fizik düzeyinde kanunlarla işleyen düzen, biyolojide ise güvenlik, beslenme, barınma ve soyun devamı gibi süreçlerle incelenir. Kâinatın **otonom** sisteme benzetilmesi Ehad'dan bağımsızlık iddiası değildir. Kurucu görüşün ayrıntılı kaydı: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Bunlar felsefi önermelerdir; ampirik yasa olarak ilan edilmez.
 
-## Kurucu kilometre taşı: fıtrat ve ortak öz
+## Ek B — Kurucu kilometre taşı: fıtrat ve ortak öz
 Fıtrat varlığın kuruluşu, imkânları, sınırları ve ilişkisel düzenidir. Fıtrî ahlak bu düzenin işleyiş ve ilişkilerdeki tezahürüdür; cansız varlıklara bilinçli ahlaki seçim yüklenmez. İnsan ve hayvanın ortak özünün kabulü, iradeli ahlak bakımından aynı sorumluluğa sahip oldukları anlamına gelmez. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
-## Özgün metin karşılaştırması — 22 Ekim 2026
+## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 Özgün *Varlık Sistemleri ve Boyutları* dosyası (Drive kimliği: 1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d; son değişiklik: 5 Şubat 2026) okunmuştur. Düz metinde boş olmayan satır/paragraf sırasına göre P122, Âdem–Havva–çocuk analojisinin; *Akıl ve Bilginin Kaynağı* P45, parçacık türemesi varsayımının izidir. İkinci kaynakta protondan nötron ve ikisinden elektron oluşması ihtimal olarak yazılmıştır; bölüm 5 bunu bilimsel bulguya dönüştürmez. Özgün metin korunur; güncel kanon ve kaynak denetimiyle yapılan sınırlandırma tarihsel kaynaktan sessizce silinmez.
