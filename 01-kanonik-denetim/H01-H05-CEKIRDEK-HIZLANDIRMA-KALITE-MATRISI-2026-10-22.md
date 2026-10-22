@@ -8,7 +8,7 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 058f0cedce7a7cdba1e1ef728a044b73dac22d75; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 04bafdcc27690a513e916ade1aa3f4acb806f53e; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -22,11 +22,11 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 25152 | 4 | 0 |
+| H01 | 25460 | 4 | 0 |
 | H02 | 17830 | 1 | 0 |
-| H03 | 19932 | 4 | 0 |
+| H03 | 20304 | 4 | 0 |
 | H04 | 13815 | 0 | 0 |
-| H05 | 24094 | 5 | 0 |
+| H05 | 24601 | 5 | 0 |
 
 Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
 
@@ -249,3 +249,18 @@ H01'de net nükleer bilanço/ara süreç ayrımı; H05'te yaprak görevinin bire
 Bu kapanış erişim ve belirtilen üç önerme içindir. Ham ölçüm, ek video ve bağımsız deney tekrarı yapılmadı. Önceki PMC doğrulama ekranı, PNAS çerez yönlendirmesi, Ottawa PDF 404 ve diğer başarısız çağrılar gerçek erişim sonuçları olarak korunur; son başarı bunları geriye dönük değiştirmez. MuLTEE laboratuvar sayfası alternatif bir açıklama sundu, fakat kapanışın dayanağı yayıncının makale metnidir; aynı araştırmanın ikinci bağımsız deneyi sayılmadı.
 
 IUPAC C01022/A00499 sayfalarının doğrudan çağrıları yine 403 verdi; Nisâ 4:1 dinamik tefsir sayfası okunabilir gövde vermedi. Bu kayıtların önceki resmî indeks düzeyleri tam sayfa okunmuş gibi yükseltilmedi. Bütün atomik iddiaların denetimi ve bağımsız ikinci değerlendirme hâlâ açık.
+
+## E32–E36: tanımın iki anlamı ve tartışma taraflarının iddiaları
+**Taban:** 04bafdcc27690a513e916ade1aa3f4acb806f53e. **22 Ekim 2026.** Bu tur kaynakta söylenenle o kaynağa atfedilen yorum ayrıldı. Kararların erişim sınırı aşağıdadır.
+
+| ID | Yer | Denetlenen önerme | Kaynak yeri / erişim | Karar ve işlem |
+|---|---|---|---|---|
+| E32 | H01 §5A | Element için atom türü ve saf madde anlamları vardır | IUPAC C01022 resmî indeks kaydı; iki tanım | İki anlam ana metne işlendi; doğrudan sayfa kontrolü açık |
+| E33 | H01 §5A | Atom numarası proton sayısıdır | IUPAC A00499 resmî indeks metni | Tanım eşleşti; doğrudan erişim 403 olarak korundu |
+| E34 | H05 §5B | 2021 yanıtı yeni veri çalışması değildir | Cambridge yazar PDF'si, s. 5, Data accessibility; doğrudan | Destekli; veri kaynağı sayısı artırılmadı |
+| E35 | H05 §5B | Yanıt yazarları yüksek düzeyli gelecek kavramını hedefledikleri yorumunu reddeder | Aynı PDF, s. 3; doğrudan | Tarafların iddia atıfları ayrıldı; bu ret eleştirinin yanlışlığını peşinen kanıtlamaz |
+| E36 | H05 §5B | Belirli bir açıklamaya karşı kanıt, bütün çağrışımsal süreçleri dışlamaz | Aynı PDF, s. 3; doğrudan | Mekanizma kapsamı ve yazarların kendi sınırı belirtildi |
+
+H03 §7C'ye iddia atfını denetleme kuralı geri beslendi. Eleştirinin PMC tam metin çağrısı doğrulama ekranına, yayıncı çağrısı 403'e döndü; resmî indeks düzeyindeki eleştiri okuması tam sayfa erişimi gibi gösterilmedi. IUPAC sayfa/PDF/JSON çağrıları sonuç vermedi; eski site çağrısı da erişim hatası verdi. Bu iki tanımın kısa resmî indeks metni görüldü; 2025 tam sayfa sürümü doğrudan okundu denmedi.
+
+**Durum:** Üç yanıt önermesinin kaynak yerleri doğrudan kontrol edildi; iki IUPAC tanımının içerik eşlemesi indeks düzeyinde. Bütünsel iddia denetimi ve bağımsız ikinci değerlendirme açık. Sonraki doğrudan erişim başka bir sürüme aitse sürüm farkı ayrıca kaydedilmelidir.

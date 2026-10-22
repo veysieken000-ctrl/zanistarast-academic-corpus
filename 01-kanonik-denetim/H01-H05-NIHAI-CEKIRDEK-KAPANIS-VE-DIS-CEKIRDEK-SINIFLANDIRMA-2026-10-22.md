@@ -69,3 +69,6 @@ Nükleer süreç ve karga deneyleri için on dört dar önerme kalite matrisinde
 
 ## Maya kaynağının kısmi kayıtlarının kapanması
 E29–E30, PNAS yayıncı ana metninin ilgili bölümlerine doğrudan erişilerek kontrol edildi; iki kaydın kaynak erişimi eksikliği kapandı. H01'e deney işleminin zaman içindeki değişimi işlendi, H03'e yöntem değişikliğini izleme kuralı geri beslendi. E31 bu dar yöntem bilgisinin kaydıdır. Önceki başarısız erişimler korunur. Bu olumlu sonuç yalnız belirtilen kayıtlar içindir; bütünsel çekirdek kapanışı veya yayın onayı değildir.
+
+## E32–E36 kapsam düzeltmeleri
+H01'de element tanımının iki anlamı, H05'te eleştirmenlerin yorumu ile yanıt yazarlarının kendi amaç ve mekanizma sınırı ayrıldı. H03'e iddia atfını denetleme kuralı işlendi. Üç yanıt önermesi doğrudan yazar PDF'sinden kontrol edildi; IUPAC tanımları ve eleştirinin erişim sınırları korundu. Bu işlem bağımsız hakemlik veya bütünsel kapanış değildir.
