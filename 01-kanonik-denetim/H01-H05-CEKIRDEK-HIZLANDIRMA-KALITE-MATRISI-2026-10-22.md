@@ -2,6 +2,15 @@
 
 **Tarih:** 22 Ekim 2026. **Kapsam:** GitHub'daki beş çekirdek makalenin gerçek metinlerinden yapılan ilk yapısal tarama. **Statü:** Açık kalite kapısı; yayıma hazır değil. Bu kayıt 412 makale sayısına eklenmez.
 
+## Güncel sonuç: yerleşik tanımlar düzeltildi, metin tekrarları azaltıldı
+**22 Ekim 2026. Taban:** d3239abfba6fb9169a2e9650b896b9e2e7d4d83c. Kurucunun son talimatı uygulandı: yerleşik bilimsel tanımdaki maddi hata düzeltilir ve doğru bilgi ana metne yazılır; sırf eski kurucu metinde farklı yazıldığı için yeni bir ontolojik ihtilaf veya açık araştırma konusu oluşturulmaz. Kanonik kurucu kavramlarda güncel kanon esastır; yalnız gerçek anlam belirsizliği veya karar çatışması kurucuya sorulur.
+
+H01 §§5–5A'da element, atom numarası, hidrojen/helyum ve nükleer süreç açıklaması yeniden düzenlendi. Element ve proton sayısı düzeltmesi kapanmıştır. IUPAC'ın doğrudan sayfa erişimiyle ilgili teknik not, tanımın bilimsel olarak belirsiz olduğu veya H01'in bu düzeltmesinin açık kaldığı anlamına gelmez: kullanılan anlam resmî IUPAC indeks metni ve doğrudan okunmuş NIDC/NIST kayıtlarıyla eşleşir. Eski kayıtlardaki 403 bilgisi erişim geçmişi olarak korunur.
+
+H01 kaynak paragraf izleri Ek C'ye toplandı; §3'te kaynak okuma işlemi anlatımı kısaltıldı. H02 §7C, §5A/§5D'deki koşullara bağlanarak tekrar azaltıldı. H05'te ana tartışmaya karışan erişim/işlem cümleleri kısaltıldı; kaynakçadaki erişim ve sürüm sınırları korundu. Önceki tam metinler taban commit'inde ve Git geçmişinde mevcuttur; özgün dosyalar ve eski sürümler silinmedi.
+
+Bu düzenleme, araştırmayı ilerleten esas metin düzeltmesidir; yeni deney veya bağımsız hakemlik olarak sayılmaz. Yayın kapısı korunur.
+
 ## Güncel kurucu talimat: bilimsel tanımlara sadakat
 **22 Ekim 2026:** “Bilim insanları yani bilimde nasıl tanımlıysa öyle olacak bitti.” Bu talimat uyarınca bilimsel terimin ilgili alan kaynağındaki anlamı esas alınır. Kurucu felsefi veya teolojik kullanımlar ayrıca etiketlenir; bilimsel tanımı değiştiren bulgu sayılmaz. Birden çok bilimsel kullanım varsa alan ve operasyonel tanım belirtilir.
 
@@ -20,7 +29,7 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 33e0e974b19638aa19dbccc4669c0033b83683cd; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı d3239abfba6fb9169a2e9650b896b9e2e7d4d83c; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -34,11 +43,11 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 25703 | 4 | 0 |
-| H02 | 18120 | 1 | 0 |
+| H01 | 24179 | 4 | 0 |
+| H02 | 17583 | 1 | 0 |
 | H03 | 20938 | 4 | 0 |
 | H04 | 14334 | 0 | 0 |
-| H05 | 25477 | 5 | 0 |
+| H05 | 25263 | 5 | 0 |
 
 Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
 
@@ -267,8 +276,8 @@ IUPAC C01022/A00499 sayfalarının doğrudan çağrıları yine 403 verdi; Nisâ
 
 | ID | Yer | Denetlenen önerme | Kaynak yeri / erişim | Karar ve işlem |
 |---|---|---|---|---|
-| E32 | H01 §5A | Element için atom türü ve saf madde anlamları vardır | IUPAC C01022 resmî indeks kaydı; iki tanım | İki anlam ana metne işlendi; doğrudan sayfa kontrolü açık |
-| E33 | H01 §5A | Atom numarası proton sayısıdır | IUPAC A00499 resmî indeks metni | Tanım eşleşti; doğrudan erişim 403 olarak korundu |
+| E32 | H01 §5A | Element için atom türü ve saf madde anlamları vardır | IUPAC C01022 resmî indeks kaydı; iki tanım | Bilimsel tanım düzeltmesi tamamlandı; IUPAC sayfasının erişim notu ayrı kaynak bilgisi olarak korunur |
+| E33 | H01 §5A | Atom numarası proton sayısıdır | IUPAC A00499 resmî indeks metni | Bilimsel tanım düzeltmesi tamamlandı; proton sayısı ayrıca doğrudan NIDC/NIST kaynaklarıyla eşleşir |
 | E34 | H05 §5B | 2021 yanıtı yeni veri çalışması değildir | Cambridge yazar PDF'si, s. 5, Data accessibility; doğrudan | Destekli; veri kaynağı sayısı artırılmadı |
 | E35 | H05 §5B | Yanıt yazarları yüksek düzeyli gelecek kavramını hedefledikleri yorumunu reddeder | Aynı PDF, s. 3; doğrudan | Tarafların iddia atıfları ayrıldı; bu ret eleştirinin yanlışlığını peşinen kanıtlamaz |
 | E36 | H05 §5B | Belirli bir açıklamaya karşı kanıt, bütün çağrışımsal süreçleri dışlamaz | Aynı PDF, s. 3; doğrudan | Mekanizma kapsamı ve yazarların kendi sınırı belirtildi |

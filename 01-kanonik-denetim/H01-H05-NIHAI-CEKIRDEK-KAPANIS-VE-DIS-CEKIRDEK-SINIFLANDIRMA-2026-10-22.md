@@ -75,3 +75,6 @@ H01'de element tanımının iki anlamı, H05'te eleştirmenlerin yorumu ile yan�
 
 ## Bilimsel tanımlara ilişkin bağlayıcı uygulama
 22 Ekim 2026 kurucu talimatı uyarınca bilimsel terimlerde alanın kaynaklandırılmış tanımı esas alınır. Beş ana metnin yöntem bölümüne bu kural işlendi. H05 fiziksel güç tanımını, H04 mekanik avantaj/güç ayrımını, H03 terim denetimini buna göre güncelledi. Kurucu ontolojik ve teolojik kullanımlar ayrı statüde korunur. Bu uygulama tanım düzeltmesidir; bütünsel iddia denetimi ve bağımsız ikinci değerlendirme koşullarını kendiliğinden kapatmaz.
+
+## Yerleşik bilimsel tanımların kesin düzeltmesi
+H01 §§5–5A'daki element/atom numarası ve hidrojen/helyum düzeltmeleri tamamlanmıştır; bunlar açık kurucu ihtilaf olarak tutulmaz. IUPAC sayfasının teknik erişim kaydı, doğru bilimsel tanımı yeniden tartışmaya açan kapanış engeli değildir. H01, H02 ve H05'in tekrar eden işlem anlatımı azaltıldı; kaynak ve sürüm izi korundu. Kanonik kavramlar değiştirilmedi. Bağımsız ikinci değerlendirme veya 412 makale yayın onayı verilmiş değildir.
