@@ -33,6 +33,16 @@ Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır. İlk Yek
 ## 5. Karşı-örnekler
 Hidrojen atomunun yaygın izotopunda nötron yoktur; bu nedenle atomik kuruluş için bütün atomların nötron taşıdığı savunulamaz. Tek hücreli bir canlının bölünmesi de tek başına çok hücreli örgütlenmenin oluştuğunu kanıtlamaz. Her iki örnek, boyuta özgü mekanizmanın ayrıca gösterilmesi gerektiğini ortaya koyar.
 
+## 5A. Rakip sınıflandırmalar ve başarısızlık koşulları
+
+**Rakip açıklama 1 — indirgemeci yaklaşım:** Zihin ve ahlak, fiziksel ve biyolojik süreçlerin açıklamalarıyla bütünüyle tüketilebilir denebilir. A02'nin yanıtı, bu yaklaşımı yalnız tanım gereği reddetmek değildir: zihinsel ve normatif önermelerin hangi ölçüm, gerekçelendirme ve sorumluluk koşullarına ihtiyaç duyduğunu göstermek gerekir. Ayrı bir açıklama düzeyi kullanmak, kendiliğinden bağımsız bir fiziksel tözün keşfi değildir.
+
+**Rakip açıklama 2 — bütüncül yaklaşım:** Boyutlar arasında keskin sınırlar yerine iç içe geçmiş süreçler bulunduğu ileri sürülebilir. A02 bu olasılığı dışlamaz. Boyut ayrımının değeri, tüm sınırların doğada keskin olduğu iddiasına değil, açıklama sorularını ve kanıt türlerini karıştırmamasına bağlıdır.
+
+**Başarısızlık ölçütü:** Aynı olgunun iki boyuta yerleştirilmesi, açık sınıflandırma ölçütü olmadan farklı ve çelişik sonuçlara götürüyorsa çerçeve revizyon gerektirir. Özellikle bir fiziksel düzenlilikten doğrudan insan tipi niyet veya hüküm çıkarılıyorsa geçiş geçersizdir.
+
+**Araştırma kaydı:** Bu iki rakip yaklaşım henüz birincil literatür taramasıyla kaynaklandırılmış değildir; K1 açık kalır. Buradaki itirazlar bağımsız hakem görüşü değil, metnin kendi eleştirel sınamasıdır.
+
 ## 6. Ontoloji–epistemoloji bağlantısı
 Hebûn boyutların varlık ve kuruluş sorularını, Zanabûn bilmenin oluşumunu ve ikinci değerlendirmeyi, Rasterast ise iddiaların kaynak ve kanıt denetimini araştırır. Ontolojik İkinci Bilen temsili ile bağımsız bilimsel ikinci onay ayrıdır; aralarındaki ilişki A06'da geliştirilir.
 
