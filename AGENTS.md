@@ -35,3 +35,8 @@ Bu dosya, bu depoda çalışan ChatGPT, kod ajanları ve diğer yardımcılar i�
 ## Bu talimatın sınırı
 
 Bu belge depo içi kalıcı operasyonel kayıttır; ChatGPT'nin model ağırlıklarına yazma veya farklı sohbetlerde koşulsuz hatırlama sağlamaz. Yeni oturumda GitHub'a erişen ajan önce bunu ve kurucu kanonu okumalıdır.
+
+
+## Birikimli bilim felsefesi aktarımı (22.10.2026)
+
+Yeni bilim felsefesi çalışmalarında `02-cekirdek-makaleler/NK-ZS-BILIM-FELSEFESI-ARAC-FITRI-IMKAN-IRADELI-AHLAK-v01.md` dosyasını ve fıtrî/iradeli ahlak kurucu kaydını oku. Doğruluk, insanî fayda ve ahlaki sorumluluğu ayrı ölçütlerle incele. Faydasız ilim, sözde bilim ve henüz uygulaması bilinmeyen temel bilimi birbirine karıştırma. Dinî rivayetleri kaynak kontrolü olmadan kesin alıntı gibi sunma. Bu birikimi Hebûn, Zanabûn, Rasterast, 6+Tek ve akıl/bilgi makalelerine yalnız ilgili olduğu yerde aktar; aynı konuyu farklı başlıklarla mükerrer makaleye dönüştürme.
