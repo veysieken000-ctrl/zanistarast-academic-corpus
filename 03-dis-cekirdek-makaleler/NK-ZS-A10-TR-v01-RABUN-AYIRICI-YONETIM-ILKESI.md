@@ -33,6 +33,14 @@ Merkezde bulunan bir temsilci gerekçesiz karar alıyorsa konumu tek başına me
 ## 6. Ontolojik ve epistemolojik sınır
 Ehad Yek'tir; Ehad yaratılmış Yeklerden biri değildir. İlk Yek → ikinci Yek → ilişkilerinden sonraki Yekler → Komel kurucu ontolojik şemadır; bir yönetim örgütünün tarihsel kökenine ilişkin deneysel kanıt değildir. Ehad karşısındaki yaratılmış Yeklerin fıtrî ontolojik İkinci Bilen temsili, insan yöneticilerin bağımsız denetim işlemiyle özdeşleştirilemez. Zanabûn gerekçe üretimi ve ikinci değerlendirmeye, Rasterast kaynak ve hata denetimine katkı sağlar.
 
+## 6A. Rabûn'un kurucu kaynakları ve sürekli denetimi
+
+Rabûn'un yönetim modelinin **ontolojik kaynağı Hebûn**, **epistemolojik kaynağı Zanabûn**'dur. Hebûn, Yek ve Komel'in varlık ve ilişki zeminini açıklar; Zanabûn, kararın bilgi, gerekçe ve ikinci değerlendirme süreçlerini temellendirir.
+
+**Rasterast**, Rabûn'da sonradan eklenen bir kontrol değildir: karar öncesinde kaynak ve karşıt delil, karar sırasında gerekçe, karar sonrasında hata ve sonuç denetimi sağlar. Böylece yönetim yetkisi doğrulanabilir ve düzeltilebilir olmalıdır.
+
+Bu üçlü bağ, ontolojiden doğrudan siyasal meşruiyet çıkarmaz; kurumsal yetki ve sorumluluk için ayrıca normatif gerekçe aranır.
+
 ## 7. Yöntem ve çapraz uyum
 Yöntem kavramsal analiz, rakip kurumsal modellerin karşılaştırılması ve karşı-örnek sınamasıdır; kurumlara ilişkin ampirik üstünlük iddiası henüz yoktur. A03 merkez–çevre analojisinin sınırlarını, A11 temsil–denetim düzenini, A07–A09 normatif sorumluluğu inceler. A10'un ayırıcı sorusu yönetimin gerekçelendirilebilir temel ilkesidir.
 
