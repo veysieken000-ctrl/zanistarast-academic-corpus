@@ -3,7 +3,7 @@
 **H04/A02 | 22 Ekim 2026 | v02 üzerine birikimli araştırma sürümü; dergiye gönderime hazır değil**
 
 ## Öz
-6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir.
+6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir. Fıtrat varlığın kuruluş imkân ve sınırlarıdır; fıtrî ahlak bu düzenin tezahürü, iradeli ahlak ise insanda bilgi ve tercihle bu imkânların yönetilmesidir. Hüküm karşısındaki özel ahlaki sorumluluk iradeli ahlakla ilişkilidir.
 
 ## 1. Önceki sürümden devralınan ayrım
 H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegenler), biyoloji (tek hücreli; çok hücreli), zihin (zekâ; akıl), ruh (ruh; melekler), ahlak (fıtrî; iradeli), hüküm/ahiret. Tek/Yek yedinci yaratılmış boyut değildir. İnsan katmanları kozmik boyutlarla sayısal olarak eşitlenmez. Bu sürüm v02'nin yerine geçmez; onun beşinci ve altıncı boyut tartışmalarına eklenen araştırma bölümüdür.
