@@ -8,7 +8,7 @@ Zanistarast'ın kurucu yaklaşımında zekâ; algı, işlem, bellek, öğrenme v
 ## Dört kavramı ayırma
 | Kavram | Kurucu çalışma tanımı | Akademik karşılaştırma sınırı |
 |---|---|---|
-| Fıtrî zekâ | Canlının bedensel, duyusal, bilişsel kapasite ve sınırları içinde işleyen zekâ | Standart psikolojik test adı değildir; hayvanlarda öğrenme ve yenilik görülebilir |
+| Fıtrî zekâ | İnsan dâhil bütün zihinli canlılarda fıtratın bedensel, duyusal ve bilişsel imkânları içinde işleyen zekâ | Standart psikolojik test adı değildir; insan ve diğer hayvanlarda öğrenme ve yenilik görülebilir |
 | Duygusal zekâ | Duyguları algılama, anlama ve davranışı düzenlemede bilgiyi kullanma | Psikolojide yetenek modeli vardır; duygunun kendisiyle eşit değildir |
 | Mantıksal zekâ | İlişki, tutarlılık, örüntü ve çıkarımla problem çözme | Akıcı zekâ/akıl yürütme araştırmalarıyla kısmen örtüşür; tek ve evrensel alt tür olarak doğrulanmış kabul edilmez |
 | Akıl | İlimden ilim üretme ve genellenebilir bilimsel bilgi geliştirme | Kurucu insan tanımı; hayvanlarda tüm akıl yürütme yoktur biçiminde ampirik sonuç çıkarılmaz |
