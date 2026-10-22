@@ -89,6 +89,9 @@ Kurucu tanım ikinci bilenin onayını bilgi kuruluşunun parçası sayar. Bu ma
 ### 7C. Uygulama kaydı
 İkinci bilenin uygulama kaydı §5A'daki beş alanı içerir; ret veya düzeltme yolu §5D'ye göre belirtilir. Kayıt H03'teki kaynak–karşı-örnek–düzeltme zincirine bağlanır. Aynı kaynağın tekrar aktarılması yeni bağımsız kanıt sayılmaz.
 
+### 7D. Onay, doğruluk ve gerekçelendirme
+Zanabûn'da ilk bilenin nesneye yönelmesiyle ortaya çıkan sonuç ikinci bilenin değerlendirmesine açılır. Doğruluk, önermenin konusuyla uygunluğu; gerekçelendirme, kabul için gösterilen nedenler; onay ise ikinci bilenin değerlendirmesidir. İki kişinin onayı yanlış önermeyi doğru yapmaz; henüz onaylanmamış doğru önerme de bu nedenle yanlış olmaz. İkinci bilenin katkısı gerekçelerin denetlenmesi ve ortak hatanın görünür kılınmasıdır. Ontolojik ikinci Yek otomatik olarak ikinci bilen değildir. Karşı-örnek: Matematiksel ispat, ikinci kişi okumadan da geçerli olabilir. Bu yüzden ikinci onay matematiksel geçerliliğin varlık koşulu değil, kamusal hata denetimi aşamasıdır. Aynı veri ve kodla sonuç elde etme ile yeni verilerle tekrar sınama ayrımı NASEM'in (2019, bölüm 3) yöntem ayrımıyla uyumludur; bu rapor Zanabûn'un deneysel doğrulaması değildir.
+
 ## 8. Sonuç
 Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Makalenin katkısı, ikinci onayın bilgiye ne kattığını kişi sayısı yerine gerekçenin denetlenebilirliğiyle tartışmasıdır. Bölüm 5A'daki sınama önerisi uygulanmamıştır; ikinci onayın bütün bilgi türleri için zorunlu ve yeterli olduğu gösterilmiş değildir.
 
