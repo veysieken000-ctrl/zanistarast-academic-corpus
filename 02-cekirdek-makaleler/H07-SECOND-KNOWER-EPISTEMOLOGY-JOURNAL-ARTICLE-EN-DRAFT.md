@@ -1,3 +1,5 @@
+> **Founder's research-direction instruction (22 October 2026):** This manuscript is to be developed **from the Zanistarast Scientific Synthesis and the Newroza Kawa civilizational intellectual framework**, not by imitating a journal, another philosopher, or an established school. Hebûn ontology and Zanabûn epistemology supply its conceptual point of departure. External scholarship is to be engaged critically for evidence, dialogue, and objections—not adopted as the source of the system's identity or governing logic. Editorial reconstruction must remain distinguishable from founder-approved canon and the historical H07 source. Scientific claims must still be checked against relevant evidence, and publication requirements are practical submission constraints only, not theoretical authorities. The previous journal-fit section is an optional downstream audit, **not a mandate to reshape the theory to resemble that journal**.
+
 # The Second-Knower Thesis and Scientific Objectivity: A Critical Reconstruction of Zanabûn Epistemology
 
 **H07 / BİLİM-01 — journal-oriented article draft v0.1, 22 October 2026**
