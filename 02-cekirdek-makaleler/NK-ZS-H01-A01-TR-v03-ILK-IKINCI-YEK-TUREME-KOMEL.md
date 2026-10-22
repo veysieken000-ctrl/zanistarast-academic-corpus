@@ -78,3 +78,10 @@ Hebûn'un asıl kurucu problemi, Ehad–Yek kabulünden hareketle ilk tekillik, 
 5. Hebûn v01–v02 ve EK01–EK05; eski araştırmalar silinmeden korunur.
 
 **Eksikler:** Özgün Word'lerin paragraf eşlemesi, nükleer fizik ve hücre biyolojisi kaynak taraması, ikinci Yek'in her boyuttaki somut modelinin karşı-örnek denetimi, hakemlik ve kurucu onayı.
+
+## Kurucu ek: ortak öz ve iki kapsama ilişkisi (22 Ekim 2026)
+Kurucunun güncel ontolojik tasavvurunda insan ile hayvanın özü aynı temel ontolojik niteliğe sahiptir. Ayrım, özün varlıkla ilişki kurma kapsamı ve insanda iradeli ahlakla bağlantılı sorumluluk alanıdır. Atom ve yıldız örneği bu kapsam farkını açıklayan bir benzetmedir; fiziksel eşitlik iddiası değildir.
+
+Fiziksel içerilme ile ontolojik kapsama ayrı tutulur: tek hücreli canlı fiziksel kâinatın içinde küçük bir varlıktır, fakat yaşamın bilgi ve örgütlenmesi biyolojik düzeyde yeni bir açıklama alanı açar. Bu nedenle “küçük büyüğün içinde, büyük küçüğün içinde” sözü iki ayrı kapsama ölçütüne işaret eder; hücrenin fiziksel evrenden daha hacimli olduğu anlamına gelmez.
+
+Varlığın devamlılığı fizik düzeyinde kanunlarla işleyen düzen, biyolojide ise güvenlik, beslenme, barınma ve soyun devamı gibi süreçlerle incelenir. Kâinatın **otonom** sisteme benzetilmesi Ehad'dan bağımsızlık iddiası değildir. Kurucu görüşün ayrıntılı kaydı: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Bunlar felsefi önermelerdir; ampirik yasa olarak ilan edilmez.
