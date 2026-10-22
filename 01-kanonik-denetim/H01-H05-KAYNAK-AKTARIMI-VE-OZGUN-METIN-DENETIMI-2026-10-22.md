@@ -34,3 +34,31 @@ Ehad–Yek ve Yek'in ayrı yaratılmış boyut olmaması; ikinci Yek/ikinci Bile
 4. Akademik dil ve argümanların bütün metin çapında son editoryal denetimi; hedef dergi biçimi henüz seçilmedi.
 
 Beş çekirdeğin akademik kapanışı henüz yeşil değildir. Dış çekirdeğe geçilmedi. 412 benzersiz makale ve bütünsel geri besleme kapısı aynen bağlayıcıdır; nihai yayın onayı kurucuya aittir.
+
+## Devam turu — tam metin ve argüman denetimi
+
+Önceki erişim durumu tarihsel kayıttır. Bu turda Kenward (2005) yazarların Oxford PDF'sinden, Boeckle (2020) Cambridge açık PDF'sinden, Ratcliff (2012) PMC ana metninden kontrol edildi. İlgili yöntem, örneklem, sonuç ve tartışma yerleri H01/H05'e işlendi. Ek videolar, ham veri ve bütün ek analizler yeniden incelenmedi.
+
+- Kenward: dört kuşun ikisi gösterim aldı, ikisi almadı. Gösterim almayan bireyde üretim gözlendi; bütün örneklem “hiç gösterim almamış” diye yazılmadı.
+- Boeckle 2020: dokuz kuş eğitime başladı, dördü kritik teste geçti; üçünün kritik koşullarda şans üstü başarısı raporlandı. Eğitime başlayan sayı ile test örneklemi ayrıldı.
+- H05'e de Mahy, Esteve ve Santariello (2021), DOI 10.1098/rspb.2021.0186 ve Boeckle ve ark. (2021) yanıtı, DOI 10.1098/rspb.2021.1271 eklendi. Eleştiri indekslenmiş metinden, yanıt Cambridge tam metninden kontrol edildi. Yazar yanıtı bağımsız tekrar deneyi diye sayılmadı.
+- Ratcliff: çökelme seçilimi, bölünme sonrası bağlılık ve küme düzeyinde yaşam döngüsü ana metinden eşlendi. Komel'in adlandırılması mekanizma kanıtı yerine geçirilmedi.
+- Diyanet resmî arama indeksinde Nisâ 4:1 meal/tefsir metni elde edildi. Aynı öz/tür yorumu ile anatomik köken yorumu ayrıldı; doğrudan dinamik sayfa gövdesi boş döndüğünden tam sayfa kapanışı verilmedi.
+
+### Kaydedilen commit'ler
+| Metin | Commit |
+|---|---|
+| H01 | b81dd0f70e7fd54f325786b59de6ae5bfbd8712a |
+| H02 | e4ac5522a5df6f628f16e2626056db3ba1fd212b |
+| H03 | fd2c18c10cd8359bbddcca07c2ff287a5f425409 |
+| H04 | 6d5d31c3a879af33bcde50ae2fef8a680b6dc21d |
+| H05 | 1febcee70b6e71c4cb664fa233f03e55af521940 |
+
+Beş ana metin yeniden dal üzerinden okundu; gönderilen içeriklerle birebir eşleşti. Beşinde de ana önerme–dayanak–statü tablosu bulunuyor. Sonuçlar çalışmanın gerçekten gösterdiği kapsamla sınırlandı. H02'ye sonsuz onay zinciri itirazı, H03'e bulgu/hipotez ayrımı, H04'e ontolojik evre ile bilimsel kronoloji ayrımı işlendi. Kanonik tarihsel notlar Ek A–C olarak adlandırıldı; içerikleri korundu.
+
+### Kapanışta devam eden işler
+- Diyanet'in doğrudan metin sürümü ve Adelberger'in ilgili nükleer süreç bölümünün tam metin karşılaştırması.
+- Özgün Word kaynaklarındaki esas önermelerin tam envanteri; mevcut eşlemeler seçilmiş kurucu önermelerdir.
+- Bağımsız ikinci denetim ve bütünsel editoryal kapanış. Bu tur da aynı çalışma akışıdır; bağımsız denetçi varmış gibi gösterilemez.
+
+Dış çekirdeğe geçilmedi. Beş çekirdek akademik çalışma sürümü kapanışı henüz tam yeşil değildir. 412 makale yayın kapısı korunur.
