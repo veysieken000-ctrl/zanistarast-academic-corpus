@@ -8,6 +8,9 @@
 
 Zanabûn epistemolojisinin “bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı” biçimindeki kurucu önermesi, bilginin oluşumunu ilişkisellik ve muhataplık üzerinden tanımlar. Bu ek, ikinci bilenin kurucu ontolojik rolünü, bilimsel araştırmada bağımsız değerlendirme ve ortak hata denetimiyle karıştırmadan analiz eder. Gözlemcilerin birbirinden bağımsız hataları ile paylaştıkları sistematik hatalar ayrıştırılır; salt mutabakatın doğruluğu garanti etmediği biçimsel olarak gösterilir. Bu sonuçlar kurucu tezin ampirik ispatı değil, araştırılabilir uygulama sınırlarıdır.
 
+## Güncel ikinci Bilen ve muhataplık ayrımı
+Ontolojik muhataplık, epistemik ikinci Bilenin bağımsız değerlendirmesi ve insanın hüküm karşısındaki iradeli ahlaki sorumluluğu üç ayrı düzeydir. Fıtrî ahlakın bütün varlıkların düzeninde aranması, atom veya hücrenin bilinçli epistemik onay verdiğini göstermez. İkinci Yek ikinci Bilenle özdeş değildir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
 ## 1. Kaynak statüsü
 
 **Z-K01 — Kurucu ifade:** “Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı.”  
