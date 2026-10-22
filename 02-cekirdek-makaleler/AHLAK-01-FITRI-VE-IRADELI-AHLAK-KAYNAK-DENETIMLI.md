@@ -20,7 +20,7 @@ Paragraf numaraları `3-Etik ve ahlak.docx` belgesinde **0 tabanlıdır**:
 - **§120–126:** Erdem, vicdan, kişisel ve toplumsal ahlaki sorumluluk.
 - **§129–135:** Ahlaki yargı ve değer yargıları.
 
-**Tarihsel metin ile güncel kanonik düzeltme:** Özgün §80 biyolojiyi eşeyli/eşeysiz üreme biçiminde; ahlak/hüküm ilişkisini başka bir boyut şemasıyla anlatır. Güncel kurucu açıklaması biyoloji için **tek hücreli/çok hücreli**, zihin için **zekâ/akıl**, ruh için **ruh/melekler**, ahlak için **fıtrî/iradeli**, altıncı boyut için **hüküm/ahiret** ayrımını esas alır. Bu, belgenin §80'inde zaten yazıyormuş gibi sunulmaz. İnsanın katman modeli kozmik boyutlarla birebir sayısal eşlenmez.
+**Tarihsel metin ile güncel kanonik düzeltme:** Özgün §80 biyolojiyi eşeyli/eşeysiz üreme biçiminde; ahlak/hüküm ilişkisini başka bir boyut şemasıyla anlatır. Güncel kurucu açıklaması biyoloji için **tek hücreli/çok hücreli**, zihin için **zekâ/akıl**, ruh için **ruh/melekler**, ahlak için **fıtrî/iradeli**, altıncı boyut için **hesap/hüküm** ve **hükmün sonucu (ahiret karşılığı)** evrelerini esas alır. Bu son evre adları `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` içindeki **kurucu onaylı 6 boyut / 12 evre tablosunda** açıkça kayıtlıdır; özgün etik DOCX'inin §80'inden türetilmiş değildir. Bu, belgenin §80'inde zaten yazıyormuş gibi sunulmaz. İnsanın katman modeli kozmik boyutlarla birebir sayısal eşlenmez.
 
 ## 3. Kavramların analitik ayrımı
 | Alan | Kaynaktaki dayanak | Araştırma açısından açıklık gereksinimi |
