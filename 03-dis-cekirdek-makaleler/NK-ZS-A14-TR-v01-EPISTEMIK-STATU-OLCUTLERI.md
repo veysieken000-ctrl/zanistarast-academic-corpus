@@ -21,6 +21,14 @@ Hebûn varlığın kuruluşunu, Zanabûn bilmenin ilişkisini, Rasterast iddian�
 ## Eleştirel sınır
 İki kişinin aynı hatalı ölçümü tekrarlaması bağımsız doğrulama değildir. Doğal işleyiş de tek başına iradeli ahlaki ödev doğurmaz. Fizik, biyoloji, zihin ve hüküm düzeyleri birbirine indirgenemez.
 
+## Statü kararının uygulama protokolü
+
+Her iddia için sırasıyla (1) iddianın tam cümlesi, (2) kaynak metindeki konumu, (3) iddia türü, (4) gerekli gerekçe, (5) karşı-örnek, (6) hangi yeni kanıtın statüyü değiştireceği ve (7) ikinci denetçinin olası bağımlılıkları kaydedilir. Bu işlem kurucu teolojik kabulü deneysel bulguya dönüştürmez; ampirik iddiayı da yalnız metin otoritesiyle doğrulamaz.
+
+**Örnek kayıt:** “İki araştırmacı aynı cihazla aynı sonucu buldu.” Statü: gözlemsel uyuşma. Açık risk: ortak kalibrasyon hatası. Gerekli ek denetim: farklı cihaz veya bağımsız ölçüm yolu. Çıkarılamayacak sonuç: “İki onay olduğu için kesin doğrudur.”
+
+**Karşıt ihtimal:** Aynı yöntemi tekrarlamak kimi uygulama hatalarını saptayabilir; dolayısıyla ortak yönteme dayanan her tekrar değersiz değildir. Denetimin gücü, hangi hata yolunu gerçekten sınadığına bağlıdır.
+
 ## Çapraz uyum
 H01–H05 çekirdekleri, A06 ikinci bilen ve A07 fıtrî–iradeli ahlak metinleriyle bağlantılıdır. İlk zihinli Yek ve ilk hafıza açık araştırma sorularıdır.
 
