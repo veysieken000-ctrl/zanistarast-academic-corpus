@@ -113,3 +113,29 @@ The author argues that knowledge requires a knowing subject. For enduring knowle
 4. Source identity: Google Drive holds four `7-Bilim.docx` records with identical readable text (25,037 characters each), but their equivalence to the older filename `6-Bilim (1).docx` has **not** been established. The directly identified GitHub primary source for this English passage is `articles/makale-06.md`, not a presumed filename match.
 
 **Status:** This section is a substantive English source-based translation excerpt plus marked editorial critique. It is not a complete English journal manuscript, and it has not undergone independent peer review.
+
+## H07 English critical translation — 1.1 Science of Being (22 October 2026)
+
+**Source:** `veysieken000-ctrl/hebun-zanabun/articles/makale-06.md`, section 1.1, *Varlık Bilimi*. The paragraphs below are a selective close translation and are not a complete translation of the section. Editorial cautions are explicitly separated.
+
+### Translation: creation, subjects, and an object
+
+From the standpoint of creation and the requirement of two knowing subjects, the author proposes the following account. For an initial knowing subject to disclose its knowledge to another knower, a second subject must exist. Because that second subject depends upon the first for its existence, the first must also bring forth the object through which knowledge becomes visible. The author distinguishes the first subject, the second knower, and the known object or product, and adds a fourth term: a common ordering or law through which their relation can be maintained. In the author's theological reconstruction, the divine first knower creates the spiritual second subject and the physical world through which it acquires embodiment. This is a metaphysical model of creation, not an observed sequence of physical events.
+
+The manuscript then describes creation as beginning with differentiation and the giving of spirit. It associates the origin of physical reality with divine knowledge, will, awareness, and power. It discusses the Big Bang, the Higgs boson, protons, neutrons, and electrons as part of this historical cosmological interpretation. These claims are preserved as claims made by the source, not endorsed here as current physics.
+
+### Translation: three systems of being and their ordering
+
+The author describes a being in terms of center and periphery, internal components, and a law that governs its organization. The first system concerns physical beings and uses atomic components and stellar or planetary structures as examples. The second concerns biological beings and invokes DNA, RNA, proteins, cell division, and the emergence of multicellular organisms. The third concerns beings with minds, connecting nervous systems, senses, memory, intelligence, and reason. The author argues that each system requires an ordering law and associates spirit and angels with the governance of the systems.
+
+The author also treats repeatability, induction, deduction, and confirmation as central to reliable knowledge. The text compares interactions among physical, biological, cognitive, moral, and theological terms and proposes a general pattern in which two subjects participate in the emergence of a third product. It extends this pattern to human production and to an account of the creator and the human knower.
+
+### Editorial scientific and conceptual audit — not source translation
+
+- **Atomic counterexample:** Ordinary hydrogen-1 has one proton and one electron but no neutron. The source's proton–neutron–electron triad cannot be a universal definition of an atom. Hydrogen and helium labels also need correction before a science-journal submission.
+- **Biological stages:** The source uses asexual/sexual reproduction to explain a historical transition. The founder-approved later cosmic stages are unicellular/multicellular. Reproduction mode and cellular organization are distinct variables; the latter terminology must not be silently substituted inside a historical quotation.
+- **Mind and spirit:** Nervous-system structures are biological descriptions, while intelligence/reason and spirit/angels are separate levels in the author's framework. The latter are theological-ontological categories, not experimentally identified causal forces.
+- **Epistemic distinction:** Replication and independent corroboration may improve confidence, but shared systematic error can survive agreement between two observers. The second-knower thesis should be stated as an argument with explicit assumptions, not an automatic proof of truth.
+- **Scientific scope:** The historical source's descriptions of the Big Bang, the Higgs boson, black holes, and particle formation need independent physics citations and revision; analogies between these topics and divine creation do not constitute experimental confirmation.
+
+**Completion boundary:** This addition advances H07's English source-based edition of section 1.1. It does not finish section 1.1 paragraph by paragraph, translate the remaining Turkish manuscript, or certify the paper for publication.
