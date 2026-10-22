@@ -97,3 +97,10 @@ Bu eşleme **ön sınıflandırmadır**; 27 aday, 412 benzersiz makalenin doğru
 
 ### Kapanış kararı
 Beş metnin iç argümanları ilerledi. Açık koşullar: tüm atomik iddiaların denetimi, bağımsız ikinci alan/argüman değerlendirmesi ve buna dayalı bütünsel çapraz kapanış. Bu koşullar geçilmediğinden **H01–H05 akademik çalışma sürümü kapanışı henüz ilan edilmez**; 412 makale yayın kapısı da kapalıdır.
+
+## Beş çekirdeğin iç eleştirel inceleme sonucu — 22 Ekim 2026
+Beş ana makaleye ayrı ayrı güçlü itiraz, cevap ve kapsam kararı işlendi: H01 5f468b8; H02 008ec7f; H03 0b5e417; H04 8138bee; H05 44033c1. Her dosya yazıldıktan sonra içerik eşliği kontrol edildi. Bu işlem kurucu talebi uyarınca **hakem bakış açısıyla yapılan iç eleştirel değerlendirmedir**, bağımsız hakem raporu değildir.
+
+**İç editoryal sonuç:** H01–H05'in mevcut akademik çalışma metinlerinde kurucu soru, yöntem, ana argüman, güçlü itiraz, kapsamlı yanıt, sonuç ve kaynak izi bulunmaktadır. Bu ölçüt bakımından beşli çalışma sürümünün metinsel bütünlüğü sağlanmıştır. Açık ampirik araştırma soruları ve dış bağımsız hakemlik gelecekteki araştırma/yayın kapısı olarak korunur; metinsel bütünlüğü yok saymak için gerekçe yapılmaz. **Yayın kararı verilmedi.**
+
+**Dış çekirdek geçişi:** Metinsel çalışma sürümü bütünlüğü bakımından Halka 1'in planlanmasına geçilebilir. İlk öncelikler mevcut envanter A06 ikinci bilen, A05 zekâ–akıl, A07 fıtrî/iradeli ahlak, A14 kanıt statüsü, A03 merkez–çevre, A02 6+Tek evreleri ve A04 bilgi kaynağıdır. Her adayın çekirdekten farklı araştırma sorusu ve özgün katkısı doğrulanmadan yeni benzersiz makale olarak sayılmaz. Önceki protokoldeki bağımsız denetim şartı nihai bilimsel/yayın onayı için açık kalır; kurucu kararı olmadan yayıma hazır statüsü verilmez.
