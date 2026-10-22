@@ -76,3 +76,31 @@ This version brings the argument into a single English academic structure while 
 - **Supporting line-aligned translation and audit:** `02-cekirdek-makaleler/BILIM-01-EPISTEMIK-STATU-VE-KANIT-MATRISI.md`.
 - **Not yet complete:** verbatim sentence-by-sentence translation and bilingual alignment of every passage; author approval of interpretive reconstruction; peer-reviewed reference retrieval and citation verification; journal-specific formatting; external scientific review.
 - **Citation policy:** no invented references or DOIs; bibliographic entries must be added only after checking actual sources.
+
+## 9. Initial verified literature engagement: objectivity and the second knower
+
+**External scholarship, distinct from the historical source.** The following publications have been checked against their publisher or editorial webpages on 22 October 2026. Their existence and relevance are verified; they are not presented as endorsing Zanabûn or the historical author's conclusions.
+
+**Scientific objectivity.** The Stanford Encyclopedia of Philosophy article *Scientific Objectivity* (first published 2014; substantively revised 2020) discusses objectivity as fidelity to facts, reduction of personal bias, and a feature of critical scientific-community practices. Its treatment of intersubjectivity offers a useful comparison to the second-knower thesis: social criticism can improve objectivity, but shared judgment is not itself sufficient proof of correspondence with reality. Source: https://plato.stanford.edu/entries/scientific-objectivity/ .
+
+**Reproducibility versus replicability.** The National Academies of Sciences, Engineering, and Medicine (2019), *Reproducibility and Replicability in Science*, distinguishes reproducing computational results with the same data and methods from replicating a scientific result through studies using their own data. This distinction supplies operational questions for the author's notion of a second knower: Is the second person independently measuring the phenomenon, repeating an analysis, or merely agreeing? These are not equivalent acts of confirmation. Publisher: https://www.nationalacademies.org/read/25303/chapter/3 ; verified DOI: https://doi.org/10.17226/25303 .
+
+**Proposed operationalization (editorial, not a claim in the historical source).** A narrow research protocol could classify second-knower episodes as (a) verbal agreement, (b) independent critique of reasoning, (c) reanalysis of shared observations, or (d) independent collection of new observations. The proposed hypothesis would be that (c) and (d), when well designed, identify certain errors that (a) misses. A future empirical study must define error classes, sampling, preregistered outcome measures, and independence criteria before treating this as a tested result.
+
+### Verified references (initial set)
+
+1. *Scientific Objectivity*. Stanford Encyclopedia of Philosophy. First published 2014; substantive revision 2020. https://plato.stanford.edu/entries/scientific-objectivity/ . [Editorially maintained reference work; not represented as a peer-reviewed experimental study.]
+2. National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . [Consensus study report.]
+
+### Source-to-manuscript coverage and remaining gaps
+
+| Historical source lines | Manuscript section | Coverage classification |
+|---|---|---|
+| 10–12, 21–27 | §§1–2 | Interpretive synthesis, not sentence-complete translation |
+| 33–55 | §3 | Interpretive synthesis; detailed translation in evidence matrix |
+| 57–79 | §4 | Interpretive synthesis; detailed translation in evidence matrix |
+| 81–106 | §5 | Interpretive synthesis; detailed translation in evidence matrix |
+| 111–121 | §6 | Interpretive synthesis; detailed translation in evidence matrix only partly line-matched |
+| 126–129 | §8 | Broad conclusion only; **close translation still required** |
+
+**Publication gate:** No journal submission, full-translation certificate, or empirical validation claim until the remaining historical paragraphs are translated closely, source fidelity is independently checked, and the reference set is expanded to address the actual article's research question.
