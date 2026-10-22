@@ -8,6 +8,9 @@
 
 Bu araştırma eki Rasterast'ın, Hebûn ontolojisi ve Zanabûn epistemolojisi içinde ortaya konulan iddiaları anlamlarını değiştirmeden değerlendirmesi için bir kaynak-soyağacı modeli önerir. İddia, kurucu kaynak, editoryal yorum, mantıksal çıkarım ve ampirik kanıt ayrı kayıtlar olarak tutulur. İkinci bilenin onayı, bağımsız inceleme ile aynı kaynaktan tekrarlanan onay arasında ayrıştırılır. Hebûn'un merkez–çevre önermesi ve Zanabûn'un ikinci bilen ilkesi iki uygulama örneğidir. Yöntem, henüz gerçek araştırma verisi üzerinde geçerlenmemiştir.
 
+## Güncel ikinci Bilen ve ahlak denetimi
+Ontolojik muhataplık, epistemik ikinci Bilenin bağımsız onayı ve insanın iradeli ahlakla hüküm karşısındaki sorumluluğu farklı iddia türleridir. Fıtrî ahlak, varlık düzeninin tezahürü anlamındadır; cansız varlığa bilinçli onay atfedilmez. Rasterast kaynak soyağacı, bu üç anlamın teolojik yorum, felsefi çıkarım ve ampirik denetim olarak ayrı kaydedilmesini gerektirir.
+
 ## 1. Araştırma problemi
 
 Bir makaledeki her önerme aynı bilgi statüsünde değildir. Kurucu ontolojik bir beyanın özgün metinde bulunması, onun laboratuvarda doğrulandığı anlamına gelmez. Bir matematiksel çıkarımın belirli aksiyomlardan geçerli olması da bu aksiyomların doğa hakkında doğru olduğunu göstermez. Rasterast, bu ayrımları gizlemek yerine denetlenebilir hale getirmelidir.
