@@ -6,6 +6,9 @@
 
 Kozmik boyut D, evre S, insan katmanı H, ampirik örnek X olarak ayrılır. `kapsar(D,D)` ile `evresi(S,D)` farklı ilişkiler olarak değerlendirilir. Kozmik altıncı boyut hüküm/ahirettir; insan sınıflamasındaki duygu aynı kategori değildir. Yek ayrı yaratılmış bir yedinci boyut değildir.
 
+## Güncel tür ve katman ayrımı
+Fıtrat varlığın kuruluş imkân ve sınırlarını, fıtrî ahlak bu düzenin işleyişteki tezahürünü anlatır. İradeli ahlak insanın bilgi ve tercih sorumluluğudur. Hayvanlarda Öz–Duygu–Zekâ–Fıtrî Ahlak; insanda Öz–Duygu–Akıl–Fıtrî Ahlak ve bunları kapsayan İradeli Ahlak şeması, kozmik 6+Tek'in evreleriyle sayısal eşleme değildir. İnsan zekâsı akıl içinde kullanılmaya devam eder.
+
 ## Kapsama ve zaman
 
 Kurucu kapsama zinciri biyoloji–fizik, zihin–biyoloji, ruh–zihin, ahlak–ruh ilişkilerini içerir. Bu ilişkiler zaman değişkeni tanımlamaz. Aynı kapsama yapısına sahip iki soyut modelde örneklerin tarihlerinin farklı atanabilmesi, kapsamanın tek başına kronolojik sırayı gerektirmediğini gösterir. Bu biçimsel sonuç evrenin gözlemsel tarihini belirlemez.
