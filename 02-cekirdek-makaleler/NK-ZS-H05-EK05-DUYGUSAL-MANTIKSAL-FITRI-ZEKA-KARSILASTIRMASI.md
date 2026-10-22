@@ -5,6 +5,11 @@
 ## Kurucu önerme
 Zanistarast'ın kurucu yaklaşımında zekâ; algı, işlem, bellek, öğrenme ve seçenekleri değerlendirmeyle ilişkilidir. Duyguların etkisiyle duygusal, mantıksal ilişkilerin etkisiyle mantıksal zekâ yönlerinden söz edilebilir. Fıtrî zekâ insan dâhil her zihinli canlıda fıtratın imkân ve sınırlarıyla işleyen zekâyı ifade eder; öğrenmenin yokluğunu veya bütün davranışların değişmezliğini iddia etmez. **Akıl**, kurucu tanımda yalnız insana özgü ilimden ilim üretme yeteneğidir.
 
+## Güncel kanonun literatürle sınanması
+Fıtrat kuruluş ve imkân düzeni, fıtrî ahlak bu düzenin işleyişteki tezahürü, iradeli ahlak insanın bilgi ve tercihle sorumluluğudur. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve bunları kapsayan iradeli ahlak önerilir. İnsanın zekâsı dışlanmaz. Bu felsefi sınıflama ampirik kanıt yerine geçmez.
+
+Karşılaştırma kaynakları: https://plato.stanford.edu/entries/consciousness-animal/ ve https://plato.stanford.edu/entries/animal-social-cognition/ . Hayvanlarda bilinç, sosyal biliş ve norm benzeri davranışlar hakkındaki tartışmalar basit insan/hayvan ikiliğini sınırlar; kaynaklar kurucu teolojik hüküm tezini doğrulamaz.
+
 ## Dört kavramı ayırma
 | Kavram | Kurucu çalışma tanımı | Akademik karşılaştırma sınırı |
 |---|---|---|
