@@ -8,10 +8,10 @@ Zanistarast'ın beşli kavram çerçevesi fizik, biyoloji, zihin, ruh ve ahlak b
 **Anahtar sözcükler:** Akıl, bilgi, zekâ, fıtrat, hayvan bilişi, iradeli ahlak.
 
 ## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
 
 ## 1. Kavramlar ve düzeyler
-- **Güç:** Fiziksel etki ve iş yapma imkânı. Fizikte kuvvet, enerji ve güç ayrı büyüklüklerdir; araştırmada uygun ölçü ve birim seçilmelidir.
+- **Güç (fizik):** İşin yapılma veya enerjinin aktarılma hızıdır; ortalama güç, aktarılan enerjinin geçen süreye oranıyla ifade edilir. SI birimi watt olup 1 W = 1 J/s'dir (OpenStax, tarihsiz, §7.7). Genel “etki/eylem kapasitesi” anlatımı bu fiziksel büyüklüğün tanımı değildir; böyle bir felsefi kullanım geçtiğinde ayrıca belirtilir.
 - **Bilgi:** Biyolojik dizilim, öğrenilmiş temsil, gündelik bilgi ve bilimsel bilgi farklı türlerdir. DNA genetik bilginin taşıyıcısıdır; dizilimdeki biyolojik bilgi, insanın gerekçeli bilgisiyle özdeş değildir (NHGRI, 2026, Deoxyribonucleic Acid).
 - **Zekâ:** İşlem, belek/bellek, algı ve seçenek değerlendirme. Hayvan bilişi hakkında kapsamlı ampirik iddialar ayrıca kanıt ister.
 - **Fıtrat:** Varlığın kendine özgü kuruluş düzeni, imkânları ve sınırları. Ruh/kanun/yazılım benzetmesi bir analojidir; moleküler mekanizmayla ontolojik özdeşlik değildir.
@@ -72,8 +72,8 @@ Bir davranış yalnız insan yaptığı için akıl, hayvan yaptığı için zek
 Bu taslakta **görevde başarılı olma**, **başarının mekanizması** ve **kurucu akıl kavramına uygunluk** üç ayrı karardır. Yeni probleme aktarım gözlense bile bu, açık gerekçelendirme veya birikimli bilimsel bilgi üretiminin de ölçüldüğü anlamına gelmez. Hayvanda önerilen bir gösterge için olumlu bulgu gelirse bulgu korunur; gösterge sırf bu nedenle yeniden tanımlanıp hayvan dışlanmaz. İnsanda tek görev başarısızlığı da ilimden ilim üretme kapasitesinin bütünüyle yokluğunu göstermez. Bunlar kurucu insan aklı tanımını deneysel sonuç gibi kullanmayı önleyen kurallardır; tamamlanmış türler arası test veya insana özgülüğün yeni ispatı değildir.
 
 ## 6. Matematiksel araştırma için asgari şema
-Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
-- `P`: fiziksel koşullar ve ölçülebilir kapasite;
+Bir varlık/sistem için `S = (C_f, I, Z, F, C)` gösterimi önerilir:
+- `C_f`: fiziksel koşullar ve alana özgü ölçülebilir kapasite; fiziksel güç P ile aynı değişken değildir;
 - `I`: ilgili bilgi türü ve taşıyıcısı;
 - `Z`: gözlenen işlem, bellek ve davranış işlevleri;
 - `F`: sistemin imkân ve sınırlarını tanımlayan kurallar;
@@ -81,7 +81,7 @@ Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 
 Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İnsana özgü akıl için ayrıca `A_h` değişkeni tanımlanabilir: yeni bilgi/araç geliştirme kapasitesinin operasyonel göstergeleri araştırılır. Ruh/melekî idare veya metafizik bilen, ölçüm yöntemi tanımlanmadan bu gösterime ampirik parametre olarak eklenmez.
 
-**Uygulanabilirlik ve ölçüm:** Bu beşli gösterim sayısal bir vektör veya ortak birimle ölçülmüş toplam değildir. Her alan için kavramın uygulanıp uygulanmadığı ve uygulanıyorsa nasıl ölçüleceği ayrı tanımlanır. Bilişsel bellek/işlem anlamındaki Z, bir atoma uygulanmadığında “uygulanamaz” olarak kaydedilir; gözlem yapılmamış bir canlı için “ölçülmedi” kaydı bundan farklıdır. Bu iki durum keyfî olarak sıfır puanla eşitlenmez. Aynı şekilde genetik bilgi ile gerekçeli bilgi aynı I puanına, fiziksel etki ile ahlaki yetki aynı P değerine indirgenmez. A_h için de ölçüm yöntemi verilmeden sayısal karşılaştırma yapılamaz.
+**Uygulanabilirlik ve ölçüm:** Bu beşli gösterim sayısal bir vektör veya ortak birimle ölçülmüş toplam değildir. Her alan için kavramın uygulanıp uygulanmadığı ve uygulanıyorsa nasıl ölçüleceği ayrı tanımlanır. Bilişsel bellek/işlem anlamındaki Z, bir atoma uygulanmadığında “uygulanamaz” olarak kaydedilir; gözlem yapılmamış bir canlı için “ölçülmedi” kaydı bundan farklıdır. Bu iki durum keyfî olarak sıfır puanla eşitlenmez. Aynı şekilde genetik bilgi ile gerekçeli bilgi aynı I puanına, fiziksel etki ile ahlaki yetki aynı C_f değerine indirgenmez. Fiziksel güç ölçülecekse ayrıca enerji/zaman büyüklüğü ve watt birimi kullanılır; kurucu “eylem kapasitesi” bu ölçümün yerine geçmez. A_h için de ölçüm yöntemi verilmeden sayısal karşılaştırma yapılamaz.
 
 ### 6A. Ana önermelerin kaynak ve statü haritası
 | Önerme | Dayanak | Statü ve aktarım sınırı |
@@ -99,6 +99,7 @@ Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İns
 Kavramsal ayrımlar, kaynak–iddia eşlemesi ve seçilmiş bilişsel karşı-örnekler ana metinde kurulmuştur. Bu çalışma bir psikometrik ölçek geliştirmemiş, insan ve hayvan performanslarını ortak bir deneyde ölçmemiştir. Bölüm 6'daki gösterim araştırma taslağı olarak kalır; deneyle doğrulanmış denklem veya çalıştırılmış hesaplama modeli değildir. Ruh/melek açıklaması metafizik, iradeli sorumluluk felsefi/teolojik statüsünü korur. Bu sınırlar metnin sonucunu daraltır; eksik deneyleri yapılmış göstermez.
 
 ## Dış kaynakça
+- OpenStax. (Tarihsiz). *College Physics 2e*, §7.7, Power. https://openstax.org/books/college-physics-2e/pages/7-7-power . Kullanım: §§1 ve 6; fiziksel güç tanımı, denklem 7.69 ve watt birimi. İlgili bölüm doğrudan okundu. Erişim: 22 Ekim 2026.
 - Kenward, B., Weir, A. A. S., Rutz, C. ve Kacelnik, A. (2005). Tool manufacture by naive juvenile crows. *Nature, 433*, 121. https://doi.org/10.1038/433121a . Kullanım: bölümler 5 ve 5A; açık ana metin yöntem ve bulguları kontrol edildi; ek videolar yeniden incelenmedi. Yazarların kurumsal PDF'si: https://users.ox.ac.uk/~kgroup/publications/pdf/ontogeny_Nature_2005.pdf .
 - Boeckle, M., Schiestl, M., Frohnwieser, A., Gruber, R., Miller, R., Suddendorf, T., Gray, R. D., Taylor, A. H. ve Clayton, N. S. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: bölümler 5 ve 5A; açık ana metnin yöntem, sonuç ve tartışması kontrol edildi; ham veri/ek materyal yeniden analizi yapılmadı. Kurumsal tam metin: https://www.repository.cam.ac.uk/items/f781c049-6d77-46c3-ab77-40402a51b8e3 .
 - Jelbert, S. A., Taylor, A. H., Cheke, L. G., Clayton, N. S. ve Gray, R. D. (2014). Using the Aesop's Fable Paradigm to Investigate Causal Understanding of Water Displacement by New Caledonian Crows. *PLOS ONE, 9*(3), e92895. https://doi.org/10.1371/journal.pone.0092895 . Kullanım: bölüm 5A; yayıncının açık ana metninde Subjects, Initial Training, Results (Experiments 4 ve 6) ve Discussion doğrudan karşılaştırıldı. Ham veri tablosu ve video yeniden analiz edilmedi. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092895 .

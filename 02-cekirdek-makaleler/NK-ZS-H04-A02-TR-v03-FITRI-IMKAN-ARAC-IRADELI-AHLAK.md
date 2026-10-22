@@ -8,7 +8,7 @@
 **Anahtar sözcükler:** 6+Tek, Yek, fıtrat, fıtrî ahlak, iradeli ahlak, ontolojik kapsama.
 
 ## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
 
 ## 1. Önceki sürümden devralınan ayrım
 H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegenler), biyoloji (tek hücreli; çok hücreli), zihin (zekâ; akıl), ruh (ruh; melekler), ahlak (fıtrî; iradeli), hüküm/ahiret. Tek/Yek yedinci yaratılmış boyut değildir. İnsan katmanları kozmik boyutlarla sayısal olarak eşitlenmez. Bu sürüm, v02'nin tanımlarını devralan güncel H04 ana çalışma metnidir; v01 ve v02 tarihsel sürümler olarak korunur. Aynı araştırmanın sürümleridir ve bağımsız makale sayılmaz.
@@ -20,7 +20,7 @@ H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegen
 Bir kaldıraç veya vinç, insanın çıplak elle kaldıramadığı yükleri kaldırmasını sağlayabilir. Burada fiziksel kanunlar iptal edilmez; onlardan yararlanılır. Akıl yeni bilgi ve araç üretirken fıtrî imkânları kullanım biçimini değiştirir. Böylece üçüncü boyutun akıl evresiyle beşinci boyutun iradeli ahlak evresi arasında araştırılabilir bir ilişki kurulur.
 
 ### 3A. Mekanik örneğin kaynağı ve sınırı
-OpenStax'ın *College Physics 2e*, bölüm 9.5 açıklamasında mekanik avantaj çıkış kuvveti büyüklüğünün giriş kuvveti büyüklüğüne oranıdır (denklem 9.29). İdeal bir makine kuvvet kazancını yol ile değiş tokuş eder; enerji üretmez (OpenStax, tarihsiz). Kaynakta bütün araçların kuvveti büyütmediği de görülür: verilen kürek örneğinde mekanik avantaj birden küçük, sabit makara örneğinde birdir (§9.5, Şekil 9.22b ve 9.23c). Dolayısıyla araç, belirli yük ve koşullarda uygulanabilir eylemi değiştirir; varlığın bütün sınırlarının kalktığı sonucu çıkmaz. Bu kaynak bir fizik ders kitabıdır; insanın ahlaki sorumluluğu hakkında deneysel kanıt değildir.
+OpenStax'ın *College Physics 2e*, bölüm 9.5 açıklamasında mekanik avantaj çıkış kuvveti büyüklüğünün giriş kuvveti büyüklüğüne oranıdır (denklem 9.29). İdeal bir makine kuvvet kazancını yol ile değiş tokuş eder; enerji üretmez (OpenStax, tarihsiz). Mekanik avantaj bir kuvvet oranıdır; tek başına güç veya enerji artışı değildir. Fiziksel güç iş/enerji aktarımının zamana oranıdır (§7.7); H05 §1 bu teknik anlamı esas alır. Kaynakta bütün araçların kuvveti büyütmediği de görülür: verilen kürek örneğinde mekanik avantaj birden küçük, sabit makara örneğinde birdir (§9.5, Şekil 9.22b ve 9.23c). Dolayısıyla araç, belirli yük ve koşullarda uygulanabilir eylemi değiştirir; varlığın bütün sınırlarının kalktığı sonucu çıkmaz. Bu kaynak bir fizik ders kitabıdır; insanın ahlaki sorumluluğu hakkında deneysel kanıt değildir.
 
 ## 4. Hüküm ve sorumluluk
 Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme kapasitesini de artırabilir. Bu yüzden daha çok güç otomatik olarak güzel ahlak demek değildir. Kurucu teolojik tezde insan Ehad'ın hükmü karşısında ahlaki muhataptır ve kendi iradeli tercihlerinden sorumludur. Sorumluluğun kapsamı bilgi, niyet, kontrol ve öngörülebilir sonuçlar dikkate alınarak tartışılmalıdır.
@@ -81,7 +81,7 @@ Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu d�
 4. Güzel ahlakın imkânı ile gerçekleşen güzel ahlak nasıl ayırt edilir?
 
 ## Dış kaynakça
-- OpenStax. (Tarihsiz). *College Physics 2e*, §9.5, Simple Machines. https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines . Kullanım: bölüm 3A; mekanik avantaj ve enerji sınırı. Erişim: 22 Ekim 2026. Normatif veya teolojik iddiaların kaynağı değildir.
+- OpenStax. (Tarihsiz). *College Physics 2e*, §9.5, Simple Machines; §7.7, Power. https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines . Kullanım: bölüm 3A; mekanik avantaj, enerji sınırı ve güç ayrımı. Güç tanımı: https://openstax.org/books/college-physics-2e/pages/7-7-power . Erişim: 22 Ekim 2026. Normatif veya teolojik iddiaların kaynağı değildir.
 
 - National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §5D; hücresel kuruluş. Kurumsal biyoloji açıklaması, ontolojik boyut sayısının kanıtı değildir. Erişim: 22 Ekim 2026.
 

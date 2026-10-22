@@ -8,7 +8,7 @@ Rasterast, Hebûn ontolojisinin ilk Yek → ikinci Yek → yeni Yekler → Komel
 **Anahtar sözcükler:** Rasterast, kanıt, kaynak soyağacı, karşı-örnek, bağımsız denetim, geri besleme.
 
 ## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
 
 ## 1. Devralınan bilgi: H01 ve H02
 **H01 Hebûn:** Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır. İlk Yek → ikinci Yek → üçüncü ve sonraki Yekler → Komel, kurucu ontolojik ilişkidir. Yek yaratılmış yedinci boyut değildir. Nisâ 4:1'de tek nefis, ondan eşi, ikisinden çoğalma bulunur; Âdem–Havva–çocuklar kurucu tefsir örneğidir. “Bel kemiği/kaburga” ayetin doğrudan lafzı değildir.
@@ -23,6 +23,8 @@ Rasterast bu iki makaleyi yeniden yazmaz; onlardan devralınan iddiaların hangi
 **M — Mantıksal çıkarım:** Açık öncüllerden sonuç. Geçerlilik, öncüllerin doğruluğundan ayrı denetlenir.
 **A — Analoji:** İnsan türemesi, hücre bölünmesi ve atomik örgütlenme arasında kurucu benzerlik. Mekanizmaların aynılığı iddia edilmez.
 **E — Ampirik iddia alanı:** Nükleosentez, hücre bölünmesi, çok hücrelilik ve bellek hakkındaki gözlem/deney gerektiren önermeler. Bu alanın içinde **E-bulgu** yayımlanmış gözlemi, **E-hipotez** henüz sınanacak açıklamayı gösterir; ikisi aynı doğrulanmışlık derecesinde değildir. Kaynağın kendi sonucu ile bu makalenin o sonuçtan çıkardığı yorum ayrı satırlarda tutulur.
+
+**Terim denetimi:** Bir bilimsel terim için önce alan kaynağındaki tanım ve ölçüm birimi kaydedilir. Kurucu kabul, bu teknik tanımı değiştiren kanıt sayılmaz. Aynı sözcüğün ontolojik veya gündelik kullanımı ayrı açıklanır; örneğin fiziksel güç ile genel eylem kapasitesi tek değişken değildir. Tanım birden fazla bilimsel gelenekte farklı kullanılıyorsa seçilen kullanım açıkça belirtilir.
 
 ## 3. Denetlenebilir kaynak soyağacı
 Her iddia şu alanlarla tutulur:

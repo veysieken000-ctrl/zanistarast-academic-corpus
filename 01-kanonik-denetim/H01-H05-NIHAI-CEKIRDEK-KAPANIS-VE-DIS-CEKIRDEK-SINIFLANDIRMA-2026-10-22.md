@@ -72,3 +72,6 @@ E29–E30, PNAS yayıncı ana metninin ilgili bölümlerine doğrudan erişilere
 
 ## E32–E36 kapsam düzeltmeleri
 H01'de element tanımının iki anlamı, H05'te eleştirmenlerin yorumu ile yanıt yazarlarının kendi amaç ve mekanizma sınırı ayrıldı. H03'e iddia atfını denetleme kuralı işlendi. Üç yanıt önermesi doğrudan yazar PDF'sinden kontrol edildi; IUPAC tanımları ve eleştirinin erişim sınırları korundu. Bu işlem bağımsız hakemlik veya bütünsel kapanış değildir.
+
+## Bilimsel tanımlara ilişkin bağlayıcı uygulama
+22 Ekim 2026 kurucu talimatı uyarınca bilimsel terimlerde alanın kaynaklandırılmış tanımı esas alınır. Beş ana metnin yöntem bölümüne bu kural işlendi. H05 fiziksel güç tanımını, H04 mekanik avantaj/güç ayrımını, H03 terim denetimini buna göre güncelledi. Kurucu ontolojik ve teolojik kullanımlar ayrı statüde korunur. Bu uygulama tanım düzeltmesidir; bütünsel iddia denetimi ve bağımsız ikinci değerlendirme koşullarını kendiliğinden kapatmaz.

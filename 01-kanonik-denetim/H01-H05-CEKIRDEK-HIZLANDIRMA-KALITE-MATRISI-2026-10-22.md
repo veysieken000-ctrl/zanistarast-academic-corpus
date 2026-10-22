@@ -2,13 +2,25 @@
 
 **Tarih:** 22 Ekim 2026. **Kapsam:** GitHub'daki beş çekirdek makalenin gerçek metinlerinden yapılan ilk yapısal tarama. **Statü:** Açık kalite kapısı; yayıma hazır değil. Bu kayıt 412 makale sayısına eklenmez.
 
+## Güncel kurucu talimat: bilimsel tanımlara sadakat
+**22 Ekim 2026:** “Bilim insanları yani bilimde nasıl tanımlıysa öyle olacak bitti.” Bu talimat uyarınca bilimsel terimin ilgili alan kaynağındaki anlamı esas alınır. Kurucu felsefi veya teolojik kullanımlar ayrıca etiketlenir; bilimsel tanımı değiştiren bulgu sayılmaz. Birden çok bilimsel kullanım varsa alan ve operasyonel tanım belirtilir.
+
+Bu tur H05 §1'de fiziksel güç tanımı düzeltildi; §6'daki fiziksel koşul alanı C_f olarak gösterilerek fiziksel güç P ile karışması önlendi. Önceki P gösterimi tarihsel sürümlerde korunur; gösterim değişikliği yeni ampirik model değildir. H04 §3A'daki kuvvet oranı/güç ayrımı ve H03'teki terim denetimi buna göre güncellendi. H02'de fiziksel düzen ile epistemik onay benzetmesinin ayrımı korundu.
+
+| ID | Dar denetim | Doğrudan kaynak yeri | Sonuç |
+|---|---|---|---|
+| E37 | Fiziksel güç iş/enerji aktarımının zamana oranıdır | OpenStax College Physics 2e §7.7, What is Power?, denklem 7.69 | H05 §1 tanımı düzeltildi; H04'e geri beslendi |
+| E38 | Gücün SI birimi watt; 1 W = 1 J/s | Aynı bölüm, denklem 7.69 sonrası birim açıklaması | Teknik birim H05'e işlendi; genel eylem kapasitesine uygulanmadı |
+
+Bu iki kaynak kontrolü tanım içindir; kurucu beşli çerçevenin veya bütün bilimsel önermelerin doğrulandığı anlamına gelmez. Yeni deney, bağımsız hakem sonucu veya yayın onayı kaydedilmedi.
+
 ## Güncel dar kapsamlı kontrol sonucu — 22 Ekim 2026
 
 Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir. “Yeşil” yalnız adı verilen kontrolün geçtiğini gösterir; makale doğruluğunun tümünü veya yayın iznini göstermez.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 04bafdcc27690a513e916ade1aa3f4acb806f53e; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı 33e0e974b19638aa19dbccc4669c0033b83683cd; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -22,11 +34,11 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 25460 | 4 | 0 |
-| H02 | 17830 | 1 | 0 |
-| H03 | 20304 | 4 | 0 |
-| H04 | 13815 | 0 | 0 |
-| H05 | 24601 | 5 | 0 |
+| H01 | 25703 | 4 | 0 |
+| H02 | 18120 | 1 | 0 |
+| H03 | 20938 | 4 | 0 |
+| H04 | 14334 | 0 | 0 |
+| H05 | 25477 | 5 | 0 |
 
 Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
 

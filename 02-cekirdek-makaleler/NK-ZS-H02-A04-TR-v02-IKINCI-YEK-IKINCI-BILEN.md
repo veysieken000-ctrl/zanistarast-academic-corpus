@@ -8,7 +8,7 @@ Hebûn, Ehad–Yek kurucu kabulünden ilk Yek, ikinci Yek, bunların ilişkisind
 **Anahtar sözcükler:** Zanabûn, ikinci bilen, ikinci Yek, bağımsız doğrulama, epistemoloji, muhataplık.
 
 ## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz.
+Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
 
 ## 1. Devralınan kurucu kanon
 **Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Kurucu türeme sırası: **ilk Yek → ikinci Yek → ikisinin ilişkisinden üçüncü ve sonraki Yekler → Komel**. Yek yedinci yaratılmış boyut veya insan özü değildir; Komel Yek'in eşanlamlısı değildir. Nisâ 4:1'de tek nefis, ondan eş ve ikisinden çok sayıda insanın ortaya çıkışı anlatılır. Hz. Âdem–Hz. Havva–çocuklar, kurucu tefsir örneğidir; isimler ve “bel kemiği” ayetin açık lafzında bulunmaz. Meal metni ve dipnot için Diyanet İşleri Başkanlığı (2011), Nisâ 4:1; yorum ayrımı için H01 §3 esas alınır.
@@ -29,7 +29,7 @@ Kavramsal gösterim: **S'nin O'ya yönelimi → P önermesinin kurulması → S�
 ## 4. Boyutlarda aynı soru, ayrı mekanizmalar
 | Boyut | Hebûn'da ilk–ikinci–yeni Yek | Zanabûn'da bilgi/onay karşılığı |
 |---|---|---|
-| Fizik | Atomik tekillikler, fiziksel etkileşim ve yeni örgütlenme | Enerji ve fiziksel düzen; insan gözlemcinin tasdikiyle özdeş değildir |
+| Fizik | Atomik tekillikler, fiziksel etkileşim ve yeni örgütlenme | Fiziksel düzenle kurulan onay benzetmesi; fiziksel büyüklükler insan gözlemcinin epistemik tasdikiyle özdeş değildir |
 | Biyoloji | Ana hücreden yavru hücrelere türeme; sayısal kimlik ile soy sürekliliği ayrılır (H01 §6) | Bilgi aktarımı ve DNA/RNA araçları; iki hücre kendiliğinden çok hücreli organizma değildir |
 | Zihin | İlk zihinli Yek, ikinci zihinli Yek ve hafıza soruları | Zekâ (işlem/bellek) ve akıl (yeni genel bilgi çıkarımı), karşılıklı değerlendirme |
 | Ruh | Ruh/fıtrat ve melekler | Kanun ve muhataplık: teolojik-ontolojik düzey |
