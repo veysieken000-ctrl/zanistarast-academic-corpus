@@ -95,6 +95,12 @@ Zanabûn'da ilk bilenin nesneye yönelmesiyle ortaya çıkan sonuç ikinci bilen
 ### 7E. Eleştirel hakem simülasyonu ve savunulan sonuç
 **İtiraz:** İkinci kişinin onayı ortak yanılgıyı çoğaltabilir. **Yanıt:** Onay tek başına doğruluk üretmez; bağımsız veri, yöntem, araç ve yorum denetimi gereklidir. İlk bilenin sonuç önermesi, ikinci bilenin değerlendirme nesnesidir; ontolojik ikinci Yek ile aynı kişi olma zorunluluğu yoktur. **Karar:** Kurucu Zanabûn dizisi gerekçelendirmenin toplumsal ve düzeltilebilir yönünü sistematikleştirir; mutlak doğruluk garantisi olarak savunulmaz. H03'ün kanıt soyağacı, bu sınırlı iddianın uygulanabilir kontrolüdür.
 
+### Ontolojik kapsamdan epistemolojik ikinci onaya geçiş
+
+Kurucu açıklamanın geniş kapsamı şudur: **Ehad karşısındaki her yaratılmış Yek, fıtratı ve fıtrî ahlakı bakımından ikinci bilenin ontolojik anlamını temsil eder.** Bu anlam, yalnız iki insanın bir önermeyi denetlemesine indirgenemez. Hebûn'da yaratılmış Yeklerin kuruluşu ve Komel ilişkisi ontolojik düzeydir; Zanabûn'da bilen özne–bilinen nesne–sonuç–ikinci bilenin onayı bu kapsamın epistemolojik özel görünümüdür.
+
+Fiziksel ve biyolojik Yeklerde fıtrî düzeni temsil etmek, atomlara veya hücrelere insan türü bilinçli onay yetisi yüklemek değildir. Zihinli varlıklarda öğrenme ve hafıza, insanda ilimden ilim üretme ve iradeli ahlak ayrıca ele alınır. İnsan hüküm karşısında iradeli ahlakıyla sorumludur. Ontolojik temsil, bilişsel yeti, bağımsız araştırmacı onayı ve teolojik hüküm **dört ayrı yüklem** olarak kaydedilmelidir. Böylece ontolojik ikinci Yek ile epistemolojik ikinci bilen her örnekte özdeşlenmez; fakat ikinci bilenin geniş ontolojik anlamı da kaybedilmez.
+
 ## 8. Sonuç
 Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Makalenin katkısı, ikinci onayın bilgiye ne kattığını kişi sayısı yerine gerekçenin denetlenebilirliğiyle tartışmasıdır. Bölüm 5A'daki sınama önerisi uygulanmamıştır; ikinci onayın bütün bilgi türleri için zorunlu ve yeterli olduğu gösterilmiş değildir.
 
