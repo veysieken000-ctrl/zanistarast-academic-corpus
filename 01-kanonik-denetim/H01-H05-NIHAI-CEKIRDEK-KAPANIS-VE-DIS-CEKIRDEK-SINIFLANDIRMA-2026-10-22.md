@@ -78,3 +78,22 @@ H01'de element tanımının iki anlamı, H05'te eleştirmenlerin yorumu ile yan�
 
 ## Yerleşik bilimsel tanımların kesin düzeltmesi
 H01 §§5–5A'daki element/atom numarası ve hidrojen/helyum düzeltmeleri tamamlanmıştır; bunlar açık kurucu ihtilaf olarak tutulmaz. IUPAC sayfasının teknik erişim kaydı, doğru bilimsel tanımı yeniden tartışmaya açan kapanış engeli değildir. H01, H02 ve H05'in tekrar eden işlem anlatımı azaltıldı; kaynak ve sürüm izi korundu. Kanonik kavramlar değiştirilmedi. Bağımsız ikinci değerlendirme veya 412 makale yayın onayı verilmiş değildir.
+
+## Güncel beşli argüman aktarımı ve envanter temelli dış çekirdek adayları
+22 Ekim 2026 araştırma dalında beş ana metne işlenen yeni argümanlar: H01 tekillik–türeme–Komel öncül/sonuç ayrımı (8babc359); H02 doğruluk–gerekçelendirme–ikinci onay ayrımı (f6b96319); H03 H05 ilimden ilim örneğinden hareketle karşı-örnek ve geri besleme döngüsü (86042d4e); H04 fiziksel, açıklayıcı, normatif ve teolojik kapsama ayrımı (bc3d6d05); H05 bilgi üretimi–uygulama–ürün ayrımı ve hayvan bilişi karşı görüşü (e53ab89c). Bunlar gerçek metin güncellemeleridir; bağımsız hakemlik veya bütünsel kapanış değildir.
+
+### Halka 1 adaylarının mevcut 27 adaylık envanterle eşlenmesi
+| Öncelik | Mevcut envanter adayı | Çekirdek bağı | Bağımsızlık sınaması |
+|---|---|---|---|
+| 1 | A06 Bağımsız ikinci bilen | H02, H03 | H02'nin tanımını tekrarlamak yerine ortak hata ve bağımsızlık koşullarını karşılaştırmalı incelemeli |
+| 2 | A05 Zekâ ile akıl | H05, H04 | H05'teki ilimden ilim tezinden ayrı davranışsal ve kavramsal araştırma sorusu olmalı |
+| 3 | A07 Fıtrî ve iradeli ahlak | H04, H05 | Fıtrî işleyiş ile normatif sorumluluğun geçiş koşullarına odaklanmalı |
+| 4 | A14 Epistemik statü sınıflaması | H03, H02 | Rasterast yönteminin tekrarı değil, iddia sınıflandırmasının sınanması olmalı |
+| 5 | A03 Merkez–çevre ve Yek | H01, H04 | Merkez–çevre örneklerinde ilişkinin bozulma koşullarını araştırmalı |
+| 6 | A02 6+Tek evreleri | H04, H01 | H04'ün tablosunun tekrarı değil, evrelerin kapsam ve karşı-örnek denetimi olmalı |
+| 7 | A04 Bilginin kaynağı | H02, H05 | Mevcut çekirdekle aynı özgün iddiaysa ayrı makale sayılmamalı |
+
+Bu eşleme **ön sınıflandırmadır**; 27 aday, 412 benzersiz makalenin doğrulanmış tam listesi değildir. Yek–Komel ve 3+3+Tek gibi başlıkların bu tabloda doğrudan benzersiz envanter kimliği bulunmadığı için yeni numara uydurulmadı. Halka 2 için mevcut adaylardan A12 duygu, A13 insan katmanları, A21–A22 toplum/insan ilişkisi; Halka 3 için A10–A11 Rabûn ve A25–A27 Mabûn adayları incelenebilir. Dış çekirdek makale üretimi, mevcut protokolün Halka 0 kapanış şartına bağlıdır.
+
+### Kapanış kararı
+Beş metnin iç argümanları ilerledi. Açık koşullar: tüm atomik iddiaların denetimi, bağımsız ikinci alan/argüman değerlendirmesi ve buna dayalı bütünsel çapraz kapanış. Bu koşullar geçilmediğinden **H01–H05 akademik çalışma sürümü kapanışı henüz ilan edilmez**; 412 makale yayın kapısı da kapalıdır.
