@@ -38,3 +38,14 @@ Bu fikir potansiyel bir makale çekirdeğidir; özgünlük ve bilimsel değer he
 
 ## Kurucu bağlantı
 `01-kanonik-denetim/FITRI-IRADELI-AHLAK-HUKMUN-AHLAKI-MUHATAPLIK-2026-10-22.md`
+
+
+## 9. Bilginin faydası, fıtrî gelişim ve sözde bilim ayrımı (22.10.2026 kurucu ek)
+
+Kurucu değerlendirme: Bilim, yaratılmış fıtrî imkânları keşfetme ve araçlarla kullanma çabasıdır. Bilginin değerini yalnız doğrulukla değil, **insanın fıtrî gelişimine, güzel ahlaka ve sorumlu tercihlerine katkısıyla** da sorgulamak gerekir. Peygamberin faydasız ilimden Allah'a sığınmasını bildiren dua bu felsefi tartışmanın dinî dayanaklarından biridir; kaynak denetimi için *Sahih Müslim*, Zikir ve Dua, rivayet no. 2722 (numaralandırma baskıya göre kontrol edilmelidir).
+
+**Üç ayrı değerlendirme ekseni:** (1) Epistemik doğruluk ve kanıt gücü; (2) pratik/insani fayda, zaman ufku ve olası zarar; (3) iradeli ahlak, amaç ve hüküm karşısında sorumluluk. **Faydasız ilim**, **sözde bilim** ve **henüz uygulaması bilinmeyen temel bilim** özdeş değildir. Kanıtsız bilim iddiası sözde bilim sorunuyken, doğrulanmış fakat bugün uygulaması bilinmeyen matematiksel bilgi ileride faydalı olabilir. Her ideoloji veya felsefe otomatik olarak zararlı ilan edilmez; iddialar tek tek gerekçeleriyle incelenir.
+
+**Yeni önerme:** Bilginin doğruluğu, fıtrî imkânlarla ilişkisi ve iradeli ahlak bakımından faydası **birlikte fakat ayrı ölçütlerle** değerlendirilmelidir. Araçların seçenekleri artırması güzel ahlakı otomatik artırmaz. Hedef, dogmatik eleme değil; kanıt, fayda, zarar, belirsizlik ve sorumluluğun izlenebilir denetimidir.
+
+**Rasterast aktarımı:** Bilimsel iddialar için karşı-örnek ve bağımsız kaynak; ahlaki değerlendirmeler için açık normatif öncüller; dinî kaynaklar için birincil metin ve rivayet denetimi. Bu ek yeni bağımsız makale sayılmaz; mevcut bilim felsefesi araştırma çekirdeğini geliştirir.
