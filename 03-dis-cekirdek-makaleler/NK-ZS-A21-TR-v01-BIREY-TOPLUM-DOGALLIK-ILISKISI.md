@@ -37,3 +37,14 @@ A11 temsil ve denetimi, A13 insan Yek'inin bütünleşik kapsamasını araştır
 K0: Özgün “8-insan ve toplum.docx” paragraf izi doğrulanmadı. K1: Birincil ve karşıt sosyal felsefe literatürü açık. K2: Yöntem taslak. K3: Karşı-örnekler taslak. K4: Toplumlar arası genelleme sınırı açık. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makale, kanonik bütünlük ve kurucu onayı tamamlanmadan yayımlanmaz.
+
+
+## Ek — Doğallıktan normatif sonuca geçiş için sınama
+
+**Önerme türü denetimi:** “Bir toplumda X davranışı yaygındır” betimleyici bir önermedir; “X davranışı zorunlu olmalıdır” normatif bir önermedir. İkinci önermenin gerekçelendirilmesi için haklar, zarar, karşılıklılık veya adalet gibi ek öncüllerin açıkça belirtilmesi gerekir. Birinci önermenin gözlemsel doğruluğu ikinciyi tek başına kanıtlamaz.
+
+**Rakip açıklama denetimi:** Aynı toplumsal davranış için en az iki açıklama kaydedilmelidir: örneğin öğrenilmiş kurum etkisi ile maddi koşullara uyum. Bunlardan biri seçilecekse karşıt örneklem, zaman içi değişim ve olası seçilim yanlılığı tartışılmalıdır. Bu yöntem önerisi henüz sınanmış bir ampirik model değildir.
+
+**İkinci bilen bağımsızlığı:** İlk yorumcunun verisini aynen kullanan ikinci yorumcu bağımsız doğrulama sunmuş sayılmaz. İkinci değerlendirmede ayrı kaynak, alternatif kavramlaştırma ve açık itiraz izi aranır. Aynı toplumsal konumdan gelen iki değerlendiricinin ortak önyargı riski ayrıca belirtilir.
+
+**A22'ye aktarım sınırı:** Birey–toplum ilişkisinde doğallık ayrımı, kişilerin toplumsal rollerini yaratılıştan sabit biçimde belirlemez. A22'nin rol iddiaları için kurum, öğrenme, fırsat ve iradeli seçim arasında ek gerekçelendirme gerekecektir. Bu ek, A22'nin yerine geçmez ve A21'in K0–K6 kapılarını kapatmaz.
