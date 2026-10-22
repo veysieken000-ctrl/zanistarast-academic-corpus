@@ -106,6 +106,9 @@ Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İns
 | Belirli gelecekteki görev için araç seçimi | Boeckle ve ark., 2020 | Kritik teste geçen dört kuş; mekanizma yorumu 2021'de tartışılmıştır |
 | Bilişsel başarı ahlaki muhataplıkla özdeş değildir | Kurucu kilometre taşı; bölüm 5B çözümlemesi | Felsefi/teolojik sınır; deneyden metafizik sonuca geçilmez |
 
+### 6B. Eleştirel hakem simülasyonu ve ilimden ilim karar testi
+**İtiraz:** Hayvanlar da öğrenir ve araç kullanır; insan aklı tanımı döngüsel olabilir. **Yanıt:** Hayvan zekâsı ve insan zekâsı korunur. Kurucu akıl tezi, birikmiş bilgiden sistematik ve aktarılabilir yeni bilgi alanları geliştirme kapasitesine odaklanır; her araç kullanımı buna kanıt değildir. **Karar testi:** Bilinen tarifle çorba yapmak bilgi uygulaması ve üründür, zorunlu yeni keşif değildir. Bilinen mühendislikle gemi yapmak da böyledir. Yeni bir malzeme özelliğinin kontrollü ve tekrar edilebilir araştırmayla gösterilmesi ise yeni bilgi adayıdır. Bu örnekler deneysel tür karşılaştırması değildir. H03'ün karşı-örnek kuralı ve H04'ün ahlaki değerlendirme ayrımı korunur.
+
 ## 7. Sonuç ve değerlendirme sınırları
 İnsan ve hayvanın ontolojik ortak özü, aynı bilişsel yetenek ve aynı ahlaki sorumluluk anlamına gelmez. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve bunları yönlendiren iradeli ahlak şeması önerilir. İnsanın zekâsı akıl işleyişinin temelinde varlığını sürdürür. Fıtrî zekâ her zihinli canlıya uygulanır; akıl kurucu tanımda insana özgü ilimden ilim üretme kapasitesidir. Karşılaştırmalı biliş bulguları, alet yapımını veya görev başarısını tek başına insan aklının ayırıcı ölçütü saymayı engeller. Araştırma, kurucu insan aklı tanımını korurken deneysel karşılaştırmada hangi göstergelerin ayrıca sınanması gerektiğini belirler. Planlama deneyinin yayımlanmış eleştiri–yanıt zinciri, gözlem ile mekanizma yorumunun ayrılması gerektiğini gösterir.
 
