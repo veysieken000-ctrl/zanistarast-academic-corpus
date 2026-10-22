@@ -24,6 +24,18 @@ Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme k
 
 Faydasız bilgi, sözde bilim ve henüz pratik uygulaması bilinmeyen temel araştırma aynı kategori değildir. Dinî/normatif hükümler ampirik bulgu olarak gösterilmez.
 
+## 5A. Altı kozmik boyutun iki evresi ve Yek ayrımı
+| Kozmik boyut | Birinci evre | İkinci evre |
+|---|---|---|
+| Fizik | Atom (hidrojen/helyum örnekleri) | Yıldız ve gezegen düzenleri |
+| Biyoloji | Tek hücreliler | Çok hücreliler |
+| Zihin | Zekâ | Akıl |
+| Ruh | Ruh | Melekler (ruhu bulunan nurani varlıklar) |
+| Ahlak | Fıtrî ahlak | İradeli ahlak |
+| Hüküm/Ahiret | Hüküm ve ahiret düzeni | Ayrı bir ampirik evre dizisi ileri sürülmez |
+
+**Tek/Yek**, bu altı boyuta eklenen yedinci yaratılmış boyut değildir. Bu kozmik tablo insanın öz, duygu, akıl ve fıtrî/iradeli ahlak açıklamasıyla sayısal olarak eşitlenmez. Biyoloji evreleri eşeysiz/eşeyli üreme olarak yeniden tanımlanmaz. İlk beş boyutun iki evre ayrımı kurucu sınıflamadır; altıncı boyutta doğrulanmamış iki aşama uydurulmaz.
+
 ## 6. Sonuç ve açık araştırma soruları
 Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu düzenin varlıklardaki işleyişi; **iradeli ahlak** insanın bilgi, niyet ve tercihleriyle fıtrî imkânları yönlendirmesi olarak ayrılır. Bu son evre hüküm karşısında özel sorumluluk taşır. Fizik–biyoloji–zihin–ruh düzeylerinin kapsanması fiziksel hacim veya deneysel boyut sayısı değil, felsefi açıklama ilişkisidir. Kurucu modelin bilimsel geçerliliği henüz gösterilmiş değildir.
 
