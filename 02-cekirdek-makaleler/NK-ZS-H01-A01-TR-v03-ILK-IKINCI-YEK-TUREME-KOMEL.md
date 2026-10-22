@@ -37,7 +37,7 @@ Nisâ 4:1, insanlığın **tek nefisten** yaratılmasını, **ondan eşinin** me
 
 Kurucu fizik evreleri atom (hidrojen ve helyum örnekleri) ile yıldız–gezegen düzenidir. Fizik araştırmasının sorusu şudur: İlk atomik tekillik nasıl tanımlanır, başka atomik tekilliklerle hangi fiziksel ilişkiler kurulur ve bu ilişkilerden yeni örgütlenmeler nasıl doğar?
 
-Hidrojen ve helyum ayrı atom türleridir. Bir hidrojen atomunun tek başına helyuma dönüştüğü iddia edilemez; yıldız nükleosentezinde çok parçacıklı süreçler söz konusudur. Dolayısıyla “ilk Yek hidrojen, ikinci Yek helyum” kurucu örnek olarak kullanılacaksa mekanizma ayrıca gerekçelendirilmelidir. Proton–nötron–elektron üçlüsünün her atom için zorunlu olduğu genellemesi hidrojen-1 karşı-örneğine takılır. Fiziksel açıklamanın kanıt yükü saklanmaz.
+Hidrojen ve helyum ayrı atom türleridir. Bir hidrojen atomunun tek başına helyuma dönüştüğü iddia edilemez; yıldız nükleosentezinde çok parçacıklı süreçler söz konusudur. Dolayısıyla “ilk Yek hidrojen, ikinci Yek helyum” kurucu örnek olarak kullanılacaksa mekanizma ayrıca gerekçelendirilmelidir. Proton–nötron–elektron üçlüsünün her atom için zorunlu olduğu genellemesi hidrojen-1 karşı-örneğine takılır (National Isotope Development Center, *Isotope Basics*, https://isotopes.gov/isotope-basics). Fiziksel açıklamanın kanıt yükü saklanmaz.
 
 ## 6. Biyoloji: ilk hücre, ikinci hücre ve çok hücreli Komel
 
