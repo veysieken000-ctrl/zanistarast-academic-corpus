@@ -5,6 +5,9 @@
 ## Kapsam ve yöntem
 Bu ek, H05'teki zekâ, fıtrat, bilgi ve akıl kavramlarıyla bağlantılı ampirik olguları kurucu yorumlardan ayırır. Kaynaklar 22 Ekim 2026 tarihli dış taramada kontrol edilmiştir. Kanonik kavramlar kullanıcı tarafından geliştirilen felsefi tanımlardır; dış kaynaklar bu metafizik önermeleri doğrulamış sayılmaz.
 
+## Güncel kanon ve kaynak statüsü
+Fıtrat kuruluş ve imkân düzeni, fıtrî ahlak bu düzenin tezahürü, iradeli ahlak insanın bilgi ve tercihle sorumluluğudur. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve iradeli ahlak açıklayıcı şeması kullanılır. Bu ontolojik tanımlar aşağıdaki gen ifadesi ve hayvan bilişi araştırmalarının doğrudan deneysel sonuçları değildir. Önceden listelenen kaynakların bibliyografik ayrıntıları ayrıca denetlenmelidir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
 ## 1. Gen ifadesi ve fıtrî imkân
 Alberts ve diğerleri, çok hücreli canlılarda farklı hücrelerin büyük ölçüde aynı genomu taşıyıp farklı gen kümelerini ifade ettiğini, hücre uzmanlaşmasının gen düzenlenmesiyle ilişkili olduğunu açıklar. Bu, 'mevcut genetik imkânın belirli koşullarda etkinleşmesi' düşüncesiyle kısmen ilişkilendirilebilir. Ancak bütün çevresel uyumların önceden kapalı organların yeniden açılması olduğu sonucunu vermez.
 
