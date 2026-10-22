@@ -5,6 +5,9 @@
 ## Kurucu düşünce
 İnsanın fıtratı, yalnızca doğduğu çevrede yaşamakla sınırlı değildir. İnsan, bedensel gereksinimlerini ve doğa kanunlarını araştırarak bilimsel bilgi ve araç üretir. Böylece mevcut fıtrî imkânlarından farklı çevrelerde yararlanabileceği yaşam koşulları oluşturabilir. Bu, doğa kanunlarının ortadan kalkması değil, onların izin verdiği teknik düzeneklerin geliştirilmesidir.
 
+## Güncel kavram ayrımı
+Fıtrat, yaratılmış imkân ve sınırların kuruluş düzenidir; fıtrî ahlak bu düzenin işleyişteki görünümüdür. İnsanın bilgiyle yeni araç üretmesi akıl, bu araçların kullanımını amaç ve tercihle yönlendirmesi iradeli ahlak alanıdır. Antarktika ve uzay örnekleri teknik kapasiteyi gösterir, ahlaki doğruluğu kendiliğinden kanıtlamaz. Hüküm/ahiret teolojik ufuktur; deneysel bir teknoloji çıktısı değildir.
+
 ## Üç örnek
 - **Antarktika:** Koruyucu giysi, ısıtma, enerji ve barınak teknolojileriyle aşırı soğukta yaşam ve araştırma yürütülebilir.
 - **Uzay:** Yaşam destek sistemleri, basınç, hava, su ve sıcaklık koşullarını sağlayarak uzay araçlarında insan yaşamına olanak verir.
