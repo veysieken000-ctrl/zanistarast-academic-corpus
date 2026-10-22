@@ -8,7 +8,7 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 
 | Denetim | Durum | Kanıt / sınır |
 |---|---|---|
-| Dal ve sürüm tabanı | Yeşil | Bu turun tabanı 8a76456ac478816c42b251841775a34f3985b9f2; değişiklikler bu beş ana metin üzerinde |
+| Dal ve sürüm tabanı | Yeşil | Son turun tabanı de573d2e7dc083709d06b7871d4a15b90b374ed6; değişiklikler bu beş ana metin üzerinde |
 | Yapısal bütünlük | Yeşil | Beşinde öz, anahtar sözcük, yöntem, sonuç ve dış kaynakça mevcut |
 | Yerel Markdown kaynak yolları | Yeşil | 27 açık dosya yolu mevcut Git ağacında bulundu; özgün Word içeriğini bu kontrol sınamaz |
 | Tablo sütunları | Yeşil | Ana metinlerin bitişik tablo satırlarında sütun sayısı uyuşmazlığı bulunmadı |
@@ -22,11 +22,11 @@ Bu bölüm önceki tarihsel ölçümlerin yerine güncel durumu okumak içindir.
 ### Son sürüm ölçümü
 | Makale | Karakter | Benzersiz DOI | Açık yerel dosya yolu hatası |
 |---|---:|---:|---:|
-| H01 | 22725 | 4 | 0 |
-| H02 | 15566 | 1 | 0 |
-| H03 | 17078 | 4 | 0 |
-| H04 | 12621 | 0 | 0 |
-| H05 | 20807 | 5 | 0 |
+| H01 | 24242 | 4 | 0 |
+| H02 | 16663 | 1 | 0 |
+| H03 | 18903 | 4 | 0 |
+| H04 | 13609 | 0 | 0 |
+| H05 | 22034 | 5 | 0 |
 
 Karakter sayısı JavaScript metin uzunluğu; DOI sayısı metin örüntüsünün tekilleştirilmesidir. DOI sayısı kanıt gücü değildir. Yerel yol kontrolü Git ağacıyla karşılaştırmadır; dış URL'lerin tamamının şu anda açıldığını iddia etmez.
 
@@ -166,3 +166,18 @@ H01'deki ontolojik kimlik, H02'deki kavramsal rol ayrımına; H02'deki iddia ona
 Beş metin yeniden birlikte karşılaştırıldı: Yek'in ayrı yaratılmış boyut olmaması; Ehad'ın insan onayına bağımlılaştırılmaması; ikinci Yek/ikinci Bilen ayrımı; fıtrat ve iki ahlak tanımı; tek hücreli/çok hücreli ile zekâ/akıl evreleri; insan katmanlarının sayısal kozmik eşleme olmaması korundu. Yeni iddia ve kaynak yerleri ana metinlere doğrudan işlendi. Bu okuma kaynak doğruluğunun bütün önermeler için bağımsız ispatı değildir.
 
 **Genel durum:** Sekiz argüman/kapsam bulgusu için metin düzeltmesi yapıldı. Deneysel ve felsefi modelin bağımsız sınanması açık; Halka 0 bütünsel kapanışı ve 412 yayın kapısı yeşil değildir.
+
+## D01–D05 iç argüman incelemesinin sonucu
+**İnceleme tabanı:** de573d2e7dc083709d06b7871d4a15b90b374ed6. Bu kayıt aynı çalışma akışının incelemesidir; bağımsız ikinci karar değildir.
+
+| Soru | Tespit / ana metindeki işlem | İç sonuç | Açık kalan koşul |
+|---|---|---|---|
+| D01 | H01 §4B: birim, bileşen, ilişki ve zaman aralığı; yalnız birliktelik ile örgütlenmeyi ayıramayan uygulama için yetersizlik kararı | Kapsam ve olumsuz karar kuralı yazıldı | Ölçütlerin alan örneklerinde bağımsız değerlendirilmesi |
+| D02 | H02 §5D: ortak hata olanağından gerekçeli onay gereğine geçiş açık öncüllerle kuruldu; ret/düzeltme olumlu onay sayılmadı | Felsefi köprü ve onay kapsamı yazıldı | Kurucu tanım–yöntem yorumu ilişkisinin bağımsız eleştirisi |
+| D03 | H03 §7D-1: sabit commit, tam önerme, tür, kaynak, köprü, bağımsız kanıt yokluğu, karşı-örnek, statü ve geri besleme alanları dolduruldu | Boş şema bir metin kaydına uygulandı | Başka denetçinin yeniden uygulaması ve uyuşmazlık kararı |
+| D04 | H04 §4B: bilgi, öngörü, erişim, denetim, zorlama ve imkânsızlık koşulları ayrıldı | Teknik kapasiteden koşulsuz sorumluluk çıkarımı engellendi | Normatif argümanın bağımsız değerlendirilmesi |
+| D05 | H05 §5D: tür etiketi ile davranış göstergesi; başarı, mekanizma ve akıl kavramına uygunluk kararları ayrıldı | Tanımla sonucu garanti etme riskine karar kuralları yazıldı | Göstergelerin bağımsız kavramsal/alan incelemesi ve gerektiğinde deneysel sınanması |
+
+H01 §4B'deki Ratcliff göndermesi yeni deney bulgusu eklemez; daha önce okunmuş ve §6'ya aktarılmış kaynağın uygulama sınırıdır. Bu turdaki PMC sayfa çağrıları doğrulama ekranına döndü; yeni doğrudan tam metin erişimi başarılmış gibi kaydedilmedi. H03'teki cihaz kaydı gerçek veri deneyi değil, H02'de yazılı mantıksal karşı-örnektir. Yeni dış araştırma, denetçi sonucu veya hata oranı üretilmedi.
+
+**Durum kararı:** D01–D05 için iç metin işlemleri yapıldı; soruların bağımsız değerlendirme sütunları açık. Bütün atomik iddiaların denetimi tamamlandı denmez. Halka 0 bütünsel kapanışı ve 412 yayın kapısı değişmedi.

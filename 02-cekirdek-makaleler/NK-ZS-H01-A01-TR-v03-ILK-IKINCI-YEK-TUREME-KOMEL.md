@@ -41,6 +41,17 @@ Kurucu kabulden ilişkisel kuruluş sorusuna geçiş, bir açıklama programı k
 
 Bir kaptaki iki bağımsız hücre ile kalıcı hücresel örgütlenme aynı şekilde sınıflandırılmamalıdır. Hücre sayısı veya sırf birlikte bulunma ölçütü bu ayrımı yapamıyorsa modelin uygulaması yetersizdir. Böylece karşı-örnek, yalnız dışarıdan yöneltilen itiraz değil, kavramı daraltan bir denetim olur. Teolojik kurucu kabulün korunması, bu biyolojik uygulamanın değişmez olduğu anlamına gelmez.
 
+### 4B. Komel uygulamasında kapsam ve başarısızlık koşulu
+Komel'in ontolojik bir kavram olarak kullanılması ile belirli bir sistemin bu kavramla açıklanması ayrı savlardır. Bir uygulama kaydı önce incelenen birimi, bileşenleri, ilişkiyi ve zaman aralığını belirtmelidir. “Bütün” sözcüğünü kullanmak örgütlenmenin mekanizmasını açıklamaz. Aşağıdaki ayrımlar ölçülmüş yeni sonuçlar değil, §4A'daki önerinin uygulama kurallarıdır.
+
+| İnceleme durumu | Gerekli ayırıcı bilgi | Tek başına yeterli olmayan bilgi |
+|---|---|---|
+| Bir kapta birbirinden bağımsız iki hücre | Ortak sınırın yalnız kaptan mı yoksa hücrelerin örgütlenmesinden mi geldiği | Aynı yerde bulunma ve iki hücre sayımı |
+| Bölünme sonrası bağlı hücresel küme | Bağlılığın mekanizması, sürekliliği ve küme düzeyindeki yaşam döngüsü (Ratcliff ve ark., 2012; §6) | Kümenin fotoğrafı veya Komel diye adlandırılması |
+| Fiziksel bir sistem | Sistem sınırı, etkileşim türü ve seçilen zaman ölçeğinde örgütlenme göstergesi | Biyolojik üremeyle sözel benzerlik |
+
+Uygulama, önerdiği ölçütlerle örgütlü sistem ile yalnızca birlikte bulunan birimleri ayıramıyorsa **ayırt edici açıklama bakımından yetersiz** kaydedilir. Bu sonuç bütün bir ontolojinin yanlışlandığı anlamına gelmez; ilgili ampirik uygulamanın ek mekanizma veya daha dar kapsam gerektirdiğini gösterir. Öte yandan her itirazda sistem sınırını, “merkez”i veya “bütün”ü sonuçtan sonra değiştirmek de olumlu kanıt üretmez. Değişen tanım yeni bir uygulama kaydı ve yeniden karşılaştırma gerektirir.
+
 ## 5. Fizik: atomik Yek'ten sistem Komeline
 
 Kurucu fizik evreleri atom (hidrojen ve helyum örnekleri) ile yıldız–gezegen düzenidir. Fizik araştırmasının sorusu şudur: İlk atomik tekillik nasıl tanımlanır, başka atomik tekilliklerle hangi fiziksel ilişkiler kurulur ve bu ilişkilerden yeni örgütlenmeler nasıl doğar?

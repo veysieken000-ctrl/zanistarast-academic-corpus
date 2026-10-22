@@ -53,3 +53,8 @@ Bu işlem önceki iç editoryal aşamanın devamıdır; ayrı bir denetçi veya 
 Kalite matrisinin başındaki güncel tablo, yalnız gerçekten geçen dar kontrolleri yeşil gösterir. Son turda H01'in NIDC kaynakçası, H02'nin hücre/kimlik tablosu ve bağımsızlık cümlesi, H03'ün kaynak denetimi durumu, H04'ün eylem/erdem ayrımı ve H05'in yeni çıktı/yeni bilgi ölçütü doğrudan düzeltildi. D01–D05 soruları, kalan iddia düzeyi ve bağımsız değerlendirme için metin yerleriyle tanımlandı. Başka bir denetçiden sonuç alınmış gibi kayıt oluşturulmadı.
 
 **Karar:** İç kontrollerdeki yeşil satırlar bütünsel çekirdek kapanışı değildir. Atomik iddia denetimi ve bağımsız ikinci değerlendirme açıkken Halka 1'e geçiş ve yayın onayı verilmez. Bu sınır, açık soruları saklayarak veya aynı asistanın yeniden okumasını bağımsız onay sayarak kaldırılamaz.
+
+## D01–D05 ana metin işlemleri
+H01 §4B, H02 §5D, H03 §7D-1, H04 §4B ve H05 §5D'ye açık soruları yanıtlamaya yönelik argüman ve karar kuralları işlendi. Kalite matrisinde her sorunun iç sonucu ile bağımsız denetim bekleyen kısmı ayrıldı. H03'ün doldurulmuş kaydı de573d2e7dc083709d06b7871d4a15b90b374ed6 sürümündeki H02 §5'e bağlanır; daha sonraki sürümle karıştırılmaz. Bu, protokolün yazılı örneğidir; başka bir denetçinin yeniden uygulaması değildir.
+
+Bu tur yeni makale veya araştırma eki oluşturulmadı. Beş ana metin ve iki mevcut denetim kaydı güncellendi; bütünsel kapanış kararı verilmedi.

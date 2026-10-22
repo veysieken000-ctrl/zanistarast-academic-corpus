@@ -92,6 +92,25 @@ Rasterast için iki başarım ayrı ölçülmelidir: bibliyografik hatayı bulma
 | Sonuç–yorum–eleştiri ayrı tutulur | H05'te Boeckle 2020 ve 2021 tartışması | Gerçek yayın zincirinde örnekleme; bağımsız tekrar yok |
 | Karar kayıtları düzeltilebilir olmalıdır | Bölüm 7B protokolü | Rasterast'ın önerisi; üstünlüğü henüz sınanmadı |
 
+### 7D-1. Doldurulmuş denetim kaydı: ortak cihaz düşünce deneyi
+Aşağıdaki kayıt §3'teki alanları tek bir gerçek metin konumunda doldurur. İncelenen önerme bir yöntem argümanıdır; yapılmış laboratuvar deneyi değildir.
+
+| Alan | Kayıt |
+|---|---|
+| iddia_id | R-H02-ORTAK-CIHAZ-01 |
+| makale_sürümü | H02 v02; inceleme tabanı Git commit de573d2e7dc083709d06b7871d4a15b90b374ed6, §5 |
+| tam_önerme | “İlk bilen bozuk bir ölçüm cihazıyla yanlış P sonucuna ulaşır. İkinci bilen aynı cihazla aynı P'yi elde eder. İki onay vardır, fakat ortak hata sürmektedir.” |
+| tür | M; kurulmuş karşı-örnek |
+| kurucu_kaynak | H02 §2, ikinci bilenin onayı tanımı |
+| dış_kaynak | Bu karşı-örneğin mantıksal kuruluşu dış deney verisine dayandırılmaz; NASEM 2019 bölüm 3 karşılaştırması ayrı olarak H02 §5A'dadır |
+| yorum_köprüsü | İki kişinin onayı, veri toplama aracındaki ortak hatayı dışlamak için yeterli değildir |
+| bağımsız_kanıt | Ek veri veya bağımsız denetçi sonucu yok; böyle bir kanıt kaydedilmedi |
+| karşı_örnek | İki onayın her zaman bağımsız doğru kanıt olduğu evrensel iddiasına karşı, ortak hatanın mümkün olduğu durum |
+| epistemik_statü | Önermedeki varsayımlar altında yeterlilik iddiasını sınırlar; gerçek araştırmalarda hata sıklığı veya olasılığı ölçülmedi |
+| sonraki_makaleye_aktarım | H01 §10: ikinci Yek onay değildir; H04 §5: doğruluk/fayda/ahlak ayrılır; H05 §5B: yanıt bağımsız deney değildir |
+
+Başka bir denetçi önce sabit commit'teki H02 §5'i bulmalı, ardından alıntının ve varsayımların sonucu taşıyıp taşımadığını değerlendirmelidir. Aynı kaydı yeniden doldururken farklı karar verirse gerekçesi saklanır. Bu makalede kayıt hazırlanmıştır; başka bir kişinin yeniden uygulaması veya denetçiler arası uyum ölçümü henüz yoktur. Sonraki metin değişikliği, bu kaydın eski sürüme ait olduğunu ortadan kaldırmaz.
+
 ### 7E. Özgün kaynakların bütün paragraf kapsamıyla taranması
 İki özgün metnin 195 ve 177 boş olmayan metin birimi, başlıklar dâhil, sırasıyla 37 ve 28 anlam bloğuna ayrılarak incelenmiştir. Toplam 372 birimin her biri envanterde bir bloğa bağlanır; bu sayı 372 bağımsız önerme veya makale değildir. Başlık/amaç, kurucu kabul, yorum, ampirik ifade, analoji ve maddi hata aynı kanıt türü sayılmamıştır.
 

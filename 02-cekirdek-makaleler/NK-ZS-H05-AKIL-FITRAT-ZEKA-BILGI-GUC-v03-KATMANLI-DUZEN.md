@@ -64,6 +64,11 @@ P57–60 ve P138'de akıl hem yeni bilgi üretme yetisi hem erdemli yönelim anl
 
 P6'daki aynı türün bütün bireylerinin aynı etkiye aynı tepkiyi verdiği genellemesi de fıtrat tanımının zorunlu sonucu değildir. Ortak imkân ve sınırlar; deneyim, öğrenme ve bağlama göre farklı davranışlara yer bırakabilir. Bölüm 5A'daki kuşlar arası farklı performans bunun bu makalede kullanılan sınırlı örneğidir. Fıtrî, duygusal ve mantıksal zekâ terimleri tek bir doğrulanmış psikometrik ölçeğin alt puanları gibi kullanılmaz; burada kurucu kavramlardır.
 
+### 5D. Döngüsel tür ayrımını önleyen değerlendirme taslağı
+Bir davranış yalnız insan yaptığı için akıl, hayvan yaptığı için zekâ diye kodlanırsa gözlem tanımı sınayamaz. Bu nedenle önerilen karşılaştırmada tür etiketi ile davranış göstergesi ayrı kaydedilir. Önce görev, başarı/başarısızlık ölçütü, eğitim geçmişi ve alternatif açıklamalar belirtilir; sonra gözlenen davranışın hangi göstergeyi karşıladığı değerlendirilir. Türler arasında görevin duyusal ve motor talepleri eşdeğer olmayabilir; eşdeğerlik kurulamadığında yokluk sonucu yerine karşılaştırmanın sınırı yazılır.
+
+Bu taslakta **görevde başarılı olma**, **başarının mekanizması** ve **kurucu akıl kavramına uygunluk** üç ayrı karardır. Yeni probleme aktarım gözlense bile bu, açık gerekçelendirme veya birikimli bilimsel bilgi üretiminin de ölçüldüğü anlamına gelmez. Hayvanda önerilen bir gösterge için olumlu bulgu gelirse bulgu korunur; gösterge sırf bu nedenle yeniden tanımlanıp hayvan dışlanmaz. İnsanda tek görev başarısızlığı da ilimden ilim üretme kapasitesinin bütünüyle yokluğunu göstermez. Bunlar kurucu insan aklı tanımını deneysel sonuç gibi kullanmayı önleyen kurallardır; tamamlanmış türler arası test veya insana özgülüğün yeni ispatı değildir.
+
 ## 6. Matematiksel araştırma için asgari şema
 Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 - `P`: fiziksel koşullar ve ölçülebilir kapasite;

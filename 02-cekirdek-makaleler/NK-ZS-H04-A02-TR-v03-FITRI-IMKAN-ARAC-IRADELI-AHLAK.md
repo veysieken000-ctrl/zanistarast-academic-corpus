@@ -28,6 +28,11 @@ Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme k
 ### 4A. Normatif köprü ve karşı-örnek
 “Bir aracı kullanabilir” önermesi betimleyicidir; “kullanmalıdır” sonucu için ayrıca normatif öncül gerekir. Bu makalede sorumluluk, bilgisi ve kontrolü bulunduğu ölçüde öngörülebilir zararı değerlendirme yükümlülüğü olarak tartışılır; bu bir felsefi öneridir. Ehad karşısındaki nihai sorumluluk ise teolojik kabuldür. Örneğin iki kişi aynı makineye sahip olduğu hâlde bakım bilgisi, erişim yetkisi ve kullanım amacı bakımından farklı olabilir. Eşit teknik kapasite eşit kusur veya eşit iyilik göstermez. Seçenek artışından sorumluluk artışına geçiş ancak bilgi, niyet ve denetim koşulları açıklanırsa savunulabilir.
 
+### 4B. Sorumluluk çıkarımının koşulları
+Araçla yapılabilir eylemlerin artması, belirli bir kişinin ahlaki yükümlülüğünün aynı oranda arttığını gösteren bir denklem değildir. Bu metnin önerdiği değerlendirmede kişi hakkında en azından eylemi bilme, sonuçları makul olarak öngörebilme, seçeneğe fiilen erişme ve kullanımını denetleme koşulları ayrı belirtilir. Bu koşullar burada normatif çözümleme alanlarıdır; doğrulanmış bir kusur puanı ölçeği değildir.
+
+Örneğin aynı kaldırma düzeneğine erişen iki kişiden biri güvenlik bilgisinden ve kullanım yetkisinden yoksunsa, yalnız cihazın kapasitesine bakılarak ikisine aynı görev veya kusur yüklenemez. Zorlama ve fiilî imkânsızlık da kapasite ile tercih arasındaki ilişkiyi değiştirir. Bu düşünce örneğinde amaç kesin bir hukuk hükmü vermek değil, betimleyici teknik özelliklerden sorumluluk sonucuna geçerken gereken ek öncülleri görünür kılmaktır. Sonuç, H02'deki bilgi onayıyla veya altıncı boyuttaki nihai ilahî hükümle özdeş değildir.
+
 ## 5. Rasterast ile üç eksenli denetim
 - **Doğruluk:** Araçların kapasiteyi artırdığı iddiası ölçülebilir ve karşı-örneklerle sınanabilir.
 - **Fayda:** Aynı aracın etkisi kullanım bağlamına ve zaman ufkuna bağlıdır.

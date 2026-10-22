@@ -60,6 +60,11 @@ Sevgi araştırmanın yönelimini, dürüstlük belirsizliğin saklanmamasını 
 
 P144'teki faydadan doğruluğa geçiş de ayrı değerlendirilir: doğru bir bilgi henüz pratik fayda sağlamayabilir; faydalı görünen bir önerme yanlış olabilir. “Yapay” üretim, tek başına yanlış veya ahlaken kötü bilgi demek değildir. Bunlar Rasterast'ın doğruluk, fayda ve ahlak eksenlerine ayrı kaydedilir. İkinci bilenin görevi bu anlamları karıştırmadan değerlendirmektir.
 
+### 5D. Kurucu onaydan yöntemsel değerlendirmeye geçiş
+Kurucu tanım ikinci bilenin onayını bilgi kuruluşunun parçası sayar. Bu makalenin yöntemsel yorumu, onayın gerekçelerinin denetlenebilir olmasını ek koşul olarak savunur. Gerekçe şöyledir: (1) sırf uzlaşma ortak hatayla bağdaşabilir (§5); (2) bilgi iddiasının değerlendirilmesinde doğru ve yanlış onayı ayıracak bir ölçüt gerekir; (3) bu nedenle gerekçe, kaynak ve çıkarımın incelenmesi önerilir. Üçüncü adım kurucu tanımın sözcüklerinden çıkan bir deney sonucu değil, modelin insan araştırmasındaki uygulanmasına ilişkin felsefi köprüdür.
+
+İkinci bilenin reddi, yanlış P önermesinin onaylanmış bilgiye dönüşmesi değildir; denetimin düzeltme veya ret sonucu verdiğini gösterir. Geçerli itiraz giderilmeden olumlu onay kaydı açılmaz. Gerekçeli olumlu onay da belirli kapsam ve sürüm içindir; daha sonra karşı-kanıtla değişebilir. Bu ayrım, onay ilkesini korurken her değerlendirme sonucuna aynı epistemik statüyü vermeyi önler. İlahî bilme ve hüküm hakkındaki kurucu kabul, bu insani değerlendirme işleminin ölçülmüş başarısından türetilmez.
+
 ## 6. Sevgi, akıl, fıtrat
 Özgün *Akıl ve Bilginin Kaynağı* Word metni aklın iyi ve doğruyu seçmesini sevgiyle ilişkilendirir; ruhun üflenmesi ve insanın özü de kurucu tartışmanın parçasıdır. Bu bağlantı, insanın ahlaki yöneliminin bilgiye etkisini araştırma sorusu yapar; psikolojik mekanizma veya doğa yasası olarak peşinen ispatlandığı iddia edilmez.
 
