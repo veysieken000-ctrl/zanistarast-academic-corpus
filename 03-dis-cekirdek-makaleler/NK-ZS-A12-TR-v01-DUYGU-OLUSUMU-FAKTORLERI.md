@@ -33,6 +33,9 @@ Karşı-örnek: Aynı kalp atışı artışı bir kişide korku, diğerinde heye
 Makalenin yöntemi kavramsal ayrım, rakip açıklama karşılaştırması ve örnek çözümlemesidir. Buradaki faktörler test edilmiş yeni ampirik bulgular olarak sunulmaz. Gelecek ampirik çalışma, duygu tanımını, örneklemi, ölçüm aracını, karıştırıcı değişkenleri ve alternatif hipotezleri önceden belirlemelidir. Öznel beyan, davranış ve fizyolojik ölçüm farklı kanıt türleridir; hiçbiri tek başına bütün duygusal yaşantıyı tüketmez.
 
 ## 6. Ayırıcı katkı ve çapraz uyum
+A12 duygunun oluşum faktörlerini araştırır; A13 ise öz, duygu ve aklın bütünleşik insan Yek'indeki yerini inceler. Bunlar bağımsız ontolojik parçalar değil, ilişkili açıklama alanlarıdır. Fizik, biyoloji, zihin ve ruh/fıtrat insan yapısında kapsanır; fıtrî ahlak bu yapının oluşum ve hareket düzenini kapsar, oluşan insan Yek'i ise iradeli ahlak kapsamındadır. Bu kurucu kapsama yeni bir deneysel psikoloji bulgusu değildir.
+
+
 A12'nin ayırıcı sorusu duygunun oluşum faktörleridir. A13 insanın öz–duygu–akıl–ahlak sınıflamasını ayrıca tartışır. H05 zekâ, akıl ve bilgi ayrımları; A14 epistemik statü; H03 Rasterast kanıt denetimiyle çapraz inceleme gerekir. İnsan iradeli ahlakı, duygusal tepkinin kendisiyle özdeş değildir.
 
 ## 7. K0–K6 kalite durumu
