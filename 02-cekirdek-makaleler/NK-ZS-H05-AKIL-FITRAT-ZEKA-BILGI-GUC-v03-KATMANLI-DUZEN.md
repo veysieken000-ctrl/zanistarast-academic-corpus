@@ -38,11 +38,18 @@ Kurucu tez: **Her kanunun/düzenin üzerinde bir bilen vardır.** Buradaki bilen
 Karıncanın bedeni, çevresi, duyuları, öğrenme olanakları ve koloni etkileşimleri, mümkün davranışları birlikte sınırlar. Yeni Kaledonya kargalarında genç bireylerin alet yapması (Kenward ve ark., 2005, DOI: 10.1038/433121a) ve gelecekteki göreve uygun araç seçimi (Boeckle ve ark., 2020, DOI: 10.1098/rspb.2020.1490) gözlenmiştir; bu sonuçlar hayvan bilişini küçümseyen genellemeleri sınırlar, kurucu akıl tanımını deneysel olarak ispatlamaz. İnsanın bilimsel bilgi üretimi ve mühendisliği yeni araçlar geliştirir. Bilgisayarın donanımı, kodu ve hesaplama işlemi farklı işlevlerdir. Kod–fıtrat veya algoritma–zeka karşılaştırmaları açıklayıcı analojidir; yapay zekâya insana özgü akıl veya meleklere ait ontolojik statü otomatik yüklenmez.
 
 ### 5A. Karşı-örneğin kapsamı ve operasyonel ayrım
-Kenward ve ark. (2005) alet yapımını deneyimsiz genç kargalarda ele alır; bu nedenle yalnız “alet yapma”yı insan aklının yeterli ayırıcı ölçütü saymak uygun değildir. Boeckle ve ark. (2020) belirli gelecek görevine yönelik araç seçimini inceler; bu sonuç bütün hayvanlara veya insan bilimsel düşüncesinin bütün özelliklerine genellenmez. Bu turda ilk çalışmanın bibliyografik kaydı, ikinci çalışmanın kaydı ve özeti doğrulanmıştır; ikisi için de tam yöntem denetimi tamamlanmış sayılmaz.
+Kenward ve ark. (2005) dört elle büyütülmüş genç kargayı inceledi: ikisi insanlardan alet kullanımı gösterimi alırken ikisi almadı. Dördü çubuk kullandı; gösterim almayan bir birey yapraktan araç üretip kullandı. Bu küçük örneklem, alet üretiminin yalnız insana ait olduğu ölçütüne karşı-örnektir; bütün tekniğin öğrenmeden bağımsız olduğunu kanıtlamaz (tam ana metin, s. 121; Şekil 1).
+
+Boeckle ve ark. (2020) çalışmasında eğitime dokuz kuş başladı, kritik teste dördü geçti. Düzeneği gördükten beş dakika sonra nesne seçimi, seçimden on dakika sonra düzeneğe erişim sağlandı. Kritik koşullarda dört kuştan üçü şans düzeyinin üzerinde başarı gösterdi (Methods; Results; Tablo 3). Bu bulgu görev içindeki araç seçimini destekler; bütün hayvanlarda insanla eşdeğer gelecek tasavvurunu göstermez. Ana metin yöntem ve sonuçları kontrol edilmiştir; ham veri ve ek materyal yeniden analiz edilmemiştir.
 
 Jelbert ve ark. (2014) su yer değiştirme deneylerinde altı Yeni Kaledonya kargasını incelemiş; bütün kuşlar bütün görevleri tamamlamamıştır (Yöntem: Subjects). Bu örnek, başarı kadar başarısızlık ve görev koşullarının da kaydedilmesi gerektiğini gösterir. Küçük ve tek türden bir örneklemden “hayvan mantığı yoktur” veya “insan ve hayvan aynı genel akla sahiptir” sonucu çıkmaz.
 
 Kurucu **akıl = ilimden ilim üretme** tanımı korunur. Ampirik karşılaştırma için yeni probleme aktarım, öğrenilmiş ödül ilişkisinden bağımsız çözüm, yeni araç geliştirme, gerekçenin ifade ve eleştiriye açılması, bilginin birikimli aktarımı ayrı göstergeler olarak önerilir. Bunların hiçbiri bu çalışmada ölçülmüş veya tek başına insana özgü olduğu kanıtlanmış değildir. Türler arası karşılaştırma duyusal ve motor olanakları, önceki deneyimi ve motivasyonu denetlemelidir. Bir yeteneğe “insana özgü” adını vermek, aynı işlevin hayvanda bulunamayacağının deneysel ispatı olmaz. Karşıt bulgular geldiğinde operasyonel sınır yeniden değerlendirilir; tanımsal tercih ile biyolojik iddia ayrılır.
+
+### 5B. Planlama yorumu için yayımlanmış eleştiri ve yanıt
+De Mahy, Esteve ve Santariello (2021), Boeckle deneyinin çağrışımsal öğrenmeyi dışladığı sonucuna itiraz eder; çağrışımsal süreçlerle yüksek düzeyli temsillerin kesin karşıtlar gibi kurulmasını sorgular. Boeckle ve ark. (2021) ise değişen düzeneklerin hatırlanması ve daha önce daha çok ödüllendirilmiş araç yerine uygun aracın seçilmesinin basit ödül tercihini aştığını savunur. Yanıt yeni bir tekrar deneyi değildir. Tartışma, gözlenen başarıyla bu başarının hangi zihinsel mekanizmadan doğduğunun ayrı önermeler olduğunu gösterir.
+
+Bu makalede sonuç, kurucu akıl tanımını doğrulayan veya çürüten tek deney diye kullanılmaz. Çağrışımsal öğrenme, esnek aktarım ve açık gerekçelendirme ayrı incelenir. Bir görevdeki başarıdan metafizik öz veya iradeli ahlak hakkında doğrudan sonuç çıkarılmaz. Eleştirinin indekslenmiş metni ve yazar yanıtının açık tam metni kontrol edilmiştir; eleştirinin doğrudan tam sayfa erişimi bu turda kararlı değildir.
 
 ## 6. Matematiksel araştırma için asgari şema
 Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
@@ -54,8 +61,17 @@ Bir varlık/sistem için `S = (P, I, Z, F, C)` gösterimi önerilir:
 
 Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İnsana özgü akıl için ayrıca `A_h` değişkeni tanımlanabilir: yeni bilgi/araç geliştirme kapasitesinin operasyonel göstergeleri araştırılır. Ruh/melekî idare veya metafizik bilen, ölçüm yöntemi tanımlanmadan bu denkleme ampirik parametre olarak eklenmez.
 
+### 6A. Ana önermelerin kaynak ve statü haritası
+| Önerme | Dayanak | Statü ve aktarım sınırı |
+|---|---|---|
+| Akıl insanın ilimden ilim üretme kapasitesidir | Varlık Sistemleri P90; güncel kanon | Kurucu tanım; tek başına türler arası deney sonucu değil |
+| İnsan zekâsı akıl kapsamında sürer | Aynı kaynak; kurucu kilometre taşı | Kanonik düzeltme; fıtrî zekâ yalnız hayvana ait değildir |
+| Gösterim olmadan da araç üretimi görülebilir | Kenward ve ark., 2005 | Dört kuşluk ana metin; bütün davranışın öğrenmesizliği sonucu verilmez |
+| Belirli gelecekteki görev için araç seçimi | Boeckle ve ark., 2020 | Kritik teste geçen dört kuş; mekanizma yorumu 2021'de tartışılmıştır |
+| Bilişsel başarı ahlaki muhataplıkla özdeş değildir | Kurucu kilometre taşı; bölüm 5B çözümlemesi | Felsefi/teolojik sınır; deneyden metafizik sonuca geçilmez |
+
 ## 7. Sonuç ve Rasterast değerlendirme planı
-İnsan ve hayvanın ontolojik ortak özü, aynı bilişsel yetenek ve aynı ahlaki sorumluluk anlamına gelmez. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve bunları yönlendiren iradeli ahlak şeması önerilir. İnsanın zekâsı akıl işleyişinin temelinde varlığını sürdürür. Fıtrî zekâ her zihinli canlıya uygulanır; akıl kurucu tanımda insana özgü ilimden ilim üretme kapasitesidir. Bu ayrımlar kavramsal tezlerdir; karşılaştırmalı biliş bulgularıyla ayrıca sınanmalıdır.
+İnsan ve hayvanın ontolojik ortak özü, aynı bilişsel yetenek ve aynı ahlaki sorumluluk anlamına gelmez. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve bunları yönlendiren iradeli ahlak şeması önerilir. İnsanın zekâsı akıl işleyişinin temelinde varlığını sürdürür. Fıtrî zekâ her zihinli canlıya uygulanır; akıl kurucu tanımda insana özgü ilimden ilim üretme kapasitesidir. Karşılaştırmalı biliş bulguları, alet yapımını veya görev başarısını tek başına insan aklının ayırıcı ölçütü saymayı engeller. Araştırma, kurucu insan aklı tanımını korurken deneysel karşılaştırmada hangi göstergelerin ayrıca sınanması gerektiğini belirler. Planlama deneyinin yayımlanmış eleştiri–yanıt zinciri, gözlem ile mekanizma yorumunun ayrılması gerektiğini gösterir.
 
 ### Rasterast değerlendirme planı
 1. Kavramların birbirine karışmadığını sınayan mantıksal denetim.
@@ -68,9 +84,12 @@ Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İns
 Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–icra ayrımı; fıtrî imkânın araçla genişlemesi; bilenin ontolojik/epistemolojik anlam farkı. Bu alanlar toplu değerlendirmeye alınır. Dilsel doğrulama ve kurucu onayından önce yeni sözcük kesinleştirilmez.
 
 ## Dış kaynakça
-- Kenward, B., Weir, A. A. S., Rutz, C. ve Kacelnik, A. (2005). Tool manufacture by naive juvenile crows. *Nature, 433*, 121. https://doi.org/10.1038/433121a . Kullanım: bölümler 5 ve 5A; bibliyografik kayıt doğrulandı, tam metin denetimi açık.
-- Boeckle, M., Schiestl, M., Frohnwieser, A., Gruber, R., Miller, R., Suddendorf, T., Gray, R. D., Taylor, A. H. ve Clayton, N. S. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: bölümler 5 ve 5A; kayıt ve özet doğrulandı, tam yöntem denetimi açık.
+- Kenward, B., Weir, A. A. S., Rutz, C. ve Kacelnik, A. (2005). Tool manufacture by naive juvenile crows. *Nature, 433*, 121. https://doi.org/10.1038/433121a . Kullanım: bölümler 5 ve 5A; açık ana metin yöntem ve bulguları kontrol edildi; ek videolar yeniden incelenmedi. Yazarların kurumsal PDF'si: https://users.ox.ac.uk/~kgroup/publications/pdf/ontogeny_Nature_2005.pdf .
+- Boeckle, M., Schiestl, M., Frohnwieser, A., Gruber, R., Miller, R., Suddendorf, T., Gray, R. D., Taylor, A. H. ve Clayton, N. S. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: bölümler 5 ve 5A; açık ana metnin yöntem, sonuç ve tartışması kontrol edildi; ham veri/ek materyal yeniden analizi yapılmadı. Kurumsal tam metin: https://www.repository.cam.ac.uk/items/f781c049-6d77-46c3-ab77-40402a51b8e3 .
 - Jelbert, S. A., Taylor, A. H., Cheke, L. G., Clayton, N. S. ve Gray, R. D. (2014). Using the Aesop's Fable Paradigm to Investigate Causal Understanding of Water Displacement by New Caledonian Crows. *PLOS ONE, 9*(3), e92895. https://doi.org/10.1371/journal.pone.0092895 . Kullanım: bölüm 5A; açık tam metnin yöntem/örneklem bölümü kontrol edildi.
+
+- de Mahy, D., Esteve, N. A. ve Santariello, A. (2021). New test, old problems: comment on ‘New Caledonian crows plan for specific future tool use’. *Proceedings of the Royal Society B, 288*, 20210186. https://doi.org/10.1098/rspb.2021.0186 . Kullanım: bölüm 5B; yöntem eleştirisi, yeni deney değil. DOI ve indekslenmiş eleştiri metni kontrol edildi.
+- Boeckle, M. ve ark. (2021). New Caledonian crows' planning behaviour: a reply to de Mahy et al. *Proceedings of the Royal Society B, 288*, 20211271. https://doi.org/10.1098/rspb.2021.1271 . Kullanım: bölüm 5B; yazar yanıtı, bağımsız tekrar değil. Kurumsal tam metin: https://www.repository.cam.ac.uk/items/87c7ddf0-fa97-43e3-84d3-d06db5b39b8a .
 
 ## 9. Birikimli kaynak izi
 - `NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v02.md`
@@ -80,13 +99,13 @@ Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–i
 
 **Durum:** Kurucu felsefi model; literatür taraması, ölçülebilir tanımlar ve bağımsız doğrulama tamamlanmadan yayıma hazır değildir. Önceki sürümler korunur; bu sürüm aynı H05 araştırma zincirinin devamıdır, yeni bağımsız makale olarak sayılmaz.
 
-## 10. Güncel kurucu düzeltme: ortak öz ve evrensel muhataplık (22.10.2026)
+## Ek A — Kurucu düzeltme: ortak öz ve evrensel muhataplık (22.10.2026)
 **Saf zekâ** bağımsız tanımlanan temel işlem kapasitesidir; fıtratla **fıtrî zekâ**, duyguyla **duygusal zekâ**, mantıkla **mantıksal zekâ** ilişkisi kurulur. Fıtrî zekâ insan dâhil her zihinli canlıda bulunur; hayvanlara **fıtrî duygu** ve **fıtrî mantık** atfedilmesi, hayvanların öğrenme/duygu/çıkarım yeteneklerini inkâr etmez. İnsanın farklılığı hayvanlarda özün yokluğu değil: **ontolojik olarak ortak özün**, akıl ve iradeli ahlakla çok daha geniş bir muhataplık ve sorumluluk alanına açılmasıdır. İnsan ve hayvan dış dünya ile ilişki kurar; insan bilim, matematik, deney, araç ve edevatla bedenen erişemediği kuantum ve kozmik alanları araştırabilir. Akıl bu erişimi, iradeli ahlak kullanım sorumluluğunu, altıncı boyut hüküm ise nihai muhataplığı açıklar. Atom–yıldız örneği kapsam benzetmesidir. İnsan bedeninin **otonom** sinirsel işleyişi biyolojik olgudur; kâinatın otonomluğu analojidir. Öz–Duygu–Akıl–Ahlak insan katmanları ile Fizik–Biyoloji–Zihin–Ruh kozmik katmanları sayısal olarak eşitlenmez. Bunlar kurucu felsefi önermelerdir; bilimsel olgu ve analojilerden ayrı denetlenir.
 
 **Kurucu kaynak:** `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. **Önceki Ek 05'in yalnız hayvan odaklı fıtrî zekâ okuması bu düzeltmeyle geçersizdir**; eski belge tarihsel sürüm olarak korunur.
 
-## 11. Kurucu kilometre taşı: insan ve hayvan katmanları
+## Ek B — Kurucu kilometre taşı: insan ve hayvan katmanları
 Hayvan/zihinli canlı için **Öz → Duygu → Zekâ → Fıtrî Ahlak**; insan için **Öz → Duygu → Akıl → Fıtrî Ahlak**, bu yapıyı kapsayan **İradeli Ahlak** açıklayıcı şeması kabul edilir. İnsan zekâsı bu şemada yok sayılmaz; akıl zekâdan yararlanır. **Fıtrat** kuruluş, imkân, sınır ve ilişkisel düzendir; **fıtrî ahlak** bu düzenin işleyiş ve ilişkilerdeki tezahürüdür. Hayvanlarda duygu ve öğrenme reddedilmez. Bu katmanlar kozmik 6+Tek ile sayısal olarak eşlenmez. Kurucu kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
-## Özgün metin karşılaştırması — 22 Ekim 2026
-*Varlık Sistemleri ve Boyutları* P90'da insanın ilimden ilim üretirken zekâ alanını genişlettiği belirtilir; bölüm 1 ve 11 insan zekâsını koruyan bu ilişkiyi devralır. *Akıl ve Bilginin Kaynağı* P23'te insanın doğa yasalarından bağımsızlığına yönelik ifade vardır; aynı dosyanın P136 ve devamında ortak fiziksel zemin tartışılır. Güncel metinde bu ifade fizik yasalarını ihlal etme anlamında kullanılmaz: bilgi ve araçla eylem olanaklarının genişlemesi olarak sınırlandırılır. P139'daki hayvan/insan zekâ sınırlaması, 22 Ekim kurucu kararıyla insan dâhil tüm zihinli canlılarda fıtrî zekâ kabul edilerek güncellenir. Kaynaklar eski sürüm olarak korunur; güncel kararın önceliği açıktır.
+## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
+*Varlık Sistemleri ve Boyutları* P90'da insanın ilimden ilim üretirken zekâ alanını genişlettiği belirtilir; bölüm 1 ve Ek B insan zekâsını koruyan bu ilişkiyi devralır. *Akıl ve Bilginin Kaynağı* P23'te insanın doğa yasalarından bağımsızlığına yönelik ifade vardır; aynı dosyanın P136 ve devamında ortak fiziksel zemin tartışılır. Güncel metinde bu ifade fizik yasalarını ihlal etme anlamında kullanılmaz: bilgi ve araçla eylem olanaklarının genişlemesi olarak sınırlandırılır. P139'daki hayvan/insan zekâ sınırlaması, 22 Ekim kurucu kararıyla insan dâhil tüm zihinli canlılarda fıtrî zekâ kabul edilerek güncellenir. Kaynaklar eski sürüm olarak korunur; güncel kararın önceliği açıktır.
