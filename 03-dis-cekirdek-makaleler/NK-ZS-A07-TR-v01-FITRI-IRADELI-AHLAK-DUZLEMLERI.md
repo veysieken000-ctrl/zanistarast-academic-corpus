@@ -11,6 +11,12 @@ Fıtrat bir varlığın hangi koşullarda ve sınırlar içinde işleyebildiğin
 ## 2. Normatif geçiş problemi
 Bir düzenin doğada bulunmasından o düzenin her sonucunun yapılması gerektiği çıkmaz. Bu nedenle fıtrî ahlaktan iradeli ahlaka geçiş, salt gözlem değil, normatif gerekçe ister. Kurucu sistem bu gerekçeyi insanın iradesi, bilmesi, niyeti ve hüküm ufkuyla ilişkilendirir. Hüküm ve ahiret iddiaları teolojik statüde korunur.
 
+## 2A. A06 ile ontoloji–epistemoloji uyumu
+
+A06'da İkinci Bilen'in ontolojik anlamı Ehad karşısındaki her yaratılmış Yek'in fıtrî temsiline uzanır. A07'nin konusu bu evrensel kapsamı insandaki iradeli ahlakla karıştırmadan normatif geçişi incelemektir. Fiziksel düzen, biyolojik işleyiş ve zihinli varlıkların öğrenmesi birbirinden farklıdır; bunların hiçbiri tek başına insanın bilgi, niyet, seçim ve sorumluluk koşullarını kanıtlamaz. İnsan hüküm karşısında iradeli ahlakıyla muhataptır. Bu, kurucu teolojik-felsefi savdır, ampirik bulgu değildir.
+
+**Karşı-örnek:** Bir taşın düşmesi fıtrî işleyişe örnektir, iradeli tercih değildir. Bir canlının öğrenmesi bilişsel bir yetiyi gösterebilir, ancak insanın normatif sorumluluğuyla özdeşlik kurmaz. A06'nın epistemik ikinci onay modeli, ontolojik temsilin yalnızca belirli bilgi değerlendirme durumlarındaki görünümüdür.
+
 ## 3. Karşı-örnekler
 **Araç ve güç:** İnsan teknik bilgiyle daha çok eylem gerçekleştirebilir. Yapabilme gücü iyi seçim yapıldığını göstermez.
 
