@@ -51,3 +51,20 @@ Bilim, hukuk, eğitim, Rabûn yönetimi, Mabûn Ekonomi Modeli ve sanat araştı
 - `6-Bilim (1).docx`, kurucu özgün metni.
 - `zanistarast-papers/docs/architecture/ZANISTARAST_MIRA_MASTER_ROADMAP.md`.
 - `zanistarast-papers/reference-implementation/mira/src/zanistarast_scientific_mission.rs`.
+
+## Ek: Rasterast iddia turu ve kaynak denetimi (22.10.2026)
+
+Bu bolum mevcut uc eksenli siniflandirmayi `RASTERAST-02-KAYNAK-KANIT-BAGIMSIZLIK-DENETIM-PROTOKOLU.md` ile karsilastirir. Ozgun `6-Bilim (1).docx` metninin tam paragraf denetimi yapilmamistir. Asagidaki kodlar arastirma kaydidir; Mira yaziliminin onayli alanlari degildir.
+
+| Kod | Iddia | Tur | Kaynak ve durum |
+|---|---|---|---|
+| BL-01 | Altinci kozmik boyutun evreleri hesap/hukum ve hukmun sonucudur | Kurucu ontolojik/teolojik tanim | 16.10.2026 tarihli kurucu onayli 6 boyut / 12 evre tablosu; kaynakta dogrulandi, deneysel kanit degil |
+| BL-02 | Kor ikinci degerlendirme belirli hata turlerini azaltabilir | Ampirik hipotez | RASTERAST-02 pilot tasarimi; deney henuz yapilmadi |
+| BL-03 | Hukum Meclisi altinci kozmik boyutun birinci evresine ozdestir | Kategori esitlemesi | Kurucu tablo ve kurumsal metinler bu ozdesligi desteklemez |
+| BL-04 | Mabun Ekonomi Modeli ihtiyac erisimini iyilestirir | Ampirik kurumsal hipotez | Model adi kanonik; etki verisi bulunmuyor |
+
+Kaynakla uyum, bir onermenin kurucu metinde yer aldigini gosterebilir; tek basina deneysel dogruluk saglamaz. Ayni kaynagi tekrar okuyan iki kisi bagimsiz kaynak dogrulamasi yapmis sayilmaz. Ortak veri, yontem ve alinti bagimliligi kaydedilmelidir. K0 kaynak kapisinin tamamlanmasi K1-K6 kapilarinin tamamlandigi anlamina gelmez.
+
+Karsilastirmali dis kaynak: Reiss ve Sprenger, Scientific Objectivity, Stanford Encyclopedia of Philosophy (2020 esasli revizyon): https://plato.stanford.edu/entries/scientific-objectivity/ . Bu kaynak Zanistarast'in kurucu iddialarini dogrulamaz.
+
+**Acik is:** Ozgun bilim DOCX paragraf eslemesi, bagimsiz ikinci okuma ve ampirik sinamalar. **Yayima hazir degil.**
