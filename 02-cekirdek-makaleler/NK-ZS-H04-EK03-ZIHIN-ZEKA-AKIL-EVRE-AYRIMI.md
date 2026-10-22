@@ -11,6 +11,9 @@ H04'ün üçüncü kozmik boyutu zihin, ilk evresi zekâ ve ikinci evresi akıl 
 - **İkinci evre, akıl:** Kurucu Zanistarast tanımında yalnız insanda ilimden ilim üretme, genel bilgi, bilim ve araç geliştirme. Bu evreyi her zihinli hayvana veya meleğe yüklemeyiz.
 - **Duygusal/mantıksal zekâ:** Zekânın duygu düzenleme ve ilişkisel/mantıksal işleme yönleri için aday alt ayrımlardır; üçüncü boyuta yeni kozmik evre eklemezler.
 
+## Güncel fıtrat ve ahlak eşlemesi
+Hayvanlarda **Öz → Duygu → Zekâ → Fıtrî Ahlak**; insanlarda **Öz → Duygu → Akıl → Fıtrî Ahlak** ve bunları yönlendiren **İradeli Ahlak** kurucu şeması kullanılır. İnsan zekâsı aklın temelinde bulunmaya devam eder. Fıtrat kuruluş imkân ve sınırları, fıtrî ahlak bu düzenin işleyişteki görünümüdür. Bu iç katmanlar üçüncü kozmik boyutun iki evresiyle veya kozmik 6+Tek boyutlarıyla sayısal olarak eşlenmez. Kaynak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
 ## Örnek sınama
 Aslanın kendi bedeninden kanat üretememesi, insanın uçak yapabilmesiyle karşılaştırıldığında insanın bilim ve araç üretiminin farkını anlatır. Ancak hayvanların hiç araç yapmadığı veya geleceğe dönük hiçbir davranış sergilemediği iddia edilemez. İnsan aklı için tek başına 'alet yapmak' ölçütü yeterli değildir; birikimli, genellenebilir ve gerekçelendirilebilir bilgi üretimi gibi ölçütlerin sınanması gerekir.
 
