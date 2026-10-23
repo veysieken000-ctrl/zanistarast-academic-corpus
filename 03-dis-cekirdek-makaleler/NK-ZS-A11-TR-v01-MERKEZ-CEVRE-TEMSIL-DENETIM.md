@@ -51,3 +51,10 @@ Bu bölümdeki gösterim **önerilen yöntemdir**; gözlemsel veriyle doğrulanm
 K0: “4-varlık yönetim düzeni (1).docx” özgün paragraf izi açık. K1: Yönetim ve temsil literatüründe karşıt birincil kaynaklar doğrulanmadı. K2: Yöntem taslak. K3: Rakip modeller ve başarısızlık ölçütleri taslak. K4: Ontolojiden kurumsal normlara geçiş sınırları taslak. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 makale tamamlanıp kanonik uyum ve kurucu onayı sağlanmadan yayımlanmaz.
+
+
+## 9. Temsil ağında ölçülebilir karşı-örnek
+
+Üç düğümlü A—B—C ağında B yapısal merkez olabilir; fakat A ve C'nin itirazları karar tutanağına hiç alınmıyorsa temsil yeterli değildir. **Önerilen ölçütler:** kayda alınan itiraz oranı, gerekçeli cevap oranı, kararın düzeltilme süresi ve merkez/çevre kaynak bağımlılığı. Bunlar deney tasarımı değişkenleridir, ölçülmüş bulgular değildir. Merkezilik matematiksel özellik, meşruiyet normatif değerlendirmedir.
+
+**Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
