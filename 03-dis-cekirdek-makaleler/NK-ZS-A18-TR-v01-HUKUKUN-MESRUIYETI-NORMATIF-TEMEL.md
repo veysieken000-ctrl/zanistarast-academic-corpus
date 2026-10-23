@@ -34,3 +34,8 @@ Hebûn ontolojik kuruluşu, Zanabûn gerekçeli bilme ve ikinci değerlendirmeyi
 Yöntem kavramsal analiz ve karşı-örnektir; bu taslak ampirik hukuk araştırması veya doğrulanmış karşılaştırmalı mevzuat incelemesi değildir. K0: Özgün “8-hukuk felsefesi (1).docx” paragraf izi henüz doğrulanmadı. K1: Karşıt birincil hukuk felsefesi literatürü açık. K2: Yöntem taslak. K3: İtirazlar taslak. K4: Farklı hukuk düzenlerine aktarım sınırı açık. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makalenin tamamlanması, kanonik uyum ve kurucu onayı beklenir.
+
+
+## Ek — Geçerlilik, etkililik ve meşruiyet karşı-modeli
+
+Bir kural usule uygun çıkarılmış ve geniş biçimde uygulanıyor olabilir; bu iki özellik kuralın adil veya ahlaken meşru olduğunu tek başına kanıtlamaz. Tersine ahlaken savunulan bir talep mevcut hukukta geçerli olmayabilir. Meşruiyet incelemesi hak, gerekçe, itiraz ve düzeltme ölçütlerini ayrıca gerektirir. Bu normatif analiz belirli bir ülke hukukuna ilişkin ampirik bulgu değildir.
