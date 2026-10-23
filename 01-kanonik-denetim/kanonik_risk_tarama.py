@@ -20,7 +20,7 @@ PATTERNS = {
 PATTERNS["R2"].append(r"(?i)merkez(?:de)?\s+olmak.{0,100}ontolojik\s+(?:köken|ilk|başlangıç)")
 PATTERNS["R3"].append(r"(?i)(?:prosedür|usul).{0,120}meşruiyet(?:i|in)?\s+garantiler")
 PATTERNS["R5"].append(r"(?i)Rasterast.{0,100}(?:yalnızca|sadece)\s+(?:bir\s+)?filtredir")
-NEGATIONS = re.compile(r"(?i)(?:değildir|değil|sayılamaz|özdeş\s+değildir|yanlıştır|kanıtlamaz|indirgenemez|otomatik\s+olarak|karıştırılma)")
+NEGATIONS = re.compile(r"(?i)(?:değildir|değil|sayılamaz|özdeş\s+değildir|yanlıştır|kanıtlamaz|sayılmaz|indirgenemez|otomatik\s+olarak|karıştırılma)")
 def scan(root, rules, paths):
     ids = {r["id"] for r in rules["rules"]}
     results = []
