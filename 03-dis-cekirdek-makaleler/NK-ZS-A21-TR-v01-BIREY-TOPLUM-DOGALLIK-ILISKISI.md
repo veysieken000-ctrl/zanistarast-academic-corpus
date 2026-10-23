@@ -48,3 +48,8 @@ K0: Özgün “8-insan ve toplum.docx” paragraf izi doğrulanmadı. K1: Birinc
 **İkinci bilen bağımsızlığı:** İlk yorumcunun verisini aynen kullanan ikinci yorumcu bağımsız doğrulama sunmuş sayılmaz. İkinci değerlendirmede ayrı kaynak, alternatif kavramlaştırma ve açık itiraz izi aranır. Aynı toplumsal konumdan gelen iki değerlendiricinin ortak önyargı riski ayrıca belirtilir.
 
 **A22'ye aktarım sınırı:** Birey–toplum ilişkisinde doğallık ayrımı, kişilerin toplumsal rollerini yaratılıştan sabit biçimde belirlemez. A22'nin rol iddiaları için kurum, öğrenme, fırsat ve iradeli seçim arasında ek gerekçelendirme gerekecektir. Bu ek, A22'nin yerine geçmez ve A21'in K0–K6 kapılarını kapatmaz.
+
+
+## Ek — Birey ve toplumsal bütünlük karşı-modeli
+
+Bir topluluğun koordinasyonu bireylerin bütün haklarını otomatik olarak korumaz; bireysel serbestlik de ortak kaynak ve yükümlülük sorunlarını tek başına çözmez. Yek–Komel ilişkisi betimleyici ontolojik bir çerçevedir, belirli yönetim veya dağıtım kuralını kendiliğinden meşrulaştırmaz. Birey ve toplum düzeyindeki iddialar ayrı veri ve normatif gerekçe ister.
