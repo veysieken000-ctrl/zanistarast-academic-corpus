@@ -165,3 +165,18 @@ Kurucu şema hayvan için **Öz → Duygu → Zekâ → Fıtrî Ahlak**; insan i
 
 ## Ek D — Kurmancî kavram adayları ve dilsel doğrulama
 Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–icra ayrımı; fıtrî imkânın araçla genişlemesi; bilenin ontolojik/epistemolojik anlam farkı. Bu alanlar toplu değerlendirmeye alınır. Dilsel doğrulama ve kurucu onayından önce yeni sözcük kesinleştirilmez.
+
+
+## Ek E — MK-013–015 güç, bilgi, işlem, kanun ve ruh analojisi denetimi (23 Ekim 2026)
+
+**Kaynak ve statü:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`; `../01-kanonik-denetim/MK-013-015-ISLEVSEL-KATMAN-ANALOJI-KAYNAK-MATRISI-2026-10-23.md`. İşlevsel model, ampirik ispat veya yeni kanonik özdeşlik değildir.
+
+**İşlev profili R/I/P/C/V:** R fiziksel taşıyıcı ve enerji; I genetik, öğrenilmiş veya gerekçeli bilgi türü; P öğrenme, temsil, karşılaştırma ve çıkarım; C fiziksel, biyolojik, hesaplamalı veya kurumsal kısıt; V fıtrî ve iradeli ahlakın türlenmiş değerlendirmesi. Fiziksel güç watt cinsinden ölçülen büyüklüktür; felsefi “güç” bununla özdeş değildir. Fizik yalnız güç, biyoloji yalnız bilgi, zihin yalnız işlem değildir.
+
+**Örnek 1 — hücre ve hesaplama:** Hücrede enerji/kimyasal taşıyıcı (R), DNA ve düzenleyici örüntüler (I), metabolik/enzimatik süreçler (P), biyokimyasal koşullar (C) incelenebilir. Bu benzerlik DNA'nın kelimesi kelimesine bilgisayar yazılımı olduğunu veya hücrenin yalnız program yürüttüğünü göstermez. Hücresel süreçlerden insanın iradeli ahlakı (V) çıkarılamaz.
+
+**Örnek 2 — zihin ve akıl:** Beden ve sinir sistemi (R), bellek/öğrenme (I), yeni probleme aktarım ve gerekçeli çıkarım (P), eğitim/görev koşulları (C), niyet ve sorumluluk (V) farklı gözlem ve yorum alanlarıdır. Hayvanın araç yapması “hayvan hiç yeni çıkarım yapamaz” genellemesine karşı-örnektir; kurucu akıl tanımını tek başına ispat veya çürütmez.
+
+**Örnek 3 — ruh, kanun ve yazılım:** D4'ün ilk evresi ruh, ikinci evresi meleklerdir. Ruhun düzen/kanunla açıklanması kurucu ontolojik-teolojik yorumdur; kod/yazılım benzetmesi `ANALOGY`, ruhun statüsü `THEOLOGICAL` olarak ayrı işaretlenir. Bilgisayar programı, fizik yasası, toplumsal kural ve ahlaki hüküm tek tür “kanun” değildir. “Her düzenin üzerinde bilen vardır” kurucu tezi, yazılım benzetmesinden deneysel olarak kanıtlanmış olmaz.
+
+**Aktarım kapısı:** H04'e kaynak–bilgi–tercih–değer ayrımı; İNSAN-TARİHİ-01'e öğrenme–yeni çıkarım–gerekçelendirme–karşı-örnek ayrımı taşınabilir. Her hedefte yeni mekanizma, kaynak ve karşı-örnek kaydedilmeden `CROSS_DOMAIN_REVIEW_REQUIRED` kapısı kapanmaz. K0–K6, bağımsız Rasterast ve yayın kilidi sürer.
