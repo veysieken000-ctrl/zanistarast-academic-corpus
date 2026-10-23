@@ -167,6 +167,78 @@ def transition_counterexamples(cases: list) -> dict:
     }
 
 
+
+class ClaimDomain(str, Enum):
+    EMPIRICAL = "EMPIRICAL"
+    HISTORICAL = "HISTORICAL"
+    ONTOLOGICAL = "ONTOLOGICAL"
+    THEOLOGICAL = "THEOLOGICAL"
+    NORMATIVE = "NORMATIVE"
+
+
+@dataclass(frozen=True)
+class ClaimRecord:
+    identifier: str
+    domain: ClaimDomain
+    proposition: str
+    evidence_ids: FrozenSet[str] = frozenset()
+
+    def __post_init__(self):
+        if not self.identifier.strip() or not self.proposition.strip():
+            raise ValueError("İddia kimliği ve önermesi boş olamaz")
+
+
+@dataclass(frozen=True)
+class TransferProposal:
+    source: ClaimRecord
+    target_domain: ClaimDomain
+    transferable_pattern: str
+    target_mechanism: str = ""
+    target_evidence_ids: FrozenSet[str] = frozenset()
+
+    def assessment(self) -> str:
+        """Aday yöntem aktarımı; doğruluk veya meşruiyet hükmü vermez."""
+        if not self.transferable_pattern.strip():
+            return "REJECT_EMPTY_PATTERN"
+        if self.source.domain != self.target_domain:
+            if not self.target_mechanism.strip():
+                return "REVIEW_MECHANISM_MISSING"
+            if not self.target_evidence_ids:
+                return "REVIEW_EVIDENCE_MISSING"
+            return "CROSS_DOMAIN_REVIEW_REQUIRED"
+        if not self.target_evidence_ids:
+            return "REVIEW_EVIDENCE_MISSING"
+        return "SAME_DOMAIN_REVIEW_REQUIRED"
+
+
+def center_role_entails_legitimacy(
+    center_roles: dict, evidence_of_legitimacy: bool = False
+) -> bool:
+    """Koordinasyon veya fiziksel merkez tek başına normatif yetki vermez."""
+    return bool(evidence_of_legitimacy)
+
+
+@dataclass(frozen=True)
+class ResponsibilityChain:
+    knowledge: bool
+    deliberate_choice: bool
+    action: bool
+    outcome_observed: bool
+    norm_justified: bool
+
+    def review_flags(self) -> FrozenSet[str]:
+        flags = set()
+        if self.action and not self.deliberate_choice:
+            flags.add("DELIBERATION_NOT_ESTABLISHED")
+        if self.deliberate_choice and not self.knowledge:
+            flags.add("KNOWLEDGE_NOT_ESTABLISHED")
+        if self.action and not self.outcome_observed:
+            flags.add("OUTCOME_NOT_OBSERVED")
+        if self.action and not self.norm_justified:
+            flags.add("NORMATIVE_BASIS_NOT_ESTABLISHED")
+        return frozenset(flags)
+
+
 def sufficient_condition_refuted(cases: list) -> bool:
     """(P => O) önermesi için P doğru ve O yanlış bir karşı örnek var mı?"""
     return any(p and not outcome for p, outcome in cases)
