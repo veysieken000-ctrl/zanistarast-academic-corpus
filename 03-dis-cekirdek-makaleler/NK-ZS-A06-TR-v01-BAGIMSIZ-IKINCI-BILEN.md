@@ -111,6 +111,13 @@ Zanistarast H01–H05 ana çekirdek metinleri, araştırma dalı, 22 Ekim 2026.
 
 ## 8. İki onayın bağımlılık matrisi
 
-| Veri kökeni | Yöntem | Çıkarım |\n|---|---|---|\n| Aynı | Aynı | Bağımsız ikinci kanıt iddiası desteklenmez |\n| Aynı | Farklı | Bazı yöntem hataları ayrışabilir; veri hatası ortak kalır |\n| Farklı | Aynı | Veri bağımlılığı azalabilir; ortak yöntem yanlılığı kalır |\n| Farklı | Farklı | Bağımsızlık için daha güçlü aday; gerçek soy zinciri yine denetlenmeli |\n\n**Karşı-örnek:** İki kişi aynı hatalı cihazın sonucunu ayrı ayrı onaylar. İki onay vardır fakat doğruluk garantisi yoktur. Ontolojik ikinci Yek ile epistemik ikinci bilen özdeşleştirilmez. Bu matris bağımsızlık sertifikası değil kaynak sorgulama aracıdır.
+| Veri kökeni | Yöntem | Çıkarım |
+|---|---|---|
+| Aynı | Aynı | Bağımsız ikinci kanıt iddiası desteklenmez |
+| Aynı | Farklı | Bazı yöntem hataları ayrışabilir; veri hatası ortak kalır |
+| Farklı | Aynı | Veri bağımlılığı azalabilir; ortak yöntem yanlılığı kalır |
+| Farklı | Farklı | Bağımsızlık için daha güçlü aday; gerçek soy zinciri yine denetlenmeli |
+
+**Karşı-örnek:** İki kişi aynı hatalı cihazın sonucunu ayrı ayrı onaylar. İki onay vardır fakat doğruluk garantisi yoktur. Ontolojik ikinci Yek ile epistemik ikinci bilen özdeşleştirilmez. Bu matris bağımsızlık sertifikası değil kaynak sorgulama aracıdır.
 
 **Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
