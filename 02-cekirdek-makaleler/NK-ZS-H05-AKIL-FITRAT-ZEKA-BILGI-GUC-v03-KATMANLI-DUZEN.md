@@ -180,3 +180,16 @@ Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–i
 **Örnek 3 — ruh, kanun ve yazılım:** D4'ün ilk evresi ruh, ikinci evresi meleklerdir. Ruhun düzen/kanunla açıklanması kurucu ontolojik-teolojik yorumdur; kod/yazılım benzetmesi `ANALOGY`, ruhun statüsü `THEOLOGICAL` olarak ayrı işaretlenir. Bilgisayar programı, fizik yasası, toplumsal kural ve ahlaki hüküm tek tür “kanun” değildir. “Her düzenin üzerinde bilen vardır” kurucu tezi, yazılım benzetmesinden deneysel olarak kanıtlanmış olmaz.
 
 **Aktarım kapısı:** H04'e kaynak–bilgi–tercih–değer ayrımı; İNSAN-TARİHİ-01'e öğrenme–yeni çıkarım–gerekçelendirme–karşı-örnek ayrımı taşınabilir. Her hedefte yeni mekanizma, kaynak ve karşı-örnek kaydedilmeden `CROSS_DOMAIN_REVIEW_REQUIRED` kapısı kapanmaz. K0–K6, bağımsız Rasterast ve yayın kilidi sürer.
+
+
+## Ek F — İlimden ilim ölçütünün karşı-örnekli uygulaması
+
+**H05'in ayırt edici araştırma sorusu:** Önceki bilgiyi tekrarlamak ile gerekçelendirilmiş yeni çıkarım üretmek nasıl ayrılır? Kurucu “ilimden ilim” tanımı ampirik tür ayrıcalığı kanıtı değildir.
+
+**İşlemsel üç kapı:** `K1` önceki bilgiye göre açık yeni önerme veya çıkarım; `K2` gerekçenin izlenebilir olması; `K3` yeni koşul, karşı-örnek veya bağımsız veriyle sınama. `K1` tek başına doğrulanmış bilgi anlamına gelmez; `K1 ∧ K2 ∧ K3` de yöntemin hata yapmayacağını garanti etmez.
+
+**Karşı-model:** Bir dil modeli daha önce görülmemiş bir cümle kurar; cümle yanlış veya gerekçesiz olabilir. Dolayısıyla metinsel yenilik, gerekçelendirilmiş bilgi üretimi için yeterli değildir. Öte yandan hayvanlarda planlama/araç kullanımı örnekleri bulunduğundan 'hayvanlar yeni çıkarım yapamaz' genellemesi deneysel sonuç gibi ileri sürülemez.
+
+**Disiplinler arası tür denetimi:** DNA dizisi biyolojik bilgi taşıyabilir; zihinsel temsil ve gerekçelendirilmiş bilimsel önerme aynı kanıt türü değildir. Fizikte güç birimi watt, kuvvet birimi newtondur; toplumsal yetki ve ahlaki güç bu birimlerle ölçülmez. Ruh–kod/yazılım analojisi işlevsel benzerlik olarak işaretlenir, ontolojik eşitlik değildir.
+
+**Bitirme açığı:** İnsan/hayvan/yapay zekâ karşılaştırması için ön kayıtlı görevler, bağımsız değerlendiriciler ve alan literatürü gerekir. Deney yapılmış gibi sonuç sunulmaz. K0–K6 ve bağımsız Rasterast açık.
