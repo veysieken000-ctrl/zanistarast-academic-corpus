@@ -47,6 +47,26 @@ class TransferImpactTests(unittest.TestCase):
         self.assertEqual({e["edge_id"] for e in edges},
                          {"T09", "T10", "T14", "T15"})
 
+    def test_all_edges_have_traceable_reasoning(self):
+        fields = ("source_section", "target_section", "transferable_claim",
+                  "counterexample", "evidence_status", "review_status",
+                  "source_baseline_sha", "target_baseline_sha")
+        for edge in self.data["edges"]:
+            for field in fields:
+                self.assertTrue(edge.get(field), f"{edge['id']} missing {field}")
+
+    def test_edge_baselines_match_nodes(self):
+        nodes = {n["id"]: n for n in self.data["nodes"]}
+        for edge in self.data["edges"]:
+            self.assertEqual(edge["source_baseline_sha"],
+                             nodes[edge["source"]]["baseline_blob_sha"])
+            self.assertEqual(edge["target_baseline_sha"],
+                             nodes[edge["target"]]["baseline_blob_sha"])
+
+    def test_no_edge_is_marked_independently_approved(self):
+        self.assertTrue(all(e["review_status"] == "PENDING_INDEPENDENT_RASTERAST"
+                            for e in self.data["edges"]))
+
     def test_unknown_change_no_review(self):
         self.assertEqual(affected_reviews(self.data, ["README.md"]), [])
 
