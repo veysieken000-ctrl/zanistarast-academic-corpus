@@ -121,3 +121,16 @@ Fıtrî işleyiş ile insanın bilgi, niyet ve tercih sorumluluğu §§4–5D'de
 
 ## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 *Varlık Sistemleri ve Boyutları* özgün Word dosyasının boş olmayan metin paragraflarında P66 üreme biçimleriyle evreleri karıştırırken P71 tek hücrelileri birinci evre diye adlandırır. Güncel kurucu karar uyarınca bölüm 5A tek hücreli/çok hücreli ayrımını esas alır. P90 zekâ/akıl ayrımıyla uyumludur. P161 ve devamında dünya/ahiret evre anlatımı bulunur; güncel tabloda bunun tarihsel teolojik anlatım olduğu korunur, yeni ampirik evre dizisi kurulmaz. Bu nedenle “altıncı boyut için özgün kaynakta hiçbir evre anlatımı yoktur” sonucu çıkarılmamalıdır. Kaynak: https://drive.google.com/file/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d .
+
+
+## Ek E — MK-013–015 işlevsel anlama rampası ve karşı-örnek denetimi (23 Ekim 2026)
+
+**Kaynak ve statü:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`. Bu bölüm kaynaklı kavramsal aktarım önerisidir; yapılmış deney, bağımsız Rasterast onayı veya yeni kurucu aksiyom değildir.
+
+**Beş sorulu profil:** (R) beden, araç, enerji ve çevre gibi fiziksel taşıyıcılar; (I) öznenin eriştiği bilgi ve gerekçe; (P) seçenekleri değerlendirme ve eylem; (C) fıtrî imkân, fiziksel kısıtlar ve kurum kuralları; (V) iradeli ahlaki değerlendirme. Beş işlev kozmik beş boyut değildir; kozmik D5 ahlak önceki boyutları kapsar.
+
+**Örnek ve sınama:** Elini kaldırmak isteyen kişinin fiziksel hareket aralığı R/C'ye, niyetini gerekçelendirmesi I/P'ye, hareketin ahlaki değerlendirmesi V'ye aittir. Yeni bir araç kullanabilmesi seçenek kümesini genişletebilir; bunun ahlaken doğru seçim sağladığı çıkarılamaz. Karşı-örnek: yanlış bilgi, bağımlılık veya yeni zarar riskiyle kullanılabilir seçeneklerin fiilen azalması.
+
+**Aktarım koşulu:** Jeoloji makalesindeki hazırlık–mekanizma–sonuç ayrımı burada imkân–erişim–tercih–ahlaki sonuç ayrımını incelemek için **yöntemsel benzetme** olarak kullanılır; jeokimyasal süreç ve iradeli seçim aynı nedensel mekanizma değildir. Fıtrat bilgisayar koduna, ruh fiziksel yazılıma indirgenmez.
+
+**Denetim açığı:** Belirlenmiş görevlerde araç öncesi/sonrası erişilebilir seçenek sayısı, bilgi kalitesi, tercih gerekçesi ve zarar ölçütleri ayrı kodlanmalı; karşı-örnekler ve bağımsız değerlendirme toplanmalıdır. K0–K6 ve yayın kilidi açıktır.
