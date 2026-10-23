@@ -116,3 +116,12 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 **O2 — Varlık Yönetim Düzeni**, Drive `1hgq1pwA8lnjSbTp1b9Xt3Q5JzTlieysa`: başlangıç 4281 (zamanın yıpratıcı özelliği), 14726 (mekân, zaman, hareket ve bireysellik), 26690 (kozmik genişleme/biyoloji analojisi), **28717 ('Her varlık kümesinin üst varlığı varlık kümesinin zamanını oluşturur')**, 31646 (karadelik üzerinden toplumsal benzetme). Özellikle 28717'deki ifade zaman kuramının özgün **üst–alt ilişki hipotezi** olarak kaynak zincirine eklenir; sonraki 'zaman = etkileşim' tanımıyla karşılaştırılmalı, birbirine otomatik eşitlenmemelidir.
 
 **Üçlü ayrım:** Özgün alıntı/iddia ≠ bilimsel doğrulama ≠ yeni kuramsal sentez. Kozmik genişlemenin tersine dönmesi, karadelik ve karanlık enerji arasındaki ilişkiler için bağımsız veri gerekir. K0–K6 açık.
+
+
+## Fiziksel zaman ile ontolojik zamanın ayrıştırılması
+
+Bu metindeki D4 'düzen ve zaman' kavramı, fiziksel saatlerin ölçtüğü süreyle özdeş değildir. Fizikte zaman, deneysel ölçümler ve kuramsal modellerle ele alınır; ruh ve melek evreleri ise burada kurucu teolojik-ontolojik önermelerdir. Fiziksel zamanın ölçülmesi D4'ün teolojik varlık iddialarını doğrulamaz. Tersine, fiziksel bir zaman modeliyle D4'ün birebir uyuşmaması tek başına teolojik hüküm üretmez.
+
+**Karşı-model:** Aynı fiziksel zaman aralığında iki biyolojik sistemin yaşlanma ve onarım hızları farklı olabilir. Bu gözlemden her sistemin bağımsız fiziksel zaman boyutu bulunduğu sonucu çıkmaz; süreç hızı ve saat zamanı ayrılmalıdır. 'Her varlık kümesinin üst varlığı onun zamanını oluşturur' önermesi, ölçülebilir bir zaman yasası olarak kullanılacaksa bağımsız değişken, ölçüm aracı ve yanlışlama koşulu gerektirir.
+
+**Kaynak ve statü:** D4 ruh/melek evreleri kurucu kanondan devralınır; kıyamet ve ahiret hakkında ifadeler teolojik yorum statüsündedir. Jeoloji, kozmoloji veya görelilik kuramından doğrudan deneysel kanıt çıkarılmaz. Dış fizik literatürü ve birincil tefsir metinleriyle ayrıntılı kaynak eşlemesi açık kalır.
