@@ -1,0 +1,37 @@
+name: Canonical risk regression
+on:
+  push:
+    branches:
+      - research/chatgpt-academic-2026-10-20
+    paths:
+      - '01-kanonik-denetim/kanonik_risk_tarama.py'
+      - '01-kanonik-denetim/test_kanonik_risk_tarama.py'
+      - '01-kanonik-denetim/KANONIK-AKTARIM-RISK-KURALLARI-R1-R5-2026-10-23.json'
+      - '.github/workflows/kanonik-risk-ci.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run R1-R5 regression tests
+        run: python3 01-kanonik-denetim/test_kanonik_risk_tarama.py -v
+      - name: Scan research articles (advisory only)
+        run: |
+          python3 01-kanonik-denetim/kanonik_risk_tarama.py \
+            --root 03-dis-cekirdek-makaleler \
+            --rules 01-kanonik-denetim/KANONIK-AKTARIM-RISK-KURALLARI-R1-R5-2026-10-23.json \
+            --output risk-uyarilari.json
+      - name: Upload advisory warnings
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: r1-r5-advisory-warnings
+          path: risk-uyarilari.json
+          if-no-files-found: ignore
