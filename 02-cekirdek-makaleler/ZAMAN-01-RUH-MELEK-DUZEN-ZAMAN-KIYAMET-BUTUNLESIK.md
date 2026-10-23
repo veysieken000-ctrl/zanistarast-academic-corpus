@@ -137,3 +137,14 @@ Bu metindeki D4 'düzen ve zaman' kavramı, fiziksel saatlerin ölçtüğü sür
 | Kozmik düzenin sona ermesi | Kozmoloji ile karşılaştırma | Farklı açıklama türlerinin sınırları incelenebilir | Kıyametin zamanı fizik modellerinden hesaplanmıştır |
 
 **Bağımsız denetim ölçütü:** İkinci bilen, kurucu yorumun kaynak sadakatini ve ampirik önermenin yöntemini ayrı değerlendirir. Ortak tefsir veya ortak fizik kaynağını kullanan iki rapor otomatik bağımsız kanıt değildir. Bu tablo kaynak doğrulamasının yerini almaz; D4 ile diğer makaleler arasındaki hatalı çıkarımları önlemeye yarar.
+
+
+## Araştırma soruları ve yanlışlama düzeyleri
+
+**R1 (yorum):** D4'te ruh ve melek evreleri ile düzen/zaman işlevi aynı ontolojik düzeyin iki farklı açıklama türü müdür? Yanıt kurucu kaynaklar arasındaki tutarlılık ve yorum ayrımları üzerinden değerlendirilir; fiziksel deneyle çözüldüğü ileri sürülmez.
+
+**R2 (kavramsal):** Üst varlık kümesinin alt kümenin zamanını oluşturması, yalnızca süreçlerin eşgüdümü anlamına mı gelir, yoksa ayrı bir fiziksel nicelik mi önerir? İkinci seçenek ileri sürülürse ölçülebilir tanım ve rakip fizik modellerine göre farklı öngörü zorunludur.
+
+**R3 (ampirik):** Biyolojik ritim ve yaşlanma farklılıkları çevresel koşullar ve fizyoloji kontrol edildiğinde nasıl değişir? Bu sorunun yanıtı ontolojik D4'ün kanıtı değil, biyolojik zamanlama hakkında sınırlı sonuç üretir.
+
+**Yanlışlama sınırı:** Metinsel yorumun kaynakla çelişmesi yorumun revizyonunu; ölçülebilir hipotezin veriyle uyuşmaması ampirik iddianın revizyonunu gerektirir. İki düzey birbirinin yerine kullanılamaz. Bu araştırma soruları için henüz yeni veri veya bağımsız değerlendirme yoktur.
