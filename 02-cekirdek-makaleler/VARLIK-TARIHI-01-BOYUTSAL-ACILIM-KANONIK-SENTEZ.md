@@ -112,3 +112,18 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **Zaman bağlantısı:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (blob `b4db52d9`) etkileşim–denge–sonuç sıralamasını önerir. Jeolojik örnekte sonuç değişkeni `B`, zaman aralığı `Δt`, ara süreçler `C` ve `R` olarak ayrı kaydedilmelidir. Denge dışı kimyasal süreçlerin varlığı, bütün geçişlerin termodinamik dengeye varacağı varsayımına karşı kontrol oluşturur.
 
 **Katman kararı:** Bu sınama varlık tarihi makalesinin içinde kalır. Ancak jeolojik sınırın hangi somut çevresel ve kimyasal göstergelerle belirleneceğini bağımsız veri ve yöntemle inceleyen çalışma, birinci katmanda ayrı makale olabilir. İnsan tarihi hattı için benzer ayrım, biyolojik Homo sapiens tarihi ile kültürel/kurumsal uygarlık tarihinin farklı kanıt dizileridir. Dış literatür ve bağımsız Rasterast kontrolü açıktır.
+
+
+## 14. Boyutsal açılım aksiyomları ve jeolojik geçiş: ön çalışma karşılaştırması (23.10.2026)
+
+**Doğrudan kaynaklar:** `ZANISTARAST-TEORILER/theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md` (`27572db9`) ve `theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md` (`0c9a6235`). Bu metinler sırasıyla A1–A5 boyutsal açılım aksiyomlarını ve jeolojik sınırdan biyolojik evreye geçiş hipotezini daha önce formüle etmiştir.
+
+**Kapsama sınaması:** A1 'üst sistem alt sistemi çalıştırır' önermesi için, bir biyolojik organizmanın fiziksel/kimyasal altyapıya bağımlılığı ile 'üst boyut fiziksel yasaları üretir' iddiası ayrıdır. İlki sistem bağımlılığıdır; ikincisi ek nedensel kanıt ister. A2 'boyut kapsama yeteneğidir' önermesi, boyutu koordinat sayısından farklı bir ontolojik ölçüt olarak tanımlar; kapsama ilişkisi her örnek için operasyonelleştirilmelidir.
+
+**İkili açılımın karşı-modeli:** A3'ün kurulma/süreklilik evreleri hücre–çok hücreli örgütlenme için açıklayıcı adaydır; fakat iki hücrenin yan yana bulunması çok hücreli organizmanın oluştuğunu göstermez. Hücreler arası iş bölümü, bütünleşme ve kalıtımsal süreklilik ayrıca araştırılır. Benzer biçimde atomların varlığı yıldız–gezegen sistemini zorunlu üretmez.
+
+**Jeoloji ve insan tarihi için veri gereksinimi:** Jeolojik sınır çalışmasındaki enerji dağılımı, kararlılık ve karmaşıklık eşikleri ölçülebilir büyüklüklerle tanımlanmadan evrensel 'geçiş kanunu' sayılamaz. İnsan tarihindeki birey–toplum geçişinde de nüfus yoğunluğu tek başına kurumsal Komel'in oluştuğunu kanıtlamaz; ilişkisel kurum, hafıza, iş bölümü ve norm aktarımı gibi ayırıcı göstergeler gerekir.
+
+**Kanonik düzeltme:** Eski tarih teorisinin D4 'kanun/koordinasyon' başlığı güncel D4 ruh–melek evrelerinin düzen/zaman işlevi bağlamında okunur; fiziksel zaman koordinatıyla özdeşleştirilmez. Ehad Yek'tir, yaratılmış Yek değildir. Kurucu A1–A5 önermeleri korunur; her birinin ispat yükü ayrı değerlendirilir.
+
+**Türetme kapısı:** Mevcut varlık tarihi ve zaman metinleri yeni başlıklarla kopyalanmaz. Birinci katmanda bağımsız jeoloji tarihi veya insan tarihi makalesi ancak kaynak metin, ayrı soru, ayrı yöntem, karşı-model ve bağımsız literatür iziyle açılır. K0–K6, 488 adayla tam özgünlük karşılaştırması ve bağımsız Rasterast açıktır.
