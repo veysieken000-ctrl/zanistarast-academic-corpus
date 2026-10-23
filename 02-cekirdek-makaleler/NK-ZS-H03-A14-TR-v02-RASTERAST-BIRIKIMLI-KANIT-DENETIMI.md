@@ -183,7 +183,7 @@ Bu ek, kurucunun H02 Zanabûn için belirlediği bilgi tanımını ve iki ayrı 
 
 **Yanlış-pozitif sınırı:** Aynı veri üzerinde farklı yöntemlerle yürütülen iki analiz, bazı hata türlerini birbirinden bağımsız biçimde yakalayabilir. Dolayısıyla ortak veri tespitinden “ikinci değerlendirme değersizdir” sonucu da çıkarılamaz.
 
-**Kanıt durumu:** MK-016 pilotu ve dokümante edilmiş kaynak karşılaştırması, yöntemsel bir uygulamadır; bağımsız hakemlik, bilimsel üstünlük ve gerçek zaman tasarrufu ölçümü değildir. K0–K6 ve yayın kilidi sürer.
+**Kanıt durumu:** MK-016 pilotu ve dokümante edilmiş kaynak karşılaştırması, yöntemsel bir uygulamadır; bağımsız hakemlik, bilimsel üstünlük ve gerçek zaman tasarrufu ölçümü değildir. **Yeniden uygulama ölçütü:** Dış denetçinin aynı iddia için aynı kaynak bölümünü, kullanılan veri kökenini, yöntem bağımlılığını ve karşı-örneği bağımsız kayıtta bulması gerekir. Bu yeniden uygulama fiilen gerçekleştirilmeden denetim tamamlandı işareti verilmez. K0–K6 ve yayın kilidi sürer.
 
 
 ## Ek F — H01 ve H02 kaynak-denetim kararı
