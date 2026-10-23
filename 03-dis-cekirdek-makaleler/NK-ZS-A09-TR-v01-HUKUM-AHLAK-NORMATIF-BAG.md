@@ -63,3 +63,12 @@ Bir olayın D5 kapsamında ahlaki anlam taşıdığı söylenmesi, olayın büt�
 ## Sonuç ve sınırlamalar
 
 A09'un dar sonucu, maddi sonuç ile ahlaki sorumluluk arasındaki geçişin ek normatif öncüller gerektirdiğidir. Teolojik kaynak yorumu, karşıt etik literatürü, özgün DOCX karşılaştırması ve bağımsız eleştiri tamamlanmadan yayın hazırlığı bitmiş sayılmaz.
+
+
+## A07–A08 ve H04 ile hüküm sınırı denetimi
+
+A07'de D5 ahlak boyutunun kozmik kapsayıcılığı, A08'de eylem–niyet–sonuç ayrımı ve H04'te bilgi–erişim–kontrol koşulları birlikte ele alındığında, gözlenen olaydan belirli bir kişinin nihai hükmüne geçilemeyeceği ortaya çıkar. D6'nın ahiret ve hüküm boyutu kanonik teolojik statüdedir; deneysel bir ölçüm değişkeni değildir.
+
+**Karşı-model:** İki kişinin dışarıdan aynı görünen davranışı gerçekleştirdiği varsayılsın. Birinin seçenekleri açık, diğerinin seçenekleri baskı altında sınırlı olsun. Aynı sonuçtan aynı kusur derecesi çıkarmak, erişim ve kontrol farkını siler. Buna karşılık baskının bulunması da bütün normatif soruları otomatik çözmez; sorumluluk ölçütü açık gerekçe ister.
+
+**Yöntem kararı:** Gözlem, eylem, niyet hakkındaki belirsizlik, seçenekler, kontrol ve kullanılan normatif öncül ayrı kaydedilir. D6'ya ilişkin inanç önermeleri ampirik sonuç gibi sunulmaz ve bu metin kişiler hakkında nihai hüküm vermez. Bu bölüm iç tutarlılık denetimidir; bağımsız teolojik veya etik hakemlik tamamlanmış değildir. K0–K6 ve yayın kilidi sürer.
