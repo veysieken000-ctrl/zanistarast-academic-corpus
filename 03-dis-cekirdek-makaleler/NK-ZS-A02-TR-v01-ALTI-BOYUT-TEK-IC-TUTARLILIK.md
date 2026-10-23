@@ -64,3 +64,14 @@ K0: Özgün “1-VARLIK SİSTEMLERİ VE BOYUTLARI (3).docx” paragraf karşıla
 Zanistarast Ehad–Yek kurucu kanonu (22 Ekim 2026); 27 makale üretim ve kalite matrisi, A02; H01–H05 çekirdekleri; A06, A07 ve A14 çalışma metinleri.
 
 **Yayın kararı:** 412 benzersiz makale, kanonik çapraz uyum ve kurucu onayı tamamlanmadan yayımlanmaz.
+
+
+## 9. Kozmik boyut tür denetimi: açık yanlışlanma örnekleri
+
+**A02'nin özgün tezi:** 6+Tek, yaratılmış altı kozmik boyutun ontolojik tasnifidir; insanın iç katmanlarının sayısal listesi veya doğrulanmış bilimsel boyut teorisi değildir. D1 fizik; D2 biyoloji; D3 zihinli hayvanlar ve insan; D4 ruh ve melekler; D5 önceki boyutların iş/oluş/hareket/fıtrî ahlakını kapsayan ahlak ve insanda iradeli ahlak; D6 hüküm/ahiret. Tek yedinci yaratılmış boyut değildir.
+
+**Kategori hatası testi:** `COSMIC_D4 = HUMAN_LAYER_4` eşitlemesi, iki dizinin türleri ayrı olduğu için kanonik olarak reddedilir. Benzer biçimde 'D4 = zaman' ifadesi ancak tarihsel bir evre etiketi olarak açıkça tanımlanırsa kullanılabilir; kozmik D4'ün yerine geçemez.
+
+**Karşı-model:** Bir insanın aynı anda biyolojik, zihinsel ve ahlaki özellikler taşıması, üç kozmik boyutun insan içinde bire bir sayısal olarak sıralandığını kanıtlamaz. Kozmik kapsama, bireysel parça–bütün veya bilimsel mekanizma eşitliği değildir.
+
+**Araştırma sınırı:** D4 ve D6'nın teolojik statüsü deneysel gözlem diye gösterilmez; D1–D3'ün bilimsel iddiaları ilgili disiplinlerin kanıtıyla denetlenir. Bu bölüm iç tutarlılık denetimidir, ampirik boyutların keşfi değildir. K0–K6 ve kaynak denetimi açık.
