@@ -44,3 +44,22 @@ K0: “3-Etik ve ahlak.docx” özgün paragraf eşleştirmesi açık. K1: Karş
 D5'in fıtrî ahlak kapsamından D6'daki hükmün belirli sonucuna geçmek için ayrıca normatif öncül gerekir. **Karşı-model:** Aynı zararlı sonuç, bir olayda kasıtlı, diğerinde öngörülemez kazayla doğabilir; salt sonuç eşitliği eşit kusur veya hüküm çıkarmaz. Bilgi, niyet, seçenek ve kontrol ayrı incelenir. D6 teolojik bir savdır, laboratuvar ölçümü olarak sunulmaz.
 
 **Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
+
+
+## Genişletilmiş öz ve özgün katkı
+
+Bu makale Zanistarast'ın kozmik D5 ahlak boyutu ile D6 hüküm/ahiret boyutu arasındaki ilişkinin hangi gerekçe sınırlarında savunulabileceğini inceler. Yöntem, aynı maddi sonucun farklı niyet, bilgi ve kontrol koşullarında ortaya çıktığı iki düşünce durumunu karşılaştıran normatif analizdir. Salt sonuç eşitliğinin eşit kusur veya eşit hüküm sonucunu zorunlu kılmadığı gösterilir. D6 hakkındaki teolojik kabul, deneysel ölçüm sonucu olarak sunulmaz. Özgün katkı, kozmik kapsama ile insanın iradeli sorumluluğu arasında kurulacak normatif köprünün açık öncüllerini aramaktır.
+
+**Anahtar sözcükler:** hüküm; ahlak; sorumluluk; niyet; kusur; ahiret; 6+Tek.
+
+## Yöntem — Sonucu sabit tutan normatif karşılaştırma
+
+Analiz birimi, eylem ile hüküm arasında kurulan çıkarımdır. İki düşünce durumunda sonuç benzer kabul edilirken kasıt, öngörülebilirlik, bilgi ve kontrol değişkenleri ayrılır. Sonuçtan kusura doğrudan geçişin geçerli olup olmadığı sorgulanır. Ardından D5'in kozmik ahlak kapsamı ile D6'nın teolojik hüküm anlamı ayrı statülerde işaretlenir. Bu yöntem ne deneysel ahiret araştırması ne de belirli kişilere hüküm verme işlemidir.
+
+## Tartışma — Kapsama ile yargı arasındaki fark
+
+Bir olayın D5 kapsamında ahlaki anlam taşıdığı söylenmesi, olayın bütün unsurlarına insan türü niyet atfetmeyi gerektirmez. İnsanın iradeli sorumluluğu bilgi, seçenek ve kontrol gibi ek koşullarla değerlendirilir. D6'nın kurucu teolojik konumu, bu normatif ayrımı destekleyen yorum alanıdır; fiziksel ölçümden otomatik olarak türetilmez. A07'nin fıtrî–iradeli ayrımı ve A08'in zorlanma karşı-modeli, A09'da hükmün gerekçelendirilmesini sınırlandırır.
+
+## Sonuç ve sınırlamalar
+
+A09'un dar sonucu, maddi sonuç ile ahlaki sorumluluk arasındaki geçişin ek normatif öncüller gerektirdiğidir. Teolojik kaynak yorumu, karşıt etik literatürü, özgün DOCX karşılaştırması ve bağımsız eleştiri tamamlanmadan yayın hazırlığı bitmiş sayılmaz.
