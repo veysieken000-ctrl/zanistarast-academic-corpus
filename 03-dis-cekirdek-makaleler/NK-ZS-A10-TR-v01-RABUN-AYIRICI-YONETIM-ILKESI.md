@@ -64,3 +64,22 @@ K0: “4-varlık yönetim düzeni (1).docx” özgün paragraf eşleştirmesi a�
 **Vaka A:** Merkez tüm bilgiyi toplar fakat itirazları gizler; koordinasyon yüksek olsa bile denetlenebilir meşruiyet eksiktir. **Vaka B:** Kararlar bütünüyle dağıtılır, ancak hiçbir aktör sorumluluk üstlenmez; dağıtıklık da tek başına hesap verebilirlik değildir. Bu iki vaka Rabûn için görev tanımı, gerekçeli yetki, itiraz kaydı ve düzeltme izinin birlikte aranmasını gerektirir. Komel ontolojisi bu kurumların fiilen başarılı olduğunu kanıtlamaz.
 
 **Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
+
+
+## Genişletilmiş öz ve araştırma katkısı
+
+Bu makale Rabûn yönetim ilkesini merkezî koordinasyon ve dağıtık karar verme arasında otomatik bir tercih olarak değil, yetki, gerekçe, itiraz ve düzeltme koşullarını birlikte sınayan normatif çerçeve olarak ele alır. Yöntem, hızlı karar veren fakat denetlenmeyen merkezî yapı ile katılımı artıran fakat sorumluluğu belirsiz dağıtık yapının karşı-modellerini karşılaştırır. Her iki uç örnek, tek bir örgütlenme biçiminin tek başına meşruiyet veya başarı kanıtı olmadığını gösterir. Yek–Komel ontolojisinden somut anayasal model çıkarılmaz. Katkı, Rabûn'un kurumsal savlarının hangi bağımsız gerekçeleri gerektirdiğini görünür kılmaktır.
+
+**Anahtar sözcükler:** Rabûn; yönetişim; yetki; hesap verebilirlik; merkezileşme; temsil; Rasterast.
+
+## Yöntem — İki kurumsal karşı-model
+
+İlk düşünce durumunda karar hızı yüksek, fakat karar gerekçesi ve itiraz kanalı zayıftır. İkinci durumda çok sayıda karar merkezi bulunur, ancak kimin hangi sonuçtan sorumlu olduğu belirsizdir. Bu örneklerde karar hızı, yetki açıklığı, itiraz erişimi, düzeltilebilirlik ve sonuçların izlenebilirliği ayrı değerlendirilir. Bunlar ölçülmüş kurumsal performans göstergeleri değil, ileride ampirik olarak araştırılabilecek değişkenlerdir.
+
+## Tartışma — Koordinasyon ve meşruiyet
+
+Merkezî karar, ortak eylemi kolaylaştırabilir; ancak gerekçesiz yetki kullanımı riskini de taşıyabilir. Dağıtık karar, yerel bilgiye erişimi artırabilir; buna karşılık hesap verebilirliği kendiliğinden güvenceye almaz. Bu nedenle kurumsal meşruiyet, yalnız ağın merkezi veya dağıtık olmasıyla belirlenmez. A11'in temsil ve denetim göstergeleri, A18'in hukuki meşruiyet ayrımı ve H03'ün Rasterast kanıt denetimi Rabûn iddialarının ayrı sınama düzeyleridir.
+
+## Sonuç ve kanıt sınırı
+
+A10'un dar sonucu, Rabûn yönetim savının tek bir merkezileşme ölçütünden değil, yetki ve düzeltme gerekçelerinin birlikte değerlendirilmesinden hareketle savunulabileceğidir. Karşıt yönetişim literatürü, özgün DOCX izi, uygulama verisi ve bağımsız inceleme açık olduğundan dergiye hazır değildir.
