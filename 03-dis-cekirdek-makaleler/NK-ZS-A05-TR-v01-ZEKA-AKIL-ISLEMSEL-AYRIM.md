@@ -44,3 +44,22 @@ Zanistarast H01–H05 çekirdek makaleleri, 22 Ekim 2026.
 **Görev 1:** Önceden öğrenilmiş çözümü yeni örneğe aktarma. **Görev 2:** Verilen öncüllerden daha önce sunulmamış, gerekçesi izlenebilir önerme üretme. **Görev 3:** Bu önermeyi bağımsız veri veya karşı-örnekle sınama. İnsan, hayvan ve yapay zekâ için ölçütler aynı tanımlanmalıdır; iletişim ve motor yetenek farklılıkları kontrol edilmelidir. **Karşı-örnek:** Yeni sözcük dizisi üretmek yeni doğru bilgi üretmek değildir; hayvanın yeni araç çözümü bulması ise yeni çıkarımın yalnız insanlarda bulunduğunu varsaymayı engeller. Bu bir deney tasarımıdır, sonuç değildir.
 
 **Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
+
+
+## Genişletilmiş öz ve özgün katkı
+
+Bu makale, Zanistarast'ın aklı “ilimden ilim üretme” olarak ele alan kurucu tanımını, zekânın problem çözme ve uyarlama becerilerinden nasıl işlemsel olarak ayırabileceğini araştırır. Yöntem, tür etiketlerinden bağımsız görev karşılaştırması ve iki karşı-modeldir: önceden öğrenilmiş çözümün yeni duruma uygulanması ile yeni, gerekçelendirilebilir açıklama veya yöntem üretilmesi. Bu karşılaştırma hayvanlarda yenilikçi problem çözmenin bulunamayacağını varsaymaz; yalnız görev başarısından insan türüne özgü metafizik kapasite sonucu çıkarmaz. Çalışmanın katkısı, kavramsal ayrımın ampirik araştırmada hangi ölçüm hatalarına açık olduğunu belirtmesidir.
+
+**Anahtar sözcükler:** zekâ; akıl; problem çözme; bilgi üretimi; karşılaştırmalı biliş; işlemsel tanım.
+
+## Yöntem — Türden bağımsız görev matrisi
+
+İlk görevde özne mevcut kuralı yeni örneğe uygular. İkinci görevde özne mevcut açıklamanın yetersizliğini saptayıp gerekçeli yeni kural veya sınanabilir hipotez önerir. Her iki görevde eğitim geçmişi, ipucu miktarı, bellek yükü ve değerlendirme ölçütleri ayrı kaydedilmelidir. Birinci görevde başarı `yalnız zekâ`, ikinci görevde başarı `kesin akıl` diye otomatik etiketlenmez; görevler yalnız önerilen ayrımın geçerli olup olmadığını sınama olanağı sunar. Bu makalede katılımcı veya hayvan deneyi yapılmamıştır.
+
+## Tartışma — Döngüsellik ve karşıt ihtimal
+
+“İnsan yapıyorsa akıldır” biçimindeki tür temelli tanım, insan üstünlüğünü sonuçtan önce kabul eder ve test edilemez hâle getirir. Öte yandan tek bir yaratıcı davranışı yeni bilimsel bilgiyle özdeşleştirmek de gerekçelendirme ve tekrar sınamasını atlar. Hayvanlarda yeni araç çözümü, insanlarda ise ezber tekrarının görülmesi, iki yetinin yalnız tür adıyla ayrılmasına karşı örneklerdir. H05'in kurucu ayrımı bilimsel bir hipotez olarak sınanacaksa ölçülebilir başarı ölçütleri ve karşıt sonuçların kabul koşulları önceden belirtilmelidir.
+
+## Sonuç ve kanıt sınırı
+
+A05'in savunulabilir sonucu, zekâ–akıl ayrımının tür etiketlerinden değil açık görev, gerekçe ve hata ölçütlerinden hareketle araştırılması gerektiğidir. Karşılaştırmalı bilişin birincil literatürü, etik deney tasarımı, kaynak izi ve bağımsız değerlendirme tamamlanmadığından deneysel üstünlük veya dergiye hazır sonuç iddia edilmez.
