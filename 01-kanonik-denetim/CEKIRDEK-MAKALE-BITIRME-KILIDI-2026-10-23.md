@@ -21,3 +21,12 @@ Yeni MK keşfi yalnız mevcut havuza kısa kayıt olarak eklenir; ayrı inovasyo
 - H03 v02: Ek E — gerçek H02/H03 kaynak atıfları, ortak kaynakların bağımsızlık iddiasını desteklememesi ve yanlış-pozitif sınırı.
 
 **Dürüst bitirme kapısı:** Bir makale ancak iç tutarlılık, gerekli dış kaynaklar, iddia/kanıt eşlemesi, bağımsız Rasterast, K0–K6 ve kurucu onayı tamamlandığında 'tamamlandı' sayılabilir. Bu üç ek makaleleri ilerletmiştir ama tek başına bitirmiş değildir. 412 benzersiz makale tamamlanmadan dış yayın/gönderim yoktur. Araştırma dalında çalışılır; main değiştirilmez.
+
+
+## Bitirme turu kararı — 23 Ekim 2026
+
+Beş iç çekirdeğin H01–H05 ana metinleri üzerinde doğrudan bilimsel ifade ve karşı-model düzeltmeleri yapıldı. Son commitler: H01 `6386b6c2`, H02 `ff1149e5`, H03 `5139ea8b`, H04 `4dbbc7f6`, H05 `b74b3aa3`. Bu beş commit için GitHub Actions sonuçları başarılıdır. Başarılı CI yalnız depo ve otomatik kontrol sonucudur; bilimsel hakemlik değildir.
+
+**Metin hazırlığı ile akademik bitişi ayıran karar:** Mevcut beş çekirdek metni genişletmek tek başına bitirme işini ilerletmiyor. Bundan sonraki değişiklikler yalnız somut hata, doğrulanmış kaynak eksikliği, karşıt literatür veya bağımsız denetim bulgusuna dayandırılmalı. K0–K6'nın tamamlandığına dair belge ve kurucu onayı bulunmadığından beş metin 'yayına hazır' ilan edilmez. 412 makalenin tamamı bitmeden dış gönderim yapılmaz.
+
+**Kapatılacak son açık işler:** H01 bilimsel kaynak–iddia eşleşmesinin dış kontrolü; H02 gerekçelendirme köprüsünün bağımsız eleştirisi; H03 farklı denetçinin soyağacını yeniden uygulaması; H04 karşıt normatif literatürün birincil metin kontrolü; H05 karşılaştırmalı biliş literatürünün yöntem ve karşıt sonuç taraması. Bu işlerin yapıldığına dair kanıt yoksa 'açık' statüsü korunur.
