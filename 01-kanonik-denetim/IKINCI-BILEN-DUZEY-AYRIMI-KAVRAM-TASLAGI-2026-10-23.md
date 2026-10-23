@@ -41,3 +41,7 @@ Kurmancî karşılıklar dilsel inceleme ve kurucu onayı olmadan kesinleştiril
 **İlk iki boyut için önerilen kısa terimler:** Fizik: *gücün fıtrî işleyişi*. Biyoloji: *bilginin fıtrî işleyişi*. Bunlar Kurmancî çeviri değil, kurucu onayı bekleyen Türkçe kavramsal önerilerdir. 3–5 boyutları ve hüküm/ahiret, bunlara indirgenmez; +Tek yedinci yaratılmış boyut değildir.
 
 **İzlenebilirlik:** H02 Zanabûn v02 §1 ve §8; Ehad–Yek kurucu kanonu §IV; kurucunun 23 Ekim 2026 açıklaması. Felsefi önerme, teolojik hüküm ve ampirik biyoloji/fizik ayrı iddia türleri olarak kaydedilir.
+
+## 23 Ekim 2026 — Kurmancî adlandırma tercihi
+
+**Kurucunun önerdiği ontolojik terim: Hebûna Hebûnî.** Ehad'ın hükmü karşısında yaratılmış Yek'in varlık göstermesi ve kendi boyutuna özgü fıtrî düzenini sergilemesi. Önceki çalışma önerisi *Zanayê Hebûnî* yerine, bilinçli bilme çağrışımını azaltmak için bu ad tercih edilmiştir. **Epistemik terim önerisi: Zanayê Nirxîner**, Zanabûn'da sonucu değerlendiren ikinci bilen için. Bu iki kavram özdeş değildir. Kurmancî terimlerin dilsel doğallığı ayrıca kontrol edilmelidir; bu kayıt kurucunun ontolojik ad önerisini ve epistemik ad için mevcut tercihi belgeler, dilbilimsel kesin doğrulama iddiası taşımaz.
