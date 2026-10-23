@@ -77,3 +77,14 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **Karşı-örnek:** Enerji akışı olan her ortamda canlılık veya bilinç zorunlu doğmaz. Yek→Komel ilişkisindeki mantıksal düzen ile atomdan yıldıza fiziksel süreçler aynı mekanizma değildir. Ehad ve Hebûn teolojik/ontolojik kurucu kabul olarak etiketlenir; astrofiziksel ölçüm diye sunulmaz.
 
 **Aktarım:** JEOLOJİ-01'e “ortamın imkânı ≠ sonucun zorunluluğu”; H05'e “fiziksel güç ≠ bilginin ve aklın tamamı” soruları gönderilir. Her aktarımda alan, kanıt ve karşı-örnek ayrı denetlenir; bağımsız Rasterast beklenir.
+
+
+## 11. Jeoloji tarihi ve insan tarihiyle karşılıklı sınama (23.10.2026)
+
+**Jeolojik zamanın dış referansı:** International Commission on Stratigraphy (ICS), *International Chronostratigraphic Chart*, v2026/06, https://stratigraphy.org/chart/ . Stratigrafik birimlerin sınırları ve jeokronolojik tarihler, Zanistarast'ın ontolojik evreleriyle aynı sınıflama değildir. Varlık tarihi tezinin jeolojik veriye uygulanmasında ölçülebilir kayaç, fosil, stratigrafi ve tarihlendirme verisi ayrıca belirtilir. Tek bir ontolojik evreden tek bir jeolojik çağın tarihi türetilemez.
+
+**İnsan tarihinin dış referansı:** Smithsonian National Museum of Natural History, *Human Evolution Evidence*, https://humanorigins.si.edu/evidence ve *Homo sapiens*, https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens . İnsanlık tarihine dair fosil, genetik, arkeolojik ve kültürel veriler birbirini tamamlayan fakat farklı kanıt türleridir. Tür tarihi, tekil kişinin iradeli ahlakı ve uygarlık kurumlarının tarihi aynı araştırma değişkeni değildir. İnsan tarihi makalesinde Yek–Komel bağı, gözlenebilir toplumsal etkileşim ve kurumsal kayıtlarla ayrıca sınanır.
+
+**Çift yönlü geri besleme:** (1) Varlık tarihi, jeoloji ve insan tarihine 'hangi geçiş, hangi mekanizma, hangi delil?' sorusunu iletir. (2) Jeoloji ve insan tarihi, varlık tarihi metnine kronoloji, bağımsız kanıt ve karşı-örnek taşır. (3) Fiziksel veya tarihsel bir geçiş, tek başına kozmik 6+Tek boyutları ispatlamaz; altı boyutlu model için her düzeyde bağımsız gerekçelendirme aranır. (4) Kuantum durum geçişi ile ontolojik boyut geçişi, ayrıca tanımlanmış eşleme olmadan özdeşleştirilmez.
+
+**Araştırma sınırı:** Bu bölüm yeni saha verisi üretmez. ICS 2026/06 ve Smithsonian kaynakları dış referans olarak belirlenmiştir; bütün 488 adayın içerik karşılaştırması, özgün kaynak paragraf izleri, bağımsız Rasterast ve K0–K6 hâlâ açıktır.
