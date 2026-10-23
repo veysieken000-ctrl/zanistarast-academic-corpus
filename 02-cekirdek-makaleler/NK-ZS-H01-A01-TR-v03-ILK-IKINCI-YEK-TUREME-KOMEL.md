@@ -178,3 +178,8 @@ Bu bölüm, mevcut kurucu savı değiştirmeden **öncül → çıkarım → sı
 **H02/H03'e aktarım sınırı:** Buradaki ikinci Yek *ontolojik* rol; H02'deki ikinci bilen *epistemolojik* rol; H03'teki ikinci denetim ise *kanıt değerlendirme* rolüdür. Bunlar birbirinin yerine geçirilmez. Aynı kaynağa dayanan iki onay bağımsız kanıt sayılmaz (MK-016/MK-020). Bu ayrım sonraki metin düzeltmelerinde korunacaktır.
 
 **Tamamlanma kapısı:** Bu ek, H01'in kavramsal sınırlarını somutlaştırır; dış bilimsel literatür, K0–K6, bağımsız Rasterast ve kurucu onayı tamamlanmış sayılmaz. Makalenin yayın kilidi sürer.
+
+
+### Ek E — Rakip açıklama denetimi
+
+Yek–Komel tasnifinin bir gözlemle uyumlu olması, tek başına rakip fiziksel veya biyolojik mekanizmalardan daha güçlü bir açıklama sunduğunu göstermez. Her uygulamada incelenen birim, ilişki, sistem sınırı, zaman ölçeği, rakip mekanizma ve başarısızlık koşulu önceden belirtilmelidir. Biyolojik hücre kümelenmesinde seçilim ve bölünme sonrası bağlılık gibi mekanizmalar ayrıca açıklanmalıdır; ontolojik yorum bu mekanizmaların yerine geçmez. Kavramın uygulama sınırını gözlemden sonra değiştirmek yeni hipotez sayılır, önceki öngörünün doğrulanması sayılmaz. Bu ek kavramsal denetimdir; yeni deneysel bulgu veya bağımsız kaynak doğrulaması değildir. K0–K6 açık kalır.
