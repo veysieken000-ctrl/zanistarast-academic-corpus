@@ -127,3 +127,16 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **Kanonik düzeltme:** Eski tarih teorisinin D4 'kanun/koordinasyon' başlığı güncel D4 ruh–melek evrelerinin düzen/zaman işlevi bağlamında okunur; fiziksel zaman koordinatıyla özdeşleştirilmez. Ehad Yek'tir, yaratılmış Yek değildir. Kurucu A1–A5 önermeleri korunur; her birinin ispat yükü ayrı değerlendirilir.
 
 **Türetme kapısı:** Mevcut varlık tarihi ve zaman metinleri yeni başlıklarla kopyalanmaz. Birinci katmanda bağımsız jeoloji tarihi veya insan tarihi makalesi ancak kaynak metin, ayrı soru, ayrı yöntem, karşı-model ve bağımsız literatür iziyle açılır. K0–K6, 488 adayla tam özgünlük karşılaştırması ve bağımsız Rasterast açıktır.
+
+
+## 15. Jeoloji tarihi ile insan tarihi için iki ayrı kanıt zinciri (23.10.2026)
+
+**Ön çalışma bağı:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md` (`0c9a6235`) jeolojik ortamdan biyolojik işlevlere geçişi; `theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md` (`27572db9`) ise birey, toplum ve ahlakı boyutsal tarih içinde konumlandırır. Bu bölüm iki özgün metni yeniden üretmez, farklı kanıt zincirlerini ayırır.
+
+**J zinciri (jeoloji):** J1 kayaç ve mineral oluşumu → J2 sıvı ortam ve enerji gradyanları → J3 kimyasal döngülerin sürekliliği → J4 biyolojik iz iddiası. J1–J3 jeolojik/jeokimyasal gözlemlerle araştırılır; J4 için abiyotik açıklamaları dışlayan bağımsız biyolojik kanıt gerekir. Karşı-örnek: kimyasal açıdan zengin fakat kalıtsal çoğalma göstermeyen ortam, J3'ten J4'e zorunlu geçişi çürütür.
+
+**İ zinciri (insan tarihi):** İ1 hominin fosil ve genetik kayıtları → İ2 davranışsal/teknolojik arkeolojik izler → İ3 topluluklar arası kalıcı ilişki ve bilgi aktarımı → İ4 norm, kurum ve ahlaki sorumluluk belgeleri. İ1 tür tarihini, İ2–İ3 davranış ve toplumsal örgütlenmeyi, İ4 ise kurumsal ve normatif tarihi araştırır. Karşı-örnek: çok sayıda insanın aynı alanda yaşaması tek başına kalıcı kurum veya ortak normların bulunduğunu kanıtlamaz.
+
+**Zanabûn ve Rasterast denetimi:** Her zincirde kaynak türü, tarihlendirme yöntemi, bağımsız doğrulayıcı ve rakip açıklama ayrı kaydedilir. Aynı örnekten türetilmiş iki yorum bağımsız kanıt sayılmaz. Kozmik D1–D6 ontolojisiyle insanın fiziksel, biyolojik, zihinsel ve ahlaki özellikleri arasında birebir kronolojik eşleme varsayılmaz.
+
+**Üretim kararı:** Jeoloji ve insan tarihi, mevcut ön çalışmaların kapsamı ve bağımsız kanıt gereksinimi nedeniyle iki ayrı araştırma hattı olarak tutulur; aynı varlık tarihi bölümünün başlık değiştirilmiş kopyaları olmayacaktır. Kaynak depoların tümü taranmadan ve mevcut adaylarla özgünlük karşılaştırması yapılmadan yeni makale numarası verilmez.
