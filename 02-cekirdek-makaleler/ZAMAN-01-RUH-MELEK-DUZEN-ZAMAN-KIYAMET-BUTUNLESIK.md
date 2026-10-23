@@ -67,3 +67,16 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 **İç metin gerilimi:** Kaynak A'nın 'tanıklık yoksa zaman mekanik akışa düşer' sözü anlamın eksilmesini; zamanın fiziksel olarak durmasını değil ifade edecek şekilde sınanır. Kaynak B'deki 'entropi geçiş zorunluluğudur' genellemesi, açık sistemlerin dışarıdan enerjiyle düzen sürdürebilmesi karşı-modeline karşı henüz kanıtlanmış değildir. `3D → 4D → 6D` şeması tüm D1–D6'yı listelemediğinden kanonik altı boyut şemasının yerine geçmez.
 
 **Kaynak sadakati kuralı:** Sonraki zaman makalesi önce bu iki özgün tanımı ve mevcut ZAMAN-01'in bölümlerini satır/iddia düzeyinde eşleştirecek; depolardaki başka özgün zaman yazıları taranmadan yeni tekil 'nihai zaman tanımı' ilan edilmeyecek. K0 kaynak izi ve K2 bağımsız itiraz denetimi açıktır.
+
+
+## 10. İlave özgün metinlerin zaman tanımları ve açık arşiv izi
+
+**Kaynak C:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/01_TIME_THEORY_RASTERAST_ZANISTARAST.md` (`25665ac5`). Zamanı, iki farklı yapının etkileşiminde baskın etkinin dengeyi kurmasına kadar geçen süreç olarak tanımlar. 'Etkileşim + denge arayışı' kısa ifadesi Kaynak A'daki sonuç vurgusuyla birlikte okunur.
+
+**Kaynak D:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/03_TIME_MIND_SYNTHESIS_ZANISTARAST.md` (`a60bd2ef`). Zaman–zihin bağlantısında hafıza ve beklentiye vurgu yapar; 'etkileşim + hafıza' ifadesi fiziksel zamanın varlık koşulu değil, zihnin zaman deneyimini kurma hipotezi olarak ayrıştırılır.
+
+**Kaynak E:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/11_UNIFIED_FIELD_3PLUS2PLUS1.md` (`9a7dec72`). 3+2+1 şeması zaman, ruhsal geçiş ve hesap arasında köprü önerir. Bu erken şema ile güncel D1–D6 kanoniği bire bir eşit sayılmaz; özellikle Ehad yaratılmış bir boyut değildir, D5 ahlak gözden çıkarılamaz.
+
+**Fizik konu kuyruğu:** Kuantum, atom, karadelik, karanlık madde ve karanlık enerji başlıklarındaki özgün paragraflar ayrıca aranacaktır. Fiziksel modelde karanlık madde ve karanlık enerji farklı gözlemsel kavramlardır; karadelik ikisiyle özdeş değildir. Bu başlıklardan doğrudan D4–D6'nın deneysel doğrulandığı sonucu çıkarılmaz.
+
+**Arşiv erişim sınırı:** `veysieken000-ctrl/hebun-zanabun` deposu bulundu, fakat ilgili dosyalar içerik aramasında dönmedi; bu depodaki zaman paragrafları henüz incelenmiş sayılmaz. Kullanıcının 'dirive/orijinal makaleler' diye belirttiği arşiv de henüz dosya düzeyinde doğrulanmadı. Bu eksikler K0 kaynak denetiminde açık kalır.
