@@ -27,3 +27,17 @@ Kurmancî karşılıklar dilsel inceleme ve kurucu onayı olmadan kesinleştiril
 
 ## Kanonik bağ
 `AGENTS.md`, `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`, H01 Hebûn, H02 Zanabûn, H04 fıtrî/iradeli ahlak, H05 akıl/fıtrat/zekâ.
+
+## 23 Ekim 2026 — Kurucu açıklaması: bilgi ve boyutlarda hükme karşılık
+
+**Zanabûn bilgi tanımı (kurucunun ifadesi):** “Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun 2. Bilen tarafından onayı ile çıkan sonuca bilgi denir.” Bu, H02 Zanabûn'da bulunan özne–nesne–sonuç–ikinci bilen onayı dizisinin felsefi bilgi tanımı olarak kullanılacak açık ifadesidir. Bağımsız ikinci onayın doğruluk garantisi olup olmadığı, karşı-örnek ve gerekçelendirme tartışmasından ayrı tutulur.
+
+**Hüküm–varlık–ahlak ilişkisi:** Ehad ilk bilendir. Ehad'ın hükmüyle ortaya çıkan 1+Tek, 2+Tek, 3+Tek, 4+Tek, 5+Tek düzeylerindeki yaratılmış Yek, bilinen nesne olarak varlık gösterir; kendi boyutuna özgü işleyişini/fıtrî düzenini sergilemesi kurucunun geniş ontolojik ahlak kullanımına girer. İnsan fıtrî ve iradeli ahlak; hayvanlar ve melekler fıtrî ahlak bağlamında ele alınır. “İkinci bilen”in bu ontolojik konumu, insanın bağımsız bilgi doğrulayıcısı olmasıyla aynı zihinsel işlem sayılmaz.
+
+**Boyut 1 — Fizik (güç):** Önerilen işlevsel karşılık *gücün kanunlara bağlı gerçekleşmesi / fiziksel düzenin tezahürü*. Kuvvet, etkileşim, hareket, enerji aktarımı ve fizik yasaları çerçevesinde varlık gösterme. Bu, bilinçli karar veya insan türü ahlaki ödev değil, kurucu ontolojide fıtrî düzen anlamındaki ahlakın fizik boyutundaki analojisidir. Güç ile enerji fiziksel olarak özdeş kavramlar değildir.
+
+**Boyut 2 — Biyoloji (bilgi):** Önerilen işlevsel karşılık *kalıtsal bilginin korunması, okunması, aktarılması ve çevreyle düzenli etkileşim içinde yaşamsal işlevlere dönüşmesi*. Genetik bilgi, hücresel düzenleme, metabolizma, uyum ve tek hücreli–çok hücreli örgütlenme ayrı mekanizmalar olarak incelenir. Biyolojik bilgi, insanın önermesel bilgisi veya ikinci bilenin bilinçli epistemik onayıyla eşitlenmez. Biyolojik süreçlerdeki fıtrî düzen, normatif/iradeli ahlak yükümlülüğü anlamına gelmez.
+
+**İlk iki boyut için önerilen kısa terimler:** Fizik: *gücün fıtrî işleyişi*. Biyoloji: *bilginin fıtrî işleyişi*. Bunlar Kurmancî çeviri değil, kurucu onayı bekleyen Türkçe kavramsal önerilerdir. 3–5 boyutları ve hüküm/ahiret, bunlara indirgenmez; +Tek yedinci yaratılmış boyut değildir.
+
+**İzlenebilirlik:** H02 Zanabûn v02 §1 ve §8; Ehad–Yek kurucu kanonu §IV; kurucunun 23 Ekim 2026 açıklaması. Felsefi önerme, teolojik hüküm ve ampirik biyoloji/fizik ayrı iddia türleri olarak kaydedilir.
