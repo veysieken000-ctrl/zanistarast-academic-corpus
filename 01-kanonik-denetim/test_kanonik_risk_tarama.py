@@ -52,6 +52,22 @@ class ScannerTests(unittest.TestCase):
     def test_r5_short_filter(self):
         self.assertIn("R5", {x["rule_id"] for x in self.run_case("Rasterast yalnızca filtredir")})
 
+    def test_matched_span_and_full_line(self):
+        sentence = "Ön bilgi: " + "4. boyut zaman değildir" + " — bağlam."
+        findings = self.run_case(sentence)
+        self.assertTrue(findings)
+        item = findings[0]
+        start, end = item["matched_span"]
+        self.assertEqual(sentence[start:end], item["matched_text"])
+        self.assertEqual(sentence, item["line_excerpt"])
+        self.assertEqual("REVIEW_ONLY", item["status"])
+
+    def test_a11_counterexample_is_review_only(self):
+        sentence = "İki denetçi aynı hatalı rapordan beslendiğinde iki onay bağımsız kanıt sayılmaz."
+        findings = self.run_case(sentence)
+        self.assertIn("R4", {x["rule_id"] for x in findings})
+        self.assertTrue(any(x["negation_or_quotation_context"] for x in findings))
+
     def test_no_unrelated_alert(self):
         self.assertEqual([], self.run_case("Kozmik boyut ve insan katmanı farklı kavramlardır."))
 
