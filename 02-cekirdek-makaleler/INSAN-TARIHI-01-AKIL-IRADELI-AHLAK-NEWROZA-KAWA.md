@@ -65,3 +65,13 @@ Kurucu insan çağı ve ahlak metinleri, bugünkü Zanistarast kavramlarıyla ye
 2. Zanistarast, `theories/06_MORAL_DIMENSION_HUMAN_THEORY/01_OPENING_OF_THE_MORAL_DIMENSION.md`.
 3. Zanistarast, `theories/07_NEWROZA_KAWA_CIVILIZATION_THEORY/02_NEWROZA_KAWA_CORE_FRAMEWORK.md`.
 4. Stanford Encyclopedia of Philosophy, “Collective Responsibility”, https://plato.stanford.edu/entries/collective-responsibility/.
+
+## 10. MK-013–015: İnsan tarihinde bilgi, işlem, düzen ve sorumluluk ayrımı (23.10.2026)
+
+**Araştırma aktarımı:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`. (R) beden, araç, maddi ve kurumsal altyapı; (I) öğrenilmiş bilgi, gelenek ve gerekçeler; (P) öğrenme, akıl yürütme ve karar; (C) fiziksel/kurumsal kurallar; (V) fıtrî ve iradeli ahlaki değerlendirme. Beş işlev kozmik D1–D5'in birebir sayısal eşlemesi değildir.
+
+**İki sınama örneği:** (1) Yeni araçların bulunması bir toplumun her zaman daha ahlaklı davrandığını göstermez; imkân ile normatif sonuç farklıdır. (2) Kurumsal koordinasyon merkezi bulunması meşru otorite bulunduğunu kanıtlamaz; yönetim etkinliği, rıza, hesap verebilirlik ve adalet ayrıca araştırılmalıdır.
+
+**Karşılaştırmalı aktarım:** H05'ten bellek/öğrenme/yeni problemde gerekçeli çıkarım ayrımı alınabilir, fakat insan ve hayvan zihni aynı kabul edilmez; hayvan bilişi yok sayılmaz. JEOLOJİ-01'in hazırlık–mekanizma–sonuç mantığı kurumsal geçişi sorgulamak için kullanılabilir, fakat jeokimyasal nedensellik toplumsal tarihe taşınmaz. Ruhun yazılım, ahlakın fiziksel kanun olduğu çıkarılmaz.
+
+**Denetim gereği:** Tarihsel kaynak, arkeolojik bulgu, davranışsal gösterge ve normatif gerekçe ayrı kanıt kümeleri olarak tutulmalı; karşıt örnekler, bağımsız Rasterast ve K0–K6 incelemesi yapılmalıdır. Yayın kilidi sürer.
