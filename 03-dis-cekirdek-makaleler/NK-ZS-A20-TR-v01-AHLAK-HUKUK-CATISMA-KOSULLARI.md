@@ -39,3 +39,22 @@ Yöntem kavramsal analiz ve düşünce deneyidir. K0: Özgün “8-hukuk felsefe
 ## Ek — Hukuk ile ahlak ayrımında iki vaka
 
 Bir eylem hukuken izinli olduğu hâlde ahlaken eleştirilebilir; başka bir eylem ahlaken savunulurken belirli bir hukuk düzeninde yasak olabilir. Hukuki geçerlilik ile normatif gerekçe bu nedenle özdeş değildir. Çatışmanın çözümünde haklar, usul, orantılılık, itiraz ve düzeltme imkânı ayrıca tartışılmalıdır. Bu örnekler belirli bir davanın hükmü değildir.
+
+
+## Genişletilmiş öz ve analitik katkı
+
+Bu çalışma ahlaki yükümlülük ile yürürlükteki hukuk normunun farklı davranış talepleri ürettiği durumların hangi gerekçe koşullarıyla ayırt edileceğini inceler. Yöntem, hukuken izinli fakat ahlaken itiraz edilebilir davranış ve ahlaken savunulan fakat hukuken yasak davranış karşı-modellerini karşılaştıran normatif analizdir. Çalışmanın dar sonucu, hukuki geçerlilikten otomatik ahlaki haklılık, ahlaki itirazdan da otomatik hukuka aykırılık yetkisi çıkarılamayacağıdır. Zanistarast'ın iradeli ahlak yaklaşımı, bilgi, niyet, alternatif ve sorumluluğu tartışmaya ekler; somut hukuki tavsiye sunulmaz.
+
+**Anahtar sözcükler:** hukuk ve ahlak; norm çatışması; meşruiyet; itiraz; haklar; iradeli ahlak.
+
+## Yöntem — Çatışma tiplerinin ayrılması
+
+Her vaka için dört soru ayrı yanıtlanır: (i) Hukuk normu ne talep ediyor? (ii) Ahlaki iddianın gerekçesi ne? (iii) Çatışma gerçek yükümlülükler arasında mı, yoksa farklı yorumlar arasında mı? (iv) Haklar, daha az zarar veren alternatifler ve itiraz usulleri neler? Vakalarda kuralın geçerli olduğu varsayımı, ahlaki haklılığı önceden belirlemek için kullanılmaz. Bu yöntem kavramsal düşünce deneyidir; mahkeme içtihadı taraması değildir.
+
+## Tartışma — Çatışma çözümünde aşırı genelleme riski
+
+Yasal izin ahlaki övgü anlamına gelmediği gibi, kişinin güçlü ahlaki kanaati de başkalarının haklarını ihlal etmesini kendiliğinden haklılaştırmaz. Hukuka uyma gerekçeleri ile adaletsizliğe itiraz gerekçeleri birlikte tartışılabilir. Burada hakların çatışması, eylemin öngörülebilir sonuçları, usul güvenceleri ve gerekçelerin kamusal denetlenebilirliği önem taşır. A18'in geçerlilik ve meşruiyet ayrımı ile A19'un orantılılık analizi, A20'nin farklı sorularını destekler fakat onların yerine geçmez.
+
+## Sonuç ve sınırlamalar
+
+A20, ahlak–hukuk çatışmasını tek bir otomatik karar kuralına indirgeyen çıkarımların sınırını gösterir. Karşıt normatif teoriler, karşılaştırmalı hukuk verisi, özgün DOCX izi, hedef dergi biçimi ve bağımsız değerlendirme açık kalır.
