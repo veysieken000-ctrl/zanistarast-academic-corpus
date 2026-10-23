@@ -193,3 +193,12 @@ Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–i
 **Disiplinler arası tür denetimi:** DNA dizisi biyolojik bilgi taşıyabilir; zihinsel temsil ve gerekçelendirilmiş bilimsel önerme aynı kanıt türü değildir. Fizikte güç birimi watt, kuvvet birimi newtondur; toplumsal yetki ve ahlaki güç bu birimlerle ölçülmez. Ruh–kod/yazılım analojisi işlevsel benzerlik olarak işaretlenir, ontolojik eşitlik değildir.
 
 **Bitirme açığı:** İnsan/hayvan/yapay zekâ karşılaştırması için ön kayıtlı görevler, bağımsız değerlendiriciler ve alan literatürü gerekir. Deney yapılmış gibi sonuç sunulmaz. K0–K6 ve bağımsız Rasterast açık.
+
+
+## Ek G — H01–H05 bilgi, kapasite ve sorumluluk çapraz denetimi
+
+H05'te önerilen ilimden ilim üretme ölçütü, H02'nin ikinci bilen onayıyla veya H03'ün bağımsız kanıt denetimiyle özdeş değildir. Yeni bir önerme üretmek, o önermenin doğruluğunu ya da bağımsız biçimde doğrulandığını garanti etmez. H01'deki ontolojik ikinci Yek ise bilgi üreten ikinci özne olarak otomatik yorumlanamaz.
+
+**Karşı-model:** Bir kişi özgün fakat yanlış bir açıklama üretir. İkinci kişi açıklamayı aynı hatalı kaynaktan hareketle onaylar. Yenilik ve iki onay bulunmasına rağmen güvenilir bilgi sonucu çıkmaz. Başka bir kişi doğru ve gerekçeli bilgiye sahip olsa bile H04'teki erişim ve fiilî kontrol koşulları bulunmadığında belirli bir eylem için tam sorumluluk otomatik çıkmaz.
+
+**Uygulama kararı:** Araştırma kayıtlarında önerme yeniliği, gerekçe izlenebilirliği, kaynak bağımsızlığı, ampirik sınama ve normatif sorumluluk ayrı alanlar olmalıdır. Bu ayrım akıl, zekâ, bilgi ve güç terimlerinin tek ölçüte indirgenmesini önler. Kurucu H05 tanımı korunur; deneysel tür ayrıcalığı veya bağımsız hakemlik iddiası eklenmez. K0–K6 açık kalır.
