@@ -84,6 +84,32 @@ def affected_reviews(data, changed_paths):
     return found
 
 
+
+def impact_metrics(data, changed_paths):
+    """Descriptive review workload, never a measured speed improvement."""
+    reviews = affected_reviews(data, changed_paths)
+    affected_ids = {item for edge in reviews
+                    for item in (edge["source"], edge["target"])}
+    total = len(data["edges"])
+    statuses = {}
+    for edge in reviews:
+        key = edge["evidence_status"]
+        statuses[key] = statuses.get(key, 0) + 1
+    return {
+        "tracked_papers": len(data["nodes"]),
+        "tracked_links": total,
+        "changed_tracked_papers": len({
+            n["path"] for n in data["nodes"] if n["path"] in set(changed_paths)
+        }),
+        "affected_papers": len(affected_ids),
+        "affected_links": len(reviews),
+        "affected_link_share": round(len(reviews) / total, 4) if total else 0.0,
+        "evidence_status_counts": dict(sorted(statuses.items())),
+        "independent_reviews_completed": 0,
+        "time_saved_minutes": None,
+        "review_note": "Counts are potential review workload, not proven errors or speed gains",
+    }
+
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     data = load_inventory()
@@ -91,6 +117,7 @@ def main(argv=None):
     result = {
         "changed_tracked_paths": sorted(set(changed)),
         "affected_reviews": affected_reviews(data, changed),
+        "impact_metrics": impact_metrics(data, changed),
         "status": "REVIEW_ONLY",
     }
     print(json.dumps(result, ensure_ascii=False, indent=2))
