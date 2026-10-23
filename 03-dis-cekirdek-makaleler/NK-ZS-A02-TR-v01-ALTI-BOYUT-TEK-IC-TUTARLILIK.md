@@ -49,6 +49,14 @@ Hebûn boyutların varlık ve kuruluş sorularını, Zanabûn bilmenin oluşumun
 ## 7. Özgünlük ve yöntem
 A02'nin özgün sorusu boyutların iç tutarlılığı ve kategori hatalarının denetimidir. H04'ün kozmik boyut açıklamasını tekrar etmek yerine her boyutun açıklama sınırını test eder. Yöntem kavramsal çözümleme, karşı-örnek ve iddia-statüsü denetimidir; yeni ampirik bulgu sunulmaz.
 
+## 7A. Tür denetimli kategori hatası testleri (23 Ekim 2026)
+
+Bu bölüm, boyutları bilimsel olarak doğrulayan bir deney değil, kuramsal tutarlılık için önerilen bir **tür denetimidir**. `COSMIC_DIMENSION` kâinatın açıklama boyutunu, `BEING_LAYER` tekil varlığın katmanını, `DEVELOPMENT_STAGE` ahlaki veya bilişsel gelişim aşamasını, `EVIDENCE_STATUS` iddianın bilgi statüsünü gösterir. Aynı `D4` simgesinin hem kozmik ruh/melek boyutu hem insanın zaman/sorumluluk eşiği için kullanılması tür çakışmasıdır; iki anlam kanonik eşit sayılmaz.
+
+**T1 — Sayısal eşleme:** İnsan katmanı `L4` olarak adlandırılmışsa buradan `L4 = kozmik D4` çıkarılamaz. **T2 — Mekanizma aktarımı:** Hücre bölünmesinin fiziksel betimi, yeni bir kozmik boyutun oluşumunu tek başına kanıtlamaz. **T3 — Epistemik statü:** Ruh veya ahiret hakkında teolojik önerme, laboratuvar verisi gibi etiketlenemez. **T4 — Ahlak:** Doğal süreçlerdeki fıtrî düzen, insanın iradeli kararındaki niyet ve sorumlulukla özdeşleştirilemez. **T5 — Tek:** Tek, altı yaratılmış boyutun ardından yedinci yaratılmış kozmik boyut olarak sınıflandırılamaz.
+
+**Başarısızlık ölçütü:** Bir argüman `COSMIC_DIMENSION → BEING_LAYER` veya `THEOLOGICAL_CLAIM → EMPIRICAL_RESULT` dönüşümünü açık gerekçe olmadan yapıyorsa kategori hatası işaretlenir; ifade sessizce değiştirilmez. Kaynak ve kurucu karar izi korunur. Bu testlerin uygulanması gerçek kanıtın yerine geçmez.
+
 ## 8. K0–K6 kalite kapıları
 K0: Özgün “1-VARLIK SİSTEMLERİ VE BOYUTLARI (3).docx” paragraf karşılaştırması açık. K1: Karşıt literatür ve bibliyografik denetim açık. K2: Soru ve yöntem taslak. K3: Karşı-örnekler taslak. K4: Alanlar arası aktarım sınırları taslak. K5: Kaynak ve biçim denetimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
