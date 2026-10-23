@@ -52,3 +52,22 @@ Zanistarast Ehad–Yek kurucu kanonu (22 Ekim 2026); 27 makale üretim ve kalite
 Bir önermenin kaynağı sorulduğunda önce soru türü belirlenir: (i) varoluşun ontolojik temeli, (ii) öznenin bilme kapasitesi, (iii) önermenin gerekçesi, (iv) bağımsız sınaması. **Karşı-örnek:** İki araştırmacı aynı hatalı termometreyi kullanıp aynı sıcaklığı bildirirse (iv) anlamında iki bağımsız doğrulama oluşmaz. Ontolojik Ehad–Yek kabulü (iii) anlamında ölçüm verisi değildir. A04'ün sonucu bu dört türün birbirine indirgenemeyeceğidir; tarihsel veya deneysel doğruluk iddiası ayrı kanıt ister.
 
 **Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
+
+
+## Genişletilmiş araştırma özeti ve katkı
+
+Bu makale, “bilginin kaynağı” ifadesinin dört farklı soruyu gizleyebildiğini savunur: varlığın ontolojik temeli, bilen öznenin bilme imkânı, belirli bir inancın gerekçesi ve gerekçenin bağımsız denetimi. Yöntem, aynı “kaynak” sözcüğünün farklı iddialarda üstlendiği mantıksal görevi ayıran kavramsal çözümleme ve ortak veriye dayanan iki onayın bağımsız sayılmadığı karşı-modeldir. Çalışmanın dar sonucu, ontolojik temel hakkında kabulün ampirik verinin yerine geçmediği ve bir gerekçenin tekrarlanmasının yeni bağımsız kanıt oluşturmayabileceğidir. Özgün katkı, Hebûn–Zanabûn–Rasterast ilişkisini iddia türleri üzerinden ayrıştıran denetlenebilir açıklama şemasıdır.
+
+**Anahtar sözcükler:** bilgi kaynağı; ontoloji; epistemoloji; gerekçelendirme; kaynak bağımlılığı; Hebûn; Zanabûn; Rasterast.
+
+## Yöntem — Dört anlamı ayırma işlemi
+
+İnceleme birimi, “kaynak” sözcüğünü kullanan tek bir önermedir. Her önerme (1) ontolojik temel, (2) bilme yetisi veya koşulu, (3) inancın gerekçesi ya da (4) bağımsız denetim anlamıyla sınıflandırılır. Birden çok anlam varsa geçişi sağlayan öncül ayrıca yazılır. İki kişinin aynı raporu tekrarlaması örneğinde gerekçe kaynağı sabit tutularak onay sayısı artırılır; bundan bağımsızlık sonucunun zorunlu çıkmadığı gösterilir. Bu yöntem kavramsaldır, saha veya laboratuvar verisi üretmez.
+
+## Tartışma — Kurucu temel ile kanıt arasındaki mesafe
+
+Ontolojik bir açıklama, neden varlık bulunduğuna dair bir çerçeve önerebilir; ancak belirli deneysel iddianın ölçüm ve hata zincirini kendiliğinden doğrulamaz. Benzer biçimde, bir öznenin bilme kapasitesinin bulunması belirli bir inancının doğru olduğunu göstermez. Bağımsız ikinci bilenin katkısı, gerekçenin ve hata kaynaklarının yeniden denetlenmesindedir; sırf ikinci kişi olduğu için kesinlik sağlamaz. H01 ontolojik kuruluş, H02 bilme ilişkisi ve H03 kaynak denetimi arasındaki işbölümü bu dört anlamın karıştırılmasını önlemeyi amaçlar.
+
+## Sonuç ve açık kalite kapıları
+
+A04'ün savunulabilir sonucu, “bilginin kaynağı”nın farklı mantıksal işlevlerini tek bir doğrulama türüne indirgememek gerektiğidir. Rakip epistemoloji yaklaşımlarının birincil kaynaklarla karşılaştırılması, özgün DOCX paragraf izi, doğrulanmış kaynakça ve bağımsız eleştiri tamamlanmadığından hedef dergiye gönderim kapısı açılamaz.
