@@ -39,6 +39,7 @@ def scan(root, rules, paths):
                                     "negation_or_quotation_context": bool(NEGATIONS.search(line)),
                                     "excerpt": line[:350],
                                     "matched_span": [matches[0].start(), matches[0].end()],
+                                    "review_priority": "CONTEXT_FIRST" if NEGATIONS.search(line) else "STANDARD",
                                     "matched_text": matches[0].group(0),
                                     "line_excerpt": line})
     return results
