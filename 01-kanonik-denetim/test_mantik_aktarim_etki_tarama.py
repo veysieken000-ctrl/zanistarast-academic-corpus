@@ -5,6 +5,7 @@ from pathlib import Path
 
 from mantik_aktarim_etki_tarama import (
     affected_reviews, changed_since_baseline, git_blob_sha, load_inventory,
+    impact_metrics,
 )
 
 
@@ -105,6 +106,33 @@ class TransferImpactTests(unittest.TestCase):
         edges = affected_reviews(self.data, [path])
         self.assertTrue(all(e["counterexample"] and e["source_section"]
                             and e["target_section"] for e in edges))
+
+    def test_metrics_no_changed_papers(self):
+        metrics = impact_metrics(self.data, [])
+        self.assertEqual(metrics["tracked_papers"], 8)
+        self.assertEqual(metrics["tracked_links"], 15)
+        self.assertEqual(metrics["affected_links"], 0)
+        self.assertEqual(metrics["affected_link_share"], 0.0)
+
+    def test_metrics_h01_four_affected_links(self):
+        path = next(n["path"] for n in self.data["nodes"] if n["id"] == "h01")
+        metrics = impact_metrics(self.data, [path])
+        self.assertEqual(metrics["changed_tracked_papers"], 1)
+        self.assertEqual(metrics["affected_links"], 4)
+        self.assertEqual(metrics["affected_papers"], 5)
+        self.assertEqual(metrics["affected_link_share"], round(4 / 15, 4))
+
+    def test_metrics_no_unearned_speed_claim(self):
+        paths = [n["path"] for n in self.data["nodes"]]
+        metrics = impact_metrics(self.data, paths)
+        self.assertIsNone(metrics["time_saved_minutes"])
+        self.assertEqual(metrics["independent_reviews_completed"], 0)
+        self.assertEqual(metrics["affected_links"], 15)
+
+    def test_metrics_unknown_path_does_not_inflate(self):
+        metrics = impact_metrics(self.data, ["not-tracked.md"])
+        self.assertEqual(metrics["changed_tracked_papers"], 0)
+        self.assertEqual(metrics["affected_papers"], 0)
 
     def test_unknown_change_no_review(self):
         self.assertEqual(affected_reviews(self.data, ["README.md"]), [])
