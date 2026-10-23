@@ -53,3 +53,22 @@ K0: Özgün “8-insan ve toplum.docx” paragraf izi doğrulanmadı. K1: Birinc
 ## Ek — Birey ve toplumsal bütünlük karşı-modeli
 
 Bir topluluğun koordinasyonu bireylerin bütün haklarını otomatik olarak korumaz; bireysel serbestlik de ortak kaynak ve yükümlülük sorunlarını tek başına çözmez. Yek–Komel ilişkisi betimleyici ontolojik bir çerçevedir, belirli yönetim veya dağıtım kuralını kendiliğinden meşrulaştırmaz. Birey ve toplum düzeyindeki iddialar ayrı veri ve normatif gerekçe ister.
+
+
+## Genişletilmiş öz ve araştırma katkısı
+
+Bu çalışma birey–toplum ilişkisinde doğallığın betimleyici, gelişimsel ve normatif anlamlarını ayırır. Yöntem, toplumsal bir örüntünün yaygın olmasının onun adil olduğunu gösterip göstermediğini ve bireyin toplumsal gelişiminin bireysel hakları ortadan kaldırıp kaldırmadığını sorgulayan kavramsal karşı-modellerdir. Sonuç, bireyin ilişkisel varlık oluşundan belirli bir yönetim biçimi veya hak dağılımının zorunlu olarak çıkmadığıdır. Zanistarast'ın Yek–Komel ilişkisi, bireysel ayırt edilebilirlik ile toplumsal karşılıklı bağımlılığı birlikte düşünmek için kullanılır; bu yaklaşım ampirik sosyoloji bulgusu olarak sunulmaz.
+
+**Anahtar sözcükler:** birey; toplum; doğallık; normatif gerekçe; Yek; Komel; toplumsal ilişki.
+
+## Yöntem — Doğallık iddialarının sınıflandırılması
+
+Analiz birimi, insan davranışı veya toplumsal düzen hakkında `doğal` sözcüğünü kullanan önermedir. Her önerme betimleyici sıklık, gelişimsel mekanizma veya normatif haklılık olarak sınıflandırılır. Bir toplumda hiyerarşi görülmesi örneğinde, gözlenen örüntü sabit tutulup hak ve meşruiyet gerekçeleri ayrıca sorgulanır. Bireyin sosyal öğrenme yoluyla gelişmesi örneğinde ise öğrenme bağımlılığı ile bireysel sorumluluk arasındaki zorunlu eşitlik iddiası sınanır. Bu çalışma saha verisi veya kültürler arası istatistik içermez.
+
+## Tartışma — İki uç çıkarımın eleştirisi
+
+Toplumsal koordinasyonun varlığı bireysel hakların korunduğunu otomatik kanıtlamaz. Bunun tersine bireyin ayırt edilebilirliği de ortak kaynak ve yükümlülük sorunlarının kendiliğinden çözüldüğünü göstermez. Yek–Komel tasnifi bu iki düzeyi birlikte incelemeye yardımcı olur, fakat belirli bir siyasal kurumun meşruiyetini kendi başına belirlemez. A22'nin insan katmanları ile toplumsal roller sorusu, A21'deki betimleyici–normatif geçiş ayrımını korumalıdır.
+
+## Sonuç ve açık işler
+
+A21'in savunulabilir sonucu, doğallık ifadesinin farklı anlamlarının birbirine karıştırılmasının toplumsal ve siyasal çıkarımları zayıflattığıdır. Sosyal bilim literatürü, özgün kaynak izi, hedef dergi biçimi ve bağımsız değerlendirme tamamlanmadan yayın statüsü verilmez.
