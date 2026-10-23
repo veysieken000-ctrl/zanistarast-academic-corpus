@@ -1,0 +1,106 @@
+{
+  "schema_version": "0.1",
+  "date": "2026-10-23",
+  "status": "proposed_not_automated",
+  "scope": [
+    "A02",
+    "A03",
+    "A10",
+    "A11",
+    "H01",
+    "H02",
+    "H03",
+    "H04",
+    "H05"
+  ],
+  "rules": [
+    {
+      "id": "R1",
+      "name": "cosmic_dimension_vs_being_layer",
+      "trigger_terms": [
+        "D4",
+        "4. boyut",
+        "4. katman",
+        "sorumluluk eşiği"
+      ],
+      "condition": "D4 mapped to human stage or layer without explicit distinct typing",
+      "action": "FLAG_REVIEW",
+      "owner": "Rasterast",
+      "canonical_guard": "cosmic D4 = ruh/melekler; human stages/layers are not numerically identical",
+      "false_positive_guard": "do not flag quoted legacy usage when explicitly marked historical or disputed"
+    },
+    {
+      "id": "R2",
+      "name": "center_analogy_not_ontological_proof",
+      "trigger_terms": [
+        "merkez",
+        "ilk Yek",
+        "geometrik"
+      ],
+      "condition": "geometric or coordination center presented as proof of ontological origin",
+      "action": "FLAG_REVIEW",
+      "owner": "Rasterast",
+      "false_positive_guard": "legitimate analogy with explicit scope and limitations is allowed"
+    },
+    {
+      "id": "R3",
+      "name": "procedure_not_legitimacy",
+      "trigger_terms": [
+        "meşruiyet",
+        "yetki",
+        "prosedür",
+        "P(q)"
+      ],
+      "condition": "presence of procedures treated as sufficient proof of normative legitimacy",
+      "action": "FLAG_REVIEW",
+      "owner": "Rasterast",
+      "false_positive_guard": "candidate necessary conditions or explicit objections are allowed"
+    },
+    {
+      "id": "R4",
+      "name": "information_access_not_verification",
+      "trigger_terms": [
+        "reach",
+        "appeal",
+        "ikinci bilen",
+        "doğrulama"
+      ],
+      "condition": "information access or number of approvals equated to independent correctness",
+      "action": "FLAG_REVIEW",
+      "owner": "Rasterast",
+      "false_positive_guard": "documented source independence and evidence evaluation are distinct and allowed"
+    },
+    {
+      "id": "R5",
+      "name": "rasterast_not_only_binary_filter",
+      "trigger_terms": [
+        "Rasterast",
+        "filtre",
+        "denetim"
+      ],
+      "condition": "full Rasterast process reduced to only pass/fail without source genealogy, common error, or revision where broad meaning intended",
+      "action": "FLAG_REVIEW",
+      "owner": "Rasterast",
+      "false_positive_guard": "a local filter is allowed when explicitly scoped as one sub-operation"
+    }
+  ],
+  "review_record_fields": [
+    "article_id",
+    "path",
+    "source_sha",
+    "rule_id",
+    "quoted_span",
+    "context",
+    "proposed_interpretation",
+    "evidence_kind",
+    "review_status",
+    "founder_decision"
+  ],
+  "policy": {
+    "no_global_replace": true,
+    "no_auto_merge": true,
+    "no_auto_publication": true,
+    "do_not_claim_test_execution": true,
+    "publication_requires": "412 distinct articles, canonical consistency, independent K0-K6 checks and founder approval"
+  }
+}
