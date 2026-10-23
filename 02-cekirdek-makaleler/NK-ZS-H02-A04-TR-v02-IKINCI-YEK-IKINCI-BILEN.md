@@ -148,3 +148,8 @@ Ayrıntılı terim kaydı: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVR
 **H01/H03 sınırı:** Ontolojik ikinci Yek, epistemik ikinci bilen değildir. H03 Rasterast'ın bağımsız eleştirisi de ikinci bilenin onayını otomatik doğruya çevirmez. MK-016 ve MK-019–020 bu ayrımın denetim adaylarıdır; bunların kullanılması yeni ampirik ispat anlamına gelmez.
 
 **Makale durumu:** Kavramsal karşı-model eklendi; literatürün kapsamlı taranması, K0–K6, bağımsız Rasterast ve yayın onayı henüz tamamlanmadı.
+
+
+## Ek E — H01 deneysel kaynakları için ikinci bilen sınaması
+
+H01'de kullanılan Ratcliff ve arkadaşlarının 2012 ve 2015 maya araştırmaları aynı olgu ailesini farklı sorularla inceler: hücrelerin bölünme sonrasında bağlı kalması ve hücre ayrılmasındaki genetik mekanizma. Bunlar ontolojik ikinci Yek'in gözlemsel kanıtı veya birbirinden tümüyle bağımsız iki onay olarak sayılamaz. İkinci bilenin aynı yayınları okuması yeni deneysel veri üretmez. Ayrı bir değerlendirme, kullanılan deney düzenini, olası ortak hata kaynaklarını ve çıkarım sınırını sorgulayarak yine de yararlı olabilir. H02'nin epistemik onayı ile H03'ün kaynak bağımsızlığı denetimi bu nedenle ayrı tutulur. Bu ek, H01'deki kaynakların mantıksal kullanımını denetler; yeni deney veya bağımsız hakemlik değildir. K0–K6 açık kalır.
