@@ -41,6 +41,17 @@ class ScannerTests(unittest.TestCase):
     def test_r5_filter_reduction(self):
         self.assertIn("R5", {x["rule_id"] for x in self.run_case("Rasterast sadece ikili filtre")})
 
+    def test_r2_center_ontological_origin_negative_context(self):
+        findings = self.run_case("Merkezde olmak ontolojik kökeni kanıtlamaz")
+        self.assertIn("R2", {x["rule_id"] for x in findings})
+        self.assertTrue(findings[0]["negation_or_quotation_context"])
+
+    def test_r3_inflected_legitimacy(self):
+        self.assertIn("R3", {x["rule_id"] for x in self.run_case("prosedür meşruiyeti garantiler")})
+
+    def test_r5_short_filter(self):
+        self.assertIn("R5", {x["rule_id"] for x in self.run_case("Rasterast yalnızca filtredir")})
+
     def test_no_unrelated_alert(self):
         self.assertEqual([], self.run_case("Kozmik boyut ve insan katmanı farklı kavramlardır."))
 
