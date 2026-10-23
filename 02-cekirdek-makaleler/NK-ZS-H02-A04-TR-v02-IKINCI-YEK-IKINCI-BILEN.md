@@ -145,7 +145,7 @@ Ayrıntılı terim kaydı: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVR
 
 **Denetim adımları:** (1) P'nin açık ve yanlışlanabilir kısmını yaz; (2) S ve T'nin kaynak, yöntem ve yorum zincirlerini ayrı kaydet; (3) ortak bağımlılık varsa ikinci onayı bağımsız kanıt olarak sayma; (4) karşı-örnek ve bağımsız veri aramayı sürdür; (5) onay, gerekçelendirme ve doğruluk durumlarını ayrı raporla.
 
-**H01/H03 sınırı:** Ontolojik ikinci Yek, epistemik ikinci bilen değildir. H03 Rasterast'ın bağımsız eleştirisi de ikinci bilenin onayını otomatik doğruya çevirmez. MK-016 ve MK-019–020 bu ayrımın denetim adaylarıdır; bunların kullanılması yeni ampirik ispat anlamına gelmez.
+**H01/H03 sınırı:** Ontolojik ikinci Yek, epistemik ikinci bilen değildir. H03 Rasterast'ın bağımsız eleştirisi de ikinci bilenin onayını otomatik doğruya çevirmez. **Karar ölçütü:** İkinci bilenin onayı, ortak veri ve yöntem bağımlılığı açıklanmadan bağımsız doğrulama olarak raporlanamaz; kaynak bağımsızlığı gösterilse bile nesnel doğruluk garanti edilmiş sayılmaz. MK-016 ve MK-019–020 bu ayrımın denetim adaylarıdır; bunların kullanılması yeni ampirik ispat anlamına gelmez.
 
 **Makale durumu:** Kavramsal karşı-model eklendi; literatürün kapsamlı taranması, K0–K6, bağımsız Rasterast ve yayın onayı henüz tamamlanmadı.
 
