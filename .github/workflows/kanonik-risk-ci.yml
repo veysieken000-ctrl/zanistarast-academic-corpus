@@ -7,6 +7,9 @@ on:
       - '01-kanonik-denetim/kanonik_risk_tarama.py'
       - '01-kanonik-denetim/mantik_kesfi_model.py'
       - '01-kanonik-denetim/test_mantik_kesfi_model.py'
+      - '01-kanonik-denetim/mantik_aktarim_baglantilari.json'
+      - '01-kanonik-denetim/mantik_aktarim_etki_tarama.py'
+      - '01-kanonik-denetim/test_mantik_aktarim_etki_tarama.py'
       - '02-cekirdek-makaleler/**'
       - '03-dis-cekirdek-makaleler/**'
       - '01-kanonik-denetim/test_kanonik_risk_tarama.py'
@@ -28,6 +31,10 @@ jobs:
         run: python3 01-kanonik-denetim/test_kanonik_risk_tarama.py -v
       - name: Run logic-discovery model tests
         run: python3 01-kanonik-denetim/test_mantik_kesfi_model.py -v
+      - name: Run bidirectional paper impact tests
+        run: python3 01-kanonik-denetim/test_mantik_aktarim_etki_tarama.py -v
+      - name: Generate bidirectional impact advisory
+        run: python3 01-kanonik-denetim/mantik_aktarim_etki_tarama.py > mantik-aktarim-etki-uyarilari.json
       - name: Scan core and external-core articles (advisory only)
         run: |
           python3 01-kanonik-denetim/kanonik_risk_tarama.py \
@@ -39,5 +46,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: r1-r5-advisory-warnings
-          path: risk-uyarilari.json
+          path: |
+            risk-uyarilari.json
+            mantik-aktarim-etki-uyarilari.json
           if-no-files-found: ignore
