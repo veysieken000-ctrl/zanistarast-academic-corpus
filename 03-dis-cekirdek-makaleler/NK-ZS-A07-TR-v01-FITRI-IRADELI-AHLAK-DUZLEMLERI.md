@@ -74,3 +74,12 @@ Fıtrî ahlakın D5 kapsamında geniş anlam taşıması, D1–D4'teki her süre
 ## Sonuç ve sınırlar
 
 A07'nin savunulabilir sonucu, fıtrî işleyiş ile iradeli sorumluluğun ayrı gerekçelendirme türleri olduğudur. Rakip etik kuramlarının birincil kaynak karşılaştırması, özgün DOCX izi ve bağımsız eleştiri tamamlanmadan hedef dergiye hazır denilemez.
+
+
+## H04–H05–A05 çapraz denetimi: yeti, koşul ve hüküm
+
+A07'deki D5 kapsamı, önceki kozmik boyutların hareket, oluş ve fıtrî düzenini içerir; ancak insan tipi bilinçli seçimi bütün varlıklara yüklemez. H05 ve A05'te incelenen bilişsel yetiler, H04'teki belirli eyleme ilişkin bilgi, erişim, kontrol ve niyet koşullarının yerine geçmez.
+
+**Karşı-model:** Bir insan zor bir muhakeme görevini başarıyla çözebilir, fakat belirli bir eylem sırasında dış baskı nedeniyle seçeneklerini uygulayamayabilir. Yüksek akıl yürütme başarısı tam ahlaki sorumluluğun yeterli koşulu değildir. Diğer yönde, kişinin bilişsel görevde düşük puan alması da otomatik olarak ahlaki sorumluluğunun bulunmadığını göstermez.
+
+**Geçiş kuralı:** Betimleyici yeti iddiasından normatif sorumluluk hükmüne geçmek için hangi değer öncülünün kullanıldığı, eylem anındaki koşullar ve karşıt durumlar ayrı yazılır. Bu ek bir etik kuramın doğruluğunu veya insan deneyini kanıtlamaz. A07'nin normatif karşıt literatürü, K0–K6 ve bağımsız hakemlik açık kalır.
