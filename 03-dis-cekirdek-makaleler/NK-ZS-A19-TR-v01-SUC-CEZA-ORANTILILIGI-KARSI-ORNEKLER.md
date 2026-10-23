@@ -43,3 +43,8 @@ Her örnek için fiil tanımı, gerçekleşen zarar, öngörülebilir risk, bilg
 K0: Özgün “8-hukuk felsefesi (1).docx” paragraf izi henüz doğrulanmadı. K1: Karşıt birincil literatür ve hukuk sistemi karşılaştırması açık. K2: Yöntem taslak. K3: Karşı-örnekler taslak. K4: Ülkeler ve suç tipleri arası aktarım sınırı açık. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın yok:** 412 benzersiz makale, kanonik bütünlük ve kurucu onayı beklenir.
+
+
+## Ek — Orantılılıkta farklı kusur karşı-modeli
+
+Aynı maddi zarar iki durumda farklı niyet, öngörülebilirlik ve kontrol koşullarıyla gerçekleşebilir. Bu nedenle zarar miktarı tek başına aynı ceza sonucunu zorunlu kılmaz. Orantılılık değerlendirmesi fiil, kusur, zarar, haklar ve usuli güvenceleri ayrı gerekçelendirmelidir. Bu bir hukuk felsefesi karşı-modelidir; belirli hukuk düzeninin yürürlükteki kuralı olduğu iddia edilmez.
