@@ -104,6 +104,69 @@ class TypedGraph:
         return self.distinct_provenance_roots(claim, provenance)
 
 
+
+@dataclass(frozen=True)
+class KomelCandidate:
+    """İlişkisel bütün adayı; yeni bir Yek olduğunu kanıtlamaz."""
+    members: FrozenSet[str]
+    relations: FrozenSet[tuple]
+
+    def __post_init__(self):
+        if len(self.members) < 2:
+            raise ValueError("Bu araştırma modelinde en az iki ayrı üye gerekir")
+        if any(
+            len(relation) != 2 or
+            relation[0] not in self.members or relation[1] not in self.members or
+            relation[0] == relation[1]
+            for relation in self.relations
+        ):
+            raise ValueError("İlişkiler farklı kayıtlı üyeler arasında olmalı")
+
+    def connected(self) -> bool:
+        """Yönsüz bağlantılılık; ontolojik bütünlük veya yeterlilik ispatı değildir."""
+        if not self.relations:
+            return False
+        adjacency = {member: set() for member in self.members}
+        for left, right in self.relations:
+            adjacency[left].add(right)
+            adjacency[right].add(left)
+        visited = set()
+        stack = [next(iter(self.members))]
+        while stack:
+            node = stack.pop()
+            if node in visited:
+                continue
+            visited.add(node)
+            stack.extend(adjacency[node] - visited)
+        return visited == set(self.members)
+
+
+@dataclass(frozen=True)
+class TransitionCase:
+    """Önkoşul, mekanizma, bağlam ve sonuç ayrı tutulur."""
+    preparation: bool
+    mechanism: bool
+    context: bool
+    outcome: bool
+
+
+def transition_counterexamples(cases: list) -> dict:
+    """İki hipoteze karşı örnekler; gözlemsel doğruluk testi değildir."""
+    preparation_only = [
+        i for i, case in enumerate(cases)
+        if case.preparation and not case.outcome
+    ]
+    combined = [
+        i for i, case in enumerate(cases)
+        if case.preparation and case.mechanism and case.context
+        and not case.outcome
+    ]
+    return {
+        "preparation_sufficient_refuted": preparation_only,
+        "combined_sufficient_refuted": combined,
+    }
+
+
 def sufficient_condition_refuted(cases: list) -> bool:
     """(P => O) önermesi için P doğru ve O yanlış bir karşı örnek var mı?"""
     return any(p and not outcome for p, outcome in cases)
