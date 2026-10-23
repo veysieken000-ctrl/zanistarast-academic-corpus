@@ -39,3 +39,10 @@ H04 ve A07 fıtrî–iradeli ahlak ayrımının temeli; A09 hüküm ve normatif 
 K0: “3-Etik ve ahlak.docx” özgün paragraf izi açık. K1: Karşıt literatürün birincil kaynak denetimi açık. K2: Yöntem taslak. K3: İtirazlar taslak. K4: Alanlar arası aktarım denetimi açık. K5: Bibliyografya ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 makale tamamlanıp kanonik uyum ve kurucu onayı sağlanmadan yayın yapılmaz.
+
+
+## 9. İrade–eylem–sonuç için iki ayrıştırıcı vaka
+
+**Vaka A:** Kişi eylemi amaçlar ancak dış engel nedeniyle gerçekleştiremez. Niyet bulunması fiilî sonuç bulunduğunu göstermez. **Vaka B:** Kişi fiziksel hareketi baskı altında yapar; hareketin gözlenmesi özgür iradeyi kanıtlamaz. Sorumluluk değerlendirmesinde seçenek, baskı, bilgi, kontrol ve sonuç ayrı kaydedilmelidir. Bu vakalar normatif çerçeveyi sınar; gerçek kişi verisi değildir.
+
+**Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
