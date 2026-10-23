@@ -33,3 +33,14 @@ Her aday için sırasıyla: (1) mevcut dosya ve SHA, (2) bağımsız araştırma
 **Karşı-örnekler:** Çok merkezli ama koordinasyonsuz bir kurumda hata düzeltmesi gecikebilir. Merkezi karar alan ama itiraz ve bağımsız denetime açık bir kurum hızlı düzeltme sağlayabilir. Bu iki durum, merkezileşmenin tek başına sonuç belirlediği iddiasını sınırlar.
 
 **Katman ayrımı:** L1-A22 rol, bilgi, yetki, kontrol ve sorumluluk atfını inceler; L2-K01 ise kurumsal geri bildirim ve hata düzeltme sürecini karşılaştırır. L2-K01 araştırma adayıdır; bağımsız veri, literatür, benzerlik taraması ve Rasterast tamamlanmadan bitmiş makale sayılmaz.
+
+
+## L2-K02 — Jeolojik daralma ön çalışmalarının karşılaştırma tasarımı
+
+**Kaynaklar:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/01_JEOLOJIK_CAGLAR.md` (`312467f3`), `02_JEOLOJIK_CAGLAR.md` (`339eae10`) ve `07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md` (`0c9a6235`). İlk iki metin biyoloji/zihin evrelerini ve daralma döngülerini; üçüncüsü jeolojik kemal/sınırdan biyolojik açılımı tartışır. Özgün kaynaklar yeni bir başlık altında çoğaltılmaz.
+
+**İki rakip açıklama:** Zanistarast kurucu modelinde fiziksel kemal ve devirsel daralma, yeni boyutsal işlevlerin koşullarını hazırlayan ilişkiler olarak incelenir. Jeoloji ve paleontolojide ise yok oluşların nedenleri çarpma, volkanizma, iklim ve okyanus değişimleri gibi ayrı mekanizmalarla sınanır. İkinci açıklama kurucu ontolojinin yerine geçirilmez; gözlemsel karşılaştırma alanıdır.
+
+**Sınama tasarımı:** İncelenen her olay için stratigrafik sınır, tarihlendirme belirsizliği, biyolojik kayıp örüntüsü, jeokimyasal gösterge ve sonrasındaki ekolojik yeniden örgütlenme ayrı kaydedilir. 'Reset üst evreyi zorunlu üretir' iddiasına karşı, yok oluş sonrasında beklenen yeni işlevin oluşmadığı örnekler aranır. Yerel jeolojik geçiş ile evrenin fiziksel genişlemesi özdeş değildir.
+
+**Kanonik ayrım:** Nisâ 4:1 ve iradeli ahlak insan yaratılışı programının kurucu referansıdır; jeolojik katman tarihlendirmesinin yerine geçmez. Biyoloji, zihin ve ruhun kapsama ilişkisi kronolojik eşzamanlılık iddiası olarak yorumlanmaz. L2-K02 mevcut varlık tarihi bölümlerini kopyalamayan karşılaştırmalı jeoloji yöntemi adayıdır. Dış kaynak, örneklem ve bağımsız Rasterast henüz açıktır.
