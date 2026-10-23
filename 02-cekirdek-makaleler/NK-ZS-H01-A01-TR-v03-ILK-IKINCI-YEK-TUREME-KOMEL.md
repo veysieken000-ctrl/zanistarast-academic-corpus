@@ -183,3 +183,12 @@ Bu bölüm, mevcut kurucu savı değiştirmeden **öncül → çıkarım → sı
 ### Ek E — Rakip açıklama denetimi
 
 Yek–Komel tasnifinin bir gözlemle uyumlu olması, tek başına rakip fiziksel veya biyolojik mekanizmalardan daha güçlü bir açıklama sunduğunu göstermez. Her uygulamada incelenen birim, ilişki, sistem sınırı, zaman ölçeği, rakip mekanizma ve başarısızlık koşulu önceden belirtilmelidir. Biyolojik hücre kümelenmesinde seçilim ve bölünme sonrası bağlılık gibi mekanizmalar ayrıca açıklanmalıdır; ontolojik yorum bu mekanizmaların yerine geçmez. Kavramın uygulama sınırını gözlemden sonra değiştirmek yeni hipotez sayılır, önceki öngörünün doğrulanması sayılmaz. Bu ek kavramsal denetimdir; yeni deneysel bulgu veya bağımsız kaynak doğrulaması değildir. K0–K6 açık kalır.
+
+
+### Ek F — Birincil deney kaynaklarıyla ayırıcı karşılaştırma (23 Ekim 2026)
+
+Ratcliff ve arkadaşlarının 2012 tarihli deneyinde maya kümelerinin önceden ayrı hücrelerin toplanmasıyla değil, tomurcuklanma sonrasında ana ve yavru hücrelerin ayrılmamasıyla oluştuğu gösterilir (PNAS 109:1595–1600, DOI: 10.1073/pnas.1115323109; Results, Mechanism of Cluster Formation, Şekil 2B). Çökelme seçilimi koşullarında kümeli biçimin tek hücreli rakibe göre yüzde 34 uygunluk üstünlüğü raporlanmıştır (P = 0,004); bu oran farklı koşullara evrensel olarak aktarılmaz. 2015 tarihli takip araştırması ACE2 transkripsiyon faktörünün bozulmasının ana–yavru hücre ayrılmasını önleyerek benzer kümeler oluşturabildiğini bildirir (DOI: 10.1038/ncomms7102). Bu bulgular H01'deki Komel kavramının bilimsel mekanizması olarak sunulamaz; kavramın uygulanabileceği olgular için bağımsız açıklama ve karşılaştırma zemini sağlar.
+
+**Kaynak denetim kararı:** 2012 birincil makalenin açık tam metnindeki yöntem ve sonuç bölümleri ile 2015 takip çalışmasının açık özeti karşılaştırıldı. Bu kaynaklardan Ehad–Yek önermesinin deneysel olarak doğrulandığı sonucu çıkmaz. 2015 çalışmasının tam yöntem ve ek verileri bu turda yeniden analiz edilmedi. K0–K6 açık kalır.
+
+**Kaynaklar:** Ratcliff, W. C. ve ark. (2012), *Experimental evolution of multicellularity*, PNAS, DOI: 10.1073/pnas.1115323109, https://pmc.ncbi.nlm.nih.gov/articles/PMC3277146/ . Ratcliff, W. C. ve ark. (2015), *Origins of multicellular evolvability in snowflake yeast*, Nature Communications, DOI: 10.1038/ncomms7102, https://pmc.ncbi.nlm.nih.gov/articles/PMC4309424/ .
