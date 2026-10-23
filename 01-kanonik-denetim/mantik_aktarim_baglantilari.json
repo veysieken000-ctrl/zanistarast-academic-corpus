@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "status": "REVIEW_ONLY",
+  "purpose": "MK-013–015 bidirectional impact inventory; edges do not prove conceptual correctness",
+  "nodes": [
+    {
+      "id": "varlik",
+      "path": "02-cekirdek-makaleler/VARLIK-TARIHI-01-BOYUTSAL-ACILIM-KANONIK-SENTEZ.md",
+      "baseline_blob_sha": "2dcdc3bced029efa05b6dd0918d4f93d4d2a7058"
+    },
+    {
+      "id": "jeoloji",
+      "path": "02-cekirdek-makaleler/JEOLOJI-01-FIZIKSEL-ZEMINDEN-BIYOLOJIK-ORTAMA-HEBUN-SENTEZI.md",
+      "baseline_blob_sha": "d04a3b1a1a99d4f08526031ea2c6a86c929765b3"
+    },
+    {
+      "id": "insan",
+      "path": "02-cekirdek-makaleler/INSAN-TARIHI-01-AKIL-IRADELI-AHLAK-NEWROZA-KAWA.md",
+      "baseline_blob_sha": "c27a9513cd8d46fddc07ab6fbe90469a34ed9c43"
+    },
+    {
+      "id": "h04",
+      "path": "02-cekirdek-makaleler/NK-ZS-H04-A02-TR-v03-FITRI-IMKAN-ARAC-IRADELI-AHLAK.md",
+      "baseline_blob_sha": "ba14ff2ece4a3af5b1cf35ca775ebecb709f2871"
+    },
+    {
+      "id": "h05",
+      "path": "02-cekirdek-makaleler/NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md",
+      "baseline_blob_sha": "a4ddd1360ce491215a9681aecf2ae89e50a3f3b0"
+    }
+  ],
+  "edges": [
+    {
+      "id": "T01",
+      "source": "varlik",
+      "target": "jeoloji",
+      "mk": "MK-013",
+      "risk": "physical organization is not sufficient for life"
+    },
+    {
+      "id": "T02",
+      "source": "jeoloji",
+      "target": "h04",
+      "mk": "MK-015",
+      "risk": "geochemical mechanism differs from deliberate choice"
+    },
+    {
+      "id": "T03",
+      "source": "h05",
+      "target": "insan",
+      "mk": "MK-013",
+      "risk": "animal cognition and human reason require separate evidence"
+    },
+    {
+      "id": "T04",
+      "source": "h04",
+      "target": "insan",
+      "mk": "MK-015",
+      "risk": "tool availability does not imply moral progress"
+    },
+    {
+      "id": "T05",
+      "source": "h05",
+      "target": "h04",
+      "mk": "MK-014",
+      "risk": "soul and software analogy is not identity"
+    },
+    {
+      "id": "T06",
+      "source": "varlik",
+      "target": "h05",
+      "mk": "MK-013",
+      "risk": "physical power is not the entirety of knowledge"
+    },
+    {
+      "id": "T07",
+      "source": "jeoloji",
+      "target": "insan",
+      "mk": "MK-015",
+      "risk": "geological and social transitions are not same causal law"
+    }
+  ],
+  "audit_reference": "01-kanonik-denetim/MK-013-015-BES-MAKALE-CIFT-YONLU-TUTARLILIK-DENETIMI-2026-10-23.md"
+}
