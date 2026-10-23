@@ -36,3 +36,13 @@ H01–H05 çekirdekleri, A06 ikinci bilen ve A07 fıtrî–iradeli ahlak metinle
 K0 özgün DOCX paragraf karşılaştırması açık. K1 karşıt literatür açık. K2–K4 kavramsal taslak. K5 kaynak ve biçim açık. K6 bağımsız değerlendirme ve kurucu onay açık.
 
 **Yayın yok:** 412 makale ve kanonik bütünlük tamamlanmadan yayımlanmaz.
+
+
+## Uygulama — Dört geçersiz statü geçişi
+
+1. Teolojik kabulden doğrudan deneysel bulguya geçilmez.
+2. Aynı kaynaktan gelen iki onay bağımsız kanıt sayılmaz.
+3. Doğal olgudan tek başına ahlaki yükümlülük çıkmaz.
+4. Ruh ile yazılım arasındaki benzetme ontolojik özdeşlik kanıtlamaz.
+
+Her iddiada kaynak, gerekçe, karşı-örnek ve değerlendirme ayrı kaydedilir. Bu bölüm yeni deneysel veri değil, yöntemsel ayrım sunar.
