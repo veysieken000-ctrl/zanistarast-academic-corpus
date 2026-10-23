@@ -39,3 +39,18 @@ Kişinin ölümünden sonra fiziksel süreçler devam edebilir; bu nedenle “ki
 
 ## 7. Sonuç
 Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklaması **birbiriyle yarışan iki tanım değil, dördüncü boyutun işlevi ile evrelerinin tamamlayıcı açıklamalarıdır**. Bu bütünleştirme sonraki zaman, varlık tarihi, insan tarihi ve kıyamet araştırmalarında esas alınacaktır. Tam kaynak taraması, bilimsel karşılaştırma ve bağımsız inceleme tamamlanmadan makale yayıma hazır sayılmaz.
+
+
+## 8. Kaynak zaman kuramının sınama çerçevesi (23.10.2026)
+
+Özgün kaynaklar: `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (blob `b4db52d9`) ve `04_TIME_ENTROPY_AND_DIMENSIONAL_TRANSITION.md` (blob `00295595`). İlk metindeki etkileşim–denge arayışı–sonuç, ikincideki sınır–geçiş önermesi bu makalenin ön çalışmalarıdır; yeni keşif diye sayılmaz.
+
+**Z1:** Etkileşim ve sonuç, belirli bir sistem için ölçülebilir olaylar olarak tanımlanırsa zaman süreci karşılaştırılabilir. Karşı-örnek: sürekli enerji alan açık sistemler denge dışı kararlı durumlar sürdürebilir; her etkileşim son termodinamik dengeye varmaz.
+
+**Z2:** Tanıklık, olayın varlığından ziyade onun kayıt ve yorum yoluyla tarihsel bilgiye dönüşümünü açıklar. Fosil ve jeolojik tabaka, insanın olaya tanıklığı olmadan da geçmişin maddi izidir. Bu ayrım insan tarihi araştırmasına aktarılır.
+
+**Z3:** Entropiden ontolojik boyut geçişi çıkarılacaksa sistem sınırı, enerji akısı, ölçüm aralığı ve karşıt model belirtilmelidir. Entropi artışı tek başına D4 ruh/melek evresinin ölçümü değildir.
+
+**Z4:** Bireyin yaşam süresinin sona ermesi dış fiziksel saatlerin durması anlamına gelmez. D4'ün ruh/melek evreleri ve düzen/zaman işlevi, Zanistarast'ın ontolojik araştırma hipotezi olarak ele alınır.
+
+**Çapraz bağ:** `VARLIK-TARIHI-01` bölüm 13'te jeolojik koşullar `G`, kimyasal ağ `C`, kalıtsal çoğalma `R`, biyolojik açılım `B` olarak ayrıldı. Zaman kuramı bu süreçlerin `Δt` aralıklarını ve geçiş ölçütlerini ayrıca tanımlamalıdır. Bu bölüm mevcut ZAMAN-01'i geliştirir; bağımsız yöntem ve kanıt olmadan birinci katmanda ikinci bir zaman makalesi türetilmez. K0–K6 ve bağımsız Rasterast açık kalır.
