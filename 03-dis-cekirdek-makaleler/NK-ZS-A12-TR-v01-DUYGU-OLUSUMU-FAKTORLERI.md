@@ -49,3 +49,24 @@ K0: “5-duygu (1).docx” özgün paragraf izi açık. K1: Duygu kuramlarına a
 Duygu, yalnızca tek bir bedensel göstergeye indirgenemez. Benzer bedensel uyarılma farklı durumlarda korku veya heyecan gibi farklı biçimlerde yorumlanabilir. Bu durum, bedensel değişkenlerin önemsiz olduğunu değil, bağlam ve değerlendirmenin ayrıca incelenmesi gerektiğini gösterir.
 
 **Önerilen sınama:** Fizyolojik uyarılma, öznel bildirim ve bağlamsal değerlendirme ayrı değişkenler olarak ele alınmalıdır. Bu öneri uygulanmış bir deney değildir; ön kayıt, uygun örneklem ve etik değerlendirme gerektirir.
+
+
+## Genişletilmiş öz ve araştırma katkısı
+
+Duygu oluşumuna ilişkin tek nedenli açıklamaların sınırlarını araştıran bu makale, bedensel uyarılma, algı, bellek, bilişsel değerlendirme ve toplumsal bağlamı birbirinden ayırarak karşılaştırır. Yöntem, kavramsal ayrım ve iki durumun aynı bedensel uyarılma düzeyinde farklı duygu yorumlarıyla eşleşebileceği karşı-modeldir. Bu karşı-model, tek bir fizyolojik göstergenin bütün duygu türlerini zorunlu olarak belirlediği güçlü iddiayı sınırlar; duyguların tümünün bilinçli yargı gerektirdiği sonucunu da savunmaz. Çalışmanın katkısı yeni bir duygu deneyi değil, farklı açıklama düzeylerini birbirine indirgemeden birlikte tartışan analitik çerçevedir.
+
+**Anahtar sözcükler:** duygu; bedensel uyarılma; bilişsel değerlendirme; bağlam; kavramsal analiz; Zanabûn.
+
+## Yöntem — Karşılaştırmalı kavramsal çözümleme
+
+Analiz birimi, duyguyu açıklayan tek bir önermedir. Her önerme için bağımlı değişkenin duygu deneyimi, duygu etiketi veya davranış olup olmadığı ayrılır. Bedensel durum ile duygu etiketinin bire bir eşlenmesi savı, farklı bağlamlarda benzer uyarılmanın farklı yorumlanabilmesi ihtimaliyle sınanır. Bu karşı-örnek deneysel doğrulama değil, güçlü indirgemeci savın hangi ek kanıtı gerektirdiğini gösteren düşünce deneyidir.
+
+## Tartışma — Alternatif açıklamalar ve sınırlar
+
+Fizyolojik açıklama bedensel değişkenleri, değerlendirme yaklaşımı olayın anlamını, ilişkisel yaklaşım ise sosyal bağlamı öne çıkarabilir. Bu farklı odaklar zorunlu olarak birbirini dışlamaz; hangi modelin hangi duyguyu daha iyi açıkladığı deneysel araştırma gerektirir. Korku ile heyecanın aynı koşullarda aynı fizyolojik profile sahip olduğu iddia edilmez. Yalnızca bedensel göstergeden duygu kimliğine zorunlu ve bağlamdan bağımsız çıkarım yapılamayacağı savunulur.
+
+**Önerilen deneysel ayrım:** Bağlam manipülasyonu, bedensel ölçümler ve öznel raporlar ayrı ölçülür; ölçümlerin kör kodlanması, örneklem seçimi ve etik kurul değerlendirmesi araştırma ön koşullarıdır. Bu makalede deney gerçekleştirilmemiştir.
+
+## Sonuç ve sonraki kanıt gereksinimi
+
+Duygu oluşumu hakkında çok katmanlı açıklama, kurucu ontolojiden doğrudan deneysel mekanizma türetmez. A12'nin savunulabilir sonucu, bedensel, bilişsel ve ilişkisel açıklama türlerini ayrı tutan araştırma sorularının gerekçesidir. Karşıt literatürün doğrulanması, kaynakların iddia düzeyinde eşleştirilmesi ve bağımsız eleştiri açık olduğundan hedef dergiye gönderim onayı verilmez.
