@@ -10,6 +10,18 @@ Hebûn, Ehad–Yek kurucu kabulünden ilk Yek, ikinci Yek, bunların ilişkisind
 ## Yöntem ve iddiaların kapsamı
 Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
 
+## Araştırmanın mantıksal omurgası ve olgunluk denetimi (24 Ekim 2026)
+
+**Temel sav:** İkinci bilenin değerlendirmesi, bilginin gerekçelendirilmesi için ayrı bir denetim imkânı sağlar; ancak ikinci onay tek başına nesnel doğruluğu gerektirmez.
+
+**Tümdengelim:** (P1) Aynı yanlış kaynaktan türeyen iki rapor birbirinden kanıtsal olarak bağımsız değildir. (P2) İki bilen aynı yanlış kaynağa dayanabilir. (S1) O hâlde iki bilenin uyuşması bağımsız kanıtın varlığını zorunlu kılmaz. (S2) İkinci bilenin kurucu epistemik rolü, doğruluğun mantıksal garantisi değil, gerekçeyi yeniden inceleme ve itiraz imkânıdır. S1, P1–P2'den çıkar; S2 ise Zanabûn'un burada benimsenen **yorumlayıcı tanımıdır**, S1'den tek başına mantıken çıkmaz.
+
+**Tümevarım sınırı:** Bağımsız denetimin belirli bağlamlarda hatayı azalttığını gösteren örnekler bulunursa bu, bütün bilgi türlerinde zorunlu üstünlük kanıtı olmaz. İkinci denetçi aynı eğitim, ölçüm aygıtı veya varsayımı paylaşabilir.
+
+**Kavram sınırları:** Ontolojik ilk/ikinci Yek yaratılış düzenindeki varlık terimleridir; B1/B2 ise bilgi değerlendirme rolleridir. Bir rolün ontolojik bir varlıkla eşlenmesi özdeşlik çıkarımı doğurmaz. Ehad Yek'tir; yaratılmış ikinci Yek değildir. Kurucu teolojik sav, ölçülmüş bilimsel sonuç gibi gösterilmez.
+
+**İç olgunluk kararı:** Bu metin araştırma sorusu, kurucu tez, karşı-örnek ve kaynakça bakımından bütünlüklü bir çekirdek taslaktır. Kaynakların tam paragraf eşlemesi ve sonraki kurucu değerlendirme yapılmadan kesin kanonik kapanış ilan edilmez. Dış hakemlik bu aşamada üretimi durdurma şartı değildir.
+
 ## 1. Devralınan kurucu kanon
 **Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Kurucu türeme sırası: **ilk Yek → ikinci Yek → ikisinin ilişkisinden üçüncü ve sonraki Yekler → Komel**. Yek yedinci yaratılmış boyut veya insan özü değildir; Komel Yek'in eşanlamlısı değildir. Nisâ 4:1'de tek nefis, ondan eş ve ikisinden çok sayıda insanın ortaya çıkışı anlatılır. Hz. Âdem–Hz. Havva–çocuklar, kurucu tefsir örneğidir; isimler ve “bel kemiği” ayetin açık lafzında bulunmaz. Meal metni ve dipnot için Diyanet İşleri Başkanlığı (2011), Nisâ 4:1; yorum ayrımı için H01 §3 esas alınır.
 
@@ -170,6 +182,6 @@ Bu ek H02'nin kurucu bilgi tanımını değiştirmez; iki değerlendiricinin ona
 **Etki ve açık kapılar:** H03'ün iddia–kanıt soyağacına ortak kaynak bağımlılığı alanı eklenmesi önerilir; H01'de aynı olgu ailesindeki makaleler bağımsız tekrar diye sayılmaz. K1 rakip epistemoloji ve istatistik literatürü; K3 gerçek veri veya simülasyon; K5 hedef dergi yönergesi; K6 bağımsız eleştiri ve kurucu onayı açıktır. Bu ek tek başına makaleyi tamamlamaz.
 
 
-## Ek E — İkinci bilen ve enformasyon kuramı bağlantısı
+## Ek G — İkinci bilen ve enformasyon kuramı bağlantısı
 
 H02'nin ikinci bilen ilkesi, `05-ikinci-katman-makaleler/ENFORMASYON-TEORISI-ZANABUN-01-TR.md` için epistemik kaynak sağlar; iki makalenin araştırma sorusu farklıdır. B1 ve B2 aynı yanlış kalibre edilmiş cihazı kullanırsa iki onay bağımsız doğrulama değildir. Önerilen test: tek değerlendirici, ortak kaynaklı iki değerlendirici ve bağımsız kaynaklı iki değerlendiricinin yanlış-pozitif ve yanlış-negatif oranları kör yöntemle karşılaştırılır. Sonuç verisi henüz yoktur. Ehad Yek'tir; ontolojik ikinci Yek, epistemik ikinci bilenle özdeş değildir. K0–K6 açık.
