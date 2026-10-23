@@ -72,3 +72,10 @@ Shannon'un iletişim kuramı işaretlerin istatistiksel belirsizliğini modeller
 **Araştırma birimi:** Doğruluğu bağımsız bir referans anahtarıyla belirlenmiş tekil iddialar. **Kollar:** (A) bir denetçi, (B) ortak veri kaynağını kullanan iki denetçi, (C) kaynakları ayrılmış iki denetçi. İddia güçlüğü katmanlarına göre rastgele atama yapılır; değerlendirme talimatları eşitlenir. İkinci denetçinin ilk kararı görüp görmediği önceden sabitlenir. **Birincil sonlanım:** Yanlış iddianın kabul edilme oranı. **İkincil sonlanımlar:** Doğru iddianın reddi, karar süresi, denetim maliyeti ve uyuşma oranı. **Karıştırıcılar:** Ortak eğitim, aynı model ailesi, cihaz kalibrasyonu ve iddia zorluğu. Analiz öncesi dışlama ölçütleri, örneklem büyüklüğü gerekçesi ve güven aralıkları kaydedilir.
 
 **Karar kuralı:** C kolu B ve A kollarından anlamlı biçimde daha iyi değilse 'bağımsız ikinci bilen her durumda üstündür' genellemesi reddedilir. Başarı da Zanabûn ontolojisinin deneysel ispatı değildir. İnsan katılımcı kullanılırsa gerekli etik izinler ayrıca alınır. Bu bir uygulanmamış tasarımdır.
+
+
+## İstatistiksel değerlendirme ve bağımlılık denetimi
+
+Birincil sonuç yanlış iddianın kabul oranıdır. Her iddia için referans doğruluk, değerlendirici kararı, veri kaynağı, ortak cihaz/model ailesi ve değerlendirme zamanı kayıt altına alınır. Aynı iddiayı inceleyen denetçiler bağımsız gözlem gibi sayılmaz; iddia düzeyinde eşleştirilmiş karşılaştırma veya küme yapısını hesaba katan model seçilir. Etki büyüklüğü ve güven aralığı raporlanır; yalnızca p-değerine dayanılmaz. İddia zorluğu, değerlendirici uzmanlığı ve ortak eğitim karıştırıcı olarak önceden tanımlanır. Çoklu ikincil sonuçların keşifsel olduğu belirtilir.
+
+**Ayırıcı başarısızlık:** Kaynak bağımsızlığı sağlanmasına rağmen C kolunun yanlış kabul oranı B kolundan düşük değilse bağımsız denetimin genel üstünlüğü iddiası desteklenmez. Sonradan alt grup seçerek olumlu sonuç üretmek doğrulayıcı kanıt sayılmaz. Araştırma verisi ve güç hesabı henüz bulunmadığından herhangi bir sayısal etki ileri sürülmez.
