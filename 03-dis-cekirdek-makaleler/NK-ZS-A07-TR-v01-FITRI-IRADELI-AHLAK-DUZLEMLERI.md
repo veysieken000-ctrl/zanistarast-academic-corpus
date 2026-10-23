@@ -55,3 +55,22 @@ Zanistarast H01–H05 çekirdek makaleleri, 22 Ekim 2026.
 **Öncül:** Bir davranış veya süreç doğada gerçekleşmektedir. **Geçersiz çıkarım:** O hâlde insanın o davranışı yapması ahlaken zorunludur. **Karşı-model:** Doğada zarar verici süreçler de bulunur; var olmaları insan için ödev yaratmaz. İradeli ahlaki değerlendirme için eylemin bilgisi, niyet, kontrol, zarar, hak ve gerekçelendirilen normatif ilke ayrı incelenir. D5'in bütün kozmik düzlemlerdeki fıtrî ahlak kapsamı, her olayın bilinçli ahlaki seçim olduğu anlamına gelmez. Bu kavramsal sonuç dış normatif literatür ve bağımsız eleştiriyle sınanmalıdır.
 
 **Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
+
+
+## Genişletilmiş öz ve özgün katkı
+
+Bu çalışma fıtrat, fıtrî ahlak ve iradeli ahlak arasındaki ilişkiyi betimleyici varlık düzeni ile normatif sorumluluk arasındaki geçiş sorunu üzerinden inceler. Yöntem, doğadaki düzenli bir sürecin insanın bilinçli ahlaki seçimiyle aynı türden olup olmadığını sorgulayan kavramsal karşı-modeldir. Bir fiziksel sürecin düzenli işlemesi, bu sürecin insan gibi bilgi, seçenek ve niyet taşıdığını göstermez. Çalışmanın dar sonucu, D5'in kapsayıcı kozmik anlamı ile insanın iradeli ahlakının özel sorumluluk koşullarının birlikte fakat özdeşleştirilmeden ele alınmasıdır. Bu analiz ampirik ahlak psikolojisi bulgusu değildir.
+
+**Anahtar sözcükler:** fıtrat; fıtrî ahlak; iradeli ahlak; normatif çıkarım; sorumluluk; 6+Tek.
+
+## Yöntem — Betimleme ve norm arasındaki geçiş
+
+Analiz birimi, bir olgudan ahlaki hükme geçen önermedir. Önce olgunun fiziksel, biyolojik veya davranışsal betimlemesi yazılır. Sonra bu betimlemeden çıkan normatif sonucun hangi ek değer öncülüne, bilgiye, alternatif davranış imkânına ve kontrol koşuluna ihtiyaç duyduğu sorulur. Bir taşın hareketi veya biyolojik bir düzenlilik örneği, insan tipi niyetin bütün yaratılmış varlıklara yüklenmesini sınamak için kullanılır. Bu yöntem deneysel veri üretmez.
+
+## Tartışma — Kapsayıcılık, bilinç ve sorumluluk
+
+Fıtrî ahlakın D5 kapsamında geniş anlam taşıması, D1–D4'teki her sürecin iradeli ahlaki karar olduğu anlamına gelmez. Ters yönde, insanın iradeli ahlakının özel olması da insanın bedensel ve ilişkisel koşullarını ortadan kaldırmaz. H04'ün imkân–bilgi–seçim ayrımı, A08'in zorlanma karşı-modeli ve A09'un hüküm tartışması birbirini ancak bu sınır korunursa destekler. Betimleyici olgudan normatif yükümlülüğe geçiş, ek bir değer öncülü olmadan geçerli sayılmaz.
+
+## Sonuç ve sınırlar
+
+A07'nin savunulabilir sonucu, fıtrî işleyiş ile iradeli sorumluluğun ayrı gerekçelendirme türleri olduğudur. Rakip etik kuramlarının birincil kaynak karşılaştırması, özgün DOCX izi ve bağımsız eleştiri tamamlanmadan hedef dergiye hazır denilemez.
