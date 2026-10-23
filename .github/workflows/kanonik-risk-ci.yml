@@ -5,6 +5,8 @@ on:
       - research/chatgpt-academic-2026-10-20
     paths:
       - '01-kanonik-denetim/kanonik_risk_tarama.py'
+      - '02-cekirdek-makaleler/**'
+      - '03-dis-cekirdek-makaleler/**'
       - '01-kanonik-denetim/test_kanonik_risk_tarama.py'
       - '01-kanonik-denetim/KANONIK-AKTARIM-RISK-KURALLARI-R1-R5-2026-10-23.json'
       - '.github/workflows/kanonik-risk-ci.yml'
@@ -22,10 +24,10 @@ jobs:
           python-version: '3.11'
       - name: Run R1-R5 regression tests
         run: python3 01-kanonik-denetim/test_kanonik_risk_tarama.py -v
-      - name: Scan research articles (advisory only)
+      - name: Scan core and external-core articles (advisory only)
         run: |
           python3 01-kanonik-denetim/kanonik_risk_tarama.py \
-            --root 03-dis-cekirdek-makaleler \
+            --root . \
             --rules 01-kanonik-denetim/KANONIK-AKTARIM-RISK-KURALLARI-R1-R5-2026-10-23.json \
             --output risk-uyarilari.json
       - name: Upload advisory warnings
