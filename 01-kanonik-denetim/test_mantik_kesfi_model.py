@@ -6,7 +6,8 @@ from mantik_kesfi_model import (
     sufficient_condition_refuted, candidate_center_roles, distinct_yeks,
     KomelCandidate, TransitionCase, transition_counterexamples,
     ClaimDomain, ClaimRecord, TransferProposal, center_role_entails_legitimacy,
-    ResponsibilityChain,
+    ResponsibilityChain, EvidenceStatus, FunctionalRole,
+    FunctionalObservation, FunctionalProfile, analogy_transfer_review,
 )
 
 
@@ -276,6 +277,100 @@ class LogicDiscoveryTests(unittest.TestCase):
     def test_responsibility_chain_complete_has_no_missing_flags(self):
         chain = ResponsibilityChain(True, True, True, True, True)
         self.assertEqual(chain.review_flags(), frozenset())
+
+    def test_observed_requires_source(self):
+        with self.assertRaises(ValueError):
+            FunctionalObservation(FunctionalRole.RESOURCE, "enerji", EvidenceStatus.OBSERVED)
+
+    def test_observed_with_source(self):
+        obs = FunctionalObservation(
+            FunctionalRole.RESOURCE, "enerji", EvidenceStatus.OBSERVED, "ölçüm-01"
+        )
+        self.assertEqual(obs.status, EvidenceStatus.OBSERVED)
+
+    def test_blank_function_description_rejected(self):
+        with self.assertRaises(ValueError):
+            FunctionalObservation(FunctionalRole.INFORMATION, " ", EvidenceStatus.MODELLED)
+
+    def test_empty_profile_requires_review(self):
+        profile = FunctionalProfile("hücre", ())
+        self.assertIn("NO_OBSERVATIONS", profile.review_flags())
+
+    def test_blank_profile_id_rejected(self):
+        with self.assertRaises(ValueError):
+            FunctionalProfile(" ", ())
+
+    def test_non_observation_rejected(self):
+        with self.assertRaises(TypeError):
+            FunctionalProfile("hücre", ("güç",))
+
+    def test_analogy_does_not_become_identity(self):
+        observation = FunctionalObservation(
+            FunctionalRole.CONSTRAINT, "ruh-yazılım benzetmesi", EvidenceStatus.ANALOGY
+        )
+        profile = FunctionalProfile("yorum", (observation,))
+        self.assertIn("ANALOGY_NOT_IDENTITY", profile.review_flags())
+
+    def test_theology_not_empirical_evidence(self):
+        observation = FunctionalObservation(
+            FunctionalRole.CONSTRAINT, "ruh yorumu", EvidenceStatus.THEOLOGICAL
+        )
+        profile = FunctionalProfile("yorum", (observation,))
+        self.assertIn("THEOLOGICAL_NOT_EMPIRICAL", profile.review_flags())
+
+    def test_normative_role_not_assumed(self):
+        observation = FunctionalObservation(
+            FunctionalRole.PROCESSING, "veri işleme", EvidenceStatus.MODELLED
+        )
+        profile = FunctionalProfile("zihin", (observation,))
+        self.assertIn("NORMATIVE_ASSESSMENT_NOT_SPECIFIED", profile.review_flags())
+
+    def test_normative_role_can_be_explicit(self):
+        observation = FunctionalObservation(
+            FunctionalRole.VALUE, "sorumluluk yorumu", EvidenceStatus.MODELLED
+        )
+        profile = FunctionalProfile("insan", (observation,))
+        self.assertNotIn("NORMATIVE_ASSESSMENT_NOT_SPECIFIED", profile.review_flags())
+
+    def test_missing_role_is_unknown_not_false(self):
+        profile = FunctionalProfile("fizik", ())
+        self.assertEqual(profile.role_statuses(FunctionalRole.INFORMATION), frozenset())
+
+    def test_role_mismatch_blocks_analogy(self):
+        source = FunctionalObservation(
+            FunctionalRole.RESOURCE, "enerji", EvidenceStatus.MODELLED
+        )
+        target = FunctionalObservation(
+            FunctionalRole.VALUE, "adalet", EvidenceStatus.MODELLED
+        )
+        self.assertEqual(analogy_transfer_review(source, target), "REVIEW_ROLE_MISMATCH")
+
+    def test_analogy_transfer_is_analogy_only(self):
+        source = FunctionalObservation(
+            FunctionalRole.CONSTRAINT, "genetik kod", EvidenceStatus.ANALOGY
+        )
+        target = FunctionalObservation(
+            FunctionalRole.CONSTRAINT, "yazılım", EvidenceStatus.MODELLED
+        )
+        self.assertEqual(analogy_transfer_review(source, target), "ANALOGY_ONLY")
+
+    def test_theological_transfer_is_analogy_only(self):
+        source = FunctionalObservation(
+            FunctionalRole.CONSTRAINT, "ruh", EvidenceStatus.THEOLOGICAL
+        )
+        target = FunctionalObservation(
+            FunctionalRole.CONSTRAINT, "program", EvidenceStatus.MODELLED
+        )
+        self.assertEqual(analogy_transfer_review(source, target), "ANALOGY_ONLY")
+
+    def test_matching_roles_still_require_review(self):
+        source = FunctionalObservation(
+            FunctionalRole.INFORMATION, "DNA", EvidenceStatus.OBSERVED, "kaynak-1"
+        )
+        target = FunctionalObservation(
+            FunctionalRole.INFORMATION, "bellek", EvidenceStatus.OBSERVED, "kaynak-2"
+        )
+        self.assertEqual(analogy_transfer_review(source, target), "EVIDENCE_REVIEW_REQUIRED")
 
     def test_duplicate_edge_is_idempotent(self):
         edge = Edge("y1", "komel", EdgeType.MEMBER_OF)
