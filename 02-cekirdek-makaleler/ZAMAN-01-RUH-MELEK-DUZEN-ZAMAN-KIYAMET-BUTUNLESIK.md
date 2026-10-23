@@ -107,3 +107,12 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 **O1:** Google Drive `1deJT3kwnpgtTXNNa2Zz3qLQp1JQrPtV4`, *1-VARLIK SİSTEMLERİ VE BOYUTLARI* kopyası. Okunan özgün paragraflar: kuantum ve varoluş, 'Sistem (Boyut, zaman)', atomun merkez/çevre düzeni, kara madde ve karadelik ilişkisi. **O2:** Google Drive `1hgq1pwA8lnjSbTp1b9Xt3Q5JzTlieysa`, *4-varlık yönetim düzeni* kopyası. Okunan özgün paragraflar: zamanın yıpratıcı etkisi, mekân-zaman-hareketin varlık kimliğiyle bağı ve ruh/düzen ilişkisi.
 
 **Kaynak önceliği:** Orijinal ifade, bilimsel düzeltme ve yeni sentez ayrı gösterilecektir. O1'in karadelik–karanlık madde–Higgs ilişkileri kurucu hipotez olarak kayda geçer; deneysel doğrulanmış fizik olgusu sayılmaz. Karanlık madde, karanlık enerji ve karadelikler birbirinden ayrı fizik konularıdır. O1/O2'deki ilgili paragrafların tamamının eşleştirilmesi ve Hebûn–Zanabûn arşivinin incelenmesi hâlâ açıktır.
+
+
+## 14. Orijinal makalelerde paragraf düzeyinde zaman izi
+
+**O1 — Varlık Sistemleri ve Boyutları**, Drive `1deJT3kwnpgtTXNNa2Zz3qLQp1JQrPtV4`: karakter başlangıçları 457 (kuantum yorumu), 1236 ('Sistem (Boyut, zaman)'), 8367 (kara madde/galaksi çevresi), 8999–11226 (karadelik, atomaltı ve Higgs iddiaları), 11772–12819 (kara madde, kara enerji ve merkez–çevre). Bu aralıklar Google Docs metin indeksleridir; sayfa numarası değildir. Özgün metin kara enerji ile kara maddeyi karadelik kaynaklı yorumlasa da fiziksel eşdeğerlik kanıtlanmış değildir.
+
+**O2 — Varlık Yönetim Düzeni**, Drive `1hgq1pwA8lnjSbTp1b9Xt3Q5JzTlieysa`: başlangıç 4281 (zamanın yıpratıcı özelliği), 14726 (mekân, zaman, hareket ve bireysellik), 26690 (kozmik genişleme/biyoloji analojisi), **28717 ('Her varlık kümesinin üst varlığı varlık kümesinin zamanını oluşturur')**, 31646 (karadelik üzerinden toplumsal benzetme). Özellikle 28717'deki ifade zaman kuramının özgün **üst–alt ilişki hipotezi** olarak kaynak zincirine eklenir; sonraki 'zaman = etkileşim' tanımıyla karşılaştırılmalı, birbirine otomatik eşitlenmemelidir.
+
+**Üçlü ayrım:** Özgün alıntı/iddia ≠ bilimsel doğrulama ≠ yeni kuramsal sentez. Kozmik genişlemenin tersine dönmesi, karadelik ve karanlık enerji arasındaki ilişkiler için bağımsız veri gerekir. K0–K6 açık.
