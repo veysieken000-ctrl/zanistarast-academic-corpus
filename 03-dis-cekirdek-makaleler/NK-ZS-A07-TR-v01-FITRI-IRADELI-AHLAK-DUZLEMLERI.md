@@ -83,3 +83,12 @@ A07'deki D5 kapsamı, önceki kozmik boyutların hareket, oluş ve fıtrî düze
 **Karşı-model:** Bir insan zor bir muhakeme görevini başarıyla çözebilir, fakat belirli bir eylem sırasında dış baskı nedeniyle seçeneklerini uygulayamayabilir. Yüksek akıl yürütme başarısı tam ahlaki sorumluluğun yeterli koşulu değildir. Diğer yönde, kişinin bilişsel görevde düşük puan alması da otomatik olarak ahlaki sorumluluğunun bulunmadığını göstermez.
 
 **Geçiş kuralı:** Betimleyici yeti iddiasından normatif sorumluluk hükmüne geçmek için hangi değer öncülünün kullanıldığı, eylem anındaki koşullar ve karşıt durumlar ayrı yazılır. Bu ek bir etik kuramın doğruluğunu veya insan deneyini kanıtlamaz. A07'nin normatif karşıt literatürü, K0–K6 ve bağımsız hakemlik açık kalır.
+
+
+## H04–H05–A05 ile sorumluluk sınaması
+
+H04'te teknik imkân ile erişilebilir seçenek, bilgi, kontrol ve niyet birbirinden ayrılır. H05 ve A05'te akıl yürütme veya zekâ görevindeki başarı bu koşulların yerine geçmez. A07'nin fıtrî ahlakı kapsayıcı bir ontolojik sınıflandırmadır; bilinçsiz fiziksel süreçleri insan tipi iradeli ahlakın örnekleri olarak göstermez.
+
+**Karşı-model:** Aynı eylemi gerçekleştiren iki kişinin bilişsel becerisi eşit olabilir. Birinin bilgiye erişimi ve serbest seçimi varken diğerinin davranışı zorlamayla gerçekleşmişse, aynı gözlenen eylemden aynı ahlaki sorumluluk hükmü çıkmaz. Benzer biçimde doğadaki düzenli bir hareket, insanın niyetli ahlaki seçimiyle aynı kanıt türünde değildir.
+
+**İşlemsel karar:** Önce gözlenen davranış ve bağlam kaydedilir; sonra erişim, bilgi, kontrol ve niyet ayrı incelenir; normatif hüküm için kullanılan değer öncülü ayrıca yazılır. Bilişsel kapasite, ampirik betimleme ve ahlaki yükümlülük tek ölçüte indirgenmez. Bu ek kavramsal denetimdir, deney veya bağımsız uzman onayı değildir. K0–K6 ve yayın kilidi açıktır.
