@@ -47,14 +47,6 @@ Bu bölümdeki gösterim **önerilen yöntemdir**; gözlemsel veriyle doğrulanm
 **Yöntemsel ayrım:** `reach=1` bilginin doğru olduğu anlamına gelmez; `independent=1` ortak kaynak ve çıkar grafı kontrol edilmeden verilmez. A10'un normatif meşruiyet sorusu A11'in graf ölçümlerine indirgenmez. Ayrıntılı sentetik vakalar: `01-kanonik-denetim/A10-A11-KARSI-ORNEK-BAGIMSIZLIK-TEST-VAKALARI-2026-10-23.md`. Gerçek veri, bağımsız Rasterast incelemesi ve K0–K6 tamamlanmamıştır.
 
 
-## 7A. Bilgi akışı grafı ve bağımsız denetim testleri (23 Ekim 2026)
-
-Bu bölümdeki gösterim **önerilen yöntemdir**; gözlemsel veriyle doğrulanmış model değildir. `G=(V,E)` yönlü grafında düğümler temsil edilenleri, temsilcileri, karar merkezlerini ve denetçileri gösterir. Kenarlar **bilgi iletimi**, **yetki devri** ve **itiraz** olarak ayrı türlenir. `reach(p,q)` gerekçeye erişimi, `appeal(p,q)` fiilî itiraz erişimini, `provenance(e)` delilin kaynak geçmişini, `independent(a,q)` denetçinin çıkar ve ortak kaynak bağımlılığı riskini, `latency(q)` hata tespitiyle düzeltme arasındaki süreyi temsil eder. Bunların tanım kümesi, ölçüm yöntemi ve birimleri veri çalışmasında belirlenmelidir.
-
-**A11'e özgü karşı-örnekler:** (V3) İki denetçi aynı hatalı rapordan beslendiğinde iki onay bağımsız kanıt sayılmaz. (V4) Merkezî sistemin düşük düzeltme gecikmesi, çevreden gelen aykırı verinin bastırılmasını telafi etmez. (V6) Normatif ilke gerekçeli olsa bile itiraz kenarı kopuksa sistem düzeltilebilir değildir. (V7) Ağda erişim ve düzeltme güçlü olsa bile bu, kararın adil olduğunu kanıtlamaz.
-
-**Yöntemsel ayrım:** `reach=1` bilginin doğru olduğu anlamına gelmez; `independent=1` ortak kaynak ve çıkar grafı kontrol edilmeden verilmez. A10'un normatif meşruiyet sorusu A11'in graf ölçümlerine indirgenmez. Ayrıntılı sentetik vakalar: `01-kanonik-denetim/A10-A11-KARSI-ORNEK-BAGIMSIZLIK-TEST-VAKALARI-2026-10-23.md`. Gerçek veri, bağımsız Rasterast incelemesi ve K0–K6 tamamlanmamıştır.
-
 ## 8. K0–K6 durumu
 K0: “4-varlık yönetim düzeni (1).docx” özgün paragraf izi açık. K1: Yönetim ve temsil literatüründe karşıt birincil kaynaklar doğrulanmadı. K2: Yöntem taslak. K3: Rakip modeller ve başarısızlık ölçütleri taslak. K4: Ontolojiden kurumsal normlara geçiş sınırları taslak. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
