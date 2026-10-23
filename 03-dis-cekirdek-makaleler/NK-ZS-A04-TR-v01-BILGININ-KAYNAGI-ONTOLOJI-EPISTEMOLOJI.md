@@ -45,3 +45,10 @@ K0: Özgün “2-Akıl ve bilginin varlığı (2).docx” paragraf izi açık. K
 Zanistarast Ehad–Yek kurucu kanonu (22 Ekim 2026); 27 makale üretim ve kalite matrisi, A04; H01–H05 çekirdekleri ve A06–A14 ilgili dış çekirdek taslakları.
 
 **Yayın statüsü:** 412 benzersiz makale, kanonik çapraz uyum ve kurucu onayı tamamlanmadan yayımlanmaz.
+
+
+## 8. Dört kaynak anlamı için uygulamalı karar testi
+
+Bir önermenin kaynağı sorulduğunda önce soru türü belirlenir: (i) varoluşun ontolojik temeli, (ii) öznenin bilme kapasitesi, (iii) önermenin gerekçesi, (iv) bağımsız sınaması. **Karşı-örnek:** İki araştırmacı aynı hatalı termometreyi kullanıp aynı sıcaklığı bildirirse (iv) anlamında iki bağımsız doğrulama oluşmaz. Ontolojik Ehad–Yek kabulü (iii) anlamında ölçüm verisi değildir. A04'ün sonucu bu dört türün birbirine indirgenemeyeceğidir; tarihsel veya deneysel doğruluk iddiası ayrı kanıt ister.
+
+**Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
