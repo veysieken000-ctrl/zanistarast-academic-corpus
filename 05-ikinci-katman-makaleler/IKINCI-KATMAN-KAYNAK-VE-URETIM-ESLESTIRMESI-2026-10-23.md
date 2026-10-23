@@ -66,3 +66,12 @@ Her aday için sırasıyla: (1) mevcut dosya ve SHA, (2) bağımsız araştırma
 **Karşı-model:** Açık bir sistem, dışarıdan enerji alarak uzun süre denge dışı düzen sürdürebilir. Dolayısıyla entropi artışı tek başına sistemin kapanması, biyolojik açılımın zorunluluğu veya D4 ruh/melek boyutunun fiziksel olarak tespit edildiği sonucunu vermez. Termodinamik entropi ile tarihsel düzensizlik veya ahlaki bozulma aynı nicelik değildir.
 
 **Yöntem ve karar:** Bir açık sistem örneği için enerji dengesi ve entropi üretimi modellenir; 'geçiş' önceden belirlenen işlevsel ölçütle tanımlanır; aynı veriye uyan geçişsiz rakip model de raporlanır. Kozmik D1–D6 ile fiziksel uzay-zaman boyutları özdeş sayılmaz. Bu kayıt L2-K04'ün araştırma tasarımıdır, veri veya bağımsız Rasterast sonucu değildir. Dört L2 öncelik hattının kaynak/soru/karşı-model hazırlığı bu aşamada tamamlanmıştır; makale K0–K6 bitirme kapıları tamamlanmamıştır.
+
+
+## Kurucu ayrım — üç bağımsız tarih disiplini (23.10.2026)
+
+**Bağlayıcı sınıflandırma:** (1) **Varlık tarihi** Hebûn temelli varlığın kuruluşu, boyutsal açılım, kemal ve kapsama ilişkilerinin ontolojik tarihidir. (2) **Jeoloji tarihi** Dünya'nın kayaç, iklim, stratigrafi, fiziksel çevre ve jeolojik olaylarının ayrı araştırma tarihidir. (3) **İnsan tarihi** insanın iradeli ahlakı, toplum, kurum, kültür ve sorumluluk düzeninin ayrı araştırma tarihidir. Bunlar tek bir makale veya tek bir disiplin olarak birleştirilemez.
+
+**Çapraz ilişki, birleşme değildir:** Jeoloji tarihi biyolojik açılımın çevresel koşullarını araştırabilir; insan tarihi jeolojik zaman ve çevreyle ilişkilendirilebilir; varlık tarihi ikisinin ontolojik kapsama ilişkisini tartışabilir. Ancak her birinin ayrı araştırma sorusu, kaynak dizisi, yöntem, karşı-model ve makale envanteri korunur. `VARLIK-TARIHI-01` içindeki jeoloji ve insan tarihi bölümleri yalnızca çapraz denetim/köprüdür; onların yerine geçen ana makaleler değildir.
+
+**L2 yönlendirme:** L2-K02 jeoloji tarihine, L2-K03 insan tarihine aittir. Varlık tarihi bunlardan bağımsız üçüncü ana araştırma hattıdır; L2-K04 zaman/kemal, varlık tarihiyle ilişkili ama onunla özdeş olmayan ayrı problem hattıdır. Daha önce kullanılan 'jeoloji/insan tarihi birleşimi' ifadesi makale birleştirme kararı olarak geçersizdir.
