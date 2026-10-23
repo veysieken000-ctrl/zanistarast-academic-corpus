@@ -44,3 +44,14 @@ Her aday için sırasıyla: (1) mevcut dosya ve SHA, (2) bağımsız araştırma
 **Sınama tasarımı:** İncelenen her olay için stratigrafik sınır, tarihlendirme belirsizliği, biyolojik kayıp örüntüsü, jeokimyasal gösterge ve sonrasındaki ekolojik yeniden örgütlenme ayrı kaydedilir. 'Reset üst evreyi zorunlu üretir' iddiasına karşı, yok oluş sonrasında beklenen yeni işlevin oluşmadığı örnekler aranır. Yerel jeolojik geçiş ile evrenin fiziksel genişlemesi özdeş değildir.
 
 **Kanonik ayrım:** Nisâ 4:1 ve iradeli ahlak insan yaratılışı programının kurucu referansıdır; jeolojik katman tarihlendirmesinin yerine geçmez. Biyoloji, zihin ve ruhun kapsama ilişkisi kronolojik eşzamanlılık iddiası olarak yorumlanmaz. L2-K02 mevcut varlık tarihi bölümlerini kopyalamayan karşılaştırmalı jeoloji yöntemi adayıdır. Dış kaynak, örneklem ve bağımsız Rasterast henüz açıktır.
+
+
+## L2-K03 — İnsan tarihi ve iradeli ahlak: dönem ayrımı ve karşı-modeller
+
+**Özgün ön çalışmalar:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/03_ZIHIN_ESIGI.md` (`9d0ac8fd`) ve `04_TRANSITION_FROM_RATIONAL_MIND_TO_HUMAN_ERA.md` (`e046e56f`). Bu kaynaklar aklın sorumlulukla ilişkisini ve insan çağının bilinçli çevresel müdahalesini önceden ele alır. `VARLIK-TARIHI-01` bölüm 17'deki kurucu düzeltme bu çalışmanın bağlayıcı kapsamıdır.
+
+**Üç ayrı zaman çizelgesi:** (H1) İnsan türünün biyolojik ve fosil/genetik tarihi; (H2) son buzul çağının sonu ve sonrasındaki çevresel/arkeolojik dönüşümler; (H3) iradeli ahlak, kurumsal sorumluluk ve hesap bilincinin Zanistarast açısından açılımı. H1, H2 ve H3 aynı başlangıç tarihine eşitlenmez. Kurucunun H3'ü son buzul çağı sonrası açılımla ilişkilendirmesi ontolojik tarih tezidir, ölçülmüş bir tarihleme sonucu değildir.
+
+**Karşı-modeller:** (1) Son buzul çağından önceki sembolik veya işbirlikçi davranış izleri, ahlaki iradenin yalnız sonrasında ortaya çıktığını doğrudan kanıtlamaz ya da çürütmez; önce irade göstergesinin tanımı gerekir. (2) Son buzul çağı sonrası yerleşiklik ve kurumlar, her toplulukta aynı sırada gerçekleşmemiş olabilir. (3) Normatif davranış izleri, içsel özgür iradenin tek başına ölçümü değildir.
+
+**Sınama tasarımı:** Her tarihsel iddiada tarih aralığı, örnek yeri, tarihleme yöntemi, davranışsal iz, alternatif açıklama ve iradeli ahlakla ilişkilendirme gerekçesi ayrı kaydedilir. Nisâ 4:1 yaratılışın kurucu referansı olarak açıkça belirtilir; arkeolojik veri yerine kullanılmaz. Darwinci evrim modeli kurucu öncül değil, karşılaştırılan açıklamadır. D3 akıl, D4 ruh/düzen, D5 iradeli ahlak ve D6 hüküm ilişkisi korunur. K0–K6 açıktır.
