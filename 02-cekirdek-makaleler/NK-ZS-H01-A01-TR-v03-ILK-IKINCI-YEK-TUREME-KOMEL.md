@@ -159,3 +159,22 @@ Fıtrat, fıtrî ahlak ve insanın iradeli sorumluluğu öz ve §8'de ayrılmı�
 Fizik düzeltmelerinin kaynak izleri: *Varlık Sistemi ve Boyutları* P38 ve *Akıl ve Bilginin Kaynağı* P160, hidrojen/helyum proton sayıları; sırasıyla P39 ve P149, molekül–element sıralaması; P41–50 ve P72–80, bu makalede bilimsel dayanak alınmayan kara delik–karanlık madde–Higgs ilişkileridir. Güncel bilimsel açıklama §§5–5A'dadır.
 
 Özgün *Varlık Sistemleri ve Boyutları* dosyası (Drive kimliği: 1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d; son değişiklik: 5 Şubat 2026) okunmuştur. Düz metinde boş olmayan satır/paragraf sırasına göre P122, Âdem–Havva–çocuk analojisinin; *Akıl ve Bilginin Kaynağı* P45, parçacık türemesi varsayımının izidir. İkinci kaynakta protondan nötron ve ikisinden elektron oluşması ihtimal olarak yazılmıştır; bölüm 5 bunu bilimsel bulguya dönüştürmez. Özgün metin korunur; güncel kanon ve kaynak denetimiyle yapılan sınırlandırma tarihsel kaynaktan sessizce silinmez.
+
+
+## Ek D — Kurucu çıkarımın sınanabilir sınırları (23 Ekim 2026)
+
+Bu bölüm, mevcut kurucu savı değiştirmeden **öncül → çıkarım → sınır → araştırma görevi** zincirini açıklar. Eklenen ifadeler ontolojik ve mantıksal çözümlemedir; yeni deneysel bulgu değildir.
+
+| Adım | Kurucu önerme | Çıkarımın statüsü | Geçersiz sıçrama / gerekli kanıt |
+|---|---|---|---|
+| H01-D1 | Ehad Yek'tir; yaratma Yek'e göredir | Kurucu teolojik/ontolojik kabul | Bu kabulden doğrudan parçacık fiziği denklemi çıkmaz |
+| H01-D2 | İlk Yek, ikinci Yek ve ilişki üzerinden yeni Yekler düşünülür | Kurucu ilişkisel türeme şeması | Her bilim dalında iki fiziksel ebeveyn veya aynı türeme mekanizması zorunlu değildir |
+| H01-D3 | Yeni tekilliklerin ilişkilerinden Komel oluşur | Kavramsal bütün/parça ilişkisi | Parçaların bir arada olması tek başına yeni bir biyolojik işlev veya bilinç doğduğunu kanıtlamaz |
+| H01-D4 | Merkez–çevre ilişkisi düzeni açıklamak için kullanılabilir | Açıklayıcı analoji | Geometrik merkezden ahlaki otorite, meşruiyet veya nedensel öncelik çıkarılamaz |
+| H01-D5 | Bir düzenin devamı kuruluşundan ayrı bir sorudur | Hebûn–Zanabûn görev ayrımı | Ontolojik kuruluş ile epistemik bilme/doğrulama özdeş değildir |
+
+**Mantıksal karşı-model:** İki ayrı nesnenin yan yana gelmesi bir küme oluşturabilir; ancak bu, kümenin zorunlu olarak yeni bir kimyasal bileşik, canlı veya bilen özne olacağı anlamına gelmez. Dolayısıyla `ilişki(A,B) ⇒ her alanda aynı mekanizmayla C` geçerli genel bir çıkarım değildir. Bilimsel mekanizma, her alanda bağımsız kanıt gerektirir.
+
+**H02/H03'e aktarım sınırı:** Buradaki ikinci Yek *ontolojik* rol; H02'deki ikinci bilen *epistemolojik* rol; H03'teki ikinci denetim ise *kanıt değerlendirme* rolüdür. Bunlar birbirinin yerine geçirilmez. Aynı kaynağa dayanan iki onay bağımsız kanıt sayılmaz (MK-016/MK-020). Bu ayrım sonraki metin düzeltmelerinde korunacaktır.
+
+**Tamamlanma kapısı:** Bu ek, H01'in kavramsal sınırlarını somutlaştırır; dış bilimsel literatür, K0–K6, bağımsız Rasterast ve kurucu onayı tamamlanmış sayılmaz. Makalenin yayın kilidi sürer.
