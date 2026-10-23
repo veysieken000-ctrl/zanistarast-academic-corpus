@@ -69,3 +69,11 @@ Zanistarast'ın jeolojik geçiş fikri, “fiziksel ortamın biyolojik örgütle
 - Astrobiyoloji ve alternatif yaşam kökeni ortamları
 
 **Editoryal açıklar:** Depolar arası kaynak taraması; doğrulanmış akademik atıflar ve DOI'ler; kurucu kavramların operasyonel tanımı; karşıt literatür; deneysel sonuçlar; bağımsız hakem değerlendirmesi.
+
+## 9. MK-013–015: Jeolojik geçişte işlev profili ve yeterlilik karşı-örneği (23.10.2026)
+
+**Araştırma aktarımı:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`. (R) su, mineral, sıcaklık ve enerji gradyanı; (I) kimyasal örüntü ve olası kalıtım mekanizmaları; (P) tepkime/döngü süreçleri; (C) çevre kısıtları; (V) insanın sonradan yüklediği anlam. Bu kavramsal harita, bu makalede ölçüm yapıldığı anlamına gelmez.
+
+**Karşı-örnek mantığı:** Hazırlayıcı ortamın bulunması, canlılığın ortaya çıkması için tek başına yeterli koşul değildir. `P` (hazırlık), `M` (mekanizma), `C` (bağlam), `O` (sonuç) olsun: `P ⇒ O` iddiasına `P ∧ ¬O` örneği karşı çıkar; `P ∧ M ∧ C ⇒ O` da ancak uygun gözlem ve karşı-örnek sınamasıyla savunulabilir. Semboller yaşamın kökeni hakkında deneysel yasa değildir.
+
+**Alan sınırı:** Kimyasal kayıt ile biyolojik bilgi, jeolojik kısıt ile ahlaki kanun, enerji gradyanı ile iradeli güç birbirine özdeşlenmez. Varlık Tarihi'ne fiziksel hazırlık sınırları; H04'e imkân–mekanizma–tercih ayrımı yalnız yöntemsel analoji olarak aktarılır. Laboratuvar/jeolojik veri, literatür ve Rasterast eleştirisi henüz gerekir.
