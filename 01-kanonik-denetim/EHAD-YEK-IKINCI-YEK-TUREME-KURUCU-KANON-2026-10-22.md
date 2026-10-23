@@ -58,3 +58,16 @@ Eski “Ehad ≠ Tek ≠ Yek” formülü güncel “Ehad Yek'tir” kurucu kara
 - **H04 6+Tek:** Kozmik boyutlar ile insan katmanları numaraca eşitlenmemeli.
 
 **Sonuç:** Bu, kullanıcı tarafından tanımlanan kurucu tezin sistematik ve kaynak ayrımı korunmuş ifadesidir; tek başına fiziksel, biyolojik veya teolojik ispatın tamamlandığı anlamına gelmez.
+
+
+## VII. Kurucu düzeltme: yaratılış, kemal, kapsama ve iradeli ahlak (23.10.2026)
+
+**Kurucunun bağlayıcı ontolojik yaklaşımı:** Zanistarast'ın insan yaratılışı açıklaması Nisâ suresi, özellikle 4:1'in tek nefisten yaratılış anlatısı, Hebûn–Zanabûn çerçevesi ve boyutsal açılım ilkesiyle birlikte ele alınır. Darwinci ortak ata/doğal seçilim anlatısı kurucu kabul değildir; araştırmalarda rakip bilimsel açıklama olarak, kanıtları ve itirazlarıyla incelenir. Kurucu görüşün bilimsel olarak kanıtlandığı veya mevcut evrimsel biyoloji verilerinin bilimsel olarak geçersizleştiği bu kayıtla iddia edilmez.
+
+**Kemal ve açılım:** Fiziksel boyutun sınırsız genişleme değil kemale erişme ve üst işlevi mümkün kılma yönünde okunması; biyolojik açılımın ardından biyoloji ve zihnin daha kapsayıcı ontolojik düzenlerle ilişkisi kurucu tezdir. 'Biyoloji zihin kapsamında; zihin ruh kapsamında' ifadesi, kronolojik olarak zihin biyolojiden önce geldi demek değil, ontolojik kapsama ilişkisi olarak okunur. Bu tez için mekanizma, örnek ve karşı-örnekler ayrıca araştırılır.
+
+**Fıtrî ve iradeli ahlak:** İnsan dışındaki varlıkların yönelimi fıtrî ahlak/düzen altında; insanın ayırıcı sorumluluğu iradeli ahlak altında değerlendirilir. İnsan D5 iradeli ahlak bakımından ayırt edilir; D4 ruh/düzen işleviyle ilişkisi korunur. D6 hüküm/hesap, insanın iradeli seçimlerinin nihai karşılığıdır. Kozmik boyutların kapsama hiyerarşisi, insanın kişisel katmanlarının numaralarıyla karıştırılmaz.
+
+**Buzul çağı sonrası tez:** Kurucu yaklaşım insanın iradeli ahlak çağını son buzul çağından sonraki tarihsel açılımla ilişkilendirir. Bu, biyolojik Homo sapiens türünün ancak o tarihte ortaya çıktığına dair doğrulanmış bilimsel kronoloji olarak sunulmaz. Son buzul çağının bitişi, arkeolojik toplumsal değişim ve iradeli ahlakın ilk ortaya çıkışı üç ayrı araştırma sorusudur; tek tarihe eşitlenmeleri ayrıca kanıt ister.
+
+**Zorunlu makale etkisi:** H01/H04; VARLIK-TARIHI-01; ZAMAN-01; jeoloji tarihi, insan tarihi, biyoloji, zihin, ahlak ve uygarlık makaleleri bu kurucu ayrımı referans alır. Mevcut ön çalışmalar silinmez; farklı eski formüller tarihsel sürüm notuyla karşılaştırılır. Rasterast karşı-model, dış kaynak ve bağımsız denetim kapıları açık kalır.
