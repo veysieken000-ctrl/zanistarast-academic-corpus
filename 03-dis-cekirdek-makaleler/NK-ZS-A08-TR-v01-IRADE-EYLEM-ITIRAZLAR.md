@@ -65,3 +65,12 @@ Bu makale irade, niyet, gözlenen eylem ve gerçekleşen sonucun hangi koşullar
 ## Sonuç ve kanıt sınırı
 
 A08'in savunulabilir katkısı, iradeli ahlakın değerlendirilmesinde gözlenen davranışın yanı sıra bilgi, seçenek, niyet ve kontrol koşullarının ayrı gerekçelendirilmesi gerektiğidir. Karşıt eylem felsefesi literatürü, özgün kaynak izi ve bağımsız inceleme tamamlanmadan dergiye gönderim statüsü verilmez.
+
+
+## A05–A07–A09 ile karşılaştırmalı sorumluluk testi
+
+**Sınanan çıkarım:** Bir eylemin gözlenmesi, kişinin aynı anda yeterli bilgiye, erişilebilir alternatiflere, fiilî kontrole ve serbest niyete sahip olduğunu kanıtlamaz. A05'in bilişsel görev başarısı, A07'nin fıtrî–iradeli ayrımı ve A09'un normatif hüküm tartışması bu sınır korunarak birlikte okunur.
+
+**Karşı-model:** Aynı zararlı sonuca yol açan iki eylemden biri bilinçli ve serbest seçimle, diğeri ciddi zorlama altında gerçekleşebilir. Eylem ve sonuç aynı olsa da sorumluluk değerlendirmesi aynı olmak zorunda değildir. Tersine, iyi niyetin bulunması zararlı sonucu kendiliğinden meşru kılmaz.
+
+**Karar şeması:** Betimlenen eylem, öngörülebilir sonuç, bilgi, erişilebilir seçenek, zorlama, fiilî kontrol, niyet ve normatif ölçüt ayrı kaydedilir. Bu şema tek başına hüküm üretmez; karşıt etik kuramlarıyla gerekçeli değerlendirme gerektirir. D5'in kapsayıcı ahlakı ile D6'nın teolojik hükmü ampirik davranış ölçümüne indirgenmez. Bu ek kavramsal denetimdir; deney ve bağımsız hakemlik yapılmış sayılmaz. K0–K6 açık kalır.
