@@ -2,6 +2,18 @@
 
 **H04/A02 | Türkçe v03 | 22 Ekim 2026 | Birikimli akademik çalışma sürümü; bağımsız denetim ve yayın kapısı açık**
 
+## 23 Ekim 2026 — H01–H04 ve ZANABUN-01 kanonik aktarım denetimi
+
+**Çekirdekler arası ayrım:** H01/Hebûn, Ehad Yek'tir kurucu kabulünden yaratılmış ilk Yek, ikinci Yek, türeme ve Komel'in ontolojik kuruluşunu inceler. H02/Zanabûn, bilene yönelen öznenin ortaya koyduğu **sonucun** ikinci bilen tarafından doğrulanmasını epistemolojik özel uygulama olarak inceler. H03/Rasterast, bu iddiaların kaynak kökeni, mantık, karşı-örnek ve bağımsız kanıt statüsünü denetler. **H04'ün özgün sorusu ise bu kurucu kavramları tekrar anlatmak değil, 6+Tek kozmik boyutlarında fıtrî imkân, araç kullanımı ve iradeli ahlak arasındaki sınırları araştırmaktır.**
+
+**Muhataplık düzeyleri:** Hebûn'da her yaratılmış Yek'in Ehad karşısında kendine özgü kimliği ve muhataplığı bulunduğu kurucu ontolojik yorumdur; iki varlığın ilişkisi de bu düzeyde ele alınır. İnsanın hüküm karşısında iradeli ahlakın en üst örneği olması, diğer varlıkların ontolojik muhataplığını ortadan kaldırmaz. ZANABUN-01'in istatistiksel ikinci tanık ve kaynak kümesi modeli bu ontolojik muhataplığı ölçmez; insanların kanıt yolları için koşullu doğrulama protokolüdür.
+
+**Kozmik–insan ayrımı:** Altı kozmik boyut (fizik, biyoloji, zihin, ruh/melekler, ahlak, hüküm/ahiret) insanın öz, duygu, akıl, irade vb. iç katmanlarının bire bir numaralandırması değildir. Beşinci kozmik boyuttaki ahlak, önceki boyutların iş/oluş/hareket ve fıtrî düzenini kapsayan kurucu geniş kullanımdır; insandaki iradeli ahlak özel ve hükmî bir durumdur. Altıncı boyutun teolojik statüsü deneysel olarak ispatlanmış gibi sunulamaz.
+
+**H04 için sınanabilir dar hipotez:** Belirli bir insan görevi ve açıkça tanımlanmış koşullarda, araç erişimi kişinin **fiilen kullanabildiği seçenekler kümesini** artırabilir; ancak bu artıştan ahlaken iyi kararın zorunlu çıktığı sonucu gelmez. İşlemselleştirme önerisi: görev öncesi/sonrası erişilebilir seçenekleri, bilgi farkını, seçimin gerekçesini ve zarar/fayda ölçütlerini ayrı kaydetmek. Bu öneri henüz uygulanmış deney veya doğrulanmış nedensel sonuç değildir. Karşı-örnek: yeni araç daha çok seçenek üretirken yanlış bilgi veya bağımlılık nedeniyle kişinin etkili seçeneklerini azaltabilir.
+
+**Devredilebilir bilgi paketi:** H01'den ontolojik kimlik/Yek–Komel, H02'den ikinci bilenin sonuç denetimi, H03'ten kaynak/kanıt/karşı-örnek kapıları alınır. H04'ün kendi katkısı fıtrî imkân–araç–seçim–iradeli ahlak ayrımıdır. H05'e akıl, bilgi ve seçenek değerlendirme bağımlılığı aktarılır; H04'ün tezi yeni makale diye kopyalanmaz. Eksik: ampirik görev tasarımı, karşıt literatür, bağımsız Rasterast incelemesi ve K0–K6 kapanışı.
+
 ## Öz
 6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir. Fıtrat varlığın kuruluş imkân ve sınırlarıdır; fıtrî ahlak bu düzenin tezahürü, iradeli ahlak ise insanda bilgi ve tercihle bu imkânların yönetilmesidir. Hüküm karşısındaki özel ahlaki sorumluluk iradeli ahlakla ilişkilidir.
 
