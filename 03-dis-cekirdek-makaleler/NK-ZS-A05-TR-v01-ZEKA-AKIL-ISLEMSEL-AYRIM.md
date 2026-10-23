@@ -37,3 +37,10 @@ Kenward, B. ve diğerleri (2005). Tool manufacture by naive juvenile crows. *Nat
 Zanistarast H01–H05 çekirdek makaleleri, 22 Ekim 2026.
 
 **Statü:** Çalışma sürümü; deney, bağımsız hakemlik ve 412 makale yayın onayı tamamlanmış değildir.
+
+
+## 7. Türden bağımsız üç görev ve başarısızlık koşulu
+
+**Görev 1:** Önceden öğrenilmiş çözümü yeni örneğe aktarma. **Görev 2:** Verilen öncüllerden daha önce sunulmamış, gerekçesi izlenebilir önerme üretme. **Görev 3:** Bu önermeyi bağımsız veri veya karşı-örnekle sınama. İnsan, hayvan ve yapay zekâ için ölçütler aynı tanımlanmalıdır; iletişim ve motor yetenek farklılıkları kontrol edilmelidir. **Karşı-örnek:** Yeni sözcük dizisi üretmek yeni doğru bilgi üretmek değildir; hayvanın yeni araç çözümü bulması ise yeni çıkarımın yalnız insanlarda bulunduğunu varsaymayı engeller. Bu bir deney tasarımıdır, sonuç değildir.
+
+**Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
