@@ -4,6 +4,7 @@ import unittest
 from mantik_kesfi_model import (
     Node, NodeType, Edge, EdgeType, TypedGraph,
     sufficient_condition_refuted, candidate_center_roles, distinct_yeks,
+    KomelCandidate, TransitionCase, transition_counterexamples,
 )
 
 
@@ -127,6 +128,84 @@ class LogicDiscoveryTests(unittest.TestCase):
     def test_provenance_target_must_be_claim(self):
         with self.assertRaises(ValueError):
             self.g.distinct_provenance_roots("y1", {})
+
+    def test_komel_connected_candidate(self):
+        candidate = KomelCandidate(
+            frozenset({"y1", "y2", "y3"}),
+            frozenset({("y1", "y2"), ("y2", "y3")}),
+        )
+        self.assertTrue(candidate.connected())
+
+    def test_komel_disconnected_candidate(self):
+        candidate = KomelCandidate(
+            frozenset({"y1", "y2", "y3"}),
+            frozenset({("y1", "y2")}),
+        )
+        self.assertFalse(candidate.connected())
+
+    def test_komel_two_members_required_for_this_model(self):
+        with self.assertRaises(ValueError):
+            KomelCandidate(frozenset({"y1"}), frozenset())
+
+    def test_komel_unknown_member_rejected(self):
+        with self.assertRaises(ValueError):
+            KomelCandidate(
+                frozenset({"y1", "y2"}),
+                frozenset({("y1", "unknown")}),
+            )
+
+    def test_komel_self_relation_rejected(self):
+        with self.assertRaises(ValueError):
+            KomelCandidate(
+                frozenset({"y1", "y2"}),
+                frozenset({("y1", "y1")}),
+            )
+
+    def test_komel_empty_relations_not_connected(self):
+        candidate = KomelCandidate(
+            frozenset({"y1", "y2"}), frozenset(),
+        )
+        self.assertFalse(candidate.connected())
+
+    def test_preparation_does_not_entail_transition(self):
+        cases = [TransitionCase(True, False, True, False)]
+        self.assertEqual(
+            transition_counterexamples(cases)["preparation_sufficient_refuted"],
+            [0],
+        )
+        self.assertEqual(
+            transition_counterexamples(cases)["combined_sufficient_refuted"],
+            [],
+        )
+
+    def test_full_transition_hypothesis_can_be_refuted(self):
+        cases = [TransitionCase(True, True, True, False)]
+        self.assertEqual(
+            transition_counterexamples(cases)["combined_sufficient_refuted"],
+            [0],
+        )
+
+    def test_positive_case_is_not_proof(self):
+        cases = [TransitionCase(True, True, True, True)]
+        self.assertEqual(
+            transition_counterexamples(cases)["combined_sufficient_refuted"],
+            [],
+        )
+
+    def test_transition_counterexample_indices(self):
+        cases = [
+            TransitionCase(False, False, False, False),
+            TransitionCase(True, False, True, False),
+            TransitionCase(True, True, True, False),
+        ]
+        self.assertEqual(
+            transition_counterexamples(cases)["preparation_sufficient_refuted"],
+            [1, 2],
+        )
+        self.assertEqual(
+            transition_counterexamples(cases)["combined_sufficient_refuted"],
+            [2],
+        )
 
     def test_duplicate_edge_is_idempotent(self):
         edge = Edge("y1", "komel", EdgeType.MEMBER_OF)
