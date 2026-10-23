@@ -28,3 +28,8 @@ Bir iddia C, gözlem E, birinci bilen B1 ve ikinci bilen B2 olsun. Bilginin dene
 
 ## Dış literatürle karşılaştırma için başlangıç kaynakları
 C. E. Shannon, “A Mathematical Theory of Communication” (1948); F. Dretske, *Knowledge and the Flow of Information* (1981); L. Floridi, *The Philosophy of Information* (2011). Bu kaynakların Zanabûn'a göre gerçek benzerlik ve ayrımları sayfa düzeyinde henüz doğrulanmadı. Makale özgün deney sonucu veya hakem onayı içermez.
+
+
+## Çekirdek H02 ile sınama bağlantısı
+
+H02'nin ikinci bilen ilkesi bu kuramın epistemik öncülüdür. Ontolojik ikinci Yek ile epistemik ikinci bilen özdeş değildir. Ortak kaynağa dayanan iki onay bağımsız doğrulama sayılmaz. Deney önerisi: tek değerlendirici, ortak kaynaklı iki değerlendirici ve bağımsız kaynaklı iki değerlendirici gruplarının yanlış kabul ve yanlış ret oranlarını karşılaştırmak. Sonuç henüz ölçülmedi; K0–K6 açıktır.
