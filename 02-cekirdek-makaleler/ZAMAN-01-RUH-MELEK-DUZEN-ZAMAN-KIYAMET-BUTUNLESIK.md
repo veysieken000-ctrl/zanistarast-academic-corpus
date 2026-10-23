@@ -148,3 +148,12 @@ Bu metindeki D4 'düzen ve zaman' kavramı, fiziksel saatlerin ölçtüğü sür
 **R3 (ampirik):** Biyolojik ritim ve yaşlanma farklılıkları çevresel koşullar ve fizyoloji kontrol edildiğinde nasıl değişir? Bu sorunun yanıtı ontolojik D4'ün kanıtı değil, biyolojik zamanlama hakkında sınırlı sonuç üretir.
 
 **Yanlışlama sınırı:** Metinsel yorumun kaynakla çelişmesi yorumun revizyonunu; ölçülebilir hipotezin veriyle uyuşmaması ampirik iddianın revizyonunu gerektirir. İki düzey birbirinin yerine kullanılamaz. Bu araştırma soruları için henüz yeni veri veya bağımsız değerlendirme yoktur.
+
+
+## Kaynak denetimi için açık iz ve karşıt yorum
+
+Kurucu D4 tasnifinde ruh birinci, melekler ikinci evredir; düzen ve zaman aynı boyutun işlevsel açıklamasıdır. Bu önerme kurucu kanon olarak aktarılır; tefsir geleneğinde tek ve tartışmasız yorum olduğu ileri sürülmez. Metnin teolojik savları için ilgili ayetlerin lafzı, farklı mealler ve yorum geleneği ayrı kaynak türleri olarak kaydedilmelidir. Ayette açıkça bulunmayan bir ayrıntı 'ayet bunu söylüyor' biçiminde yazılamaz.
+
+**Karşıt açıklama:** Fizikte saat zamanı, biyolojide sirkadiyen ritim ve kurumlarda süreç takvimi farklı ölçüm ve modelleme alanlarıdır. Bunların hepsine 'zaman' denmesi tek bir ontolojik mekanizma bulunduğunu kanıtlamaz. D4 için bu alanların ötesinde test edilebilir ek öngörü önerilmedikçe karşılaştırma analoji düzeyindedir.
+
+**Tamamlanma engeli:** Birincil ayet/tefsir pasajları ve fizik-biyoloji literatüründen belirli sayfa veya bölüm referansları burada henüz karşılıklı doğrulanmadı. Kaynak denetimi, bağımsız eleştiri ve kurucu onayı açık kalır.
