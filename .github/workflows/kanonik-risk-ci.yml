@@ -5,6 +5,8 @@ on:
       - research/chatgpt-academic-2026-10-20
     paths:
       - '01-kanonik-denetim/kanonik_risk_tarama.py'
+      - '01-kanonik-denetim/mantik_kesfi_model.py'
+      - '01-kanonik-denetim/test_mantik_kesfi_model.py'
       - '02-cekirdek-makaleler/**'
       - '03-dis-cekirdek-makaleler/**'
       - '01-kanonik-denetim/test_kanonik_risk_tarama.py'
@@ -24,6 +26,8 @@ jobs:
           python-version: '3.11'
       - name: Run R1-R5 regression tests
         run: python3 01-kanonik-denetim/test_kanonik_risk_tarama.py -v
+      - name: Run logic-discovery model tests
+        run: python3 01-kanonik-denetim/test_mantik_kesfi_model.py -v
       - name: Scan core and external-core articles (advisory only)
         run: |
           python3 01-kanonik-denetim/kanonik_risk_tarama.py \
