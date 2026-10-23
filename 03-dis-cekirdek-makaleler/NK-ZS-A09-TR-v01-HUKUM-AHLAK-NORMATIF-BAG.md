@@ -37,3 +37,10 @@ A07 fıtrî–iradeli ayrımını, A08 irade–eylem itirazlarını inceler. A09
 K0: “3-Etik ve ahlak.docx” özgün paragraf eşleştirmesi açık. K1: Karşıt birincil literatür doğrulaması açık. K2: Yöntem taslak. K3: İtiraz ve karşı-örnekler taslak. K4: Boyutlar arası aktarım sınırları taslak. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 makale, kanonik uyum ve kurucu onayı tamamlanmadan yayımlanmaz.
+
+
+## 9. Hükme geçişte açık normatif köprü
+
+D5'in fıtrî ahlak kapsamından D6'daki hükmün belirli sonucuna geçmek için ayrıca normatif öncül gerekir. **Karşı-model:** Aynı zararlı sonuç, bir olayda kasıtlı, diğerinde öngörülemez kazayla doğabilir; salt sonuç eşitliği eşit kusur veya hüküm çıkarmaz. Bilgi, niyet, seçenek ve kontrol ayrı incelenir. D6 teolojik bir savdır, laboratuvar ölçümü olarak sunulmaz.
+
+**Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
