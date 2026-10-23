@@ -46,3 +46,22 @@ K0: “3-Etik ve ahlak.docx” özgün paragraf izi açık. K1: Karşıt literat
 **Vaka A:** Kişi eylemi amaçlar ancak dış engel nedeniyle gerçekleştiremez. Niyet bulunması fiilî sonuç bulunduğunu göstermez. **Vaka B:** Kişi fiziksel hareketi baskı altında yapar; hareketin gözlenmesi özgür iradeyi kanıtlamaz. Sorumluluk değerlendirmesinde seçenek, baskı, bilgi, kontrol ve sonuç ayrı kaydedilmelidir. Bu vakalar normatif çerçeveyi sınar; gerçek kişi verisi değildir.
 
 **Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
+
+
+## Genişletilmiş öz ve araştırma katkısı
+
+Bu makale irade, niyet, gözlenen eylem ve gerçekleşen sonucun hangi koşullarda ayrı değerlendirilmesi gerektiğini araştırır. Yöntem, aynı dış davranışın özgür seçim ve zorlanma altında gerçekleşebileceği iki karşı-modelin normatif karşılaştırmasıdır. Bir hareketin gözlenmesi tek başına failin seçeneklerinin, bilgisinin ve kontrolünün aynı olduğunu göstermez. Çalışma, sorumluluğun tek bir davranış göstergesinden otomatik çıkarılamayacağı dar sonucunu savunur. Bu sonuç psikolojik deney verisi veya belirli hukuk düzenine ilişkin hüküm değildir.
+
+**Anahtar sözcükler:** irade; eylem; niyet; zorlama; sorumluluk; karşı-model; iradeli ahlak.
+
+## Yöntem — Dış davranışı sabit tutan karşı-model
+
+İki düşünce durumunda gözlenen hareket ve yakın sonuç aynı tutulur; kişinin alternatifleri, baskı altında olup olmadığı, öngörülebilirlik ve kontrol koşulları değiştirilir. Sorumluluk değerlendirmesinin neden değişebileceği bu değişkenlerle açıklanır. Ayrı bir sınamada niyet sabit tutulurken sonuç değişir; böylece niyet ile sonucun da zorunlu özdeş olmadığı gösterilir. Analiz normatif kavram çözümlemesidir; insan katılımcılar üzerinde test yapılmamıştır.
+
+## Tartışma — Niyet, seçim ve sonuç
+
+İyi niyet zararlı sonucu otomatik olarak haklılaştırmaz; zararlı sonuç da tek başına kişinin aynı derecede kusurlu olduğunu kanıtlamaz. Zorlanma, bilgisizlik ve seçenek yokluğu her durumda aynı ağırlıkta değildir; hangi koşulun sorumluluğu ne ölçüde etkilediği ayrıca gerekçelendirilmelidir. A07'nin fıtrî–iradeli ahlak ayrımı ve A09'un hüküm tartışması, eylemin gerçekleşmesini bilinçli ve özgür tercih kanıtı saymadığı sürece tutarlı kalır.
+
+## Sonuç ve kanıt sınırı
+
+A08'in savunulabilir katkısı, iradeli ahlakın değerlendirilmesinde gözlenen davranışın yanı sıra bilgi, seçenek, niyet ve kontrol koşullarının ayrı gerekçelendirilmesi gerektiğidir. Karşıt eylem felsefesi literatürü, özgün kaynak izi ve bağımsız inceleme tamamlanmadan dergiye gönderim statüsü verilmez.
