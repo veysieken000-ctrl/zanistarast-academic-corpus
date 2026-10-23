@@ -71,3 +71,18 @@ Eski “Ehad ≠ Tek ≠ Yek” formülü güncel “Ehad Yek'tir” kurucu kara
 **Buzul çağı sonrası tez:** Kurucu yaklaşım insanın iradeli ahlak çağını son buzul çağından sonraki tarihsel açılımla ilişkilendirir. Bu, biyolojik Homo sapiens türünün ancak o tarihte ortaya çıktığına dair doğrulanmış bilimsel kronoloji olarak sunulmaz. Son buzul çağının bitişi, arkeolojik toplumsal değişim ve iradeli ahlakın ilk ortaya çıkışı üç ayrı araştırma sorusudur; tek tarihe eşitlenmeleri ayrıca kanıt ister.
 
 **Zorunlu makale etkisi:** H01/H04; VARLIK-TARIHI-01; ZAMAN-01; jeoloji tarihi, insan tarihi, biyoloji, zihin, ahlak ve uygarlık makaleleri bu kurucu ayrımı referans alır. Mevcut ön çalışmalar silinmez; farklı eski formüller tarihsel sürüm notuyla karşılaştırılır. Rasterast karşı-model, dış kaynak ve bağımsız denetim kapıları açık kalır.
+
+
+## VIII. Ast–üst ve merkez–çevre ilişkilerinin birlikte tanımı (23.10.2026)
+
+**Ast–üst:** Boyutsal açılımda üst, altı yok eden veya altın yerine geçen düzey değil; altın işlevlerini kapsayan, sınırlandıran ve daha geniş bir düzende ilişkilendiren düzeydir. Alt, üst için taşıyıcı koşullar sağlar; üst ise altın tek başına açıklayamadığı düzen ve yönelim sorunlarını ele alır. 'Üst' ontolojik kapsama ve sorumluluk bakımından tanımlanır; insan topluluklarında doğuştan üstünlük, sınırsız itaat veya keyfî tahakküm yetkisi anlamına gelmez.
+
+**Merkez–çevre:** Merkez, bir sistemin düzenleyici ilke, ilişki veya koordinasyon odağıdır; çevre ise onunla karşılıklı etkileşim içindeki farklı özneler, alt sistemler ve yaşam alanlarıdır. Merkez çevreden veri, enerji, emek ve geri bildirim alır; çevrenin sürekliliğini tahrip eden merkez kendi taşıyıcı koşullarını zayıflatır. Bir merkez fiziksel konum, güç tekeli veya değişmez yönetici kişi olmak zorunda değildir.
+
+**İki ilişkinin ayrımı:** Ast–üst = kapsama/katman ilişkisi; merkez–çevre = aynı veya farklı katmanlarda örgütlenme/etkileşim ilişkisi. Bir merkez her zaman 'üst boyut' değildir; bir alt sistem yerel merkez işlevi görebilir. Bu nedenle ontolojik kapsama ile siyasal hiyerarşi birebir eşlenmez.
+
+**Boyutlara uygulama:** D1 fiziksel taşıyıcı düzen; D2 biyolojik örgütlenme; D3 zekâ/akıl; D4 ruh/melek evreleri ve düzen/zaman işlevi; D5 fıtrî ve insanda iradeli ahlak; D6 hüküm/hesap. 'Biyoloji zihin kapsamında, zihin ruh kapsamında' kurucu kapsama tezi olarak korunur; D5 iradeli ahlakın merkezde bulunması, D4'ün ortadan kalkması değil insan kararlarının sorumluluk ölçüsüne bağlanmasıdır.
+
+**Komel ve Newroza Kawa uygulaması:** Toplumsal merkez, çevreyi yalnızca emir alan pasif bir unsur sayamaz. Yerel özne ve kurumların bilgi, itiraz, katılım ve hesap sorabilme kanalları olmalıdır. Rabûn'da yetki ile sorumluluk, Mabûn'da kaynak akışı ile karşılıklı süreklilik, Zanabûn'da bilgi iddiası ile ikinci bilenin bağımsız denetimi eşleştirilir. Bunlar önerilen yönetişim ilkeleridir; doğrulanmış evrensel doğa yasası diye sunulmaz.
+
+**Sınama ve hata koşulları:** (1) Üst katman altın işleyişini açıklamada ek öngörü üretmiyorsa kapsama tezi zayıflar. (2) Merkez çevre geri bildirimini kapatıp kendi istikrarını bozuyorsa düzenleyici merkez iddiası başarısız olur. (3) Bağımsız ikinci bilen yalnız merkezi tekrar ediyorsa Zanabûn doğrulaması gerçekleşmez. Jeoloji tarihi, insan tarihi ve uygarlık makaleleri bu iki ilişkiyi ayrı değişkenler olarak kullanacaktır.
