@@ -65,3 +65,10 @@ Shannon'un iletişim kuramı işaretlerin istatistiksel belirsizliğini modeller
 | Shannon entropisi önermenin doğruluğunu ölçer | Reddedilen özdeşlik | Entropi istatistiksel belirsizliği betimler; doğruluk ayrıca test edilir |
 
 **Kanıt izi için asgari alanlar:** iddia kimliği; gözlem/veri kaynağı; cihaz ve kalibrasyon; birinci ve ikinci değerlendirici; ortak kaynak bağı; bağımsız referans ölçütü; karar ve düzeltme tarihi. Aynı kaynağa dayanan iki yayın bağımsız tekrar sayılmaz. Shannon (1948), Dretske (1981) ve Floridi (2011) için ilgili bölüm/sayfa doğrulaması ve rakip yorum taraması açık olduğundan kesin kaynak eşleşmesi ileri sürülmez.
+
+
+## Uygulanabilir deney protokolü: ön kayıt taslağı
+
+**Araştırma birimi:** Doğruluğu bağımsız bir referans anahtarıyla belirlenmiş tekil iddialar. **Kollar:** (A) bir denetçi, (B) ortak veri kaynağını kullanan iki denetçi, (C) kaynakları ayrılmış iki denetçi. İddia güçlüğü katmanlarına göre rastgele atama yapılır; değerlendirme talimatları eşitlenir. İkinci denetçinin ilk kararı görüp görmediği önceden sabitlenir. **Birincil sonlanım:** Yanlış iddianın kabul edilme oranı. **İkincil sonlanımlar:** Doğru iddianın reddi, karar süresi, denetim maliyeti ve uyuşma oranı. **Karıştırıcılar:** Ortak eğitim, aynı model ailesi, cihaz kalibrasyonu ve iddia zorluğu. Analiz öncesi dışlama ölçütleri, örneklem büyüklüğü gerekçesi ve güven aralıkları kaydedilir.
+
+**Karar kuralı:** C kolu B ve A kollarından anlamlı biçimde daha iyi değilse 'bağımsız ikinci bilen her durumda üstündür' genellemesi reddedilir. Başarı da Zanabûn ontolojisinin deneysel ispatı değildir. İnsan katılımcı kullanılırsa gerekli etik izinler ayrıca alınır. Bu bir uygulanmamış tasarımdır.
