@@ -135,3 +135,16 @@ Kurucunun kavram tercihi uyarınca **Hebûna Hebûnî**, Ehad'ın hükmü karş�
 **Boyutlara ilişkin açıklayıcı ayrım:** Fizik (1+Tek) güç ve kanunlara bağlı fiziksel işleyiş; biyoloji (2+Tek) biyolojik bilginin korunması, aktarılması ve yaşamsal işlevlerde kullanımı üzerinden incelenir. İnsan fıtrî ve iradeli ahlak, hayvanlar ve melekler fıtrî ahlak bakımından değerlendirilir. Bunlar kurucu ontolojik/felsefi kullanımlardır; güç ile enerji, biyolojik bilgi ile epistemik bilgi eşanlamlı sayılmaz. Kurmancî terimlerin dilsel doğallığı ayrıca incelenecektir.
 
 Ayrıntılı terim kaydı: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`.
+
+
+## Ek D — Bilginin kuruluşunda onay ve doğruluk sınaması (23 Ekim 2026)
+
+**Öncül:** Bilen özne S, bilinen nesne O'ya yönelir; değerlendirmeye sunulan sonuç P ortaya çıkar; ikinci bilen T, P'yi onaylar. Bu dizi Zanabûn'un **kurucu epistemolojik tanımıdır**; onayın gerçekleştiği olgusu P'nin nesnel doğruluğunu tek başına kanıtlamaz.
+
+**Somut karşı-model:** S ve T aynı hatalı ölçüm cihazı D'den yararlanarak P'yi kabul eder. İki değerlendirme vardır; fakat P yanlış olabilir ve iki onayın veri kaynağı bağımsız değildir. Bu nedenle `onay_S(P) ∧ onay_T(P) ⇒ doğru(P)` çıkarımı genel geçer değildir.
+
+**Denetim adımları:** (1) P'nin açık ve yanlışlanabilir kısmını yaz; (2) S ve T'nin kaynak, yöntem ve yorum zincirlerini ayrı kaydet; (3) ortak bağımlılık varsa ikinci onayı bağımsız kanıt olarak sayma; (4) karşı-örnek ve bağımsız veri aramayı sürdür; (5) onay, gerekçelendirme ve doğruluk durumlarını ayrı raporla.
+
+**H01/H03 sınırı:** Ontolojik ikinci Yek, epistemik ikinci bilen değildir. H03 Rasterast'ın bağımsız eleştirisi de ikinci bilenin onayını otomatik doğruya çevirmez. MK-016 ve MK-019–020 bu ayrımın denetim adaylarıdır; bunların kullanılması yeni ampirik ispat anlamına gelmez.
+
+**Makale durumu:** Kavramsal karşı-model eklendi; literatürün kapsamlı taranması, K0–K6, bağımsız Rasterast ve yayın onayı henüz tamamlanmadı.
