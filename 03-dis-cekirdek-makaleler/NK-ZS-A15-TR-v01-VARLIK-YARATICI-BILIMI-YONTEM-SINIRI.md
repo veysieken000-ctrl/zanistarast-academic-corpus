@@ -37,3 +37,12 @@ A04 “bilginin kaynağı” ifadesinin anlamlarını; A14 iddiaların epistemik
 K0: İlgili özgün DOCX paragraf izi henüz doğrulanmadı. K1: Karşıt birincil literatür doğrulaması açık. K2: Yöntem taslak. K3: İtirazlar ve karşı-örnek taslak. K4: Ontolojik–ampirik sınır taslak. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız inceleme ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makale ve kanonik uyum tamamlanmadan yayımlanmaz.
+
+
+## Ek — İki yöntembilimsel karşı-model
+
+**Birinci karşı-model:** Kozmolojik bir gözlem belirli bir fiziksel modeli destekleyebilir. Bu gözlem tek başına belirli bir teolojik yorumu deneysel olarak doğrulamaz.
+
+**İkinci karşı-model:** Teolojik bir argümanın iç tutarlılığı, herhangi bir fiziksel sabitin sayısal değerini üretmez. Bu nedenle teolojik yorum, felsefi gerekçelendirme ve ampirik ölçüm ayrı kanıt türleriyle değerlendirilir.
+
+Bu ayrım metafizik araştırmanın değerini reddetmez; farklı yöntemlerin sonuçlarını birbirinin yerine geçirmeyi önler. Yeni ölçüm veya bağımsız deney yapıldığı iddia edilmez.
