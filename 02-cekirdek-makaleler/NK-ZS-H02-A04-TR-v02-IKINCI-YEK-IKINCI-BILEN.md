@@ -153,3 +153,18 @@ Ayrıntılı terim kaydı: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVR
 ## Ek E — H01 deneysel kaynakları için ikinci bilen sınaması
 
 H01'de kullanılan Ratcliff ve arkadaşlarının 2012 ve 2015 maya araştırmaları aynı olgu ailesini farklı sorularla inceler: hücrelerin bölünme sonrasında bağlı kalması ve hücre ayrılmasındaki genetik mekanizma. Bunlar ontolojik ikinci Yek'in gözlemsel kanıtı veya birbirinden tümüyle bağımsız iki onay olarak sayılamaz. İkinci bilenin aynı yayınları okuması yeni deneysel veri üretmez. Ayrı bir değerlendirme, kullanılan deney düzenini, olası ortak hata kaynaklarını ve çıkarım sınırını sorgulayarak yine de yararlı olabilir. H02'nin epistemik onayı ile H03'ün kaynak bağımsızlığı denetimi bu nedenle ayrı tutulur. Bu ek, H01'deki kaynakların mantıksal kullanımını denetler; yeni deney veya bağımsız hakemlik değildir. K0–K6 açık kalır.
+
+
+## Ek F — İkinci bilenin ortak hata sınırı: biçimsel karşı-model (23 Ekim 2026)
+
+Bu ek H02'nin kurucu bilgi tanımını değiştirmez; iki değerlendiricinin onayının hangi koşullarda ek güvence sunduğunu **koşullu olasılık** düzeyinde sınar. H03'ün Rasterast denetimi için yeniden uygulanabilir bir test önerir. A06 adayıyla örtüşen yeni bağımsız makale açılmaz; ayrıntılı ampirik yöntem A06'da ayrıca özgünlük denetimine tabidir.
+
+**Tanımlar:** P belirli bir önerme; E₁ ve E₂ sırasıyla birinci ve ikinci değerlendiricinin P hakkında *hatalı hüküm vermesi* olayları olsun. Her iki değerlendiricinin marjinal hata olasılığı varsayımsal olarak p ise, bağımsız hata varsayımında Pr(E₁∩E₂)=p²'dir. Oysa ortak veri, cihaz, eğitim veya değerlendirme ölçütü nedeniyle hatalar tam eşzamanlıysa Pr(E₁∩E₂)=p olabilir. Örneğin p=0,10 seçilirse birlikte hata olasılığı bağımsızlık altında 0,01; tam eşzamanlı hata altında 0,10 olur. Bu sayılar **temsili matematik örneğidir; Zanistarast için ölçülmüş doğruluk oranı değildir**.
+
+**Daha genel sınır:** Bağımsızlık varsayılmadığında ve iki marjinal hata olasılığı p₁,p₂ olduğunda Fréchet sınırları gereği max(0,p₁+p₂−1) ≤ Pr(E₁∩E₂) ≤ min(p₁,p₂). Dolayısıyla yalnızca 'iki bilen var' bilgisi ortak hata oranını belirlemez. E₁∩E₂ olayı, iki değerlendiricinin **aynı yanlış önermeyi onayladığı** olayla da özdeş değildir: farklı yanlış hükümler verebilirler. Bu nedenle iki onaydan doğan güveni modellemek için önermenin doğruluk durumu, değerlendiricilerin kararları, yanlış-pozitif/yanlış-negatif ayrımı ve bağımlılık yapısı ayrı tanımlanmalıdır.
+
+**Sınanabilir tasarım:** Önceden kaydedilmiş aynı P önermeleri için iki değerlendirme ekibi mümkünse ayrı veri ve yöntem kullanır; körleme, ortak kaynak matrisi, uyuşma ve doğruluğun bağımsız referans ölçütü raporlanır. Birbirine katılan iki ekibin kararlarının uyuşması *tek başına* doğruluk kanıtı değildir. Bağımsız referans yoksa 'hata azaldı' sonucu değil, ancak 'uyuşma/değerlendirme bağımlılığı' sonucu raporlanır.
+
+**Karşı-örnek ve başarısızlık koşulu:** İki ekip aynı yanlış kalibre edilmiş cihazın çıktısını farklı raporlardan okuyabilir. Görünürde iki yayın ve iki değerlendirme olmasına rağmen ortak hata sürer. Yöntem, cihaz ve kaynak bağımsızlığı gösterilemezse p² yorumu geçersizdir. Gösterilse bile gözlem yanlılığı veya ortak teorik varsayım kalabilir. Bu biçimsel örnek ikinci bilenin kurucu/teolojik statüsünü ampirik olarak doğrulamaz.
+
+**Etki ve açık kapılar:** H03'ün iddia–kanıt soyağacına ortak kaynak bağımlılığı alanı eklenmesi önerilir; H01'de aynı olgu ailesindeki makaleler bağımsız tekrar diye sayılmaz. K1 rakip epistemoloji ve istatistik literatürü; K3 gerçek veri veya simülasyon; K5 hedef dergi yönergesi; K6 bağımsız eleştiri ve kurucu onayı açıktır. Bu ek tek başına makaleyi tamamlamaz.
