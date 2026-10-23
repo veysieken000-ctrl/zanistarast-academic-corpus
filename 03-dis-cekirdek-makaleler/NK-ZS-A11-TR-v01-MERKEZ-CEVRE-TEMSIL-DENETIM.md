@@ -58,3 +58,22 @@ K0: “4-varlık yönetim düzeni (1).docx” özgün paragraf izi açık. K1: Y
 Üç düğümlü A—B—C ağında B yapısal merkez olabilir; fakat A ve C'nin itirazları karar tutanağına hiç alınmıyorsa temsil yeterli değildir. **Önerilen ölçütler:** kayda alınan itiraz oranı, gerekçeli cevap oranı, kararın düzeltilme süresi ve merkez/çevre kaynak bağımlılığı. Bunlar deney tasarımı değişkenleridir, ölçülmüş bulgular değildir. Merkezilik matematiksel özellik, meşruiyet normatif değerlendirmedir.
 
 **Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
+
+
+## Genişletilmiş öz ve özgün katkı
+
+Bu makale merkez–çevre ilişkilerinde ağ konumu, temsil kapasitesi ve hesap verebilirliğin birbirine karıştırılmasının kurumsal değerlendirmeyi nasıl zayıflattığını araştırır. Yöntem, merkezi konumu yüksek fakat itirazlara kapalı bir karar yapısı ile daha dağınık fakat izlenebilir cevap süreçlerine sahip bir yapıyı karşılaştıran kavramsal modeldir. Ağ merkeziliği bilgi akışını etkileyebilir; ancak tek başına normatif meşruiyet veya doğruluk kanıtı değildir. Katkı, temsil ve Rasterast denetimini ölçülebilir değişken önerileriyle ayıran araştırma tasarımıdır; gerçek kurum verisi henüz sunulmaz.
+
+**Anahtar sözcükler:** merkez–çevre; temsil; hesap verebilirlik; ağ merkeziliği; bilgi akışı; Rasterast.
+
+## Yöntem — Göstergelerin ayrıştırılması
+
+Araştırma tasarımında karar yetkisinin dağılımı, başvuru ve itiraz erişimi, gerekçeli yanıt oranı, düzeltme süresi ve bağımsız kaynak çeşitliliği ayrı ölçülmelidir. Ağdaki merkezilik, temsil edilen grupların karar üzerindeki etkisinden farklı değişkendir. Önerilen karşı-modelde merkezilik sabit tutulup itiraz ve gerekçe kanalları değiştirilerek meşruiyet yargısının neden aynı kalmayabileceği tartışılır. Bu bölüm ölçüm planıdır; toplanmış veri veya doğrulanmış nedensel etki değildir.
+
+## Tartışma — Teknik merkezilik ile normatif yetki
+
+Bir kurumun bilgi akışında merkezde bulunması, bilgi kaynağının doğru veya kurumun yetkisinin haklı olduğunu göstermez. Çok sayıda yerel birimin bulunması da temsil edilen kişilerin sesinin karar sürecine yansıdığını kendiliğinden kanıtlamaz. A10'un Rabûn yönetim savı, A03'ün merkez–çevre analoji sınırı ve A06'nın kaynak bağımlılığı denetimi birlikte kullanıldığında ağ konumu, epistemik güven ve normatif yetki üç ayrı iddia olarak korunur.
+
+## Sonuç ve sınırlamalar
+
+A11'in savunulabilir sonucu, temsil ve hesap verebilirliğin ağ merkeziliğinden bağımsız gerekçe ve gösterge gerektirdiğidir. Ampirik kurum karşılaştırması, kaynak doğrulaması, özgün DOCX izi, hedef dergi biçimi ve bağımsız Rasterast incelemesi açık kalır.
