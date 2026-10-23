@@ -38,3 +38,22 @@ Yöntem kavramsal analiz, rakip görüş karşılaştırması ve karşı-örnekt
 ## Ek — Üç kavramı ayıran karşı-model
 
 Bir doğa manzarası sanatsal üretim olmadan estetik deneyim doğurabilir. Bir sanat eseri de rahatsız edici bir deneyim yaratabilir; bundan sanatın zorunlu olarak güzel olduğu sonucu çıkmaz. Güzellik yargısı, sanat sınıflandırması ve estetik deneyim ayrı gerekçelerle değerlendirilir. Bu karşı-model kavramsaldır; evrensel güzellik ölçüsü sunmaz.
+
+
+## Genişletilmiş öz ve ayırıcı katkı
+
+Bu makale, estetik deneyim, sanatsal üretim ve güzellik yargısının aynı nesne hakkında ortaya çıkabilmesine rağmen neden birbirine indirgenemeyeceğini araştırır. Yöntem, üç kavramın gerekli koşullarını karşılaştıran kavramsal çözümleme ve iki karşı-modeldir: insan eliyle üretilmemiş bir doğa manzarasının estetik deneyim yaratması ve rahatsız edici bir sanat eserinin güzellik yargısından bağımsız değerlendirilebilmesi. Çalışma evrensel güzellik ölçütü bulduğunu veya sanatın özünü deneysel olarak kanıtladığını ileri sürmez. Özgün katkı, Zanistarast'ın Zelal–Delal tartışmasında nesne, üretim, deneyim ve yargıyı farklı gerekçe türleriyle inceleyen sınırlı analitik çerçevedir.
+
+**Anahtar sözcükler:** estetik deneyim; sanat felsefesi; güzellik; değerlendirme; Zelal; Delal; kavramsal ayrım.
+
+## Yöntem — Üçlü kavram karşılaştırması
+
+Analiz birimi, bir nesne veya deneyim hakkında ileri sürülen tek bir iddiadır. Her iddia `estetik deneyim`, `sanatsal üretim` ve `güzellik yargısı` alanlarında ayrı değerlendirilir. Bir alanın olumlu olması diğer alanın zorunlu olarak olumlu olmasını gerektiriyor mu sorusu karşı-örneklerle sınanır. Tarihsel eser listesi veya katılımcı deneyimi toplanmadığından sonuçlar ampirik sıklık iddiası değildir.
+
+## Tartışma — Nesne, üretim ve yargı
+
+Doğal bir manzaranın estetik olarak değerlendirilmesi, onu otomatik sanat eseri yapmaz. Sanatsal bir nesnenin rahatsız edici veya çirkin bulunması da sanat statüsünü tek başına ortadan kaldırmaz. Buna karşılık bu iki örnek, sanatın güzellikle hiçbir ilişkisi olmadığı sonucunu desteklemez: ilişki mümkün, zorunlu özdeşlik ise savunulmamıştır. İkinci bilenin estetik değerlendirmesi (A17) eser hakkında gözlemlenebilir özellik, kişisel beğeni ve gerekçeli yorumu ayırmalıdır; ikinci onay evrensel güzelliğin ispatı değildir.
+
+## Sonuç ve editoryal sınırlar
+
+A16'nın savunulabilir sonucu, estetik, sanat ve güzelliğin örtüşen fakat özdeş olmayan inceleme alanları olduğudur. İddianın sanat felsefesi literatüründeki rakip tanımlarla karşılaştırılması, bibliyografyanın doğrulanması, hedef dergi kuralları ve bağımsız eleştiri açık kalır.
