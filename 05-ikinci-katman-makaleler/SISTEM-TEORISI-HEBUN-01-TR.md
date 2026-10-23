@@ -43,3 +43,10 @@ Hebûn H01 ontolojik kuruluşu; Zanabûn H02 sistem hakkındaki bilgi iddiasın�
 ## Yöntemsel ve yayın beyanı
 
 Çalışma kavramsal makale ve önerilen karşılaştırmalı tasarımdır; saha verisi, deney sonucu veya sistematik derleme değildir. Dergiye gönderimden önce yazar katkısı, çıkar çatışması, finansman, veri erişimi ve hedef dergi biçimi doğrulanmalıdır. K0–K6 açık.
+
+
+## Rakip açıklamalar ve ayrıştırıcı sınama
+
+**Genel sistem teorisi:** Bileşen, sınır ve etkileşim ilişkileri Zanistarast'a özgü değildir; yeni katkı iddiası bunların Hebûn–Zanabûn–Rasterast ayrımında nasıl gerekçelendirildiğiyle sınırlıdır. **Sibernetik:** Geri bildirim, denetim ve hata düzeltme zaten incelenen konulardır; merkez–çevre tezi bunların yeniden adlandırılması olarak sunulamaz. **Dağıtık yönetişim:** Çok merkezli düzenlemeler tek merkez zorunluluğuna karşı-modeldir. Karşılaştırmalı araştırmada benzer görev zorluğu, kaynak kapasitesi ve denetim maliyeti kontrol edilmeden 'daha iyi sistem' hükmü verilemez.
+
+**Ayırıcı test:** Merkezde bilgi toplama yetkisi olup karar yetkisi olmayan kurumlar ile yerel birimlerin bağımsız itiraz hakkı olan kurumlar karşılaştırılır. Birincil gösterge yanlış kararın tespit süresi, ikincil gösterge tekrar oranıdır. Veriler ve örneklem henüz mevcut değildir. Başarısız sonuç kuramın ölçülebilir güçlü sürümünü daraltmalıdır.
