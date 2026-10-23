@@ -13,3 +13,8 @@ Hebûn ontolojik zemindir; Zanabûn bilgi ve ikinci değerlendirme ilişkisidir;
 
 ## Sınırlar ve açık işler
 Bu kavramsal taslak deneysel bir estetik ölçeği veya evrensel güzellik kanıtı sunmaz. K0: özgün estetik DOCX paragraf izi açık. K1: karşıt literatür doğrulaması açık. K2–K4: yöntem ve itirazlar taslak. K5: dergi biçimi ve kaynakça açık. K6: bağımsız eleştiri ve kurucu onay açık. 412 makale tamamlanmadan yayın yapılmaz.
+
+
+## Ek — İkinci estetik değerlendiricinin bağımsızlığı
+
+İki değerlendiricinin aynı eseri beğenmesi, yargının nesnel doğruluğunu tek başına göstermez. Aynı eleştiriyi kopyalayan iki kişi iki bağımsız yorum üretmiş sayılmaz. Değerlendirmede eser hakkında gözlenebilir betimleme, kişisel beğeni ve gerekçeli yorum ayrı kaydedilmelidir. İkinci bilenin katkısı farklı karşı-yorumları ve ortak kaynak bağımlılığını incelemesidir.
