@@ -89,3 +89,14 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 `eguations/ZANISTARAST_UNIFIED_FIELD_THEORY/00_ZANISTARAST_UNIFIED_FIELD_THEORY.md` (`19162a12`) fizik, biyoloji, zihin, ahlak ve uygarlık için beş düzeyli erken bir şema içerir. Bu şema güncel altı kozmik boyutla bire bir eşitlenmez; uygarlık uygulama düzeyi, D4 ruh/melek ve D6 hükmün yerine geçirilmez.
 
 **Aranacak özgün fizik paragrafları için ayrı eşleştirme alanları:** kuantum süreçlerinde olay/süre; atom ölçeğinde etkileşim ve ölçüm; karadeliklerde gözlemciye göre zaman; karanlık maddede kütleçekimsel etkiler; karanlık enerjide kozmik genişleme. Bu beş başlık birbirinin kanıtı değildir. Bunlara ilişkin birincil arşiv metinleri bulunmadan Zanistarast'ın yeni fiziksel keşifleri olarak sunulmaz.
+
+
+## 12. Uygarlık entegrasyonundaki zaman denkleminin özgün kaynak denetimi
+
+`ZANISTARAST-TEORILER/theories/07_NEWROZA_KAWA_CIVILIZATION_THEORY/12_TIME_THEORY_FINAL_INTEGRATION.md` (`954966e0`) zamanın 'boyutlar arası etkileşimin sonucu, değişimin yönü, düzenin görünür akışı' tanımını ve `Z = (ΔD × Y) / M` gösterimini içerir. Burada ΔD boyutsal değişim, Y yön, M merkez stabilitesi diye adlandırılır. Ancak niceliklerin birimi, ölçüm kuralı ve denklemden çıkan bağımsız öngörü henüz verilmediği için ifade test edilmiş fizik denklemi değil, özgün biçimsel hipotez olarak korunur.
+
+**Kaynaklar arası tutarlılık:** Önceki metinlerde `zaman = etkileşim + denge arayışı (+ sonuç)` ve `zaman = etkileşim + hafıza` ifadeleri bulunur. İlk ifade ontolojik süreç, ikincisi zihinsel zaman deneyimi, `Z = (ΔD × Y) / M` ise uygarlık yönü/merkez ilişkisi önerisidir. Bunlar aynı değişkenlere sahip üç eşdeğer fizik formülü olarak sunulamaz.
+
+**Atom ve kozmoloji sınırı:** Kaynak, 3+2+1 düzenini atomdan uygarlığa kadar genelleştirir. Atom ölçeği, karadelik, karanlık madde ve karanlık enerji için ayrı fiziksel gözlem ve ölçümler gerekir. Kaynağın 3+2+1 dizisi ile güncel altı kozmik boyut aynı ontolojik liste değildir; Ehad yaratılmış bir boyut değildir.
+
+**Kaynak taraması:** `hebun-zanabun` ve kullanıcının 'dirive/orijinal makaleler' diye işaret ettiği depolarda ilgili özgün paragraflar henüz doğrulanamadı. Bunlar bulunmadan K0 kaynak kapısı kapanmaz.
