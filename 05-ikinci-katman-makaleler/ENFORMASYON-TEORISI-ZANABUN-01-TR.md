@@ -79,3 +79,10 @@ Shannon'un iletişim kuramı işaretlerin istatistiksel belirsizliğini modeller
 Birincil sonuç yanlış iddianın kabul oranıdır. Her iddia için referans doğruluk, değerlendirici kararı, veri kaynağı, ortak cihaz/model ailesi ve değerlendirme zamanı kayıt altına alınır. Aynı iddiayı inceleyen denetçiler bağımsız gözlem gibi sayılmaz; iddia düzeyinde eşleştirilmiş karşılaştırma veya küme yapısını hesaba katan model seçilir. Etki büyüklüğü ve güven aralığı raporlanır; yalnızca p-değerine dayanılmaz. İddia zorluğu, değerlendirici uzmanlığı ve ortak eğitim karıştırıcı olarak önceden tanımlanır. Çoklu ikincil sonuçların keşifsel olduğu belirtilir.
 
 **Ayırıcı başarısızlık:** Kaynak bağımsızlığı sağlanmasına rağmen C kolunun yanlış kabul oranı B kolundan düşük değilse bağımsız denetimin genel üstünlüğü iddiası desteklenmez. Sonradan alt grup seçerek olumlu sonuç üretmek doğrulayıcı kanıt sayılmaz. Araştırma verisi ve güç hesabı henüz bulunmadığından herhangi bir sayısal etki ileri sürülmez.
+
+
+## Kaynak doğrulama için ayrıştırılmış iddia listesi
+
+**Shannon (1948):** İletişim sisteminde kaynak, kanal ve istatistiksel belirsizlik; bu eserden 'her bilgi iddiası doğrudur' sonucu çıkarılmaz. **Dretske (1981):** Bilgi akışı ile epistemik bilgi arasındaki ilişki karşılaştırılacaktır; Zanabûn'un aynısını önceden söylediği veya çürüttüğü iddia edilmez. **Floridi (2011):** Semantik enformasyon ve doğruluk tartışmasının Zanabûn'daki ikinci bilen işleviyle ayrıştığı noktalar metin düzeyinde kontrol edilmelidir. Bunlar henüz sayfa düzeyinde doğrulanmış atıflar değil, açık kaynak denetim görevleridir.
+
+**Kurucu iz:** H02 §2 ve Ek E, ikinci bilen ile ontolojik ikinci Yek'i ayırır. H03'ün Rasterast denetimi kanıt soyağacı ve bağımsızlık kontrolü gerektirir. Birinci ve ikinci katman arasında bu iki ayrım korunmadığında makale kavramsal hata üretir. K1 ve K6 kapanmadan yayın onayı verilmez.
