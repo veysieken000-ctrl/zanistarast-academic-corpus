@@ -79,6 +79,34 @@ class ScannerTests(unittest.TestCase):
         self.assertEqual(1, len(findings))
         self.assertEqual("STANDARD", findings[0]["review_priority"])
 
+    def test_a06_olusturmaz_is_context(self):
+        findings = self.run_case("İki onay bağımsız kanıt oluşturmaz")
+        self.assertEqual("CONTEXT_FIRST", findings[0]["review_priority"])
+
+    def test_h02_inequality_is_context(self):
+        findings = self.run_case("İki onay vardır; iki onay ≠ bağımsız kanıt")
+        self.assertTrue(findings)
+        self.assertEqual("CONTEXT_FIRST", findings[0]["review_priority"])
+
+    def test_document_roles_do_not_suppress_findings(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            for directory, expected in [
+                ("01-kanonik-denetim", "AUDIT_DOCUMENTATION"),
+                ("02-cekirdek-makaleler", "CORE"),
+                ("03-dis-cekirdek-makaleler", "EXTERNAL_CORE"),
+                ("03-makale-taslaklari", "DRAFT"),
+                ("misc", "OTHER"),
+            ]:
+                folder = root / directory
+                folder.mkdir()
+                path = folder / "sample.md"
+                path.write_text("Rasterast sadece ikili filtre", encoding="utf-8")
+                findings = scanner.scan(root, RULES, [path])
+                self.assertEqual(1, len(findings))
+                self.assertEqual(expected, findings[0]["document_role"])
+                self.assertEqual("REVIEW_ONLY", findings[0]["status"])
+
     def test_no_unrelated_alert(self):
         self.assertEqual([], self.run_case("Kozmik boyut ve insan katmanı farklı kavramlardır."))
 
