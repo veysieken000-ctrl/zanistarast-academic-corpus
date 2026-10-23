@@ -48,3 +48,22 @@ K0: Özgün “8-hukuk felsefesi (1).docx” paragraf izi henüz doğrulanmadı.
 ## Ek — Orantılılıkta farklı kusur karşı-modeli
 
 Aynı maddi zarar iki durumda farklı niyet, öngörülebilirlik ve kontrol koşullarıyla gerçekleşebilir. Bu nedenle zarar miktarı tek başına aynı ceza sonucunu zorunlu kılmaz. Orantılılık değerlendirmesi fiil, kusur, zarar, haklar ve usuli güvenceleri ayrı gerekçelendirmelidir. Bu bir hukuk felsefesi karşı-modelidir; belirli hukuk düzeninin yürürlükteki kuralı olduğu iddia edilmez.
+
+
+## Genişletilmiş öz ve ayırıcı katkı
+
+Bu makale ceza orantılılığının yalnız gerçekleşen zarara veya yalnız failin niyetine göre belirlenip belirlenemeyeceğini inceler. Yöntem, zarar, kusur, öngörülebilirlik, kontrol ve usul güvencelerini değişken olarak ayıran normatif karşı-model analizidir. Aynı zarara farklı kusur düzeylerinin eşlik edebildiği iki düşünce durumu, zarar miktarından tek başına zorunlu ceza sonucu çıkarılamayacağını gösterir. Ters yönde, benzer niyetin farklı zarar ve risk koşullarında aynı hukuki değerlendirmeyi zorunlu kıldığı da varsayılmaz. Çalışma, ceza politikası etkisini ölçmez; katkısı gerekçe boyutlarını görünür kılan sınırlı bir argüman denetimidir.
+
+**Anahtar sözcükler:** orantılılık; kusur; zarar; ceza felsefesi; öngörülebilirlik; usul güvenceleri.
+
+## Yöntem — Değişkenleri ayıran düşünce deneyleri
+
+İlk karşı-modelde maddi zarar sabit, niyet ve öngörülebilirlik farklı tutulur. İkinci karşı-modelde kusur düzeyi benzer kabul edilirken gerçekleşen zarar ve yaratılan risk ayrılır. Her durumda hukuki yaptırımın amaçları ve savunma güvenceleri ayrı öncül olarak incelenir. Bu düşünce deneyleri gerçek dava verisi, ceza istatistiği veya belirli bir hukuk düzeni için bağlayıcı sonuç değildir.
+
+## Tartışma — İki tek-etkenli yaklaşımın sınırı
+
+Yalnız zarar esas alındığında öngörülemeyen veya kontrol edilemeyen sonuçlar failin kusuruyla karışabilir. Yalnız niyet esas alındığında gerçekleşen zarar ve üçüncü kişilerin hakları değerlendirme dışında kalabilir. Bu iki itiraz, her durumda sabit bir ceza formülü bulunduğunu göstermez. Orantılılık yargısı, yaptırım amacı, haklar, kanunilik ve usul güvenceleriyle gerekçelendirilmelidir. A18'in meşruiyet ayrımı, hukuken uygulanabilir yaptırım ile normatif savunulabilirliği ayrı tutar.
+
+## Sonuç ve araştırma sınırları
+
+A19'un dar sonucu, orantılılık iddiasının en azından kusur, zarar ve usul gerekçeleri ayrılmadan savunulamayacağıdır. Ceza teorilerinin karşıt birincil literatürle karşılaştırılması, ülke hukukuna aktarım, özgün kaynak izi ve bağımsız inceleme açık kaldığından gönderime hazır değildir.
