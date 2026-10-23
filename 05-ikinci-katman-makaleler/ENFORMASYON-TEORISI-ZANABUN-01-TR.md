@@ -46,3 +46,10 @@ H02'nin ikinci bilen ilkesi bu kuramın epistemik öncülüdür. Ontolojik ikinc
 ## Çalışma kapsamı ve beyan
 
 Bu makale kavramsal kuram ve deney tasarımıdır; insan katılımcı verisi, deney sonucu veya yeni ölçüm içermez. Önerilen yöntem uygulanırsa veri etiği, ön kayıt, körleme ve bağımsız tekrar ayrı değerlendirilmelidir. Çıkar çatışması, finansman, yazar katkısı ve veri erişimi beyanları gerçek yazar bilgisiyle tamamlanmadan gönderim yapılmaz.
+
+
+## Rakip epistemolojiler ve ayrıştırıcı katkı
+
+Shannon'un iletişim kuramı işaretlerin istatistiksel belirsizliğini modeller; anlamın doğruluğu ve tanığın gerekçesi farklı sorulardır. Dretske'nin bilgi akışı yaklaşımı ile Floridi'nin enformasyon felsefesi semantik bilgi tartışmalarına zaten katkı sunar. Bu nedenle 'enformasyonu ilk kez anlamla ilişkilendirme' Zanistarast'a özgü bir keşif olarak ileri sürülmez. Buradaki ayırıcı tez, Hebûn'da ontolojik muhataplık, Zanabûn'da bilen–bilinen ilişkisi ve Rasterast'ta bağımsız denetim işlevlerinin ayrı tutulmasıdır.
+
+**İtiraz:** İki bağımsız bilenin anlaşması, ortak kavramsal önyargılar nedeniyle yanlış olabilir. **Yanıt:** Evet; doğrulama kararı için bağımsız referans ölçütü ve kaynak-soyağacı gerekir. Uyuşma oranı ile doğruluk oranı birbirinin yerine kullanılamaz. **Başarısızlık koşulu:** Bağımsız denetim, uygun eşleştirme sonrası hata azaltmıyorsa ampirik üstünlük iddiası geri çekilir; ontolojik kurucu kabul bu deneyle ne kanıtlanmış ne çürütülmüş olur.
