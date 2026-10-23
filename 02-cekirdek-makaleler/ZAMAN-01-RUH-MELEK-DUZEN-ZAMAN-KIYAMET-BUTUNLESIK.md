@@ -100,3 +100,10 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 **Atom ve kozmoloji sınırı:** Kaynak, 3+2+1 düzenini atomdan uygarlığa kadar genelleştirir. Atom ölçeği, karadelik, karanlık madde ve karanlık enerji için ayrı fiziksel gözlem ve ölçümler gerekir. Kaynağın 3+2+1 dizisi ile güncel altı kozmik boyut aynı ontolojik liste değildir; Ehad yaratılmış bir boyut değildir.
 
 **Kaynak taraması:** `hebun-zanabun` ve kullanıcının 'dirive/orijinal makaleler' diye işaret ettiği depolarda ilgili özgün paragraflar henüz doğrulanamadı. Bunlar bulunmadan K0 kaynak kapısı kapanmaz.
+
+
+## 13. Orijinal Drive makalelerinden zaman ve fizik kaynak izi
+
+**O1:** Google Drive `1deJT3kwnpgtTXNNa2Zz3qLQp1JQrPtV4`, *1-VARLIK SİSTEMLERİ VE BOYUTLARI* kopyası. Okunan özgün paragraflar: kuantum ve varoluş, 'Sistem (Boyut, zaman)', atomun merkez/çevre düzeni, kara madde ve karadelik ilişkisi. **O2:** Google Drive `1hgq1pwA8lnjSbTp1b9Xt3Q5JzTlieysa`, *4-varlık yönetim düzeni* kopyası. Okunan özgün paragraflar: zamanın yıpratıcı etkisi, mekân-zaman-hareketin varlık kimliğiyle bağı ve ruh/düzen ilişkisi.
+
+**Kaynak önceliği:** Orijinal ifade, bilimsel düzeltme ve yeni sentez ayrı gösterilecektir. O1'in karadelik–karanlık madde–Higgs ilişkileri kurucu hipotez olarak kayda geçer; deneysel doğrulanmış fizik olgusu sayılmaz. Karanlık madde, karanlık enerji ve karadelikler birbirinden ayrı fizik konularıdır. O1/O2'deki ilgili paragrafların tamamının eşleştirilmesi ve Hebûn–Zanabûn arşivinin incelenmesi hâlâ açıktır.
