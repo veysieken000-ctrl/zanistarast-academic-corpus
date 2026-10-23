@@ -99,3 +99,16 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **Mevcut metinlere yönlendirme:** ZAMAN-01, zamanın ontolojik formu ile ölçülen fiziksel zamanın ilişkisini özgün zaman metinlerinden ayrıntılandırır. Jeoloji tarihi hattı, 'jeolojik limit' kavramının enerji akışı, mineral döngüsü, sıvı su, kimyasal geri besleme ve biyolojik imzalar bakımından hangi gözlemlerle sınanacağını inceler. İnsan tarihi hattı, 'tanıklık varsa zaman tarih olur' önermesinin bireysel hafıza, arkeolojik iz ve yazılı kayıt gibi ayrı kanıt türleriyle ilişkisini araştırır. Kuantum hattı, durum geçişi ile ontolojik boyutsal geçişin ortak sözcüklerden daha güçlü bir eşleme gerektirip gerektirmediğini sınar.
 
 **Çapraz Rasterast uyarısı:** Özgün geçiş metnindeki 'entropi = her zaman düzensizliğin artışı', 'zaman ilerledikçe bütün yapılarda enerji yoğunluğu azalır' ve 'her jeolojik limit yaşamı zorunlu üretir' gibi genellemeler, kapalı/açık sistem koşulları ve karşı-örnekler belirtilmeden ampirik yasa olarak aktarılmaz. Bu, özgün metinleri silme değil, ispat yükünü belirleme işlemidir. Dokuz deponun tamamının içerik incelemesi ve 488 adayın tek tek eşlemesi henüz tamamlanmamıştır.
+
+
+## 13. Hızlandırılmış karşı-model: jeolojik sınırın yaşamı zorunlu kılmaması (23.10.2026)
+
+**Kaynak ön çalışma:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md`, blob `0c9a6235`. Bu metnin `G_limit → E_balance → Bio_opening` gösterimi, jeolojik sınır, enerji dengesi ve biyolojik açılım arasında araştırılacak bir bağıntı önerir. Bağıntı henüz ölçülmüş evrensel yasa değildir.
+
+**Açık değişkenler:** `G` jeolojik koşullar kümesi (sıvı çözücü, enerji gradyanı, kimyasal yapı taşları ve kararlı çevre aralığı); `C` kendi kendini sürdüren kimyasal ağın varlığı; `R` kalıtsal çoğalma; `B` biyolojik sistemin ortaya çıkışı. Sınanacak güçlü önerme `G ⇒ B`, daha ihtiyatlı önerme ise `G ∧ C ∧ R ⇒ B` olarak yazılır. Buradaki işaretler kavramsal önermedir; henüz olasılık veya ölçüm modeli değildir.
+
+**Karşı-model:** `G=1`, `C=0`, `R=0`, `B=0` mümkün bir durum olarak düşünülürse `G ⇒ B` mantıksal zorunluluk değildir. Yaşama elverişli fiziksel koşulların bulunması, kendi kendini sürdüren ve kalıtsal çoğalan bir sistemin gerçekten oluştuğunu tek başına göstermez. Bu karşı-model, jeolojinin biyoloji için altyapı olabileceği kurucu tezini iptal etmez; 'yeter koşul' iddiasının ayrıca kanıtlanması gerektiğini gösterir.
+
+**Zaman bağlantısı:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (blob `b4db52d9`) etkileşim–denge–sonuç sıralamasını önerir. Jeolojik örnekte sonuç değişkeni `B`, zaman aralığı `Δt`, ara süreçler `C` ve `R` olarak ayrı kaydedilmelidir. Denge dışı kimyasal süreçlerin varlığı, bütün geçişlerin termodinamik dengeye varacağı varsayımına karşı kontrol oluşturur.
+
+**Katman kararı:** Bu sınama varlık tarihi makalesinin içinde kalır. Ancak jeolojik sınırın hangi somut çevresel ve kimyasal göstergelerle belirleneceğini bağımsız veri ve yöntemle inceleyen çalışma, birinci katmanda ayrı makale olabilir. İnsan tarihi hattı için benzer ayrım, biyolojik Homo sapiens tarihi ile kültürel/kurumsal uygarlık tarihinin farklı kanıt dizileridir. Dış literatür ve bağımsız Rasterast kontrolü açıktır.
