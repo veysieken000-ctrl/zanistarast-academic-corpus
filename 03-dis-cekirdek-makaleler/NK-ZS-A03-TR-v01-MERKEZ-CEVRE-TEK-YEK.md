@@ -38,6 +38,14 @@ Yöntem kavramsal çözümleme, analoji denetimi ve karşı-örnek sınamasıdı
 ## 7. Çekirdeklerle uyum
 H01 Hebûn ve Yek–Komel ayrımını, H02 Zanabûn'u, H03 Rasterast denetimini, H04 kozmik boyutları, H05 bilgi üretimini açıklar. A03'ün ayırıcı sorusu merkez–çevre benzetmesinin bozulma koşullarıdır; A06 ve A14 ile kavramsal ve epistemik sınırlar bakımından ilişkilidir.
 
+## 7A. Analojinin korunma ve bozulma koşulları (23 Ekim 2026)
+
+Merkez–çevre analojisi için dört farklı ilişki türü ayrılır: `GEOMETRIC_CENTER` uzamsal referans, `COORDINATION_CENTER` görev/iletişim odağı, `EPISTEMIC_REFERENCE` bilenin değerlendirme konumu, `ONTOLOGICAL_ORIGIN` kuruluş açıklaması. Bunlar tanım gereği özdeş değildir. Bir modelde `center(x)` ifadesi kullanılmadan önce hangi türün kastedildiği belirtilmelidir.
+
+**T1 — Ortak kütle merkezi:** İki cismin ortak kütle merkezi herhangi bir cismin içinde olmak zorunda değildir; `GEOMETRIC_CENTER = tek Yek` zorunlu değildir. **T2 — Dağıtık ağ:** Birden çok eşit düğümlü bilgi ağında sabit tek koordinasyon merkezi olmadan ortak değerlendirme mümkün olabilir; `Komel ⇒ tek merkez` geçersizdir. **T3 — Referans değişimi:** Aynı fiziksel sistem farklı koordinat başlangıçlarıyla tarif edilebilir; Yek'in kimliği bu seçimle değişmez. **T4 — Yetki:** Karar merkezinde bulunmak, normatif meşruiyet sağlamaz; bu ayrı A10 sorusudur. **T5 — Kıble:** Manevi yönelişten fiziksel evrenin merkezi sonucu çıkarılamaz.
+
+**Sınama ölçütü:** Analojinin aktardığı özellik (`ilişkisel yönelim`, `koordinasyon` gibi) ile aktarmadığı özellik (`ontolojik ilk olma`, `meşruiyet`, `fiziksel merkez`) açıkça kaydedilir. A03 analojinin mantıksal sınırını araştırır; A11'in kurumsal temsil-denetim ölçümleriyle birleştirilmez. Bunlar kavramsal karşı-örneklerdir; yeni ampirik veri veya matematiksel ispat değildir.
+
 ## 8. K0–K6 kalite durumu
 K0: Özgün “1-VARLIK SİSTEMLERİ VE BOYUTLARI (3).docx” paragraf izi eksik. K1: Karşıt literatür ve bibliyografik denetim açık. K2: Soru ve yöntem taslak. K3: Karşı-örnekler taslak. K4: Alanlar arası aktarım sınırları taslak. K5: Kaynakça ve akademik biçim açık. K6: Bağımsız eleştiri ve kurucu karar açık.
 
