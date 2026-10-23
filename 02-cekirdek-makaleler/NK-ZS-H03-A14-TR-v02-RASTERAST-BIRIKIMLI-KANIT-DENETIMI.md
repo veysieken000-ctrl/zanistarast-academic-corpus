@@ -155,3 +155,19 @@ Fıtrat, fıtrî ahlak, iradeli ahlak ve muhataplık ayrımları §§2–5'teki 
 
 ## Ek C — Özgün kaynak izi — 22 Ekim 2026
 İki özgün Word dosyası Google Drive üzerinden okunmuştur. Bu çalışmadaki P numaraları, okuyucunun döndürdüğü düz metnin boş olmayan satır/paragraflarını 1'den sayar; Word sayfası veya kalıcı belge paragraf kimliği değildir. Kaynak dosyaları değişirse bu numaralar yeniden üretilmelidir. *Akıl ve Bilginin Kaynağı* P5/P43'ün onay ve ontolojik oluşum kullanımları H02'de; *Varlık Sistemleri ve Boyutları* P66/P71/P90'ın evre kullanımları H04/H05'te karşılaştırılmıştır. Bütün metin kapsamını içeren 65 bloklu ana önerme envanteri daha sonra tamamlanmıştır; her cümlenin tam diplomatik karşılaştırması veya bağımsız ikinci denetim yapılmış değildir. Güncel iz §7E'de belirtilen envanterdir.
+
+
+## Ek D — Kurmancî terimlerin Rasterast denetimi (23 Ekim 2026)
+
+Bu ek, kurucunun H02 Zanabûn için belirlediği bilgi tanımını ve iki ayrı Kurmancî terimin kullanım sınırını denetler; yeni deneysel kanıt üretmez.
+
+| Terim / önerme | Kullanım alanı | Rasterast denetim ölçütü | Şimdiki statü |
+|---|---|---|---|
+| **Hebûna Hebûnî** | Ehad'ın hükmü karşısında yaratılmış Yek'in varlık göstermesi; ontolojik fıtrî düzen | Ehad'ın yaratıcı konumu ile yaratılmış Yek ayrılmalı; boyutların mekanizmaları özdeşleştirilmemeli | Kurucu ontolojik terim; dilsel doğallık ayrıca incelenecek |
+| **Zanayê Nirxîner** | Bilenin nesneye yönelimiyle doğan sonucu değerlendiren epistemik ikinci bilen | Değerlendiricinin bağımsızlığı, gerekçeleri ve ortak hata olasılığı incelenmeli | Kurucu epistemik rolün adlandırılması; bilimsel doğrulama iddiası değil |
+| **Bilgi tanımı** | “Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı ile çıkan sonuca bilgi denir.” | İkinci onay ile nesnel doğruluk eşitlenmemeli; yanlış ortak onay karşı-örneği korunmalı | Zanabûn'un felsefi bilgi tanımı |
+| **Fizik / 1+Tek** | Güç ve kanunlara bağlı fiziksel işleyiş | Güç, kuvvet ve enerji gibi fizik terimleri teknik olarak karıştırılmamalı; bilinç yüklenmemeli | Ontolojik analoji; fiziksel ölçüm ayrıca gerekir |
+| **Biyoloji / 2+Tek** | Biyolojik bilginin korunması, aktarılması ve işleyişi | Genetik bilgi, hücresel işleyiş ve epistemik onay birbirinden ayrılmalı | Ontolojik analoji; biyolojik mekanizma ayrı kaynaklandırılır |
+| **Ahlak** | İnsan: fıtrî ve iradeli; hayvan ve melekler: fıtrî | Teolojik varlık tasnifi, normatif ahlak ve gözlenebilir davranış farklı iddia türleriyle değerlendirilir | Kurucu ontolojik/teolojik çerçeve |
+
+**İz:** `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md` ve H02'nin 23 Ekim 2026 terminoloji güncellemesi. Bu ek H01 ve H04'ün henüz güncellenmediği gerçeğini değiştirmez.
