@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "REVIEW_ONLY",
-  "purpose": "MK-013–015 bidirectional impact inventory; edges do not prove conceptual correctness",
+  "purpose": "MK-001–003 and MK-013–015 bidirectional impact inventory; edges trigger review, not proof",
   "nodes": [
     {
       "id": "varlik",
@@ -27,6 +27,21 @@
       "id": "h05",
       "path": "02-cekirdek-makaleler/NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md",
       "baseline_blob_sha": "a4ddd1360ce491215a9681aecf2ae89e50a3f3b0"
+    },
+    {
+      "id": "h01",
+      "path": "02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md",
+      "baseline_blob_sha": "691ea95d550ad221bacc55fa50008232cc31bb86"
+    },
+    {
+      "id": "h02",
+      "path": "02-cekirdek-makaleler/NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md",
+      "baseline_blob_sha": "f6976f89a73c2c56ede63387d305b8649baf1b51"
+    },
+    {
+      "id": "h03",
+      "path": "02-cekirdek-makaleler/NK-ZS-H03-A14-TR-v02-RASTERAST-BIRIKIMLI-KANIT-DENETIMI.md",
+      "baseline_blob_sha": "0a1d2ac3e68a3d59b7b22d5c3517f232ff4264e6"
     }
   ],
   "edges": [
@@ -78,6 +93,62 @@
       "target": "insan",
       "mk": "MK-015",
       "risk": "geological and social transitions are not same causal law"
+    },
+    {
+      "id": "T08",
+      "source": "h01",
+      "target": "h02",
+      "mk": "MK-001/MK-002",
+      "risk": "ontological second Yek is not epistemological second knower"
+    },
+    {
+      "id": "T09",
+      "source": "h02",
+      "target": "h03",
+      "mk": "MK-002/MK-003",
+      "risk": "second approval alone does not prove correctness or independence"
+    },
+    {
+      "id": "T10",
+      "source": "h01",
+      "target": "h03",
+      "mk": "MK-001/MK-003",
+      "risk": "theological founding thesis is not empirical confirmation"
+    },
+    {
+      "id": "T11",
+      "source": "h01",
+      "target": "varlik",
+      "mk": "MK-001/MK-015",
+      "risk": "Yek derivation and physical cosmic formation are not identical mechanisms"
+    },
+    {
+      "id": "T12",
+      "source": "h01",
+      "target": "jeoloji",
+      "mk": "MK-001/MK-015",
+      "risk": "Komel relational whole does not establish abiogenesis mechanism"
+    },
+    {
+      "id": "T13",
+      "source": "h02",
+      "target": "h05",
+      "mk": "MK-002/MK-013",
+      "risk": "information processing is not automatically justified knowledge"
+    },
+    {
+      "id": "T14",
+      "source": "h03",
+      "target": "insan",
+      "mk": "MK-003/MK-015",
+      "risk": "historical interpretation and independent evidence must be separated"
+    },
+    {
+      "id": "T15",
+      "source": "h03",
+      "target": "h04",
+      "mk": "MK-003/MK-015",
+      "risk": "moral judgments are not inferred from empirical capacity alone"
     }
   ],
   "audit_reference": "01-kanonik-denetim/MK-013-015-BES-MAKALE-CIFT-YONLU-TUTARLILIK-DENETIMI-2026-10-23.md"
