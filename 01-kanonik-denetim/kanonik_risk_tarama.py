@@ -20,7 +20,15 @@ PATTERNS = {
 PATTERNS["R2"].append(r"(?i)merkez(?:de)?\s+olmak.{0,100}ontolojik\s+(?:köken|ilk|başlangıç)")
 PATTERNS["R3"].append(r"(?i)(?:prosedür|usul).{0,120}meşruiyet(?:i|in)?\s+garantiler")
 PATTERNS["R5"].append(r"(?i)Rasterast.{0,100}(?:yalnızca|sadece)\s+(?:bir\s+)?filtredir")
-NEGATIONS = re.compile(r"(?i)(?:değildir|değil|sayılamaz|özdeş\s+değildir|yanlıştır|kanıtlamaz|sayılmaz|indirgenemez|otomatik\s+olarak|karıştırılma)")
+NEGATIONS = re.compile(r"(?i)(?:değildir|değil|sayılamaz|özdeş\s+değildir|yanlıştır|kanıtlamaz|sayılmaz|oluşturmaz|≠|indirgenemez|otomatik\s+olarak|karıştırılma)")
+def document_role(path, root):
+    relative = path.relative_to(root)
+    top = relative.parts[0] if relative.parts else ""
+    return {"01-kanonik-denetim": "AUDIT_DOCUMENTATION",
+            "02-cekirdek-makaleler": "CORE",
+            "03-dis-cekirdek-makaleler": "EXTERNAL_CORE",
+            "03-makale-taslaklari": "DRAFT"}.get(top, "OTHER")
+
 def scan(root, rules, paths):
     ids = {r["id"] for r in rules["rules"]}
     results = []
@@ -36,6 +44,7 @@ def scan(root, rules, paths):
                     # Negation is a *context* signal, not a guarantee of safety.
                     results.append({"file": str(path.relative_to(root)), "line": line_no,
                                     "rule_id": rid, "status": "REVIEW_ONLY",
+                                    "document_role": document_role(path, root),
                                     "negation_or_quotation_context": bool(NEGATIONS.search(line)),
                                     "excerpt": line[:350],
                                     "matched_span": [matches[0].start(), matches[0].end()],
