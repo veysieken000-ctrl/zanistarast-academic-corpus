@@ -33,3 +33,16 @@ C. E. Shannon, “A Mathematical Theory of Communication” (1948); F. Dretske, 
 ## Çekirdek H02 ile sınama bağlantısı
 
 H02'nin ikinci bilen ilkesi bu kuramın epistemik öncülüdür. Ontolojik ikinci Yek ile epistemik ikinci bilen özdeş değildir. Ortak kaynağa dayanan iki onay bağımsız doğrulama sayılmaz. Deney önerisi: tek değerlendirici, ortak kaynaklı iki değerlendirici ve bağımsız kaynaklı iki değerlendirici gruplarının yanlış kabul ve yanlış ret oranlarını karşılaştırmak. Sonuç henüz ölçülmedi; K0–K6 açıktır.
+
+
+## Editoryal tamamlayıcı: English abstract
+
+**Title:** A Zanabûn-Based Theory of Information: From Signals to Independent Epistemic Verification.
+
+**Abstract:** This conceptual paper distinguishes detectable differences, transmitted signals, claims of knowledge, and independent verification. Within the Zanistarast framework, Hebûn denotes the ontological ground, Zanabûn the subject–object relation of knowing, and Rasterast the scrutiny of evidence. The second knower is not identical with the second ontological Yek. The proposed comparison separates single review, dual review based on shared evidence, and dual review based on independent evidence. False acceptance and false rejection are suggested outcomes; no empirical results are reported. Shannon entropy is treated as a measure of statistical uncertainty, not as a guarantee of semantic truth. The six dimensions are presented as an ontological thesis rather than six physical spacetime coordinates. The contribution is a research programme requiring source verification, competing-theory comparison and independent review.
+
+**Keywords:** Zanabûn; information theory; epistemology; independent verification; evidence provenance; semantic information.
+
+## Çalışma kapsamı ve beyan
+
+Bu makale kavramsal kuram ve deney tasarımıdır; insan katılımcı verisi, deney sonucu veya yeni ölçüm içermez. Önerilen yöntem uygulanırsa veri etiği, ön kayıt, körleme ve bağımsız tekrar ayrı değerlendirilmelidir. Çıkar çatışması, finansman, yazar katkısı ve veri erişimi beyanları gerçek yazar bilgisiyle tamamlanmadan gönderim yapılmaz.
