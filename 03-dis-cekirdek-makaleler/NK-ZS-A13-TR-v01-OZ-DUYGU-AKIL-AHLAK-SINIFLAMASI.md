@@ -34,3 +34,22 @@ K0: Özgün “5-duygu (1).docx” paragraf izi açık. K1: Karşıt birincil li
 Kozmik boyutlar ve insanın öz, duygu, akıl ve ahlak katmanları farklı sınıflandırmalardır. İnsan, birden çok bedensel, bilişsel ve ilişkisel özelliği birlikte taşıyabilir. Bu birliktelik, insan katmanlarının kozmik boyutlara bire bir sayısal eşit olduğunu göstermez.
 
 **Karşı-örnek:** Tek bir duygusal deneyim bedensel uyarılma, hatırlama ve değerlendirme içerebilir. Bu deneyimi yalnız tek bir kozmik boyutun maddi parçası olarak tanımlamak gerekçesizdir. Buradaki çıkarım kavramsal tutarlılık sınamasıdır; deneysel insan zihni modeli değildir.
+
+
+## Genişletilmiş öz ve özgün katkı
+
+Bu makale, Zanistarast'ın 6+Tek kozmik boyut tasnifi ile insanın öz, duygu, akıl, fıtrat ve iradeli ahlak katmanlarını birbirine karıştırmadan nasıl birlikte ele alabileceğini inceler. Yöntem, iki farklı sınıflandırmanın kapsam ve türlerini karşılaştıran kavramsal analizdir. Temel sonuç, bir insan deneyiminin bedensel, bilişsel ve normatif yönlerinin birlikte bulunmasının bu yönleri ayrı kozmik boyut numaralarıyla bire bir özdeşleştirmediğidir. Çalışma, deneysel bir insan modeli veya ruhun ölçümü olduğunu iddia etmez. A13'ün özgün katkısı, bütünleşik insan Yek'i hakkında konuşurken sınıflandırma düzeyini açık tutan karşı-model ve çıkarım sınırıdır.
+
+**Anahtar sözcükler:** insan ontolojisi; 6+Tek; öz; duygu; akıl; fıtrat; iradeli ahlak; kategori ayrımı.
+
+## Yöntem — Sınıflandırma türü denetimi
+
+İnceleme birimi, insanın yapısı veya kozmik boyut hakkında tek bir iddiadır. Her iddia önce `kozmik tasnif`, `insan katmanı`, `deneysel işlev` ya da `normatif değerlendirme` türlerinden biriyle ilişkilendirilir. Birden fazla tür içeriyorsa geçiş öncülü açık yazılır. Ardından aynı olayın birden fazla düzeyde açıklanabildiği karşı-örneklerle zorunlu bire bir eşleştirme savı sınanır. Bu, yeni katılımcı verisi toplamayan kavramsal bir çalışmadır.
+
+## Tartışma — Birliktelik ve özdeşlik ayrımı
+
+Bir kişinin korku yaşaması, bedensel uyarılma, olay değerlendirmesi, geçmiş deneyim ve sosyal bağlamın birlikte bulunmasına izin verir. Bu birliktelik tek bir katmanın diğerlerinin yerine geçtiğini göstermez. Benzer şekilde iradeli ahlak, eylemin niyet ve sorumluluk bakımından değerlendirilmesini içerir; bütün fiziksel veya biyolojik süreçlerin bilinçli seçim olduğunu ileri sürmez. Kozmik D5'in kapsayıcılığı ile insanda iradeli ahlakın özel görünümü bu nedenle ayrı düzlemlerde korunur. D4 ruh ve melekler, D6 hüküm/ahiret olarak kurucu teolojik kapsamda ele alınır; bunlara ampirik ölçüm sonucu statüsü verilmez.
+
+## Sonuç ve araştırma sınırı
+
+İnsan katmanlarının ilişkili olması, kozmik boyutların insan içinde aynı sırayla tekrarlanmasını gerektirmez. A13, H04–H05 ve A02'nin sınıflandırmalarına bu dar tutarlılık koşulunu aktarır. Kaynak karşılaştırması, özgün DOCX paragraf izi, bağımsız eleştiri ve hedef dergi biçimi tamamlanmadan gönderime hazır statüsü verilmez.
