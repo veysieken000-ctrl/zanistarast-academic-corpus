@@ -34,3 +34,8 @@ A09 ahlak–hüküm bağını, A18 hukukun meşruiyet koşullarını, A19 ceza o
 Yöntem kavramsal analiz ve düşünce deneyidir. K0: Özgün “8-hukuk felsefesi (1).docx” tam paragraf izi doğrulanmadı. K1: Birincil ve karşıt literatür taraması tamamlanmadı; yukarıdaki iki ansiklopedi girdisi yalnız başlangıç referansıdır. K2: Yöntem taslak. K3: Karşı-örnekler taslak. K4: Ülkeler arası hukuki geçerlilik ve sonuç genellemesi açık. K5: Hedef dergi biçimi ve bibliyografya açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makale tamamlanıp kanonik bütünlük ve kurucu onayı sağlanmadan yayımlanmaz.
+
+
+## Ek — Hukuk ile ahlak ayrımında iki vaka
+
+Bir eylem hukuken izinli olduğu hâlde ahlaken eleştirilebilir; başka bir eylem ahlaken savunulurken belirli bir hukuk düzeninde yasak olabilir. Hukuki geçerlilik ile normatif gerekçe bu nedenle özdeş değildir. Çatışmanın çözümünde haklar, usul, orantılılık, itiraz ve düzeltme imkânı ayrıca tartışılmalıdır. Bu örnekler belirli bir davanın hükmü değildir.
