@@ -69,3 +69,10 @@ Hebûn H01 ontolojik kuruluşu; Zanabûn H02 sistem hakkındaki bilgi iddiasın�
 **Birim:** Karar, itiraz ve düzeltme kayıtları erişilebilir kurum veya çalışma grubu. **Karşılaştırma:** (A) merkezî ve kapalı geri bildirim, (B) merkezî karar ve bağımsız itiraz kanalı, (C) dağıtık karar ve karşılıklı denetim. Kurumlar görev türü, ölçek, kaynak ve başlangıç hata oranına göre eşleştirilir. **Birincil ölçüt:** Hatanın ilk oluşumu ile doğrulanmış tespiti arasındaki süre. **İkincil ölçütler:** Düzeltme süresi, tekrarlanan hata oranı, denetim maliyeti. Karar kayıtlarının eksikliği ve seçilim yanlılığı önceden raporlanır. Hipotez B veya C'nin bazı koşullarda A'ya göre daha hızlı hata fark edeceğidir; her bağlam için evrensel üstünlük ileri sürülmez.
 
 **Kuramsal sınır:** Sonuçlar örgütsel geri bildirim hakkında olabilir; Hebûn'un ontolojik kuruluşunu ya da altı kozmik boyutu ampirik olarak doğrulamaz. Ön kayıt, örneklem büyüklüğü, etik ve bağımsız tekrar tamamlanmadan 'test edildi' denmez.
+
+
+## Analiz planı ve alternatif açıklamalar
+
+Önerilen çalışmada karar başına hata tespit süresi birincil sonuçtur; gözlem süresi dolduğunda tespit edilmeyen hatalar sansürlü gözlem olarak kaydedilir. Kurum ölçeği, görev karmaşıklığı, başlangıç hata sıklığı ve kayıt kalitesi kovaryatlardır. Grup karşılaştırmaları güven aralıklarıyla raporlanır; yalnızca istatistiksel anlamlılık değil etki büyüklüğü ve denetim maliyeti de değerlendirilir. Geri bildirim kanalı güçlü kurumların zaten daha yüksek kaynak ve uzmanlığa sahip olması alternatif açıklamadır. Ön kayıt olmadan sonradan seçilen başarılı örnekler doğrulayıcı kanıt sayılamaz. Rastgele atama uygulanamıyorsa nedensellik iddiası sınırlanır.
+
+**Negatif bulgu ilkesi:** Açık itiraz kanalı hata düzeltimini hızlandırmazsa sonuç saklanmaz; merkez–çevre geri bildirimine ilişkin güçlü evrensel yorum daraltılır. Bu yöntemsel sınama Hebûn'un kurucu ontolojisiyle özdeş değildir.
