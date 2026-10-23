@@ -125,3 +125,15 @@ Bu metindeki D4 'düzen ve zaman' kavramı, fiziksel saatlerin ölçtüğü sür
 **Karşı-model:** Aynı fiziksel zaman aralığında iki biyolojik sistemin yaşlanma ve onarım hızları farklı olabilir. Bu gözlemden her sistemin bağımsız fiziksel zaman boyutu bulunduğu sonucu çıkmaz; süreç hızı ve saat zamanı ayrılmalıdır. 'Her varlık kümesinin üst varlığı onun zamanını oluşturur' önermesi, ölçülebilir bir zaman yasası olarak kullanılacaksa bağımsız değişken, ölçüm aracı ve yanlışlama koşulu gerektirir.
 
 **Kaynak ve statü:** D4 ruh/melek evreleri kurucu kanondan devralınır; kıyamet ve ahiret hakkında ifadeler teolojik yorum statüsündedir. Jeoloji, kozmoloji veya görelilik kuramından doğrudan deneysel kanıt çıkarılmaz. Dış fizik literatürü ve birincil tefsir metinleriyle ayrıntılı kaynak eşlemesi açık kalır.
+
+
+## Boyutlar arası iddia aktarımı için denetim tablosu
+
+| Çıkış iddiası | Hedef alan | İzin verilen çıkarım | Yasak çıkarım |
+|---|---|---|---|
+| D4 düzen/zaman işlevi | Sistem teorisi | Düzenin sürmesi ve geri bildirim kavramsal olarak karşılaştırılabilir | D4 fiziksel saatlerin yeni bir eksenidir |
+| Ruh ve melek evreleri | Teoloji ve ontoloji | Kurucu yorumun iç tutarlılığı ve metin kaynakları araştırılabilir | Laboratuvar ölçümüyle ruhun varlığı kanıtlanmıştır |
+| Biyolojik yaşlanma hızı | Biyoloji | Süreç hızları ve çevresel etkenler ölçülebilir | Her canlı ayrı fiziksel zamana sahiptir |
+| Kozmik düzenin sona ermesi | Kozmoloji ile karşılaştırma | Farklı açıklama türlerinin sınırları incelenebilir | Kıyametin zamanı fizik modellerinden hesaplanmıştır |
+
+**Bağımsız denetim ölçütü:** İkinci bilen, kurucu yorumun kaynak sadakatini ve ampirik önermenin yöntemini ayrı değerlendirir. Ortak tefsir veya ortak fizik kaynağını kullanan iki rapor otomatik bağımsız kanıt değildir. Bu tablo kaynak doğrulamasının yerini almaz; D4 ile diğer makaleler arasındaki hatalı çıkarımları önlemeye yarar.
