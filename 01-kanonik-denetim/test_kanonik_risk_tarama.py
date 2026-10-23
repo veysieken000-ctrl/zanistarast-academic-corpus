@@ -68,6 +68,17 @@ class ScannerTests(unittest.TestCase):
         self.assertIn("R4", {x["rule_id"] for x in findings})
         self.assertTrue(any(x["negation_or_quotation_context"] for x in findings))
 
+    def test_context_priority_without_suppressing_warning(self):
+        findings = self.run_case("İki onay bağımsız kanıt sayılmaz")
+        self.assertEqual(1, len(findings))
+        self.assertEqual("CONTEXT_FIRST", findings[0]["review_priority"])
+        self.assertEqual("REVIEW_ONLY", findings[0]["status"])
+
+    def test_standard_priority_for_unqualified_claim(self):
+        findings = self.run_case("Rasterast sadece ikili filtre")
+        self.assertEqual(1, len(findings))
+        self.assertEqual("STANDARD", findings[0]["review_priority"])
+
     def test_no_unrelated_alert(self):
         self.assertEqual([], self.run_case("Kozmik boyut ve insan katmanı farklı kavramlardır."))
 
