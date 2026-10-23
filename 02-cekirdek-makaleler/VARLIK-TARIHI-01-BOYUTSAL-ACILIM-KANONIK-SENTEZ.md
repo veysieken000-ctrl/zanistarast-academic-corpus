@@ -140,3 +140,18 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **Zanabûn ve Rasterast denetimi:** Her zincirde kaynak türü, tarihlendirme yöntemi, bağımsız doğrulayıcı ve rakip açıklama ayrı kaydedilir. Aynı örnekten türetilmiş iki yorum bağımsız kanıt sayılmaz. Kozmik D1–D6 ontolojisiyle insanın fiziksel, biyolojik, zihinsel ve ahlaki özellikleri arasında birebir kronolojik eşleme varsayılmaz.
 
 **Üretim kararı:** Jeoloji ve insan tarihi, mevcut ön çalışmaların kapsamı ve bağımsız kanıt gereksinimi nedeniyle iki ayrı araştırma hattı olarak tutulur; aynı varlık tarihi bölümünün başlık değiştirilmiş kopyaları olmayacaktır. Kaynak depoların tümü taranmadan ve mevcut adaylarla özgünlük karşılaştırması yapılmadan yeni makale numarası verilmez.
+
+
+## 16. Jeolojik çağlar ve akıl eşiği: dört özgün ön çalışmanın çapraz denetimi (23.10.2026)
+
+**Okunan özgün dosyalar:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/01_JEOLOJIK_CAGLAR.md` (`312467f3`), `02_JEOLOJIK_CAGLAR.md` (`339eae10`), `03_ZIHIN_ESIGI.md` (`9d0ac8fd`) ve `04_TRANSITION_FROM_RATIONAL_MIND_TO_HUMAN_ERA.md` (`e046e56f`). Bunlar jeolojik evreleri, daralma/reset hipotezini, Zihin 1–Zihin 2 ayrımını ve insanın çevreye bilinçli müdahalesini daha önce işlemiştir; yeniden yazılmış makale olarak sayılmaz.
+
+**JH-1 — Jeolojik çağ ile boyutun ayrımı:** İlk kaynak, jeolojik çağları bağımsız bir kozmik boyut değil, biyoloji ve zihin evrelerini taşıyan tarihsel çevre olarak tanımlar. Bu ayrım korunur. Tek hücrelilik ve çok hücrelilik D2'nin farklı evreleri; zekâ ve akıl D3'ün farklı evreleri olarak ele alınır. Her evre için fosil, moleküler ve davranışsal delil ayrı aranır.
+
+**JH-2 — Daralma/reset hipotezinin rakip açıklaması:** İkinci kaynak, kitlesel yok oluşların üst evreye alan açtığını öne sürer. Buna karşı, göktaşı çarpması, volkanizma, iklim ve okyanus kimyası gibi nedenlerle gerçekleşen yok oluşların sonradan görülen evrimsel çeşitlenmeyle aynı şey olmadığı test edilmelidir. 'Akıl gecikirse daralma kaçınılmazdır' iddiası için akıl bulunmayan ama uzun süre kalıcı ekosistemler karşı-örnek adayıdır. Amaçlı reset, ölçülmüş nedensel mekanizma olarak kabul edilmez.
+
+**JH-3 — Zihin eşiğinin ölçütü:** Üçüncü kaynak, Zihin 1'i uyum/öğrenme; Zihin 2'yi soyutlama, gerekçeli seçim ve sorumlulukla ayırır. Ancak hayvanlarda planlama, sosyal öğrenme ve karmaşık karar örnekleri bulunduğundan tek bir davranış aklın münhasır kanıtı sayılamaz. Çoklu ölçüt, gelişimsel süreklilik ve rakip açıklamalar gereklidir.
+
+**JH-4 — İnsan çağının tarihsel başlangıcı:** Dördüncü kaynak, bilinçli çevresel müdahaleyi insan çağının ayırıcı işlevi sayar. Bu normatif/tarihsel dönemselleştirme, jeolojik zaman çizelgesindeki resmi bir çağ sınırı ile otomatik özdeş değildir. Ateş, alet, tarım, yerleşiklik ve kurumsal sorumluluk farklı tarihlerde gelişen ayrı göstergelerdir; tek bir başlangıç anı varsayılmaz. İnsan ortaya çıktıktan sonra jeolojik süreçler de sürer.
+
+**Üretim yönlendirmesi:** Jeoloji tarihi makalesinin özgün katkısı JH-1/JH-2'nin stratigrafik ve paleontolojik karşılaştırması; insan tarihi makalesinin özgün katkısı JH-3/JH-4'ün davranış, arkeoloji ve kurum kanıtlarının karşılaştırması olacaktır. Önce mevcut adaylar aranır; bağımsız yöntem ve kaynak eşlemesi tamamlanmadan yeni numara verilmez. Bu bölüm iç kanonik çapraz denetimdir, dış literatür ve bağımsız Rasterast henüz tamamlanmamıştır.
