@@ -50,3 +50,15 @@ Hebûn H01 ontolojik kuruluşu; Zanabûn H02 sistem hakkındaki bilgi iddiasın�
 **Genel sistem teorisi:** Bileşen, sınır ve etkileşim ilişkileri Zanistarast'a özgü değildir; yeni katkı iddiası bunların Hebûn–Zanabûn–Rasterast ayrımında nasıl gerekçelendirildiğiyle sınırlıdır. **Sibernetik:** Geri bildirim, denetim ve hata düzeltme zaten incelenen konulardır; merkez–çevre tezi bunların yeniden adlandırılması olarak sunulamaz. **Dağıtık yönetişim:** Çok merkezli düzenlemeler tek merkez zorunluluğuna karşı-modeldir. Karşılaştırmalı araştırmada benzer görev zorluğu, kaynak kapasitesi ve denetim maliyeti kontrol edilmeden 'daha iyi sistem' hükmü verilemez.
 
 **Ayırıcı test:** Merkezde bilgi toplama yetkisi olup karar yetkisi olmayan kurumlar ile yerel birimlerin bağımsız itiraz hakkı olan kurumlar karşılaştırılır. Birincil gösterge yanlış kararın tespit süresi, ikincil gösterge tekrar oranıdır. Veriler ve örneklem henüz mevcut değildir. Başarısız sonuç kuramın ölçülebilir güçlü sürümünü daraltmalıdır.
+
+
+## Kanıt–iddia matrisi ve kaynak sınırları
+
+| İddia | Statü | Dayanak / gerekli test |
+|---|---|---|
+| Hebûn ontolojik kuruluştur | Kurucu felsefi önerme | H01 ve kurucu kanon; deneysel ispat iddiası yok |
+| Ast–üst ile merkez–çevre farklı ilişkidir | Kavramsal ayrım | Karşı-örnek: dağıtık ağda tek yönetici merkez bulunmayabilir |
+| Bağımsız çevre geri bildirimi hata kalıcılığını azaltır | Koşullu ampirik hipotez | Eşleştirilmiş kurumlar, önceden belirlenmiş ölçüt ve kör kodlama |
+| Her sistemin fiziksel merkezi vardır | Desteklenmeyen evrensel iddia | Çekirdeksiz hücreler ve dağıtık ağlar güçlü karşı-örneklerdir |
+
+**Atıf denetimi:** Bertalanffy, Ashby ve Ostrom kaynakları şimdilik karşılaştırma başlangıçlarıdır. Kitap bölümü ve sayfa eşlemesi yapılmadığı için bu isimler belirli Zanistarast önermelerinin kanıtı olarak kullanılmaz. H01–H03'ün kanonik tanımları ile dış literatürün deneysel sonuçları birbirine karıştırılmaz.
