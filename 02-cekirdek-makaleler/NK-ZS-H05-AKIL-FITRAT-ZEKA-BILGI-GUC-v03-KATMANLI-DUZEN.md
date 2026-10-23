@@ -2,6 +2,22 @@
 
 **H05 | 22 Ekim 2026 | Birikimli akademik araştırma sürümü — yayıma hazır değil**
 
+## 23 Ekim 2026 — H04'ten devralınan bilgi ve H05'in bağımsız araştırma katkısı
+
+**Çekirdek bağımlılıkları:** H01'den yaratılmış Yek'in kimliği ve ontolojik muhataplığı; H02'den birinci bilenin ortaya koyduğu **sonucun** ikinci bilen tarafından denetlenmesi; H03'ten kanıt türleri, kaynak soyağacı, ortak hata ve karşı-örnek kapısı; H04'ten fıtratın imkân/sınırları, araçla erişilebilir seçeneklerin değişmesi ve bunun iradeli ahlaka otomatik olarak dönüşmemesi devralınır. Bunlar H05'in yeni keşfi diye sunulmaz.
+
+**H05'in ayrı sorusu:** Bir öznenin zekâya dayalı öğrenmesi ve problem çözmesi ile Zanistarast'ın kurucu tanımındaki **ilimden ilim üretme** arasında hangi işlemsel fark önerilebilir? Bir sonuç ne zaman yalnız ezber/örüntü aktarımı, ne zaman yeni bir gerekçeli çıkarım ve ne zaman farklı koşullarda sınanabilir bilgi üretimidir? Bu ayrım, yalnızca tür etiketinden hareketle dairesel biçimde kurulamaz.
+
+**Kurucu tanım ile bilimsel ölçümün sınırı:** “Akıl yalnız insanda ilimden ilim üretme yeteneğidir” ifadesi kurucu kavramsal tanımdır; hayvanların yeni çıkarım, planlama veya araç kullanma yeteneğinin bulunmadığını gösteren ampirik bir sonuç değildir. İnsan zekâsı akıl içinde yok olmaz. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak, insanda öz–duygu–akıl–fıtrî ahlak ve iradeli ahlak katmanları kurucu modeldir; kozmik 6+Tek boyutların sayısal eşleniği değildir. Her yaratılmış Yek'in ontolojik muhataplığı, epistemik ikinci tanık veya insanın iradeli sorumluluğuyla karıştırılmaz.
+
+**Önerilen karşılaştırmalı deney — henüz yapılmadı:** İnsan, uygun etik izinli hayvan bilişi literatürü ve yapay sistem çıktıları için aynı görev ailesinde (a) önceden görülen örüntüyü uygulama, (b) yeni koşula aktarım, (c) gerekçeyi açıkça sınama, (d) yanlış karşı-örnek karşısında revizyon ayrı kodlanır. İnsan dışı örneklerde gerekçenin içsel yaşantısı varsayılmaz; davranışsal kanıt ve modelin yorum sınırı kaydedilir. Araç erişimi ve önceki eğitim, bilgi üretiminden ayrı değişkenlerdir. Karşı-örnek: eğitim verisinde görülmemiş bir problemi çözen hayvan veya yapay sistem, “yalnız insan yeni çıkarım yapabilir” gibi geniş bir ampirik iddiayı zorlar; bu nedenle kurucu **akıl** tanımı ile gözlenebilir bilişsel kapasite eşanlamlılaştırılmaz.
+
+**Aday özgün sonuç:** İlimden ilim üretme iddiası için üç kapılı ölçüt önerilir: **(1) izlenebilir bilgi öncülleri; (2) bunlardan açık bir çıkarım/yenilik; (3) bağımsız karşı-örnek ve aktarım sınaması.** Bu, yeni bir ampirik bulgu veya evrensel zekâ ölçeği değil, H05'e özgü sınanabilir araştırma taslağıdır. Başarısızlık durumu: yalnızca yeniden ifade edilen bilginin yanlışlıkla yenilik sayılması ya da dış doğrulama olmadan akıl sonucuna varılması.
+
+**Devredilebilir bilgi:** A05'e zekâ–akıl görev farkı ve karşı-örnek matrisi; A06'ya kaynak bağımsızlığı; A07'ye bilgi üretiminin iradeli ahlaki değerlendirmeden ayrı tutulması; Newroza Kawa eğitim çalışmalarına öğrenme, çıkarım, gerekçelendirme ve bağımsız doğrulama aşamalarının ayrıştırılması aktarılır. İlişkili kısa girişler ve eksik bağımsız adaylar korunur; aynı araştırma sorusu ikinci bir tamamlanmış makale gibi sayılmaz.
+
+**Rasterast durumu:** Kanonik kavram eşleştirmesi yapıldı; gerçek deney, dış geçerlik, bağımsız ikinci denetim ve K0–K6 tamamlanmadı. Yayın kilidi sürer.
+
 ## Öz
 Zanistarast'ın beşli kavram çerçevesi fizik, biyoloji, zihin, ruh ve ahlak boyutlarındaki işleyişi karşılaştırmak için yeniden düzenlenir. Kurucu sınır şudur: **Akıl, yalnız insanda bulunan ilimden ilim üretme yeteneğidir.** Diğer varlıklardaki düzen ve düzenleyici ilişki insan aklı olarak adlandırılmaz. Her düzenin üzerinde bir bilen bulunduğu önermesi metafizik kurucu tez olarak incelenir; deneysel yasa diye sunulmaz. Güncel model hayvanda Öz–Duygu–Zekâ–Fıtrî Ahlak, insanda Öz–Duygu–Akıl–Fıtrî Ahlak ve bunları yönlendiren İradeli Ahlak ayrımını önerir; insan zekâsı aklın temelinde varlığını sürdürür.
 
