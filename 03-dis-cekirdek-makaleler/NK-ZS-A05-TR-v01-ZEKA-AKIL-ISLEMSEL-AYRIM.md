@@ -63,3 +63,12 @@ Bu makale, Zanistarast'ın aklı “ilimden ilim üretme” olarak ele alan kuru
 ## Sonuç ve kanıt sınırı
 
 A05'in savunulabilir sonucu, zekâ–akıl ayrımının tür etiketlerinden değil açık görev, gerekçe ve hata ölçütlerinden hareketle araştırılması gerektiğidir. Karşılaştırmalı bilişin birincil literatürü, etik deney tasarımı, kaynak izi ve bağımsız değerlendirme tamamlanmadığından deneysel üstünlük veya dergiye hazır sonuç iddia edilmez.
+
+
+## H05–H04–A07 çapraz sınaması: bilişsel performanstan sorumluluğa geçiş
+
+**Araştırma ayrımı:** A05'te görev başarısı, yeni çözüm üretimi ve gerekçe sunabilme ayrı gözlenebilir göstergelerdir. H05'teki akıl–zekâ tasnifi bu göstergelerle araştırılabilir; ancak görev puanından kişinin belirli bir eylemdeki ahlaki sorumluluğuna doğrudan geçilemez. H04'ün erişim, bilgi, fiilî kontrol ve niyet koşulları ayrıca değerlendirilir. A07'nin fıtrî işleyişi kapsayan D5 tanımı da her bilişsel davranışa iradeli ahlak yüklemez.
+
+**Karşı-model:** İki kişi aynı akıl yürütme görevinden yüksek puan alır. Birinin karar anında gerekli bilgiye erişimi ve seçme özgürlüğü varken diğeri baskı altındadır. Eşit bilişsel performans, eşit normatif sorumluluk sonucunu vermez. Tersine, düşük görev puanı da tek başına sorumsuzluk veya ahlaki değersizlik kanıtı değildir.
+
+**Önerilen kayıt:** `görev`, `başarı`, `yeni_çıkarım`, `gerekçe`, `hata`, `erişim`, `kontrol`, `niyet` ve `normatif_öncül` ayrı alanlarda tutulur. Son beş alanın varlığı dahi otomatik ahlaki hüküm üretmez; normatif tartışma gerekir. Bu bölüm kavramsal araştırma tasarımıdır, yapılmış deney değildir. K0–K6 açık kalır.
