@@ -53,3 +53,14 @@ K0: Özgün “1-VARLIK SİSTEMLERİ VE BOYUTLARI (3).docx” paragraf izi eksik
 Zanistarast, Ehad–Yek kurucu kanonu (22.10.2026); 27 makale üretim ve kalite matrisi, A03; H01–H05 çekirdek metinleri.
 
 **Yayın statüsü:** 412 makalenin tamamı, kanonik uyum ve kurucu onay gerçekleşmeden yayımlanmaz.
+
+
+## 9. Merkez–çevre ilişkisi için biçimsel karşı-model
+
+**A03'ün ayrı katkısı:** Bir ilişkisel ağ `G=(V,E)` ve bir merkezilik ölçüsü `c:V→ℝ` seçilsin. `argmax c(v)` ölçüte göre merkezdir; ölçüt değiştirilirse merkez değişebilir. Bu tanım yaratılış sırası, Ehad'ın ontolojik konumu veya siyasal meşruiyet hakkında önerme içermez.
+
+**Karşı-model:** Üç düğümlü `A—B—C` yolunda derece merkeziliğine göre B merkezdir. A'ya dışarıdan kurucu veya normatif yetki verildiğini varsaymak B'nin derece merkeziliğini değiştirmez; dolayısıyla `merkezilik ⇒ meşruiyet` genel çıkarımı geçersizdir. Ağa bir yeni kenar eklemek merkezilik sırasını değiştirebilir; bu, varlıkların ontolojik kökeninin değiştiği anlamına gelmez.
+
+**Uygulama sınırı:** Fiziksel merkez, bilgi odağı, kurumsal koordinasyon ve ontolojik kurucu ilke ayrı türlerdir. H01'in Yek/Komel ilişkisine aktarım yalnız `ANALOGY_ONLY` statüsündedir. A11'in temsil/denetim araştırmasında meşruiyet ayrı normatif öncüller ister.
+
+**Bitirme açığı:** Seçilmiş merkezilik ölçülerinin açık karşılaştırması, bağımsız literatür doğrulaması, K0–K6 ve uzman denetimi sürer.
