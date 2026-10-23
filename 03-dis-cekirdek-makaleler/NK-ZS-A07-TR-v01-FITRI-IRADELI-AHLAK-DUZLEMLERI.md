@@ -48,3 +48,10 @@ Fıtrat, fıtrî ahlak ve iradeli ahlak tek düzeye indirgenemez. Doğal düzeni
 Zanistarast H01–H05 çekirdek makaleleri, 22 Ekim 2026.
 
 **Statü:** Çalışma sürümü; bağımsız hakemlik ve 412 makale yayın onayı tamamlanmış değildir.
+
+
+## 8. Betimleyiciden normatife geçişin karşı-modeli
+
+**Öncül:** Bir davranış veya süreç doğada gerçekleşmektedir. **Geçersiz çıkarım:** O hâlde insanın o davranışı yapması ahlaken zorunludur. **Karşı-model:** Doğada zarar verici süreçler de bulunur; var olmaları insan için ödev yaratmaz. İradeli ahlaki değerlendirme için eylemin bilgisi, niyet, kontrol, zarar, hak ve gerekçelendirilen normatif ilke ayrı incelenir. D5'in bütün kozmik düzlemlerdeki fıtrî ahlak kapsamı, her olayın bilinçli ahlaki seçim olduğu anlamına gelmez. Bu kavramsal sonuç dış normatif literatür ve bağımsız eleştiriyle sınanmalıdır.
+
+**Editoryal durum:** Metin içi argüman güçlendirildi; hedef dergi seçimi, biçim, doğrulanmış bibliyografya, K0–K6 ve bağımsız Rasterast tamamlanmadı.
