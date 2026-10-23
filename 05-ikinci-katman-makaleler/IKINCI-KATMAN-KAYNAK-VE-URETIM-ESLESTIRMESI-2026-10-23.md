@@ -75,3 +75,10 @@ Her aday için sırasıyla: (1) mevcut dosya ve SHA, (2) bağımsız araştırma
 **Çapraz ilişki, birleşme değildir:** Jeoloji tarihi biyolojik açılımın çevresel koşullarını araştırabilir; insan tarihi jeolojik zaman ve çevreyle ilişkilendirilebilir; varlık tarihi ikisinin ontolojik kapsama ilişkisini tartışabilir. Ancak her birinin ayrı araştırma sorusu, kaynak dizisi, yöntem, karşı-model ve makale envanteri korunur. `VARLIK-TARIHI-01` içindeki jeoloji ve insan tarihi bölümleri yalnızca çapraz denetim/köprüdür; onların yerine geçen ana makaleler değildir.
 
 **L2 yönlendirme:** L2-K02 jeoloji tarihine, L2-K03 insan tarihine aittir. Varlık tarihi bunlardan bağımsız üçüncü ana araştırma hattıdır; L2-K04 zaman/kemal, varlık tarihiyle ilişkili ama onunla özdeş olmayan ayrı problem hattıdır. Daha önce kullanılan 'jeoloji/insan tarihi birleşimi' ifadesi makale birleştirme kararı olarak geçersizdir.
+
+
+## Ek araştırma ayrımları — kaynak ve yöntem ilkesi
+
+Varlık tarihi, Dünya'nın jeoloji tarihi ve insan tarihi üç ayrı makale dizisidir. Ayrıca fiziksel kozmoloji ile varlık ontolojisi; jeolojik çevre ile yaşamın kökeni; insanın biyolojik tarihi ile iradeli ahlak ve uygarlık tarihi; zihin ile ruh ve ahlak; termodinamik zaman ile tarihsel kayıt; ontolojik ast–üst ile örgütsel merkez–çevre ve yönetsel yetki ayrı soru ve kanıt türleri gerektirir.
+
+**Ayrıştırma testi:** Her yeni aday için araştırma nesnesi, temel soru, özgün kaynak, veri yöntemi ve karşı-model yazılır. Bunlardan hiçbiri önceki makaleden farklı değilse yeni makale açılmaz; mevcut dosya geliştirilir. Hebûn, Zanabûn, Rasterast, Rabûn ve Mabûn birbiri yerine kullanılmaz. Ayrı araştırma hattı oluşturulması K0–K6 kapılarının tamamlandığı anlamına gelmez.
