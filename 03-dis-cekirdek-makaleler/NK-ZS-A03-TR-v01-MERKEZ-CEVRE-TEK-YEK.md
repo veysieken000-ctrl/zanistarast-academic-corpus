@@ -64,3 +64,14 @@ Zanistarast, Ehad–Yek kurucu kanonu (22.10.2026); 27 makale üretim ve kalite 
 **Uygulama sınırı:** Fiziksel merkez, bilgi odağı, kurumsal koordinasyon ve ontolojik kurucu ilke ayrı türlerdir. H01'in Yek/Komel ilişkisine aktarım yalnız `ANALOGY_ONLY` statüsündedir. A11'in temsil/denetim araştırmasında meşruiyet ayrı normatif öncüller ister.
 
 **Bitirme açığı:** Seçilmiş merkezilik ölçülerinin açık karşılaştırması, bağımsız literatür doğrulaması, K0–K6 ve uzman denetimi sürer.
+
+
+## 10. H01–H05 ve A02 ile merkezilik aktarım testi
+
+**Tümdengelim sınırı:** H01'deki ontolojik kurucu ilişki, A03'teki ağ merkeziliğinin tanımı değildir. H02'nin ikinci bileni epistemik değerlendirme rolüdür; bir ağın en merkezî düğümü olmak, en doğru bilen olmak anlamına gelmez. H03'ün Rasterast bağımsızlık ölçütü de bir düğümün çok sayıda bağlantısı bulunduğu için karşılanmış sayılmaz.
+
+**Karşı-model:** Bir ağdaki merkez düğüm aynı yanlış veriyi bütün komşularına dağıtsın. Çok sayıda onay görünür; fakat onayların tek kaynağa bağlı olması bilgi doğruluğunu artırmaz. Merkezilikten epistemik bağımsızlık veya siyasal meşruiyet çıkarmak geçersizdir.
+
+**Ahlaki sınır:** H04'ün iradeli sorumluluk değerlendirmesinde bilgi, erişim, kontrol ve niyet ayrıca incelenir. H05'teki zekâ veya yeni çıkarım üretme kapasitesi ağ merkeziliğiyle özdeşleştirilemez. A02'deki kozmik 6+Tek tasnifinde 'merkez' sözcüğü yeni bir boyut veya tüm boyutlar için ortak fiziksel mekanizma değildir.
+
+**Denetim kararı:** A03'ün ağ modeli, ilişkilerin biçimsel analojisidir; ontolojik yaratılış sırasının, epistemik doğruluğun veya normatif yetkinin deneysel kanıtı değildir. Bağımsız alan literatürü ve K0–K6 denetimi açık kalır.
