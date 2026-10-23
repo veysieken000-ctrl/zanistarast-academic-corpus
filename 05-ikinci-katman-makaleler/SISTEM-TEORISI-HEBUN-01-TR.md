@@ -30,3 +30,16 @@ L. von Bertalanffy, *General System Theory: Foundations, Development, Applicatio
 ## Çekirdekten ikinci katmana izlenebilirlik
 
 Hebûn H01 ontolojik kuruluşu; Zanabûn H02 sistem hakkındaki bilgi iddiasını; Rasterast H03 kaynak bağımsızlığı ve yanlışlamayı açıklar. Bu makalenin ayrı sorusu, bir sistemin sınır, bileşen, karşılıklı ilişki ve geri bildirim bakımından nasıl betimleneceğidir. Ontolojik ast–üst kapsama ile örgütsel merkez–çevre ilişkisi eşitlenmez. Kurumsal karşılaştırmada geri bildirim kanallarının açıklığı, hata tespit süresi ve düzeltme oranı ölçülebilir; bunlardan altı boyutun ampirik kanıtı çıkarılamaz. K0–K6 açık.
+
+
+## English abstract and keywords
+
+**Title:** A Hebûn-Based Systems Theory: Ontological Layers, Feedback, and Center–Periphery Relations.
+
+**Abstract:** This conceptual article develops a systems-theoretical proposal grounded in Zanistarast's Hebûn ontology. It distinguishes vertical ontological inclusion (lower–higher) from horizontal organizational interdependence (center–periphery). Six dimensions are interpreted as ontological categories, not physical spacetime axes. The article proposes a comparative research design for centralized, distributed, and feedback-rich organizations, measuring error-detection time and correction rates. It does not claim empirical validation of metaphysical dimensions or universal superiority of any organizational structure. The theoretical contribution remains provisional pending primary-source verification, literature comparison, and independent critique.
+
+**Keywords:** Hebûn; systems theory; ontological inclusion; feedback; center–periphery; organizational error correction.
+
+## Yöntemsel ve yayın beyanı
+
+Çalışma kavramsal makale ve önerilen karşılaştırmalı tasarımdır; saha verisi, deney sonucu veya sistematik derleme değildir. Dergiye gönderimden önce yazar katkısı, çıkar çatışması, finansman, veri erişimi ve hedef dergi biçimi doğrulanmalıdır. K0–K6 açık.
