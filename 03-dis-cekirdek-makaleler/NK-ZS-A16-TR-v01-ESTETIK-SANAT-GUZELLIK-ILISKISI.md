@@ -33,3 +33,8 @@ A16'nın sorusu estetik, sanat ve güzelliğin **kavramsal ilişkisidir**. A17'n
 Yöntem kavramsal analiz, rakip görüş karşılaştırması ve karşı-örnektir. Yeni ampirik veri veya doğrulanmış evrensel güzellik ölçeği sunulmaz. K0: Özgün “6-Estetil, sanat ve güzellik (1).docx” paragraf izi henüz doğrulanmadı. K1: Karşıt birincil estetik literatürü ve bibliyografik denetim açık. K2: Yöntem taslak. K3: İtirazlar taslak. K4: Alanlar arası çıkarım sınırı taslak. K5: Hedef dergi ve kaynakça açık. K6: Bağımsız değerlendirme ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makale, kanonik bütünlük ve kurucu onayı tamamlanmadan yayımlanmaz.
+
+
+## Ek — Üç kavramı ayıran karşı-model
+
+Bir doğa manzarası sanatsal üretim olmadan estetik deneyim doğurabilir. Bir sanat eseri de rahatsız edici bir deneyim yaratabilir; bundan sanatın zorunlu olarak güzel olduğu sonucu çıkmaz. Güzellik yargısı, sanat sınıflandırması ve estetik deneyim ayrı gerekçelerle değerlendirilir. Bu karşı-model kavramsaldır; evrensel güzellik ölçüsü sunmaz.
