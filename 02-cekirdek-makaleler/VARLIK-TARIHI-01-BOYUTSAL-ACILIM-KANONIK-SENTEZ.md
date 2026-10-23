@@ -155,3 +155,18 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 **JH-4 — İnsan çağının tarihsel başlangıcı:** Dördüncü kaynak, bilinçli çevresel müdahaleyi insan çağının ayırıcı işlevi sayar. Bu normatif/tarihsel dönemselleştirme, jeolojik zaman çizelgesindeki resmi bir çağ sınırı ile otomatik özdeş değildir. Ateş, alet, tarım, yerleşiklik ve kurumsal sorumluluk farklı tarihlerde gelişen ayrı göstergelerdir; tek bir başlangıç anı varsayılmaz. İnsan ortaya çıktıktan sonra jeolojik süreçler de sürer.
 
 **Üretim yönlendirmesi:** Jeoloji tarihi makalesinin özgün katkısı JH-1/JH-2'nin stratigrafik ve paleontolojik karşılaştırması; insan tarihi makalesinin özgün katkısı JH-3/JH-4'ün davranış, arkeoloji ve kurum kanıtlarının karşılaştırması olacaktır. Önce mevcut adaylar aranır; bağımsız yöntem ve kaynak eşlemesi tamamlanmadan yeni numara verilmez. Bu bölüm iç kanonik çapraz denetimdir, dış literatür ve bağımsız Rasterast henüz tamamlanmamıştır.
+
+
+## 17. Kurucu yaratılış ve iradeli ahlak düzeltmesinin jeoloji/insan tarihine etkisi (23.10.2026)
+
+**Kanonik dayanak:** `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md` bölüm VII. Kurucunun yaratılış yaklaşımında Nisâ 4:1, boyutların kemale ererek açılması, biyoloji–zihin–ruh kapsama ilişkisi, fıtrî ahlak ve insanın iradeli ahlakı esastır. Darwinci evrim anlatısı bu makalenin ontolojik başlangıç varsayımı değildir.
+
+**Kavramsal sıralama:** Fiziksel düzenin kemal/sınır aşaması → biyolojik açılım → zihin evreleri → ruhun kapsayıcı düzen işlevi → insanın iradeli ahlaki sorumluluğu → hüküm/hesap. Bu gösterim tek çizgili paleontolojik soy ağacı veya jeolojik çağ takvimi değildir. D4 ruh/melek ontik evreleri ve düzen/zaman işlevi, D5 fıtrî/iradeli ahlak ayrımı ve D6 hüküm ayrı korunur.
+
+**Jeolojik sınama:** 'Kemal' ölçülecekse sistemin kararlılık, enerji akışı, yapı ve kimyasal süreklilik göstergeleri tanımlanır. Fiziksel evrenin genişlemesi ile yerel gezegensel kimyasal/biyolojik koşullar aynı değişken değildir. Jeolojik kayıt, kurucu ontolojik açıklamayı kendiliğinden ispatlamaz; rakip jeokimyasal ve biyolojik modellerle karşılaştırma gerektirir.
+
+**İnsan tarihi sınaması:** Son buzul çağı sonrası iradeli ahlak çağının açılımı kurucu tarih tezidir. Homo sapiens'in biyolojik kökeni, son buzul çağının sonu, yerleşik yaşam ve normatif sorumluluğun doğuşu ayrı kronoloji ve kanıt dizileridir. Arkeolojik göstergelerle ahlaki iradenin doğrudan ölçüldüğü varsayılmaz; toplumsal normların izleri ile ontolojik irade ayrıştırılır.
+
+**Karşıt kuramın konumu:** Doğal seçilim, mutasyon, genetik akrabalık ve fosil sıralaması hakkındaki bilimsel çalışmalar yok sayılmaz; Zanistarast'ın yaratılış ve devirsel gelişim tezine karşıt açıklama ve veri alanı olarak açıkça değerlendirilir. 'Bilimsel olarak imkânsız' hükmü ancak önceden belirtilen biçimsel çelişki veya veri temelli çürütmeyle savunulabilir.
+
+**Üretim kilidi:** Jeoloji tarihi, insan tarihi, biyoloji, zihin ve ahlak makaleleri bu bölümle çapraz denetlenir. Önce özgün depolardaki metinler geliştirilir; özgün soru, yöntem ve katkı bulunmadan yeni makale sayısı artırılmaz. K0–K6 bağımsız Rasterast denetimi açık kalır.
