@@ -54,3 +54,16 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 **Z4:** Bireyin yaşam süresinin sona ermesi dış fiziksel saatlerin durması anlamına gelmez. D4'ün ruh/melek evreleri ve düzen/zaman işlevi, Zanistarast'ın ontolojik araştırma hipotezi olarak ele alınır.
 
 **Çapraz bağ:** `VARLIK-TARIHI-01` bölüm 13'te jeolojik koşullar `G`, kimyasal ağ `C`, kalıtsal çoğalma `R`, biyolojik açılım `B` olarak ayrıldı. Zaman kuramı bu süreçlerin `Δt` aralıklarını ve geçiş ölçütlerini ayrıca tanımlamalıdır. Bu bölüm mevcut ZAMAN-01'i geliştirir; bağımsız yöntem ve kanıt olmadan birinci katmanda ikinci bir zaman makalesi türetilmez. K0–K6 ve bağımsız Rasterast açık kalır.
+
+
+## 9. Özgün zaman tanımlarının kaynak karşılaştırması (23.10.2026)
+
+**Kaynak A:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (blob `b4db52d9`). Burada zaman bağımsız varlık değil; iki durum/varlık arasındaki etkileşimin sonuç düzeni oluşturmasına kadar geçen süreçtir. Kurucu kısa ifade: *etkileşim + denge arayışı + sonuç*. Tanıklık, görmeden farklı olarak bilginin sorumluluğunu üstlenme; zamanın tarihe dönüşmesinin epistemik koşuludur. Fiziksel, biyolojik, zihinsel, ahlaki ve hüküm düzeylerinde zamanın işlevleri ayrılır.
+
+**Kaynak B:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/04_TIME_ENTROPY_AND_DIMENSIONAL_TRANSITION.md` (blob `00295595`). Zaman, durumlar arası baskınlık değişimi; süreç–azalma–sınır–geçiş zinciri; daralma ve entropi ilişkisi olarak tarif edilir. `0.333…` örneği ontolojik sezgi/benzetmedir; matematikte bu sayı tam olarak `1/3` olup her sonsuz basamak fiziksel aşınma anlamına gelmez.
+
+**Birleştirmeden korunan ayrımlar:** (i) *Ontolojik zaman tanımı*: etkileşimden sonuca yönelen dönüşüm. (ii) *Ölçülen fiziksel süre*: saat ve olay aralığı, süreç bitse de başka sistemlerde sürer. (iii) *Tanıklık ve tarihsel bilgi*: olayı kayda geçirme, geçmişin var olmasının önkoşulu değildir. (iv) *Termodinamik entropi*: sistem sınırına ve enerji/madde alışverişine bağlı fiziksel niceliktir. (v) *D4 düzen/ruh–melek ve D6 hüküm*: kanonik ontolojik önerme, doğrudan fiziksel ölçüm değildir.
+
+**İç metin gerilimi:** Kaynak A'nın 'tanıklık yoksa zaman mekanik akışa düşer' sözü anlamın eksilmesini; zamanın fiziksel olarak durmasını değil ifade edecek şekilde sınanır. Kaynak B'deki 'entropi geçiş zorunluluğudur' genellemesi, açık sistemlerin dışarıdan enerjiyle düzen sürdürebilmesi karşı-modeline karşı henüz kanıtlanmış değildir. `3D → 4D → 6D` şeması tüm D1–D6'yı listelemediğinden kanonik altı boyut şemasının yerine geçmez.
+
+**Kaynak sadakati kuralı:** Sonraki zaman makalesi önce bu iki özgün tanımı ve mevcut ZAMAN-01'in bölümlerini satır/iddia düzeyinde eşleştirecek; depolardaki başka özgün zaman yazıları taranmadan yeni tekil 'nihai zaman tanımı' ilan edilmeyecek. K0 kaynak izi ve K2 bağımsız itiraz denetimi açıktır.
