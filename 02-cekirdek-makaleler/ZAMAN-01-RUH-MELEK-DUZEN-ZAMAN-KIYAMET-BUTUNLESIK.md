@@ -80,3 +80,12 @@ Eski “düzen/zaman” açıklaması ile güncel “ruh/melekler” açıklamas
 **Fizik konu kuyruğu:** Kuantum, atom, karadelik, karanlık madde ve karanlık enerji başlıklarındaki özgün paragraflar ayrıca aranacaktır. Fiziksel modelde karanlık madde ve karanlık enerji farklı gözlemsel kavramlardır; karadelik ikisiyle özdeş değildir. Bu başlıklardan doğrudan D4–D6'nın deneysel doğrulandığı sonucu çıkarılmaz.
 
 **Arşiv erişim sınırı:** `veysieken000-ctrl/hebun-zanabun` deposu bulundu, fakat ilgili dosyalar içerik aramasında dönmedi; bu depodaki zaman paragrafları henüz incelenmiş sayılmaz. Kullanıcının 'dirive/orijinal makaleler' diye belirttiği arşiv de henüz dosya düzeyinde doğrulanmadı. Bu eksikler K0 kaynak denetiminde açık kalır.
+
+
+## 11. Daralma ve hüküm özgün metinleriyle ek kaynak denetimi
+
+`ZANISTARAST-TEORILER/theories/05_COLLAPSE_RESET_THEORY/02_COLLAPSE_MECHANISM.md` (`36ea26e3`) genişleme–doyum–daralma–yeniden düzen sırasını, zamanın kendisinden ayrı bir sistemsel değişim şeması olarak verir. `theories/08_ZAMAN_THEORY/10_TIME_THEORY_AKHIRAH_EXTENSION.md` (`45149871`) açılım–olgunlaşma–daralma–ayrım–karar sırasını ve bireysel/toplumsal/kozmik sonuç farklarını önerir. İki kaynakta ortak 'daralma' sözcüğü bulunması aynı gözlemsel mekanizmanın kanıtı değildir.
+
+`eguations/ZANISTARAST_UNIFIED_FIELD_THEORY/00_ZANISTARAST_UNIFIED_FIELD_THEORY.md` (`19162a12`) fizik, biyoloji, zihin, ahlak ve uygarlık için beş düzeyli erken bir şema içerir. Bu şema güncel altı kozmik boyutla bire bir eşitlenmez; uygarlık uygulama düzeyi, D4 ruh/melek ve D6 hükmün yerine geçirilmez.
+
+**Aranacak özgün fizik paragrafları için ayrı eşleştirme alanları:** kuantum süreçlerinde olay/süre; atom ölçeğinde etkileşim ve ölçüm; karadeliklerde gözlemciye göre zaman; karanlık maddede kütleçekimsel etkiler; karanlık enerjide kozmik genişleme. Bu beş başlık birbirinin kanıtı değildir. Bunlara ilişkin birincil arşiv metinleri bulunmadan Zanistarast'ın yeni fiziksel keşifleri olarak sunulmaz.
