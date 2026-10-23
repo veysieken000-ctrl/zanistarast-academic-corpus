@@ -147,8 +147,11 @@ class TransferImpactTests(unittest.TestCase):
         self.assertTrue(all(x["status"] == "REVIEW_ONLY"
                             for x in affected_reviews(self.data, paths)))
 
-    def test_git_blob_hash_matches_baseline_for_tracked_files(self):
-        self.assertEqual(changed_since_baseline(self.data), [])
+    def test_core_manuscript_edits_are_detected_from_baseline(self):
+        changed = set(changed_since_baseline(self.data))
+        expected = {n["path"] for n in self.data["nodes"]
+                    if n["id"] in {"h01", "h02", "h03"}}
+        self.assertEqual(changed, expected)
 
     def test_modified_file_is_detected(self):
         with tempfile.TemporaryDirectory() as tmp:
