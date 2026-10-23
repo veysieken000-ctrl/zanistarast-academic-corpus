@@ -184,3 +184,8 @@ Bu ek, kurucunun H02 Zanabûn için belirlediği bilgi tanımını ve iki ayrı 
 **Yanlış-pozitif sınırı:** Aynı veri üzerinde farklı yöntemlerle yürütülen iki analiz, bazı hata türlerini birbirinden bağımsız biçimde yakalayabilir. Dolayısıyla ortak veri tespitinden “ikinci değerlendirme değersizdir” sonucu da çıkarılamaz.
 
 **Kanıt durumu:** MK-016 pilotu ve dokümante edilmiş kaynak karşılaştırması, yöntemsel bir uygulamadır; bağımsız hakemlik, bilimsel üstünlük ve gerçek zaman tasarrufu ölçümü değildir. K0–K6 ve yayın kilidi sürer.
+
+
+## Ek F — H01 ve H02 kaynak-denetim kararı
+
+H01'in maya deneylerine ilişkin bilimsel iddiası, hücre kümelenmesinin gözlenen mekanizmasıyla sınırlanmalıdır. Ratcliff ve arkadaşlarının 2012 ve 2015 yayınları aynı araştırma çizgisinin parçalarıdır; iki yayın olması iki bağımsız laboratuvar çoğaltımı bulunduğunu göstermez. H02'de ikinci bilenin bu yayınları değerlendirmesi, deneylerin yeni ve bağımsız veriyle tekrarlandığı anlamına gelmez. Rasterast kaydında kaynakların ortak araştırma kökeni, iddianın kapsamı ve karşıt mekanizma ayrı tutulur. Bu değerlendirme ontolojik Komel'in deneysel doğrulanması olarak kodlanmaz. DOI: 10.1073/pnas.1115323109; 10.1038/ncomms7102. Bu ek kaynak kullanımı denetimidir; bağımsız hakemlik ve K0–K6 tamamlanmış değildir.
