@@ -134,3 +134,16 @@ Fıtrî işleyiş ile insanın bilgi, niyet ve tercih sorumluluğu §§4–5D'de
 **Aktarım koşulu:** Jeoloji makalesindeki hazırlık–mekanizma–sonuç ayrımı burada imkân–erişim–tercih–ahlaki sonuç ayrımını incelemek için **yöntemsel benzetme** olarak kullanılır; jeokimyasal süreç ve iradeli seçim aynı nedensel mekanizma değildir. Fıtrat bilgisayar koduna, ruh fiziksel yazılıma indirgenmez.
 
 **Denetim açığı:** Belirlenmiş görevlerde araç öncesi/sonrası erişilebilir seçenek sayısı, bilgi kalitesi, tercih gerekçesi ve zarar ölçütleri ayrı kodlanmalı; karşı-örnekler ve bağımsız değerlendirme toplanmalıdır. K0–K6 ve yayın kilidi açıktır.
+
+
+## Ek F — İmkân–erişim–seçim–sorumluluk çıkarım testi
+
+**Ayrı katkı:** H04, H01'in ontolojik türeme modelini yeniden ispatlamaz; fıtrî imkânın iradeli ahlaka hangi ek koşullarla bağlanabileceğini sınar. Tanımlar: `I` = fiziksel/teknik imkân; `E` = fiilen erişilebilir seçenek; `B` = seçenek ve sonuç hakkında bilgi; `C` = fiilî kontrol; `N` = niyet; `S` = normatif sorumluluk değerlendirmesi. `I ⇒ E` ve `E ⇒ S` genel geçer değildir.
+
+**Karşı-model 1 (erişim):** Bir kişi için teknik olarak kullanılabilir araç vardır, fakat araç kişiye fiilen erişilebilir değildir. Böylece `I` doğruyken `E` yanlış olabilir.
+
+**Karşı-model 2 (sorumluluk):** Araç erişilebilir olsa da kişi sonuç hakkında bilgiye veya fiilî kontrole sahip olmayabilir. Bu durumda `E` doğruyken tam sorumluluk otomatik çıkmaz. Bilgi, niyet, öngörülebilirlik ve normatif ölçüt ayrı gerekçelendirilmelidir.
+
+**Sınanabilir araştırma düzeni:** Önceden belirlenmiş görevlerde erişilebilir seçenekleri ve fiilî kontrolü bağımsız gözlemciler kodlar; sorumluluk hükümleri ise normatif çerçeve ve gerekçe ile ayrı değerlendirilir. Bu düzen deney önerisidir; uygulanmış insan araştırması değildir. Jeoloji'deki önkoşul–mekanizma–sonuç yapısı yalnız yöntemsel benzetmedir.
+
+**Bitirme açığı:** Normatif karşıt literatürün kapsamlı doğrulaması, uzman eleştirisi, K0–K6 ve kurucu onayı tamamlanmadan 'hakemli hazır' statüsü verilmez.
