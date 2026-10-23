@@ -67,6 +67,45 @@ class TransferImpactTests(unittest.TestCase):
         self.assertTrue(all(e["review_status"] == "PENDING_INDEPENDENT_RASTERAST"
                             for e in self.data["edges"]))
 
+    def test_missing_counterexample_rejected_by_loader(self):
+        import copy
+        import json
+        with tempfile.TemporaryDirectory() as tmp:
+            bad = copy.deepcopy(self.data)
+            bad["edges"][0]["counterexample"] = ""
+            path = Path(tmp) / "bad.json"
+            path.write_text(json.dumps(bad))
+            with self.assertRaises(ValueError):
+                load_inventory(path)
+
+    def test_source_sha_mismatch_rejected_by_loader(self):
+        import copy
+        import json
+        with tempfile.TemporaryDirectory() as tmp:
+            bad = copy.deepcopy(self.data)
+            bad["edges"][0]["source_baseline_sha"] = "0" * 40
+            path = Path(tmp) / "bad.json"
+            path.write_text(json.dumps(bad))
+            with self.assertRaises(ValueError):
+                load_inventory(path)
+
+    def test_unreviewed_edge_cannot_claim_approval(self):
+        import copy
+        import json
+        with tempfile.TemporaryDirectory() as tmp:
+            bad = copy.deepcopy(self.data)
+            bad["edges"][0]["review_status"] = "APPROVED"
+            path = Path(tmp) / "bad.json"
+            path.write_text(json.dumps(bad))
+            with self.assertRaises(ValueError):
+                load_inventory(path)
+
+    def test_advisory_contains_traceable_counterexample(self):
+        path = next(n["path"] for n in self.data["nodes"] if n["id"] == "h01")
+        edges = affected_reviews(self.data, [path])
+        self.assertTrue(all(e["counterexample"] and e["source_section"]
+                            and e["target_section"] for e in edges))
+
     def test_unknown_change_no_review(self):
         self.assertEqual(affected_reviews(self.data, ["README.md"]), [])
 
