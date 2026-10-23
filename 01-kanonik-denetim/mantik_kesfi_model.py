@@ -5,7 +5,7 @@ Tür karışmalarını ve koşulsuz çıkarımları yakalamak için kullanılır
 """
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import FrozenSet, Optional
+from typing import FrozenSet
 
 
 class NodeType(str, Enum):
@@ -61,20 +61,47 @@ class TypedGraph:
         }
         if (a, b) != signatures[edge.kind]:
             raise TypeError(f"{edge.kind.value} için uygunsuz tür: {a.value} → {b.value}")
-        if edge.kind == EdgeType.DERIVES_FROM and edge.source == edge.target:
-            raise ValueError("Kendinden türeme bu taslakta yasak")
+        if edge.kind == EdgeType.DERIVES_FROM:
+            # child -> parent; prevent circular ancestry.
+            if self._reaches_ancestor(edge.target, edge.source):
+                raise ValueError("Yek türeme grafında döngü oluşamaz")
         if edge not in self.edges:
             self.edges.append(edge)
 
-    def independent_validations(self, claim: str, provenance: dict) -> int:
-        """Bağımsızlık garantisi değil: farklı kaynak soyağacı sayısı."""
+    def _reaches_ancestor(self, start: str, goal: str) -> bool:
+        stack = [start]
+        visited = set()
+        while stack:
+            current = stack.pop()
+            if current == goal:
+                return True
+            if current in visited:
+                continue
+            visited.add(current)
+            stack.extend(
+                edge.target for edge in self.edges
+                if edge.kind == EdgeType.DERIVES_FROM and edge.source == current
+            )
+        return False
+
+    def distinct_provenance_roots(self, claim: str, provenance: dict) -> int:
+        """Farklı beyan edilen kaynak kökleri; bağımsızlık ispatı değildir."""
+        if claim not in self.nodes or self.nodes[claim].kind != NodeType.CLAIM:
+            raise ValueError("Hedef kayıtlı bir CLAIM olmalı")
         roots = set()
-        for e in self.edges:
-            if e.kind == EdgeType.VALIDATES and e.target == claim:
-                if e.source not in provenance:
+        for edge in self.edges:
+            if edge.kind == EdgeType.VALIDATES and edge.target == claim:
+                if edge.source not in provenance:
                     raise ValueError("Onaylayanın kaynak soyağacı belirtilmeli")
-                roots.add(provenance[e.source])
+                root = provenance[edge.source]
+                if not isinstance(root, str) or not root.strip():
+                    raise ValueError("Kaynak kökü boş olamaz")
+                roots.add(root)
         return len(roots)
+
+    def independent_validations(self, claim: str, provenance: dict) -> int:
+        """Geriye uyumlu eski ad; sonuç yalnız farklı kaynak kökü sayısıdır."""
+        return self.distinct_provenance_roots(claim, provenance)
 
 
 def sufficient_condition_refuted(cases: list) -> bool:
