@@ -27,3 +27,10 @@ H01 ve H04 kozmik kapsama, H05 akıl–bilgi, A07 fıtrî/iradeli ahlak, A12 duy
 K0: Özgün “5-duygu (1).docx” paragraf izi açık. K1: Karşıt birincil literatür doğrulaması açık. K2–K4: Kavramsal yöntem ve itiraz sınamaları taslak. K5: Kaynakça ve dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 makale ve kanonik uyum tamamlanmadan yayın yapılmaz.
+
+
+## Ek — İnsan katmanları ile kozmik boyutların ayrımı
+
+Kozmik boyutlar ve insanın öz, duygu, akıl ve ahlak katmanları farklı sınıflandırmalardır. İnsan, birden çok bedensel, bilişsel ve ilişkisel özelliği birlikte taşıyabilir. Bu birliktelik, insan katmanlarının kozmik boyutlara bire bir sayısal eşit olduğunu göstermez.
+
+**Karşı-örnek:** Tek bir duygusal deneyim bedensel uyarılma, hatırlama ve değerlendirme içerebilir. Bu deneyimi yalnız tek bir kozmik boyutun maddi parçası olarak tanımlamak gerekçesizdir. Buradaki çıkarım kavramsal tutarlılık sınamasıdır; deneysel insan zihni modeli değildir.
