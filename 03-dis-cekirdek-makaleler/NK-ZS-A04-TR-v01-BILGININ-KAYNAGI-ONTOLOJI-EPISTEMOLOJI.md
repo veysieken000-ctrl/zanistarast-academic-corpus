@@ -71,3 +71,12 @@ Ontolojik bir açıklama, neden varlık bulunduğuna dair bir çerçeve önerebi
 ## Sonuç ve açık kalite kapıları
 
 A04'ün savunulabilir sonucu, “bilginin kaynağı”nın farklı mantıksal işlevlerini tek bir doğrulama türüne indirgememek gerektiğidir. Rakip epistemoloji yaklaşımlarının birincil kaynaklarla karşılaştırılması, özgün DOCX paragraf izi, doğrulanmış kaynakça ve bağımsız eleştiri tamamlanmadığından hedef dergiye gönderim kapısı açılamaz.
+
+
+## H01–H03 ve A06 ile kaynak-soyağacı karşılaştırması
+
+A04'te 'kaynak' sözcüğünün ontolojik dayanak, öznenin bilme kapasitesi, iddianın gerekçesi ve verinin kökeni anlamları ayrıdır. H01'deki kurucu açıklama, belirli bir bilimsel iddianın ölçüm kökenini doğrulamaz. H02'deki ikinci bilenin onayı, A06'nın bağımsız veri ve yöntem sorgulamasından geçmeden ikinci kanıt olarak sayılamaz. H03'teki Rasterast ise bir iddianın kaynak ve çıkarım zincirini denetler; ontolojik tezi deneysel sonuca dönüştürmez.
+
+**Karşı-model:** İki araştırmacı aynı yanlış kalibre edilmiş cihazdan veri alır, fakat farklı kuramsal gerekçeler sunar. Gerekçe çeşitliliği ölçümün ortak hatasını ortadan kaldırmaz. Buna karşılık aynı veri üzerinde farklı yöntemlerin uyuşmazlık göstermesi, yeni veri üretmese de önemli bir hata uyarısıdır.
+
+**Karar:** Her iddiada `ontolojik_temas`, `bilen_özne`, `gerekçe`, `veri_kökeni`, `yöntem` ve `karşı_örnek` ayrı tutulur. Bu ek kavramsal kaynak-soyağacı denetimidir; sistematik literatür taraması, deney veya bağımsız hakemlik değildir. K0–K6 açık kalır.
