@@ -55,3 +55,14 @@ Her aday için sırasıyla: (1) mevcut dosya ve SHA, (2) bağımsız araştırma
 **Karşı-modeller:** (1) Son buzul çağından önceki sembolik veya işbirlikçi davranış izleri, ahlaki iradenin yalnız sonrasında ortaya çıktığını doğrudan kanıtlamaz ya da çürütmez; önce irade göstergesinin tanımı gerekir. (2) Son buzul çağı sonrası yerleşiklik ve kurumlar, her toplulukta aynı sırada gerçekleşmemiş olabilir. (3) Normatif davranış izleri, içsel özgür iradenin tek başına ölçümü değildir.
 
 **Sınama tasarımı:** Her tarihsel iddiada tarih aralığı, örnek yeri, tarihleme yöntemi, davranışsal iz, alternatif açıklama ve iradeli ahlakla ilişkilendirme gerekçesi ayrı kaydedilir. Nisâ 4:1 yaratılışın kurucu referansı olarak açıkça belirtilir; arkeolojik veri yerine kullanılmaz. Darwinci evrim modeli kurucu öncül değil, karşılaştırılan açıklamadır. D3 akıl, D4 ruh/düzen, D5 iradeli ahlak ve D6 hüküm ilişkisi korunur. K0–K6 açıktır.
+
+
+## L2-K04 — Zaman, entropi ve kemal: açık sistem karşı-modeli
+
+**Özgün kaynaklar:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (`b4db52d9`) ve `04_TIME_ENTROPY_AND_DIMENSIONAL_TRANSITION.md` (`00295595`). Kaynaklar zamanın etkileşim–sonuç–tanıklık boyutunu ve entropi/sınır/geçiş ilişkisini daha önce formüle etmiştir. `ZAMAN-01` bölüm 8 mevcut çekirdek sentezidir; bu L2 hattı onu kopyalamaz.
+
+**Ayrı araştırma sorusu:** Fiziksel sistemde 'kemal/sınır' denilen durum, denge dışı kararlı işleyişten hangi ölçülebilir göstergelerle ayrılır? Karşılaştırılacak değişkenler sistem sınırı, dışarıdan enerji ve madde akışı, entropi üretimi, kararlılık süresi ve işlevsel örgütlenme ölçütüdür. Burada 'kemal' ontolojik bir kategori olup ölçüm karşılığı henüz belirlenmemiştir.
+
+**Karşı-model:** Açık bir sistem, dışarıdan enerji alarak uzun süre denge dışı düzen sürdürebilir. Dolayısıyla entropi artışı tek başına sistemin kapanması, biyolojik açılımın zorunluluğu veya D4 ruh/melek boyutunun fiziksel olarak tespit edildiği sonucunu vermez. Termodinamik entropi ile tarihsel düzensizlik veya ahlaki bozulma aynı nicelik değildir.
+
+**Yöntem ve karar:** Bir açık sistem örneği için enerji dengesi ve entropi üretimi modellenir; 'geçiş' önceden belirlenen işlevsel ölçütle tanımlanır; aynı veriye uyan geçişsiz rakip model de raporlanır. Kozmik D1–D6 ile fiziksel uzay-zaman boyutları özdeş sayılmaz. Bu kayıt L2-K04'ün araştırma tasarımıdır, veri veya bağımsız Rasterast sonucu değildir. Dört L2 öncelik hattının kaynak/soru/karşı-model hazırlığı bu aşamada tamamlanmıştır; makale K0–K6 bitirme kapıları tamamlanmamıştır.
