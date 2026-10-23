@@ -25,3 +25,8 @@ Dağıtık örgütlerin daha kötü hata düzeltimi sergilemesi, merkez–çevre
 
 ## Dış literatürle karşılaştırma için başlangıç kaynakları
 L. von Bertalanffy, *General System Theory: Foundations, Development, Applications* (1968); W. R. Ashby, *An Introduction to Cybernetics* (1956); E. Ostrom, *Governing the Commons* (1990). Bu eserlerin ilgili sayfaları ve Zanistarast'la gerçek yenilik farkı bağımsız bibliyografik denetim gerektirir. Çalışma henüz özgün saha verisi, bağımsız hakem raporu veya hedef dergi biçim onayı içermiyor.
+
+
+## Çekirdekten ikinci katmana izlenebilirlik
+
+Hebûn H01 ontolojik kuruluşu; Zanabûn H02 sistem hakkındaki bilgi iddiasını; Rasterast H03 kaynak bağımsızlığı ve yanlışlamayı açıklar. Bu makalenin ayrı sorusu, bir sistemin sınır, bileşen, karşılıklı ilişki ve geri bildirim bakımından nasıl betimleneceğidir. Ontolojik ast–üst kapsama ile örgütsel merkez–çevre ilişkisi eşitlenmez. Kurumsal karşılaştırmada geri bildirim kanallarının açıklığı, hata tespit süresi ve düzeltme oranı ölçülebilir; bunlardan altı boyutun ampirik kanıtı çıkarılamaz. K0–K6 açık.
