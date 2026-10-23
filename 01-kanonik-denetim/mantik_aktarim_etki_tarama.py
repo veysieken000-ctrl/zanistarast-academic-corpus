@@ -1,4 +1,4 @@
-"""MK-013–015: seven-link bidirectional review impact scanner (stdlib only).
+"""MK-001–003 / MK-013–015: bidirectional review impact scanner (stdlib only).
 
 Usage: python3 01-kanonik-denetim/mantik_aktarim_etki_tarama.py [changed/path ...]
 Without arguments, compares tracked files to the inventory baseline git blob SHAs.
@@ -6,7 +6,6 @@ Advisory only; no automatic edits, approvals or publication.
 """
 import hashlib
 import json
-import subprocess
 import sys
 from pathlib import Path
 
@@ -33,6 +32,22 @@ def load_inventory(path=INVENTORY):
         raise ValueError("Invalid transfer edge")
     if len({edge["id"] for edge in edges}) != len(edges):
         raise ValueError("Duplicate edge ID")
+    if data.get("schema_version", 0) < 2:
+        raise ValueError("Traceable edge schema v2 required")
+    node_by_id = {node["id"]: node for node in nodes}
+    required = ("source_section", "target_section", "transferable_claim",
+                "counterexample", "evidence_status", "review_status",
+                "source_baseline_sha", "target_baseline_sha")
+    for edge in edges:
+        if any(not isinstance(edge.get(field), str) or not edge[field].strip()
+               for field in required):
+            raise ValueError(f"Missing traceable reasoning: {edge['id']}")
+        if edge["source_baseline_sha"] != node_by_id[edge["source"]]["baseline_blob_sha"]:
+            raise ValueError(f"Source SHA mismatch: {edge['id']}")
+        if edge["target_baseline_sha"] != node_by_id[edge["target"]]["baseline_blob_sha"]:
+            raise ValueError(f"Target SHA mismatch: {edge['id']}")
+        if edge["review_status"] != "PENDING_INDEPENDENT_RASTERAST":
+            raise ValueError(f"Unreviewed edge cannot be approved: {edge['id']}")
     return data
 
 
@@ -57,6 +72,12 @@ def affected_reviews(data, changed_paths):
                 "target": edge["target"],
                 "mk": edge["mk"],
                 "risk": edge["risk"],
+                "source_section": edge["source_section"],
+                "target_section": edge["target_section"],
+                "transferable_claim": edge["transferable_claim"],
+                "counterexample": edge["counterexample"],
+                "evidence_status": edge["evidence_status"],
+                "review_status": edge["review_status"],
                 "triggered_by": sorted(ids & {edge["source"], edge["target"]}),
                 "status": "REVIEW_ONLY",
             })
