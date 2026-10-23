@@ -44,6 +44,15 @@ Bu üçlü bağ, ontolojiden doğrudan siyasal meşruiyet çıkarmaz; kurumsal y
 ## 7. Yöntem ve çapraz uyum
 Yöntem kavramsal analiz, rakip kurumsal modellerin karşılaştırılması ve karşı-örnek sınamasıdır; kurumlara ilişkin ampirik üstünlük iddiası henüz yoktur. A03 merkez–çevre analojisinin sınırlarını, A11 temsil–denetim düzenini, A07–A09 normatif sorumluluğu inceler. A10'un ayırıcı sorusu yönetimin gerekçelendirilebilir temel ilkesidir.
 
+
+## 7A. Normatif ilkenin biçimsel sınaması ve karşı-örnekler (23 Ekim 2026)
+
+Bu bölümdeki gösterim bir **araştırma taslağıdır**; kanıtlanmış meşruiyet teoremi değildir. Karar `q` için `Y(q)` sınırlandırılmış yetkiyi, `G(q)` erişilebilir gerekçeyi, `H(q)` hak ve zarar değerlendirmesini, `I(q)` fiilen kullanılabilir itirazı ve `D(q)` düzeltme/h hesap verebilirliği temsil etsin. Önerilen asgari prosedür koşulu `P(q)=Y(q)∧G(q)∧H(q)∧I(q)∧D(q)` olsun. `P(q)` ile kararın normatif meşruiyeti özdeş değildir; rıza, adalet, yetkinin kaynağı ve sonuçların dağılımı ayrıca tartışılmalıdır. Bir alanda kayıt bulunması, o alanın fiilen işlediğini kanıtlamaz.
+
+**A10'a özgü karşı-örnekler:** (V1) İtiraz usulü yazılıdır fakat yaptırım korkusu nedeniyle erişilemez. (V2) Prosedür alanları tamdır ancak gerekçe yanlış bilgiye dayanır. (V5) Katılım yaygındır fakat sonuçtan kimin sorumlu olduğu belirlenemez. (V7) Bilgi akışı ve hata düzeltme iyi işlerken kararın hak dağılımı adaletsiz olabilir. Bu vakalar `P(q) ⇒ meşruiyet` şeklindeki koşulsuz çıkarımı sınırlar.
+
+**Yöntemsel ayrım:** A11'in bilgi grafı ve düzeltme gecikmesi A10'un meşruiyet ölçütlerinin yerine geçmez. A10 kurumsal ağ tasarımını A11'e atıfla ele alır; kendine özgü katkı normatif gerekçelendirme ve karşıt yönetim modelleridir. Sentetik testler gerçek kurumlara ilişkin sonuç üretmez. Ayrıntılı vaka ve denetim kaydı: `01-kanonik-denetim/A10-A11-KARSI-ORNEK-BAGIMSIZLIK-TEST-VAKALARI-2026-10-23.md`.
+
 ## 8. K0–K6 kalite durumu
 K0: “4-varlık yönetim düzeni (1).docx” özgün paragraf eşleştirmesi açık. K1: Yönetim ve meşruiyet literatürünün birincil kaynak denetimi açık. K2: Yöntem taslak. K3: İtirazlar taslak. K4: Ontolojiden kuruma geçiş sınırları taslak. K5: Bibliyografya ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
