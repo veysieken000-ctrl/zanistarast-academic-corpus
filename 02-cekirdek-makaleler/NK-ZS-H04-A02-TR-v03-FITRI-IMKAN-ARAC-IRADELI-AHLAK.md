@@ -147,3 +147,12 @@ Fıtrî işleyiş ile insanın bilgi, niyet ve tercih sorumluluğu §§4–5D'de
 **Sınanabilir araştırma düzeni:** Önceden belirlenmiş görevlerde erişilebilir seçenekleri ve fiilî kontrolü bağımsız gözlemciler kodlar; sorumluluk hükümleri ise normatif çerçeve ve gerekçe ile ayrı değerlendirilir. Bu düzen deney önerisidir; uygulanmış insan araştırması değildir. Jeoloji'deki önkoşul–mekanizma–sonuç yapısı yalnız yöntemsel benzetmedir.
 
 **Bitirme açığı:** Normatif karşıt literatürün kapsamlı doğrulaması, uzman eleştirisi, K0–K6 ve kurucu onayı tamamlanmadan 'hakemli hazır' statüsü verilmez.
+
+
+## Ek G — H01–H05 ortak çıkarım sınırı
+
+H01'in Yek–Komel ilişkisel tasnifi, H04'teki iradeli sorumluluk ölçütünü kendiliğinden üretmez. H02'de bir iddianın ikinci bilen tarafından onaylanması da bir davranışın ahlaken haklı olduğunu göstermez; H03'te kaynak bağımsızlığının artması normatif öncül ihtiyacını ortadan kaldırmaz. H04'ün önerdiği imkân, erişim, bilgi, kontrol ve niyet ayrımları bu yüzden ayrı gerekçelendirilmelidir.
+
+**Sınama örneği:** Bir eylemin teknik olarak mümkün olduğu ve iki değerlendiricinin bu olguyu doğruladığı varsayılsın. Kişinin araca erişimi, baskı altında bulunup bulunmadığı ve sonuçları öngörüp öngöremediği bilinmiyorsa tam sorumluluk sonucu çıkarılamaz. Ampirik onay ile normatif değerlendirme farklı sorulara yanıt verir.
+
+**H05 ile sınır:** Akıl veya zekâ görevindeki başarı, kişinin belirli eylemde yeterli bilgiye ve fiilî seçme özgürlüğüne sahip olduğunu tek başına göstermez. Bu ek kurucu tasnifi değiştirmeyen bir tutarlılık denetimidir; yeni deney, bağımsız hakemlik veya K0–K6 tamamlanması değildir.
