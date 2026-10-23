@@ -66,3 +66,17 @@ L1-A22, dış çekirdeğin tekrarı olarak değil, rol atfından sorumluluğa ge
 - K6 bağımsız Rasterast ve kurucu onayı: **açık**.
 
 **Sürüm kararı:** Birinci katmanın ilk araştırma taslağıdır; 412 benzersiz ve tamamlanmış makaleden biri olarak henüz sayılmaz.
+
+## 5. Ast–üst ve merkez–çevre: sorumluluğun çift eksenli sınaması (23.10.2026)
+
+**Kanonik kaynak:** `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`, bölüm VIII. Ast–üst ontolojik kapsama ilişkisi; merkez–çevre örgütlenme ve karşılıklı geri bildirim ilişkisidir. Bir kurumun merkezde bulunması onu ontolojik olarak üst boyut yapmaz; üst katmana atıf, kişiye sınırsız siyasal yetki vermez.
+
+**Sorumluluk matrisi:** Rol taşıyan özne için `B` bilgiye erişim, `Y` fiilî yetki, `K` karar üzerindeki kontrol, `I` itiraz/geri bildirim imkânı ve `S` sonuçtan sorumluluk ayrı değişkenlerdir. Kurumun merkezde bulunması `Y=1` varsayımını doğurmaz; ast konumundaki kişinin karar sonucunu bilmesi `K=1` anlamına gelmez. İradeli ahlakın uygulanması için karar seçeneği ve sonuç bilgisi ayrıca araştırılır.
+
+**Karşı-model M4 — Merkezde yetkisiz özne:** Merkezi iletişim birimindeki kişi bütün veriyi toplar (`B=1`), fakat karar yetkisi yoktur (`Y=0`, `K=0`). Sırf merkezde olduğu için nihai karardan sorumlu tutulması hatalı atıftır.
+
+**Karşı-model M5 — Astta etkin denetçi:** Hiyerarşide ast konumdaki bağımsız denetçi kanıtı doğrular ve usulsüzlüğü görünür kılar (`I=1`). Ast oluşu, epistemik itirazının geçersizliği veya üstten gelen iddianın doğruluğu sonucunu vermez; Zanabûn'un ikinci bilen ilkesi gereği denetçinin kaynak bağımsızlığı korunur.
+
+**Karşı-model M6 — Çevrenin susturulması:** Merkez çevreden veri alır ama itiraz kanallarını kapatır. Kısa vadede merkezî karar sürse bile çevre koşullarının değişimi tespit edilemeyebilir. Böyle bir merkez, düzenleyici meşruiyetini salt merkez oluşundan türetemez.
+
+**Sınanabilir sonuç:** Sorumluluk atfında rol adı yerine bilgi, yetki, kontrol ve itiraz imkânı birlikte değerlendirilir. Bu bölüm saha verisi değildir; kurumsal karar kayıtlarıyla sınanabilecek hipotez üretir. K0–K6 açık kalır. İkinci katmana taşınacak özgün soru, merkez–çevre geri bildirim kesintisinin kurumsal hata tespitine etkisidir; L1-A22 metninin kopyası olmayacaktır.
