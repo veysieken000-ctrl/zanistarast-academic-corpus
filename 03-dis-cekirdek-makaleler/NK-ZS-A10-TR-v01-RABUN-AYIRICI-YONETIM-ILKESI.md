@@ -57,3 +57,10 @@ Bu bölümdeki gösterim bir **araştırma taslağıdır**; kanıtlanmış meşr
 K0: “4-varlık yönetim düzeni (1).docx” özgün paragraf eşleştirmesi açık. K1: Yönetim ve meşruiyet literatürünün birincil kaynak denetimi açık. K2: Yöntem taslak. K3: İtirazlar taslak. K4: Ontolojiden kuruma geçiş sınırları taslak. K5: Bibliyografya ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makale ve kanonik bütünlük tamamlanıp kurucu onayı verilmeden yayımlanmaz.
+
+
+## 9. Yetki ve denetim için başarısızlık vakaları
+
+**Vaka A:** Merkez tüm bilgiyi toplar fakat itirazları gizler; koordinasyon yüksek olsa bile denetlenebilir meşruiyet eksiktir. **Vaka B:** Kararlar bütünüyle dağıtılır, ancak hiçbir aktör sorumluluk üstlenmez; dağıtıklık da tek başına hesap verebilirlik değildir. Bu iki vaka Rabûn için görev tanımı, gerekçeli yetki, itiraz kaydı ve düzeltme izinin birlikte aranmasını gerektirir. Komel ontolojisi bu kurumların fiilen başarılı olduğunu kanıtlamaz.
+
+**Son hazırlık açığı:** Karşıt kaynakların doğrulanması, hedef dergi biçimi, bağımsız Rasterast ve K0–K6 kapıları açık.
