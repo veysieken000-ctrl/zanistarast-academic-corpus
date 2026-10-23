@@ -168,3 +168,8 @@ Bu ek H02'nin kurucu bilgi tanımını değiştirmez; iki değerlendiricinin ona
 **Karşı-örnek ve başarısızlık koşulu:** İki ekip aynı yanlış kalibre edilmiş cihazın çıktısını farklı raporlardan okuyabilir. Görünürde iki yayın ve iki değerlendirme olmasına rağmen ortak hata sürer. Yöntem, cihaz ve kaynak bağımsızlığı gösterilemezse p² yorumu geçersizdir. Gösterilse bile gözlem yanlılığı veya ortak teorik varsayım kalabilir. Bu biçimsel örnek ikinci bilenin kurucu/teolojik statüsünü ampirik olarak doğrulamaz.
 
 **Etki ve açık kapılar:** H03'ün iddia–kanıt soyağacına ortak kaynak bağımlılığı alanı eklenmesi önerilir; H01'de aynı olgu ailesindeki makaleler bağımsız tekrar diye sayılmaz. K1 rakip epistemoloji ve istatistik literatürü; K3 gerçek veri veya simülasyon; K5 hedef dergi yönergesi; K6 bağımsız eleştiri ve kurucu onayı açıktır. Bu ek tek başına makaleyi tamamlamaz.
+
+
+## Ek E — İkinci bilen ve enformasyon kuramı bağlantısı
+
+H02'nin ikinci bilen ilkesi, `05-ikinci-katman-makaleler/ENFORMASYON-TEORISI-ZANABUN-01-TR.md` için epistemik kaynak sağlar; iki makalenin araştırma sorusu farklıdır. B1 ve B2 aynı yanlış kalibre edilmiş cihazı kullanırsa iki onay bağımsız doğrulama değildir. Önerilen test: tek değerlendirici, ortak kaynaklı iki değerlendirici ve bağımsız kaynaklı iki değerlendiricinin yanlış-pozitif ve yanlış-negatif oranları kör yöntemle karşılaştırılır. Sonuç verisi henüz yoktur. Ehad Yek'tir; ontolojik ikinci Yek, epistemik ikinci bilenle özdeş değildir. K0–K6 açık.
