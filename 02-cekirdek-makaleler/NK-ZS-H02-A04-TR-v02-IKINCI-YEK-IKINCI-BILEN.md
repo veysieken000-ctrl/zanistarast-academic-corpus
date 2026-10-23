@@ -126,3 +126,12 @@ Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu d
 
 ## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
 *Akıl ve Bilginin Kaynağı* (Drive kimliği: 1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM; son değişiklik: 25 Aralık 2025), boş olmayan metin paragraflarıyla P5'te ikinci öznenin onayını, P43'te yaratılış ve ikinci bilen ilişkisini tartışır. P5'in mutlak bilgiye geçişi bölüm 5 ve 5A'da ortak hata bakımından sınırlandırılmıştır. P43'ün ontolojik ikinci özne kullanımı, güncel kanondaki ikinci Yek/ikinci Bilen ayrımıyla açıklanır. Kaynakta bulunması bu çıkarımları bağımsız bilimsel kanıt yapmaz.
+
+
+## Terminoloji güncellemesi — 23 Ekim 2026
+
+Kurucunun kavram tercihi uyarınca **Hebûna Hebûnî**, Ehad'ın hükmü karşısında yaratılmış Yek'in varlık göstermesini ve boyutuna özgü fıtrî düzenini sergilemesini anlatan **ontolojik** terimdir. Bu ad, yaratılmış her varlığın insan gibi bilinçli bilgi doğruladığını ileri sürmez. **Zanayê Nirxîner**, bilenin bilinen nesneye yönelimiyle doğan sonucu değerlendiren ikinci bilenin **epistemolojik** rolünü adlandırır. Zanabûn'un kurucu bilgi tanımı: **“Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı ile çıkan sonuca bilgi denir.”** İkinci bilenin onayı ile bir önermenin nesnel doğruluğu ayrı meselelerdir; bağımsız gerekçelendirme ve ortak hata denetimi sürdürülür.
+
+**Boyutlara ilişkin açıklayıcı ayrım:** Fizik (1+Tek) güç ve kanunlara bağlı fiziksel işleyiş; biyoloji (2+Tek) biyolojik bilginin korunması, aktarılması ve yaşamsal işlevlerde kullanımı üzerinden incelenir. İnsan fıtrî ve iradeli ahlak, hayvanlar ve melekler fıtrî ahlak bakımından değerlendirilir. Bunlar kurucu ontolojik/felsefi kullanımlardır; güç ile enerji, biyolojik bilgi ile epistemik bilgi eşanlamlı sayılmaz. Kurmancî terimlerin dilsel doğallığı ayrıca incelenecektir.
+
+Ayrıntılı terim kaydı: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`.
