@@ -100,6 +100,34 @@ class LogicDiscoveryTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.g.add_edge(Edge("y1", "missing", EdgeType.DERIVES_FROM))
 
+    def test_indirect_yek_derivation_cycle_rejected(self):
+        self.g.add_edge(Edge("y2", "y1", EdgeType.DERIVES_FROM))
+        self.g.add_edge(Edge("y3", "y2", EdgeType.DERIVES_FROM))
+        with self.assertRaises(ValueError):
+            self.g.add_edge(Edge("y1", "y3", EdgeType.DERIVES_FROM))
+
+    def test_cycle_rejection_keeps_previous_edges(self):
+        self.g.add_edge(Edge("y2", "y1", EdgeType.DERIVES_FROM))
+        with self.assertRaises(ValueError):
+            self.g.add_edge(Edge("y1", "y2", EdgeType.DERIVES_FROM))
+        self.assertEqual(len(self.g.edges), 1)
+
+    def test_distinct_provenance_roots_not_independence(self):
+        self.g.add_edge(Edge("bilen1", "iddia", EdgeType.VALIDATES))
+        self.g.add_edge(Edge("bilen2", "iddia", EdgeType.VALIDATES))
+        roots = {"bilen1": "ortak_veri", "bilen2": "ortak_veri"}
+        self.assertEqual(self.g.distinct_provenance_roots("iddia", roots), 1)
+        self.assertEqual(self.g.independent_validations("iddia", roots), 1)
+
+    def test_missing_or_blank_provenance_rejected(self):
+        self.g.add_edge(Edge("bilen1", "iddia", EdgeType.VALIDATES))
+        with self.assertRaises(ValueError):
+            self.g.distinct_provenance_roots("iddia", {"bilen1": ""})
+
+    def test_provenance_target_must_be_claim(self):
+        with self.assertRaises(ValueError):
+            self.g.distinct_provenance_roots("y1", {})
+
     def test_duplicate_edge_is_idempotent(self):
         edge = Edge("y1", "komel", EdgeType.MEMBER_OF)
         self.g.add_edge(edge)
