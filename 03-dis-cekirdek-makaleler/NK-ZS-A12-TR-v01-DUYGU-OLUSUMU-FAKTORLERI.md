@@ -42,3 +42,10 @@ A12'nin ayırıcı sorusu duygunun oluşum faktörleridir. A13 insanın öz–du
 K0: “5-duygu (1).docx” özgün paragraf izi açık. K1: Duygu kuramlarına ait karşıt birincil literatür doğrulanmadı. K2: Soru ve yöntem taslak. K3: Rakip açıklamalar taslak. K4: Ontolojik ve ampirik açıklama sınırları taslak. K5: Kaynakça ve hedef dergi biçimi açık. K6: Bağımsız eleştiri ve kurucu onay açık.
 
 **Yayın statüsü:** 412 benzersiz makale ve kanonik uyum tamamlanıp kurucu onayı verilmeden yayımlanmaz.
+
+
+## Ek — Duygu oluşumunda ayırıcı karşı-örnek
+
+Duygu, yalnızca tek bir bedensel göstergeye indirgenemez. Benzer bedensel uyarılma farklı durumlarda korku veya heyecan gibi farklı biçimlerde yorumlanabilir. Bu durum, bedensel değişkenlerin önemsiz olduğunu değil, bağlam ve değerlendirmenin ayrıca incelenmesi gerektiğini gösterir.
+
+**Önerilen sınama:** Fizyolojik uyarılma, öznel bildirim ve bağlamsal değerlendirme ayrı değişkenler olarak ele alınmalıdır. Bu öneri uygulanmış bir deney değildir; ön kayıt, uygun örneklem ve etik değerlendirme gerektirir.
