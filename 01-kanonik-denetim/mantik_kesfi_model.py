@@ -252,3 +252,72 @@ def candidate_center_roles(roles: dict, role: str) -> FrozenSet[str]:
 def distinct_yeks(ids: list) -> bool:
     """Yek kimliklerinin çiftler hâlinde ayrılığı; sıra ve ontoloji ispatı değildir."""
     return all(isinstance(x, str) and x.strip() for x in ids) and len(ids) == len(set(ids))
+
+
+class EvidenceStatus(str, Enum):
+    OBSERVED = "OBSERVED"
+    MODELLED = "MODELLED"
+    ANALOGY = "ANALOGY"
+    THEOLOGICAL = "THEOLOGICAL"
+    UNKNOWN = "UNKNOWN"
+
+
+class FunctionalRole(str, Enum):
+    RESOURCE = "RESOURCE"
+    INFORMATION = "INFORMATION"
+    PROCESSING = "PROCESSING"
+    CONSTRAINT = "CONSTRAINT"
+    VALUE = "VALUE"
+
+
+@dataclass(frozen=True)
+class FunctionalObservation:
+    role: FunctionalRole
+    description: str
+    status: EvidenceStatus
+    source: str = ""
+
+    def __post_init__(self):
+        if not self.description.strip():
+            raise ValueError("İşlev açıklaması boş olamaz")
+        if self.status == EvidenceStatus.OBSERVED and not self.source.strip():
+            raise ValueError("Gözlenen işlev için izlenebilir kaynak gerekli")
+
+
+@dataclass(frozen=True)
+class FunctionalProfile:
+    """R/I/P/C/V; ontolojik boyutlarla birebir eşlenmez."""
+    identifier: str
+    observations: tuple
+
+    def __post_init__(self):
+        if not self.identifier.strip():
+            raise ValueError("Profil kimliği boş olamaz")
+        if any(not isinstance(x, FunctionalObservation) for x in self.observations):
+            raise TypeError("Profil öğeleri FunctionalObservation olmalı")
+
+    def role_statuses(self, role: FunctionalRole) -> FrozenSet[EvidenceStatus]:
+        return frozenset(x.status for x in self.observations if x.role == role)
+
+    def review_flags(self) -> FrozenSet[str]:
+        flags = set()
+        if not self.observations:
+            flags.add("NO_OBSERVATIONS")
+        if any(x.status == EvidenceStatus.ANALOGY for x in self.observations):
+            flags.add("ANALOGY_NOT_IDENTITY")
+        if any(x.status == EvidenceStatus.THEOLOGICAL for x in self.observations):
+            flags.add("THEOLOGICAL_NOT_EMPIRICAL")
+        if not self.role_statuses(FunctionalRole.VALUE):
+            flags.add("NORMATIVE_ASSESSMENT_NOT_SPECIFIED")
+        return frozenset(flags)
+
+
+def analogy_transfer_review(source: FunctionalObservation,
+                            target: FunctionalObservation) -> str:
+    """İşlev benzerliği tek başına mekanizma veya varlık özdeşliği değildir."""
+    if source.role != target.role:
+        return "REVIEW_ROLE_MISMATCH"
+    if (source.status in {EvidenceStatus.ANALOGY, EvidenceStatus.THEOLOGICAL}
+            or target.status in {EvidenceStatus.ANALOGY, EvidenceStatus.THEOLOGICAL}):
+        return "ANALOGY_ONLY"
+    return "EVIDENCE_REVIEW_REQUIRED"
