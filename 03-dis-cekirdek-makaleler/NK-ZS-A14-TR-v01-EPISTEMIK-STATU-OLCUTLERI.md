@@ -46,3 +46,28 @@ K0 özgün DOCX paragraf karşılaştırması açık. K1 karşıt literatür aç
 4. Ruh ile yazılım arasındaki benzetme ontolojik özdeşlik kanıtlamaz.
 
 Her iddiada kaynak, gerekçe, karşı-örnek ve değerlendirme ayrı kaydedilir. Bu bölüm yeni deneysel veri değil, yöntemsel ayrım sunar.
+
+
+## Öz — Dergi makalesi için genişletilmiş araştırma özeti
+
+Bu makale, Zanistarast kurucu metinlerinde farklı gerekçe rejimlerine ait önermelerin tek bir doğruluk ölçütüyle ele alınmasının yol açtığı kategori hatalarını araştırır. Çalışmanın sorusu, teolojik kabul, ontolojik sav, ampirik hipotez, gözlemsel bulgu, analoji ve normatif iddianın hangi asgari kanıt koşullarıyla ayrılabileceğidir. Yöntem, altı iddia türünün gerekçe koşullarını karşılaştıran kavramsal çözümleme ve dört geçersiz statü geçişine karşı-model uygulamasıdır. Bulgudan ziyade **argümantatif sonuç** şudur: iki değerlendirmede uyuşma bağımsız kanıtı, gözlenen düzen ahlaki yükümlülüğü, işlevsel benzerlik ontolojik özdeşliği ve kurucu teolojik kabul ampirik ölçümü kendiliğinden doğurmaz. Önerilen iddia-kaynak-karşı-örnek kayıt düzeni, Zanabûn'daki ikinci bilen ile Rasterast'ın kaynak bağımlılığı denetimini ayırır. Makale yeni deney, saha verisi veya evrensel bir bilimsel doğrulama iddiası sunmaz. Özgün katkısı, Zanistarast makalelerinde iddia türü değişimlerini görünür kılacak kavramsal bir karar şemasıdır.
+
+**Anahtar sözcükler:** epistemik statü; gerekçelendirme; kategori hatası; ontoloji; bağımsız doğrulama; Zanabûn; Rasterast.
+
+## Yöntem — Analitik karar şeması
+
+Analiz birimi, bir makalenin gerekçe isteyen tek bir önermesidir. Önermeler altı türden birine veya gerekçesi açıkça ayrılmış birden çok türe atanır. Bir önermenin türü, metindeki otorite veya retorik güç nedeniyle yükseltilmez. Her tür için üç soru sorulur: (i) Hangi gerekçe bu türde anlamlıdır? (ii) Hangi karşı-örnek mevcut çıkarımı bozar? (iii) Hangi ek çalışma yapılmadan daha güçlü sonuç yazılamaz? Sınıflandırma, bilimsel gözlem ve teolojik önermeyi aynı deneysel testten geçirme iddiasında bulunmaz.
+
+## Tartışma — Dört geçişin sonuçları
+
+**Onaydan bağımsızlığa geçiş:** İki değerlendiricinin aynı birincil veri ve kalibrasyona bağlı olması, uyuşmanın tek başına bağımsız çoğaltım anlamına gelmediğini gösterir. Buna karşılık aynı verinin farklı yöntemle yeniden incelenmesi bazı analiz hatalarını ortaya çıkarabilir; ortak veri, bütün denetim değerini sıfırlamaz.
+
+**Olgudan norma geçiş:** Bir eylemin doğada görülmesi, insanın o eylemi gerçekleştirmesi gerektiğine dair yeterli normatif öncül değildir. H04 ve A07'deki iradeli ahlak değerlendirmesi ayrıca bilgi, kontrol, niyet ve gerekçelendirilmiş değer ölçütleri gerektirir.
+
+**Analojiden özdeşliğe geçiş:** Ruh, düzen ve yazılım arasında işlevsel benzetme kurulabilir; benzetme tek başına aynı ontolojik varlık türünü veya aynı nedensel mekanizmayı göstermez.
+
+**Kurucu kabulden ölçüme geçiş:** Ehad–Yek önermesi kurucu teolojik-ontolojik kabuldür. Bilimsel bir ölçümün doğruluğu ve açıklama gücü ise kendi yöntem ve veri zincirinde denetlenir.
+
+## Sonuç ve sınırlar
+
+A14'ün savunulabilir dar sonucu, iddiaların gerekçe türünü belirtmeden bir alandan diğerine aktarılmasının geçersiz çıkarımlara yol açabileceğidir. Bu karar şeması H01–H05 ve A02–A21 üzerinde sistematik, bağımsız biçimde henüz uygulanmış değildir. Özgün DOCX paragraf karşılaştırması, karşıt birincil literatür, doğrulanmış bibliyografya, hedef dergiye özgü biçim ve bağımsız Rasterast incelemesi tamamlanmadan K0–K6 veya gönderime hazırlık kapısı kapanmış sayılmaz.
