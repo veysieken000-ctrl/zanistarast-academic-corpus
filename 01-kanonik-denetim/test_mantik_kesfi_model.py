@@ -5,6 +5,8 @@ from mantik_kesfi_model import (
     Node, NodeType, Edge, EdgeType, TypedGraph,
     sufficient_condition_refuted, candidate_center_roles, distinct_yeks,
     KomelCandidate, TransitionCase, transition_counterexamples,
+    ClaimDomain, ClaimRecord, TransferProposal, center_role_entails_legitimacy,
+    ResponsibilityChain,
 )
 
 
@@ -206,6 +208,74 @@ class LogicDiscoveryTests(unittest.TestCase):
             transition_counterexamples(cases)["combined_sufficient_refuted"],
             [2],
         )
+
+    def test_cross_domain_transfer_requires_mechanism(self):
+        source = ClaimRecord("geo", ClaimDomain.HISTORICAL, "Jeolojik geçiş yorumu")
+        proposal = TransferProposal(source, ClaimDomain.NORMATIVE, "eşik")
+        self.assertEqual(proposal.assessment(), "REVIEW_MECHANISM_MISSING")
+
+    def test_cross_domain_transfer_requires_target_evidence(self):
+        source = ClaimRecord("geo", ClaimDomain.HISTORICAL, "Jeolojik geçiş yorumu")
+        proposal = TransferProposal(
+            source, ClaimDomain.NORMATIVE, "eşik", "kurumsal süreç",
+        )
+        self.assertEqual(proposal.assessment(), "REVIEW_EVIDENCE_MISSING")
+
+    def test_cross_domain_transfer_remains_under_review(self):
+        source = ClaimRecord("geo", ClaimDomain.HISTORICAL, "Jeolojik geçiş yorumu")
+        proposal = TransferProposal(
+            source, ClaimDomain.NORMATIVE, "eşik", "kurumsal süreç",
+            frozenset({"saha_verisi"}),
+        )
+        self.assertEqual(proposal.assessment(), "CROSS_DOMAIN_REVIEW_REQUIRED")
+
+    def test_same_domain_transfer_not_automatically_approved(self):
+        source = ClaimRecord("history", ClaimDomain.HISTORICAL, "İnsan çağı")
+        proposal = TransferProposal(
+            source, ClaimDomain.HISTORICAL, "tarihsel eşik",
+            target_evidence_ids=frozenset({"arkeolojik_kaynak"}),
+        )
+        self.assertEqual(proposal.assessment(), "SAME_DOMAIN_REVIEW_REQUIRED")
+
+    def test_empty_transfer_pattern_rejected(self):
+        source = ClaimRecord("x", ClaimDomain.EMPIRICAL, "Bir iddia")
+        proposal = TransferProposal(source, ClaimDomain.HISTORICAL, " ")
+        self.assertEqual(proposal.assessment(), "REJECT_EMPTY_PATTERN")
+
+    def test_claim_without_proposition_rejected(self):
+        with self.assertRaises(ValueError):
+            ClaimRecord("x", ClaimDomain.NORMATIVE, " ")
+
+    def test_geometric_center_does_not_entail_legitimacy(self):
+        self.assertFalse(center_role_entails_legitimacy({"geometric": ["barycenter"]}))
+
+    def test_coordination_center_does_not_entail_legitimacy(self):
+        self.assertFalse(center_role_entails_legitimacy({"coordination": ["lider"]}))
+
+    def test_normative_evidence_must_be_separate(self):
+        self.assertTrue(center_role_entails_legitimacy(
+            {"coordination": ["lider"]}, evidence_of_legitimacy=True,
+        ))
+
+    def test_responsibility_chain_missing_normative_basis(self):
+        chain = ResponsibilityChain(True, True, True, True, False)
+        self.assertIn("NORMATIVE_BASIS_NOT_ESTABLISHED", chain.review_flags())
+
+    def test_responsibility_chain_missing_outcome(self):
+        chain = ResponsibilityChain(True, True, True, False, True)
+        self.assertIn("OUTCOME_NOT_OBSERVED", chain.review_flags())
+
+    def test_responsibility_chain_missing_deliberation(self):
+        chain = ResponsibilityChain(True, False, True, True, True)
+        self.assertIn("DELIBERATION_NOT_ESTABLISHED", chain.review_flags())
+
+    def test_responsibility_chain_missing_knowledge(self):
+        chain = ResponsibilityChain(False, True, True, True, True)
+        self.assertIn("KNOWLEDGE_NOT_ESTABLISHED", chain.review_flags())
+
+    def test_responsibility_chain_complete_has_no_missing_flags(self):
+        chain = ResponsibilityChain(True, True, True, True, True)
+        self.assertEqual(chain.review_flags(), frozenset())
 
     def test_duplicate_edge_is_idempotent(self):
         edge = Edge("y1", "komel", EdgeType.MEMBER_OF)
