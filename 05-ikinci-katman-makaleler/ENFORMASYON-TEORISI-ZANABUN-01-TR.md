@@ -53,3 +53,15 @@ Bu makale kavramsal kuram ve deney tasarımıdır; insan katılımcı verisi, de
 Shannon'un iletişim kuramı işaretlerin istatistiksel belirsizliğini modeller; anlamın doğruluğu ve tanığın gerekçesi farklı sorulardır. Dretske'nin bilgi akışı yaklaşımı ile Floridi'nin enformasyon felsefesi semantik bilgi tartışmalarına zaten katkı sunar. Bu nedenle 'enformasyonu ilk kez anlamla ilişkilendirme' Zanistarast'a özgü bir keşif olarak ileri sürülmez. Buradaki ayırıcı tez, Hebûn'da ontolojik muhataplık, Zanabûn'da bilen–bilinen ilişkisi ve Rasterast'ta bağımsız denetim işlevlerinin ayrı tutulmasıdır.
 
 **İtiraz:** İki bağımsız bilenin anlaşması, ortak kavramsal önyargılar nedeniyle yanlış olabilir. **Yanıt:** Evet; doğrulama kararı için bağımsız referans ölçütü ve kaynak-soyağacı gerekir. Uyuşma oranı ile doğruluk oranı birbirinin yerine kullanılamaz. **Başarısızlık koşulu:** Bağımsız denetim, uygun eşleştirme sonrası hata azaltmıyorsa ampirik üstünlük iddiası geri çekilir; ontolojik kurucu kabul bu deneyle ne kanıtlanmış ne çürütülmüş olur.
+
+
+## İddia–kanıt matrisi ve bağımsızlık sınırları
+
+| Önerme | Tür | Gerekçe ve açık denetim |
+|---|---|---|
+| Hebûn varlık, Zanabûn bilme kuruluşuna yönelir | Kurucu ontolojik/epistemik önerme | H01–H02 kanonu; ampirik sonuç değildir |
+| İkinci bilen onayı doğruluğu garanti eder | Reddedilen güçlü yorum | Ortak cihaz hatası ve ortak teorik önyargı karşı-örnekleri |
+| Bağımsız kaynaklı ikinci denetim hata oranını düşürebilir | Koşullu araştırma hipotezi | Ön kayıtlı üç kollu karşılaştırma; veri henüz yok |
+| Shannon entropisi önermenin doğruluğunu ölçer | Reddedilen özdeşlik | Entropi istatistiksel belirsizliği betimler; doğruluk ayrıca test edilir |
+
+**Kanıt izi için asgari alanlar:** iddia kimliği; gözlem/veri kaynağı; cihaz ve kalibrasyon; birinci ve ikinci değerlendirici; ortak kaynak bağı; bağımsız referans ölçütü; karar ve düzeltme tarihi. Aynı kaynağa dayanan iki yayın bağımsız tekrar sayılmaz. Shannon (1948), Dretske (1981) ve Floridi (2011) için ilgili bölüm/sayfa doğrulaması ve rakip yorum taraması açık olduğundan kesin kaynak eşleşmesi ileri sürülmez.
