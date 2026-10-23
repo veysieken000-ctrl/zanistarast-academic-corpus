@@ -31,12 +31,16 @@ def scan(root, rules, paths):
             for rid, expressions in PATTERNS.items():
                 if rid not in ids:
                     continue
-                if any(re.search(pattern, line) for pattern in expressions):
+                matches = [m for pattern in expressions if (m := re.search(pattern, line))]
+                if matches:
                     # Negation is a *context* signal, not a guarantee of safety.
                     results.append({"file": str(path.relative_to(root)), "line": line_no,
                                     "rule_id": rid, "status": "REVIEW_ONLY",
                                     "negation_or_quotation_context": bool(NEGATIONS.search(line)),
-                                    "excerpt": line[:350]})
+                                    "excerpt": line[:350],
+                                    "matched_span": [matches[0].start(), matches[0].end()],
+                                    "matched_text": matches[0].group(0),
+                                    "line_excerpt": line})
     return results
 def main():
     p = argparse.ArgumentParser()
