@@ -62,3 +62,10 @@ Hebûn H01 ontolojik kuruluşu; Zanabûn H02 sistem hakkındaki bilgi iddiasın�
 | Her sistemin fiziksel merkezi vardır | Desteklenmeyen evrensel iddia | Çekirdeksiz hücreler ve dağıtık ağlar güçlü karşı-örneklerdir |
 
 **Atıf denetimi:** Bertalanffy, Ashby ve Ostrom kaynakları şimdilik karşılaştırma başlangıçlarıdır. Kitap bölümü ve sayfa eşlemesi yapılmadığı için bu isimler belirli Zanistarast önermelerinin kanıtı olarak kullanılmaz. H01–H03'ün kanonik tanımları ile dış literatürün deneysel sonuçları birbirine karıştırılmaz.
+
+
+## Karşılaştırmalı araştırmanın ön kayıt taslağı
+
+**Birim:** Karar, itiraz ve düzeltme kayıtları erişilebilir kurum veya çalışma grubu. **Karşılaştırma:** (A) merkezî ve kapalı geri bildirim, (B) merkezî karar ve bağımsız itiraz kanalı, (C) dağıtık karar ve karşılıklı denetim. Kurumlar görev türü, ölçek, kaynak ve başlangıç hata oranına göre eşleştirilir. **Birincil ölçüt:** Hatanın ilk oluşumu ile doğrulanmış tespiti arasındaki süre. **İkincil ölçütler:** Düzeltme süresi, tekrarlanan hata oranı, denetim maliyeti. Karar kayıtlarının eksikliği ve seçilim yanlılığı önceden raporlanır. Hipotez B veya C'nin bazı koşullarda A'ya göre daha hızlı hata fark edeceğidir; her bağlam için evrensel üstünlük ileri sürülmez.
+
+**Kuramsal sınır:** Sonuçlar örgütsel geri bildirim hakkında olabilir; Hebûn'un ontolojik kuruluşunu ya da altı kozmik boyutu ampirik olarak doğrulamaz. Ön kayıt, örneklem büyüklüğü, etik ve bağımsız tekrar tamamlanmadan 'test edildi' denmez.
