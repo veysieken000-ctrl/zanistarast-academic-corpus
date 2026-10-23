@@ -75,3 +75,14 @@ Zanistarast Ehad–Yek kurucu kanonu (22 Ekim 2026); 27 makale üretim ve kalite
 **Karşı-model:** Bir insanın aynı anda biyolojik, zihinsel ve ahlaki özellikler taşıması, üç kozmik boyutun insan içinde bire bir sayısal olarak sıralandığını kanıtlamaz. Kozmik kapsama, bireysel parça–bütün veya bilimsel mekanizma eşitliği değildir.
 
 **Araştırma sınırı:** D4 ve D6'nın teolojik statüsü deneysel gözlem diye gösterilmez; D1–D3'ün bilimsel iddiaları ilgili disiplinlerin kanıtıyla denetlenir. Bu bölüm iç tutarlılık denetimidir, ampirik boyutların keşfi değildir. K0–K6 ve kaynak denetimi açık.
+
+
+## 10. H01–H05 ile tümdengelim–tümevarım çapraz denetimi
+
+**Tümdengelim yönü:** Kurucu 6+Tek tasnifinde D1 fizik, D2 biyoloji, D3 zihin taşıyan hayvan ve insan, D4 ruh ve melekler, D5 önceki boyutların oluş ve hareketlerini kapsayan ahlak (insanda ayrıca iradeli ahlak), D6 hüküm/ahirettir. Bu tasnifin doğru yazılması, her boyuta ilişkin ampirik veya teolojik önermelerin ayrıca gerekçelendirilmesi gereğini kaldırmaz. H01'in ontolojik ikinci Yek'i, H02'nin epistemik ikinci bileni ve H03'ün bağımsız kaynak denetimi ayrı türlerdir.
+
+**Tümevarım yönü:** D1'de atomların fiziksel mekanizmaları, D2'de hücresel çoğalma ve D3'te hayvanların öğrenme davranışları hakkında toplanan gözlemler, birer yerel bilimsel veri kümesidir. Bu örneklerin üçünde de ilişki veya düzen bulunması, D4 ve D6'nın deneysel olarak kanıtlandığına ya da bütün boyutların tek mekanizmayla işlediğine dair tümevarımsal yeterlilik sağlamaz.
+
+**Karşı-örnek:** Bir kişi aynı anda biyolojik işlev, duygusal deneyim ve ahlaki karar gösterebilir. Bu, insanın iç katmanlarının D1–D6 ile bire bir numaralandırılmasını gerektirmez. Benzer şekilde D5'in kozmik kapsayıcılığı, atomların bilinçli ahlaki tercih yaptığı sonucunu vermez. H04'ün bilgi–erişim–kontrol koşulları ve H05'in bilgi üretimi ölçütü insan düzeyindeki farklı araştırma sorularıdır.
+
+**Denetim kararı:** A02'nin katkısı bir bilimsel boyut keşfi değil, kanonik tasnif ile disiplinler arası çıkarımın tür güvenliğini koruyan sınıflandırma çerçevesidir. Bu bölüm bağımsız uzman onayı, deneysel kanıt veya K0–K6 tamamlanması değildir.
