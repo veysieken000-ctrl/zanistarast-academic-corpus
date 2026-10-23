@@ -46,3 +46,22 @@ K0: İlgili özgün DOCX paragraf izi henüz doğrulanmadı. K1: Karşıt birinc
 **İkinci karşı-model:** Teolojik bir argümanın iç tutarlılığı, herhangi bir fiziksel sabitin sayısal değerini üretmez. Bu nedenle teolojik yorum, felsefi gerekçelendirme ve ampirik ölçüm ayrı kanıt türleriyle değerlendirilir.
 
 Bu ayrım metafizik araştırmanın değerini reddetmez; farklı yöntemlerin sonuçlarını birbirinin yerine geçirmeyi önler. Yeni ölçüm veya bağımsız deney yapıldığı iddia edilmez.
+
+
+## Genişletilmiş araştırma özeti
+
+Bu çalışma, varlık hakkında ampirik araştırma yapılabilen önermeler ile yaratıcı hakkında teolojik ve metafizik gerekçelendirme gerektiren önermelerin hangi koşullarda birlikte fakat karıştırılmadan tartışılabileceğini inceler. Yöntem, önerme türlerinin kanıt gereksinimlerini karşılaştıran kavramsal analiz ve iki karşı-modeldir: fiziksel gözlemin belirli teolojik yorumu kendiliğinden doğrulamaması ve teolojik argümanın fiziksel sabitlerin sayısal değerini üretmemesi. Sonuç, iki alanın ilişkisizliği değil, birinden diğerine geçişte bağımsız gerekçe ihtiyacıdır. Makale deney veya yeni kozmolojik veri sunmaz; özgün katkısı yöntemsel geçiş koşullarını görünür kılan sınırlı bir ayrım önerisidir.
+
+**Anahtar sözcükler:** ontoloji; metafizik; bilim felsefesi; yöntem; kanıt türü; Hebûn; Rasterast.
+
+## Yöntem — İddia ve gerekçe eşleştirmesi
+
+Analiz birimi, bir iddia ve onu desteklemek için ileri sürülen gerekçedir. Her iddia önce `ampirik`, `felsefi` veya `teolojik` türüyle işaretlenir; karma iddialarda her parçanın gerekçesi ayrı gösterilir. Sonra şu üç soru sorulur: Gerekçe, iddianın hangi kısmını destekliyor? Hangi karşı-model önerilen çıkarımı bozuyor? Daha güçlü sonuç için hangi bağımsız veri veya argüman gerekiyor? Bu yöntem, metafizik önermeleri laboratuvar testine zorlamak veya fiziksel iddiaları metin otoritesiyle çözmek anlamına gelmez.
+
+## Tartışma — Sınırın iki yönü
+
+Bir fiziksel teorinin gözlemle desteklenmesi, o teorinin bütün metafizik yorumlarının aynı derecede doğrulandığı anlamına gelmez. Ters yönde, bir teolojik önermenin gelenek içindeki gerekçelendirilmesi de ampirik ölçümün yerine geçmez. Ancak bu iki uyarı, bilimsel sonuçların metafizik tartışmalarda hiç kullanılamayacağı veya metafizik varsayımların bilim tarihini etkileyemeyeceği sonucunu vermez. Geçişin açık öncülleri ve kanıt gücü ayrıca tartışılmalıdır. H01 ontolojik kuruluş, H02 epistemik onay ve H03 denetim görevleri burada farklı açıklama düzeyleri olarak korunur.
+
+## Sonuç ve açık kanıt kapıları
+
+A15'in dar sonucu, yaratıcı ve varlık hakkında kullanılan iddia türlerinin birbirini otomatik olarak kanıtlamadığıdır. Hedef dergi seçimi, karşıt birincil literatürün doğrulanması, özgün kaynak izi, bağımsız değerlendirme ve K0–K6 tamamlanmadan metin gönderime hazır sayılmaz.
