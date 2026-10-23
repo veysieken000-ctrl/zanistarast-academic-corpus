@@ -66,7 +66,7 @@ Bu metnin proje içi özgün katkısı üçlü bir çerçevedir: (a) Zanabûn'un
 
 ## 4. Tanımlar ve varsayımlar
 
-**Ontolojik önkoşul:** Hebûn'da bütün varlık evreleri etki–tepki, iş, oluş ve hareket bakımından açıklanır. **Epistemik odak:** Zanabûn'da birinci bilen, bilinene yönelip sonuç üreten insan; ikinci bilen ise o sonucu sınayan/onaylayan insandır. Bir hedef nicelik θ için n tanıklık veya ölçüm raporu W₁,…,Wₙ olsun. Raporlar kişi, cihaz veya yazılımdan gelebilir; cihaz ve yazılım insanın yerine geçen ontolojik ikinci bilen değil, kanıt kanalı olarak modellenir. Bu kategorilerin güvenilirliği özdeş varsayılmaz.
+**Ontolojik önkoşul:** Hebûn'da Ehad Yek'tir; yaratılmış her Yek'in kendine özgü kimliği ve Ehad karşısında muhataplığı vardır. İki Yek arasındaki ilişki, ilk/ikinci Yek ve Komel düzeyinde ele alınır; bu, aşağıdaki istatistiksel tanıkların sayısal sıralaması değildir. Bütün varlık evreleri etki–tepki, iş, oluş ve hareket bakımından açıklanır. **Epistemik odak:** Zanabûn'da birinci bilen, bilinene yönelip sonuç üreten insan; ikinci bilen ise o sonucu sınayan/onaylayan insandır. Bir hedef nicelik θ için n tanıklık veya ölçüm raporu W₁,…,Wₙ olsun. Raporlar kişi, cihaz veya yazılımdan gelebilir; cihaz ve yazılım insanın yerine geçen ontolojik ikinci bilen değil, kanıt kanalı olarak modellenir. Bu kategorilerin güvenilirliği özdeş varsayılmaz.
 
 **Mutabakat:** Raporlar arası dağılımın küçük olması. Özgün metindeki popülasyon varyansı `S²=(1/n)Σ(W_i−W̄)²` bunu betimler.
 
@@ -296,7 +296,7 @@ Bu araştırmada birinci ve ikinci bilenin insan dünyasındaki epistemik roller
 
 ## Kanonik düzeltme eki — 21 Ekim 2026: ikinci bilenin ontolojik kapsamı
 
-**Bu ek, önceki bölümlerdeki dar yöntemsel “ikinci bilen = ikinci tanık” okumasını sınırlar.** Kurucunun 21 Ekim 2026 açıklamasına göre ikinci bilenin **en üst ontolojik anlamı**, hüküm karşısında ahlakı temsil eden **insandır**. Her varlık kendi kozmik boyutu ve evresinde iş, oluş ve hareket sergileyerek **ahlakı ontolojik geniş anlamda temsil eder**; ancak atom, yıldız, hücre veya bitki bu nedenle insan gibi bilişsel bir “bilen” sayılmaz. İlk ahlak örneği **atomdur**. İnsan, akıl, irade ve hüküm karşısındaki sorumluluk bakımından üst seviyeyi temsil eder. Dolayısıyla makalenin istatistiksel ikinci tanık modeli, bu kavramın **yalnız bir epistemolojik alt uygulamasıdır** ve ontolojik tanımın yerini alamaz.
+**Bu ek, önceki bölümlerdeki dar yöntemsel “ikinci bilen = ikinci tanık” okumasını sınırlar.** Kurucunun 21 Ekim 2026 açıklamasının tarihsel ilk yorumu, hüküm karşısında ahlakı temsil eden **insanı** ontolojik üst örnek olarak vurgulamıştı; **23 Ekim bütünleştirmesine göre bu ifade ikinci bilenin bütün ontolojik anlamını insana sınırlamaz: yaratılmış her varlığın kendine özgü kimliği ve muhataplığı vardır.** Her varlık kendi kozmik boyutu ve evresinde iş, oluş ve hareket sergileyerek **ahlakı ontolojik geniş anlamda temsil eder**; ancak atom, yıldız, hücre veya bitki bu nedenle insan gibi bilişsel bir “bilen” sayılmaz. İlk ahlak örneği **atomdur**. İnsan, akıl, irade ve hüküm karşısındaki sorumluluk bakımından üst seviyeyi temsil eder. Dolayısıyla makalenin istatistiksel ikinci tanık modeli, bu kavramın **yalnız bir epistemolojik alt uygulamasıdır** ve ontolojik tanımın yerini alamaz.
 
 **Ontolojik kapsama dizisi:** Fizik atom / yıldız-gezegen; biyoloji tek hücreli / çok hücreli; zihin zekâ / akıl; ruh ruh / melekler; ahlak fıtri / iradeli; hüküm-ahiret altıncı boyut. Tek/Yek ayrı yedinci fiziksel boyut değildir. Fiziğin ikinci evresinde ve biyolojik örgütlenmede merkez–çevre ilkesi, ontolojik bir düzen analojisi olarak kullanılır; ampirik doğa yasalarıyla özdeşliği ayrıca kanıt gerektirir. Core 01'in kozmik boyutları, Core 13'ün insan katmanlarıyla aynı numaralandırma değildir.
 
@@ -317,7 +317,7 @@ Bu araştırmada birinci ve ikinci bilenin insan dünyasındaki epistemik roller
 
 **Kanonik dayanak:** `01-kanonik-denetim/HEBUN-VARLIK-AHLAK-IKINCI-BILEN-ONTOLOJIK-TANIM-2026-10-21.md` §7–8; kurucunun 21.10.2026 tarihli doğrudan düzeltmeleri. Bu bölüm, önceki eklerdeki eksik veya yalnız ikinci tanığa indirgeyen okumaya göre **önceliklidir**.
 
-**Revizyon:** ZANABUN-01 aynı makale ailesinde kalır; yeni benzersiz makale sayılmaz. Tam metnin bir sonraki editoryal geçişinde bu ayrım giriş, tanımlar ve sonuçla bütünleştirilecektir.
+**Revizyon:** ZANABUN-01 aynı makale ailesinde kalır; yeni benzersiz makale sayılmaz. 23 Ekim 2026'da giriş, araştırma sorusu ve tanımlar düzeyinde ayrım bütünleştirildi; bütün eklerin terminolojik denetimi ve bağımsız Rasterast kontrolü sürmektedir.
 
 
 ## Kurucu ontolojik öncelik: ikinci bilenin kimlik ve muhataplık temeli (21.10.2026)
