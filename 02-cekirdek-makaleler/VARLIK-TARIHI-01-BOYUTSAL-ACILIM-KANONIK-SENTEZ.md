@@ -67,3 +67,13 @@ Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disip
 ## 9. Altıncı boyutun evrelerinin kurucu belgeyle kesinleştirilmesi (22.10.2026)
 
 §3 tablosundaki “iki evre uydurulmaz” notu kaynak yetersizliği gerekçesiyle yazılmıştı; doğrudan kurucu belge kontrolünden sonra **kaynak açısından eksik** kalmıştır. `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` içindeki kurucu onaylı 6 boyut / 12 evre tablosu, altıncı boyutu **hesap/hüküm → hükmün sonucu (ahiret karşılığı)** şeklinde belirler. Kaynak blobu `312510036f6c6516468296019b9dff2e489e74a8`. Bu iki evre, güncel yazılı kurucu kanoniğin parçası olarak kullanılmalıdır; teolojik ontolojik sınıflamanın fiziksel olarak kanıtlandığı ileri sürülmez. Önceki tablo tarihsel çalışma izi olarak bırakılmıştır; bu bölüm onun kaynak doğrulamalı düzeltmesidir.
+
+## 10. MK-013–015: Varlık tarihinde güç–bilgi–işlem–kural–yön analizi (23.10.2026)
+
+**Araştırma aktarımı:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`. Bu beş işlev, kozmik boyutlar veya Yek türemesinin yeni bir sıralaması değildir.
+
+**Örnek:** Atomik ve yıldızsal oluşum için (R) madde/enerji; (I) fiziksel durum ve örüntü betimleri; (P) etkileşim/örgütlenme süreçleri; (C) fiziksel yasalar ve sınır koşulları; (V) varsa sonradan yapılan felsefi/teolojik yorum ayrı kayıtlanır. Fizikte bilgi kuramı kullanılması, biyolojik bilgi veya bilinç bulunduğu anlamına gelmez; ancak “fizikte hiçbir bilgi kavramı yoktur” genellemesi de kurulamaz.
+
+**Karşı-örnek:** Enerji akışı olan her ortamda canlılık veya bilinç zorunlu doğmaz. Yek→Komel ilişkisindeki mantıksal düzen ile atomdan yıldıza fiziksel süreçler aynı mekanizma değildir. Ehad ve Hebûn teolojik/ontolojik kurucu kabul olarak etiketlenir; astrofiziksel ölçüm diye sunulmaz.
+
+**Aktarım:** JEOLOJİ-01'e “ortamın imkânı ≠ sonucun zorunluluğu”; H05'e “fiziksel güç ≠ bilginin ve aklın tamamı” soruları gönderilir. Her aktarımda alan, kanıt ve karşı-örnek ayrı denetlenir; bağımsız Rasterast beklenir.
