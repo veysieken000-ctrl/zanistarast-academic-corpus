@@ -157,3 +157,16 @@ Kurucu D4 tasnifinde ruh birinci, melekler ikinci evredir; düzen ve zaman aynı
 **Karşıt açıklama:** Fizikte saat zamanı, biyolojide sirkadiyen ritim ve kurumlarda süreç takvimi farklı ölçüm ve modelleme alanlarıdır. Bunların hepsine 'zaman' denmesi tek bir ontolojik mekanizma bulunduğunu kanıtlamaz. D4 için bu alanların ötesinde test edilebilir ek öngörü önerilmedikçe karşılaştırma analoji düzeyindedir.
 
 **Tamamlanma engeli:** Birincil ayet/tefsir pasajları ve fizik-biyoloji literatüründen belirli sayfa veya bölüm referansları burada henüz karşılıklı doğrulanmadı. Kaynak denetimi, bağımsız eleştiri ve kurucu onayı açık kalır.
+
+
+## 15. O2 kaynak önermesinin iki rakip okuması
+
+**İzlenebilir kurucu ifade:** O2, *Varlık Yönetim Düzeni*, Google Docs metin başlangıcı 28717: “Her varlık kümesinin üst varlığı varlık kümesinin zamanını oluşturur.” Bu indeks sayfa numarası değildir; mevcut arşiv izine dayanır. İfadenin bağlamının tam paragrafla yeniden karşılaştırılması K0 kapsamında açıktır.
+
+**Okuma A — ilişkisel düzen:** Üst varlığın alt kümenin değişim sırasını, koordinasyonunu ve süreklilik koşullarını belirlemesi. Bu okumada 'zaman oluşturmak' fiziksel saniye üretmek değil, süreçlerin düzenini kurmaktır. Kurumsal takvim ve hücresel ritim örnekleri ancak sınırlı analoji sunar.
+
+**Okuma B — fiziksel nicelik:** Üst varlığın alt küme için farklı ölçülebilir saat zamanı yaratması. Bu daha güçlü sav, ölçüm protokolü, fiziksel saat karşılaştırması ve mevcut fizik açıklamalarından ayrılan önceden belirlenmiş öngörü gerektirir. Bunlar olmadan B bilimsel sonuç olarak kullanılamaz.
+
+**Ayırıcı karşı-örnek:** Aynı laboratuvar saatine göre ölçülen iki hücre topluluğunun bölünme hızları farklı olabilir. Farklı süreç hızları, farklı fiziksel zaman eksenleri kanıtı değildir. Bu nedenle A ile B'nin karıştırılması bir kavramsal hata sayılır. D4'ün ruh/melek açıklaması her iki okumanın da deneysel sonucu değildir.
+
+**Çekirdeğe etkisi:** H01'de ast–üst kapsama, H02'de bilen–bilinen yönelimi, H03'te bağımsız iddia–kanıt denetimi ayrı kalır. Sistem Teorisi ve Enformasyon Teorisi metinlerine O2'nin fiziksel yasa olarak aktarıldığı her yerde kapsam düzeltmesi gerekir. Bu bölüm kaynak doğrulaması veya hakem onayı yerine geçmez.
