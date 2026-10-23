@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "status": "REVIEW_ONLY",
   "purpose": "MK-001–003 and MK-013–015 bidirectional impact inventory; edges trigger review, not proof",
   "nodes": [
@@ -50,105 +50,225 @@
       "source": "varlik",
       "target": "jeoloji",
       "mk": "MK-013",
-      "risk": "physical organization is not sufficient for life"
+      "risk": "physical organization is not sufficient for life",
+      "source_section": "§§3–7",
+      "target_section": "§§2–6",
+      "transferable_claim": "physical preconditions enable later organization",
+      "counterexample": "a suitable energy environment can remain lifeless",
+      "evidence_status": "ANALOGY_ONLY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "2dcdc3bced029efa05b6dd0918d4f93d4d2a7058",
+      "target_baseline_sha": "d04a3b1a1a99d4f08526031ea2c6a86c929765b3"
     },
     {
       "id": "T02",
       "source": "jeoloji",
       "target": "h04",
       "mk": "MK-015",
-      "risk": "geochemical mechanism differs from deliberate choice"
+      "risk": "geochemical mechanism differs from deliberate choice",
+      "source_section": "§§2–6",
+      "target_section": "§2; Ek E",
+      "transferable_claim": "precondition is not sufficient for outcome",
+      "counterexample": "a new tool can increase harms or narrow effective choices",
+      "evidence_status": "ANALOGY_ONLY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "d04a3b1a1a99d4f08526031ea2c6a86c929765b3",
+      "target_baseline_sha": "ba14ff2ece4a3af5b1cf35ca775ebecb709f2871"
     },
     {
       "id": "T03",
       "source": "h05",
       "target": "insan",
       "mk": "MK-013",
-      "risk": "animal cognition and human reason require separate evidence"
+      "risk": "animal cognition and human reason require separate evidence",
+      "source_section": "§§2,5,5A; Ek E",
+      "target_section": "§§3–5; §10",
+      "transferable_claim": "distinguish learning, reasoning and justification",
+      "counterexample": "nonhuman tool-use counters blanket no-reasoning claims",
+      "evidence_status": "EVIDENCE_REVIEW_REQUIRED",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "a4ddd1360ce491215a9681aecf2ae89e50a3f3b0",
+      "target_baseline_sha": "c27a9513cd8d46fddc07ab6fbe90469a34ed9c43"
     },
     {
       "id": "T04",
       "source": "h04",
       "target": "insan",
       "mk": "MK-015",
-      "risk": "tool availability does not imply moral progress"
+      "risk": "tool availability does not imply moral progress",
+      "source_section": "§2; Ek E",
+      "target_section": "§§5–8; §10",
+      "transferable_claim": "separate capability from moral evaluation",
+      "counterexample": "technological progress can coexist with injustice",
+      "evidence_status": "ANALOGY_ONLY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "ba14ff2ece4a3af5b1cf35ca775ebecb709f2871",
+      "target_baseline_sha": "c27a9513cd8d46fddc07ab6fbe90469a34ed9c43"
     },
     {
       "id": "T05",
       "source": "h05",
       "target": "h04",
       "mk": "MK-014",
-      "risk": "soul and software analogy is not identity"
+      "risk": "soul and software analogy is not identity",
+      "source_section": "§2; Ek E",
+      "target_section": "§2; Ek E",
+      "transferable_claim": "distinguish rules from normative responsibility",
+      "counterexample": "software analogy cannot establish soul ontology",
+      "evidence_status": "THEOLOGICAL_AND_ANALOGY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "a4ddd1360ce491215a9681aecf2ae89e50a3f3b0",
+      "target_baseline_sha": "ba14ff2ece4a3af5b1cf35ca775ebecb709f2871"
     },
     {
       "id": "T06",
       "source": "varlik",
       "target": "h05",
       "mk": "MK-013",
-      "risk": "physical power is not the entirety of knowledge"
+      "risk": "physical power is not the entirety of knowledge",
+      "source_section": "§§3–7; §10",
+      "target_section": "§1; Ek E",
+      "transferable_claim": "physical power is one dimension of analysis",
+      "counterexample": "informational constraints can matter without higher power",
+      "evidence_status": "MODEL_REVIEW_REQUIRED",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "2dcdc3bced029efa05b6dd0918d4f93d4d2a7058",
+      "target_baseline_sha": "a4ddd1360ce491215a9681aecf2ae89e50a3f3b0"
     },
     {
       "id": "T07",
       "source": "jeoloji",
       "target": "insan",
       "mk": "MK-015",
-      "risk": "geological and social transitions are not same causal law"
+      "risk": "geological and social transitions are not same causal law",
+      "source_section": "§§5–6; §9",
+      "target_section": "§§5–8; §10",
+      "transferable_claim": "test preparation-mechanism-result sequence",
+      "counterexample": "historical institutions cannot be modeled as geochemical reactions",
+      "evidence_status": "ANALOGY_ONLY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "d04a3b1a1a99d4f08526031ea2c6a86c929765b3",
+      "target_baseline_sha": "c27a9513cd8d46fddc07ab6fbe90469a34ed9c43"
     },
     {
       "id": "T08",
       "source": "h01",
       "target": "h02",
       "mk": "MK-001/MK-002",
-      "risk": "ontological second Yek is not epistemological second knower"
+      "risk": "ontological second Yek is not epistemological second knower",
+      "source_section": "§§2–4",
+      "target_section": "§§1–3",
+      "transferable_claim": "separate second ontological Yek from second knower",
+      "counterexample": "second entity may exist without any act of epistemic verification",
+      "evidence_status": "CANONICAL_DISTINCTION",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "691ea95d550ad221bacc55fa50008232cc31bb86",
+      "target_baseline_sha": "f6976f89a73c2c56ede63387d305b8649baf1b51"
     },
     {
       "id": "T09",
       "source": "h02",
       "target": "h03",
       "mk": "MK-002/MK-003",
-      "risk": "second approval alone does not prove correctness or independence"
+      "risk": "second approval alone does not prove correctness or independence",
+      "source_section": "§§2–4",
+      "target_section": "§§2–3",
+      "transferable_claim": "distinguish second approval from independent evidence",
+      "counterexample": "two reviewers can share one faulty source",
+      "evidence_status": "EVIDENCE_REVIEW_REQUIRED",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "f6976f89a73c2c56ede63387d305b8649baf1b51",
+      "target_baseline_sha": "0a1d2ac3e68a3d59b7b22d5c3517f232ff4264e6"
     },
     {
       "id": "T10",
       "source": "h01",
       "target": "h03",
       "mk": "MK-001/MK-003",
-      "risk": "theological founding thesis is not empirical confirmation"
+      "risk": "theological founding thesis is not empirical confirmation",
+      "source_section": "§§2–4",
+      "target_section": "§§1–3",
+      "transferable_claim": "trace theological premises through Rasterast evidence types",
+      "counterexample": "a valid deduction from a theological premise is not empirical measurement",
+      "evidence_status": "THEOLOGICAL_NOT_EMPIRICAL",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "691ea95d550ad221bacc55fa50008232cc31bb86",
+      "target_baseline_sha": "0a1d2ac3e68a3d59b7b22d5c3517f232ff4264e6"
     },
     {
       "id": "T11",
       "source": "h01",
       "target": "varlik",
       "mk": "MK-001/MK-015",
-      "risk": "Yek derivation and physical cosmic formation are not identical mechanisms"
+      "risk": "Yek derivation and physical cosmic formation are not identical mechanisms",
+      "source_section": "§§3–4",
+      "target_section": "§§3–7; §10",
+      "transferable_claim": "compare relational sequence without asserting mechanism identity",
+      "counterexample": "stellar formation does not require a biological parent pair",
+      "evidence_status": "ANALOGY_ONLY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "691ea95d550ad221bacc55fa50008232cc31bb86",
+      "target_baseline_sha": "2dcdc3bced029efa05b6dd0918d4f93d4d2a7058"
     },
     {
       "id": "T12",
       "source": "h01",
       "target": "jeoloji",
       "mk": "MK-001/MK-015",
-      "risk": "Komel relational whole does not establish abiogenesis mechanism"
+      "risk": "Komel relational whole does not establish abiogenesis mechanism",
+      "source_section": "§§3–4",
+      "target_section": "§§3–6; §9",
+      "transferable_claim": "distinguish Komel whole from specific chemical pathway",
+      "counterexample": "aggregation alone need not produce a self-replicating cell",
+      "evidence_status": "ANALOGY_ONLY",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "691ea95d550ad221bacc55fa50008232cc31bb86",
+      "target_baseline_sha": "d04a3b1a1a99d4f08526031ea2c6a86c929765b3"
     },
     {
       "id": "T13",
       "source": "h02",
       "target": "h05",
       "mk": "MK-002/MK-013",
-      "risk": "information processing is not automatically justified knowledge"
+      "risk": "information processing is not automatically justified knowledge",
+      "source_section": "§§2–3",
+      "target_section": "§§2,5; Ek E",
+      "transferable_claim": "separate cognitive processing from warranted proposition",
+      "counterexample": "a fast classifier can produce a false claim",
+      "evidence_status": "EVIDENCE_REVIEW_REQUIRED",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "f6976f89a73c2c56ede63387d305b8649baf1b51",
+      "target_baseline_sha": "a4ddd1360ce491215a9681aecf2ae89e50a3f3b0"
     },
     {
       "id": "T14",
       "source": "h03",
       "target": "insan",
       "mk": "MK-003/MK-015",
-      "risk": "historical interpretation and independent evidence must be separated"
+      "risk": "historical interpretation and independent evidence must be separated",
+      "source_section": "§§2–3",
+      "target_section": "§§3–8; §10",
+      "transferable_claim": "record primary evidence and interpretation separately",
+      "counterexample": "repeated secondary accounts are not independent sources",
+      "evidence_status": "EVIDENCE_REVIEW_REQUIRED",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "0a1d2ac3e68a3d59b7b22d5c3517f232ff4264e6",
+      "target_baseline_sha": "c27a9513cd8d46fddc07ab6fbe90469a34ed9c43"
     },
     {
       "id": "T15",
       "source": "h03",
       "target": "h04",
       "mk": "MK-003/MK-015",
-      "risk": "moral judgments are not inferred from empirical capacity alone"
+      "risk": "moral judgments are not inferred from empirical capacity alone",
+      "source_section": "§§2–3",
+      "target_section": "§2; Ek E",
+      "transferable_claim": "separate observable capacity from normative evaluation",
+      "counterexample": "ability to perform action does not make it morally justified",
+      "evidence_status": "EVIDENCE_REVIEW_REQUIRED",
+      "review_status": "PENDING_INDEPENDENT_RASTERAST",
+      "source_baseline_sha": "0a1d2ac3e68a3d59b7b22d5c3517f232ff4264e6",
+      "target_baseline_sha": "ba14ff2ece4a3af5b1cf35ca775ebecb709f2871"
     }
   ],
   "audit_reference": "01-kanonik-denetim/MK-013-015-BES-MAKALE-CIFT-YONLU-TUTARLILIK-DENETIMI-2026-10-23.md"
