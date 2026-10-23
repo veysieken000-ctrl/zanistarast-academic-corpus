@@ -171,3 +171,16 @@ Bu ek, kurucunun H02 Zanabûn için belirlediği bilgi tanımını ve iki ayrı 
 | **Ahlak** | İnsan: fıtrî ve iradeli; hayvan ve melekler: fıtrî | Teolojik varlık tasnifi, normatif ahlak ve gözlenebilir davranış farklı iddia türleriyle değerlendirilir | Kurucu ontolojik/teolojik çerçeve |
 
 **İz:** `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md` ve H02'nin 23 Ekim 2026 terminoloji güncellemesi. Bu ek H01 ve H04'ün henüz güncellenmediği gerçeğini değiştirmez.
+
+
+## Ek E — İddia-soyağacı için uygulanmış bağımsızlık karşı-modeli (23 Ekim 2026)
+
+**İncelenen iddia:** “İki farklı makalenin aynı önermeyi desteklemesi iki bağımsız kanıt sağlar.” Bu önerme, kaynakların ortak olması durumunda yanlıştır.
+
+**H02–H03 gerçek metin uygulaması:** Her iki makalede H01 kurucu metni ve aynı kurucu kanon gibi ortak kaynak ailelerine atıflar bulunur. Kaynakların iki kez anılması iki ayrı birincil veri seti üretmez. Bu gözlem, iki makalenin bütün yorumlarının bağımlı olduğunu veya önermelerinin yanlış olduğunu **kanıtlamaz**. Ayrıntılı atıf izi: `../01-kanonik-denetim/MK-016-H02-H03-GERCEK-KAYNAK-SOYAGACI-PILOTU-2026-10-23.md`.
+
+**İşlemsel karar:** Her P iddiası için `kaynak_kimliği`, `doğrudan_erişim`, `yorum_zinciri`, `yöntem`, `onaylayan`, `karşı_örnek` ve `belirsizlik` alanlarını ayrı tut. Aynı kaynak veya yöntem ortaklığı varsa `ORTAK_BAĞIMLILIK_İNCELEMESİ` üret; ortaklık görünmüyorsa bile “bağımsızlığı kanıtlandı” sonucunu üretme. H02'nin ikinci bilen onayı, bağımsız Rasterast'ın tamamlandığı anlamına gelmez.
+
+**Yanlış-pozitif sınırı:** Aynı veri üzerinde farklı yöntemlerle yürütülen iki analiz, bazı hata türlerini birbirinden bağımsız biçimde yakalayabilir. Dolayısıyla ortak veri tespitinden “ikinci değerlendirme değersizdir” sonucu da çıkarılamaz.
+
+**Kanıt durumu:** MK-016 pilotu ve dokümante edilmiş kaynak karşılaştırması, yöntemsel bir uygulamadır; bağımsız hakemlik, bilimsel üstünlük ve gerçek zaman tasarrufu ölçümü değildir. K0–K6 ve yayın kilidi sürer.
