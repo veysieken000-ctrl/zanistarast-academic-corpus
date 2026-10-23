@@ -39,3 +39,22 @@ Yöntem kavramsal analiz ve karşı-örnektir; bu taslak ampirik hukuk araştır
 ## Ek — Geçerlilik, etkililik ve meşruiyet karşı-modeli
 
 Bir kural usule uygun çıkarılmış ve geniş biçimde uygulanıyor olabilir; bu iki özellik kuralın adil veya ahlaken meşru olduğunu tek başına kanıtlamaz. Tersine ahlaken savunulan bir talep mevcut hukukta geçerli olmayabilir. Meşruiyet incelemesi hak, gerekçe, itiraz ve düzeltme ölçütlerini ayrıca gerektirir. Bu normatif analiz belirli bir ülke hukukuna ilişkin ampirik bulgu değildir.
+
+
+## Genişletilmiş öz ve özgün katkı
+
+Bu çalışma, hukuki geçerlilik, fiilî etkililik ve normatif meşruiyetin neden birbirinin yerine kullanılamayacağını inceler. Yöntem, üç kavramın gerekçe koşullarını karşılaştıran normatif kavram analizi ve usulüne uygun çıkarılıp etkili biçimde uygulanan fakat eşitlik veya haklar bakımından itiraz edilebilir bir kuralın düşünce deneyidir. Çalışma, meşruiyetin otomatik olarak hukuki geçerlilikten çıkmadığı dar sonucunu savunur; tek ve evrensel bir hukuk düzeni modeli kanıtladığını ileri sürmez. Zanistarast'ın Rabûn ve Rasterast kavramları, yetki gerekçesi ile denetimin birbirinden ayrılması bakımından tartışılır.
+
+**Anahtar sözcükler:** hukuk felsefesi; hukuki geçerlilik; meşruiyet; adalet; hesap verebilirlik; Rabûn; Rasterast.
+
+## Yöntem — Üç koşulun karşılaştırılması
+
+Analiz birimi tek bir hukuk normu hakkındaki iddiadır. Normun geçerliliği, uygulanma düzeyi ve muhataplarına sunulabilen normatif gerekçesi ayrı sorularla değerlendirilir. Düşünce deneyinde geçerlilik ve etkililik koşulları sabit tutulup eşitlik ve haklar bakımından gerekçe sorunu değiştirildiğinde meşruiyet hükmünün zorunlu olarak aynı kalıp kalmadığı sınanır. Bu yöntem, somut ülke mevzuatı incelemesi veya ampirik uyum ölçümü değildir.
+
+## Tartışma — Yetki ile gerekçe arasındaki köprü
+
+Yetkili bir organın kural koyması, kuralın hukuk düzeninde tanınmasını açıklayabilir; ancak bundan her uygulamanın adil olduğu sonucu çıkmaz. Buna karşılık ahlaken eleştirilen her kuralın hukuk düzeninde geçersiz olduğu da söylenemez. Kurumsal itiraz, gerekçeli karar, hakların korunması ve düzeltilebilirlik meşruiyet tartışmasına ek ölçütler sunar. Bu ölçütlerin birbiriyle çatıştığı durumlarda tek başına ontolojik Yek–Komel tasnifi belirli bir yasal hükmü seçmez.
+
+## Sonuç ve sınırlamalar
+
+A18'in dar katkısı, geçerlilik–etkililik–meşruiyet ayrımının Rabûn'daki yetki ve Rasterast denetimi tartışmasına uygulanmasıdır. Karşıt hukuk felsefesi literatürü, özgün DOCX izleri, karşılaştırmalı hukuk kapsamı ve bağımsız değerlendirme tamamlanmadan hedef dergiye hazır olduğu söylenemez.
