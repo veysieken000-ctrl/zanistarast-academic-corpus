@@ -22,3 +22,14 @@ Ehad Yek'tir; yaratılmış Yek değildir. Fiziksel kemal, boyutsal kapsama, biy
 ## Geçiş kapısı
 
 Her aday için sırasıyla: (1) mevcut dosya ve SHA, (2) bağımsız araştırma sorusu, (3) özgün katkı ve kopya denetimi, (4) karşı-model, (5) yöntem/veri, (6) K0–K6. Bu dört hat henüz numaralandırılmış, tamamlanmış L2 makaleleri değildir. Birinci katmanda L1-A22 kaynak izi, dış literatür, uygulama ve bağımsız Rasterast açık kalır.
+
+
+## L2-K01 — Merkez ve çevre ön çalışmalarının yöntem eşlemesi
+
+**Özgün kaynak izleri:** `ZANISTARAST-TEORILER/theories/07_NEWROZA_KAWA_CIVILIZATION_THEORY/09_CENTER_LAW.md` (`0934b506`) ve `ZANİSTARAST-AXIOM/04_AXIOM_LIMITS_AND_FAILURE_CONDITIONS.md` (`16a9bcaa`). İlk metin merkez/denge ilişkisini; ikincisi aşırı merkezileşme, geri bildirim kaybı ve sahte istikrar olasılıklarını daha önce işlemiştir. Bunlar yeni keşif olarak sunulmaz.
+
+**Ayırıcı L2 sorusu:** Geri bildirim açıklığı azaldığında, benzer kurumlarda hatanın ilk uyarıdan doğrulanmış düzeltmeye kadar geçen süresi artar mı? Ölçümler: uyarı ve düzeltme zaman damgaları; itirazların kayda geçme oranı; karar yetkisi yoğunluğu; bağımsız denetçi erişimi. Hata türü ve kurum ölçeği kontrol edilmelidir.
+
+**Karşı-örnekler:** Çok merkezli ama koordinasyonsuz bir kurumda hata düzeltmesi gecikebilir. Merkezi karar alan ama itiraz ve bağımsız denetime açık bir kurum hızlı düzeltme sağlayabilir. Bu iki durum, merkezileşmenin tek başına sonuç belirlediği iddiasını sınırlar.
+
+**Katman ayrımı:** L1-A22 rol, bilgi, yetki, kontrol ve sorumluluk atfını inceler; L2-K01 ise kurumsal geri bildirim ve hata düzeltme sürecini karşılaştırır. L2-K01 araştırma adayıdır; bağımsız veri, literatür, benzerlik taraması ve Rasterast tamamlanmadan bitmiş makale sayılmaz.
