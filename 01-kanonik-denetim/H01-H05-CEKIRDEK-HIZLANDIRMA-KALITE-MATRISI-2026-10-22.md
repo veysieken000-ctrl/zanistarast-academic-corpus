@@ -2,6 +2,31 @@
 
 **Tarih:** 22 Ekim 2026. **Kapsam:** GitHub'daki beş çekirdek makalenin gerçek metinlerinden yapılan ilk yapısal tarama. **Statü:** Açık kalite kapısı; yayıma hazır değil. Bu kayıt 412 makale sayısına eklenmez.
 
+## 24 Ekim 2026 — H01 güncel inceleme tabanı ve kalan kararlar
+
+**Metin tabanı:** `7f8109ad8a98fe5ed46e6670d0d4fd7eaee3fb2a`. Sonraki H01 değişikliğinde inceleme kapsamı yeni commit'e bağlanır. Bu bölüm aşağıdaki 22 Ekim ölçüm ve açık işlerinin H01 için tarihsel kayıt olduğunu belirginleştirir; H02–H05 için yeni kapanış vermez.
+
+H01'in düzenlenmiş ana metni [buradadır](../02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md); önceki tam kaynak ve sav dökümü [ayrı ekte](H01-KAYNAK-VE-DENETIM-EKLERI-2026-10-24.md) korunur. Ana argümanın kaynakları ile ekte korunan, bilimsel dayanak yapılmayan tarihsel savlar ayrı değerlendirilir.
+
+| İç işlem | Güncel kayıt |
+|---|---|
+| Kaynak kapsamı | Varlık P1–195, Akıl P1–177 ilk sıralı eşlemesi mevcut; başlıklar dahil 372 kayıt. Tam atomik doğrulama değildir. |
+| Kurucu kavramlar | Güncel Ehad–Yek, muhatap varlık/Lêket, kapsama, kemal–açılım ve üç fıtrat/ahlak işlevi ana metinde. |
+| Bilimsel örnekler | Kullanılan dar fizik/biyoloji önermeleri ilgili kaynaklara bağlandı; tarihsel hatalar güncel öncül yapılmadı. |
+| Editoryal yapı | Öz, yöntem, 11 ana bölüm, sonuç, güncel kaynakça ve kaynak eki ayrıldı. Ana metin/ek göndermeleri gözden geçirildi. |
+| Sonucun dayanakları | H01 §10'da temel sonuçlar kaynak/çıkarım ve sınırlarıyla tek tabloda eşlendi. |
+| Bağımsız değerlendirme | Yapılmadı. İç düzenleme ve kaynak eşlemesi bağımsız onay değildir. |
+
+### Bağımsız incelemede cevaplanacak üç somut soru
+
+1. §§4–6'da önerilen birim–ilişki–süreklilik–örgütlenme ölçütü, yalnız birliktelikle ilişkisel bütünü ayırmaya yeterli mi? Yetersiz örnek için ölçütün değişmesi veya uygulamanın daraltılması gerekir.
+2. §10B'de kurucu kabul ile akademik yeniden kuruluş yeterince ayrılmış mı? Rakip açıklamalara üstünlük veya zorunlu sonuç, kaynakların desteklediğinden fazla ileri sürülüyor mu?
+3. §§8–9'da kapsama, kemal ve sorumluluk ilişkisi açık mı? Ontolojik yorumdan kronoloji, biyolojik mekanizma veya koşulsuz normatif sonuç çıkarılıyor mu?
+
+İnceleme kaydı; **incelenen commit, denetçi/bağımsızlık, ilgili önerme, gerekçe ve kaynak, karşı-örnek, karar, yazar yanıtı ve kalan itiraz** alanlarıyla doldurulmalıdır. Bunlar şu anda verilmiş kararlar değildir. Dış kişiye mesaj gönderilmedi; bir inceleyicinin görevi kabul ettiği veya Mira/Rasterast'ın çalıştırıldığı iddia edilmez.
+
+**Durum:** H01'in editoryal bütünleştirmesi tamam; bütün tarihsel atomik savlar ve K0–K6 topluca geçti sayılmaz. Özellikle bağımsız değerlendirme ve nihai karar açık olduğundan 04 kapanmadı. Tamamlanmış paragraf dökümü veya tanım düzeltmeleri bu gerekçeyle tekrar başlatılmaz.
+
 ## Güncel sonuç: yerleşik tanımlar düzeltildi, metin tekrarları azaltıldı
 **22 Ekim 2026. Taban:** d3239abfba6fb9169a2e9650b896b9e2e7d4d83c. Kurucunun son talimatı uygulandı: yerleşik bilimsel tanımdaki maddi hata düzeltilir ve doğru bilgi ana metne yazılır; sırf eski kurucu metinde farklı yazıldığı için yeni bir ontolojik ihtilaf veya açık araştırma konusu oluşturulmaz. Kanonik kurucu kavramlarda güncel kanon esastır; yalnız gerçek anlam belirsizliği veya karar çatışması kurucuya sorulur.
 
