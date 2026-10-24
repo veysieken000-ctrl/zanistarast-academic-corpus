@@ -4,13 +4,13 @@
 
 ## Öz
 
-Bu çalışma Zanistarast'ın varlık tarihi yaklaşımını boyutsal açılım, kemal, kapsama ve süreklilik ilişkileri üzerinden yeniden kurar. Temel soru, ontolojik düzeyler arasındaki ilişkinin fiziksel kronoloji, oluşum mekanizması ve insanın tarihsel tanıklığıyla karıştırılmadan nasıl açıklanabileceğidir. Özgün Boyutsal Açılım Teorisi, Birleşik Alan başlıklı sentez, jeolojik geçiş ve zaman yazıları; güncel Hebûn, Zanabûn, Rasterast, H04 ve H05 ile karşılaştırılır. Üst düzeyin altı kapsaması, altın tarihsel olarak ortadan kalkmasını gerektirmez. Hazırlayıcı ortam ile sonucun yeterli nedeni, olayın gerçekleşmesi ile olay hakkındaki kayıt, işlevsel olgunluk ile üst düzeyin zorunlu doğuşu ayrı tutulur. Çalışmanın katkısı, boyutsal tarih tezini kaynak, mekanizma, kronoloji ve yorum sorularına ayıran; yeni araştırmalara devredilebilir bir geçiş inceleme yöntemi önermesidir. Altı boyutun deneysel ispatı, yaşamın kökeninin çözümü veya bütün doğa ve toplum tarihinin tek yasa altında açıklanması ileri sürülmez.
+Bu çalışma varlık tarihini Hebûn–Zanabûn'un yaratılış ve devam düzeni, merkez–çevre ilişkileri ve insanın iradeli hükmü üzerinden inceler. Kur'an merkezli yaklaşımda insanın en üst ahlaki düzeyi iradeli ahlaktır; bu kapasite yaratılış düzeninden bağımsız veya ilahî hükme eşit değildir. İnsan tercihlerinin ilahî ölçüyle uyumu yahut çatışması; çevresel bozulma, toplumsal şiddet, musibet, ibret ve hesap ilişkisi içinde araştırılır. Kur'an, hadis ve Risale-i Nur kaynakları ontolojik ve ahlaki anlamı temellendirirken fiziksel mekanizma, kronoloji ve tarihsel kanıt kendi yöntemleriyle incelenir. Boyutsal açılım, hazırlayıcı koşul ve üst işlev ayrımları bu bütünlükte ele alınır. Çalışma, maddi sebepler ile yaratılışın anlamını birlikte düşünen kaynaklı bir felsefi-bilimsel sentez önerir; belirli bir felaketin mağdurlarının suçluluğu veya tek bir gaybî sebebi hakkında kesin hüküm kurmaz.
 
 **Anahtar sözcükler:** varlık tarihi, boyutsal açılım, kemal, kapsama, süreklilik, tanıklık, Hebûn.
 
 ## 1. Araştırma sorusu ve kaynak yöntemi
 
-**Soru:** Varlığın boyutsal açılımı hangi kurucu öncüllere dayanır; bir düzeyden diğerine geçişin açıklaması hangi ek mekanizma, kronoloji ve kanıtı gerektirir?
+**Soru:** Hebûn–Zanabûn'un yaratılış ve düzenli devam anlayışı, merkez–çevre ve insanın iradeli hükmüyle nasıl birleşir; bu hükmün ilahî ölçüyle uyumu veya çatışmasının tarihsel sonuçları hangi kaynak ve mekanizmalarla incelenir?
 
 Varlık tarihi yalnız insan olaylarının kaydı olarak tanımlanmaz. Kurucu yaklaşım, tekilliklerin ve ilişkisel bütünlerin farklı varlık alanlarında kuruluşunu ve devamını birlikte düşünür. Bununla birlikte bu geniş kapsam, bütün bilimlerin sonuçlarını tek araştırmada yeniden üretmek anlamına gelmez.
 
@@ -82,6 +82,18 @@ Kurucu **kemal ve açılım**, alt düzeyin işlevsel olgunluğunun daha kapsay�
 “Biyoloji zihin kapsamında, zihin ruh kapsamında” ifadesi ontolojik kapsama tezidir; zihnin biyolojiden önce tarihsel olarak bulunduğu çıkarımına dönüştürülmez. Ast–üst kapsama, merkez–çevre örgütlenme ilişkisidir. Yerel bir merkez her zaman üst boyut değildir; ontolojik kapsama siyasal sınırsız yetki üretmez.
 
 Rakip açıklama, her disiplinin kendi mekanizmalarının yeterli olduğu ve ek kapsama ilkesinin açıklama sağlamadığıdır. Bu makale buna karşı ilişki ve düzey sorularını birlikte izleme yararını savunur. Ancak bir uygulama yeni gerekçe, ayırıcı ölçüt veya sınanabilir sonuç sağlayamıyorsa onun açıklama gücü sınırlı kalır. Sırf “üst” sözcüğünü eklemek üstün açıklama sayılmaz.
+
+## 4.2. Yaratılış düzeni, merkez–çevre ve insanın hükmü
+
+Bu araştırmanın kurucu merkezi, yalnız alanlar arası sınıflama değil, **Ehad'ın yarattığı ve idame ettirdiği düzen içinde insanın nasıl hüküm verdiği** sorusudur. Hebûn yaratılmış Yeklerin ve Komel'in ontolojik temelini; Zanabûn kuruluş, bilme ve düzenli devam ilişkisini birlikte düşünmeye imkân verir. Merkez–çevre, varlıkların ilişki ve sürekliliğini araştıran ilkedir. Ehad fiziksel bir merkez noktası veya çevre tarafından yönetilen bir sistem bileşeni değildir.
+
+İnsanda önceki imkânları kapsayan en üst ahlaki düzey **iradeli ahlaktır**. Burada insan bilgi, niyet ve tercihle kendi hükmünü verir. İnsan hükmü ilahî hükümle eşit değildir: insan, yaratılış kanunlarını hükümsüz kılamaz; fakat ilahî emir ve ahlaki ölçülere aykırı tercih yapabilir. Bu nedenle “çatışma”, iki eşit kudretin mücadelesi değil, yaratılmış iradenin kendisini taşıyan düzen ve yükümlülükle uyumsuzluğudur [İS1–İS3].
+
+Kur'an'ın Rûm 30:41'de insan eylemleriyle yeryüzündeki bozulmayı ilişkilendirmesi, varlık tarihini sorumluluktan bağımsız okumamayı gerektirir. En'âm 6:65'te insanların birbirinin şiddetini tatması da ilahî kudret ve toplumsal sonuç ufkunda ele alınır. Bu makalenin Zanistarast sentezi şudur: **yaratılmış düzen → insanın bilgisi ve iradeli hükmü → uyum veya ihlal → ilişkisel sonuç → ibret, dönüş ve hesap**. Bu oklar aynı tür fiziksel nedensellik değil, ontolojik, ahlaki ve tarihsel ilişkileri birlikte gösterir.
+
+Buhârî 2493'teki gemi temsili, ortak hayata zarar veren tercihin başkalarını da etkilediğini anlatır [İS4]. Zanistarast bunu merkez–çevre ilişkisinde koruma ve müdahale sorumluluğuyla birlikte okur.
+
+Böylece afet, savaş ve çözülme yalnız dış olaylar olarak bırakılmaz; insanın zulmü, ihmali, kaynak kullanımı ve merkez–çevre sorumluluğu da araştırılır. Şûrâ 42:30–31 insanın yapıp ettiklerinin sonuçlarını ve ilahî kudreti aşamayışını hatırlatır. Bununla birlikte Bakara 2:155–157 imtihanı, Enfâl 8:25 ise zararın yalnız failde kalmayabileceğini gösterir [İS1–İS2]. Olayın yayılması ile her zarar görenin ahlaki kusuru aynı hüküm değildir.
 
 ## 5. Hazırlayıcı ortamdan yeni işleve geçiş
 
@@ -174,6 +186,8 @@ Ortak şemanın araştırma değeri, farklı alanlarda hangi ilişkinin gerçekt
 
 ## 11. Sonuç
 
+Varlık Tarihi'nin merkezinde Ehad'ın yaratılış düzeni ve bu düzen içindeki sorumlu insan bulunur. Hebûn–Zanabûn ile merkez–çevre ilişkisi, iradeli ahlakı fiziksel ve toplumsal sonuçlardan koparmadan ele alır. İlâhî emre aykırı insan hükmünün bozulma ve çatışmayla ilişkisi Kur'anî anlam çerçevesinde araştırılır; musibetin imtihan yönü ve masumların durumu da korunur. Böylece bilimsel mekanizma araştırması yaratılışın anlamını dışlayan son açıklama olarak kullanılmaz.
+
 Varlık Tarihi, tekillik, süreklilik ve daha kapsayıcı işlevler arasındaki ilişkiyi kurucu ontoloji içinde araştırır. Altı boyut ve evreleri ortak çerçeve sağlar; tarih, mekanizma ve kanıtın yerine geçmez.
 
 Kemal ve açılım, alt düzeyin taşıyıcı koşullarıyla üst işlevin ilişkisi olarak korunur. Hazırlayıcı koşul yeterli nedene, gözlem yokluğu yokluğun kanıtına veya olayın sonradan anlamlandırılması olayın amacına dönüştürülmez. Zamanın fiziksel ölçümü ile sorumlu tarih anlatısı ayrı tutulur.
@@ -203,6 +217,17 @@ Katkı, bu geçişleri birim, koşul, işlev, mekanizma, kronoloji, alternatif a
 **[D2]** International Commission on Stratigraphy. *International Chronostratigraphic Chart*, v2026/06. https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf . Kurumun güncelleme duyurusu: https://stratigraphy.org/news/156 . 24 Ekim'de resmî indeks, sürüm ve birim açıklaması doğrulandı; çizelgenin bütün sınır yaşları yeniden incelenmedi. Genel sayfa doğrudan okunabilir gövde döndürmedi. Kullanım: jeolojik sınıflama ile ontolojik boyutun ayrımı.
 
 **[D3]** Smithsonian National Museum of Natural History. *Human Evolution Evidence*. https://humanorigins.si.edu/evidence . 24 Ekim 2026'da fosil, davranış izi, genetik ve tarihleme kanıtlarını ayıran kurum sayfası doğrudan okundu; bütün bağlı araştırmalar okunmuş sayılmadı.
+
+
+### Kur'an, hadis ve Risale-i Nur dayanakları — 24 Ekim yeniden incelemesi
+
+**[İS1]** Diyanet, Kur'an Yolu: Rûm 30:41, [meal/tefsir kaydı](https://kuran.diyanet.gov.tr/mushaf/kuran-tefsir-1/rum-suresi-30/ayet-33/kuran-yolu-meali-5); Şûrâ 42:30–31, [meal ve tefsir](https://kuran.diyanet.gov.tr/kuran?ayet=30&mode=tefsir&sure=42); En'âm 6:65, [meal/tefsir kaydı](https://kuran.diyanet.gov.tr/mushaf/tefsir-2/enam-suresi-6/ayet-61/diyanet-isleri-baskanligi-meali-1). Mushaf sayfasının bağlantı ayeti ile içerikte incelenen ayet farklı olabildiğinden burada kullanılan ayet numarası açık yazıldı. İndekslenmiş resmî meal/tefsir pasajları okundu; yorumlar ayetin lafzıyla özdeşleştirilmedi.
+
+**[İS2]** Diyanet, [Enfâl 8:25](https://kuran.diyanet.gov.tr/tefsir/Enf%C3%A2l-suresi/1185/25-ayet-tefsiri) ve [Bakara 2:155–157](https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/162/155-157-ayet-tefsiri). Resmî indeks pasajları incelendi; Bakara doğrudan sayfası okunabilir gövde döndürmedi. Kullanım: toplumsal sonuç ve imtihanı birlikte ele almak.
+
+**[İS3]** Said Nursî, *Sözler*, On Dördüncü Söz'ün Zeyli; külliyatın [s.159](https://kulliyat.risaleinurenstitusu.org/sozler/on-dorduncu-soz/159), dördüncü/beşinci sual ve [s.160](https://kulliyat.risaleinurenstitusu.org/sozler/on-dorduncu-soz/160), maddi sebepler–ilahî irade pasajları doğrudan okundu. Bunlar tefsirî/teolojik yorumdur; güncel jeoloji ölçümü veya Kur'an'ın doğrudan lafzı değildir. Sayfalar bu dijital basıma aittir.
+
+**[İS4]** *Sahîh-i Buhârî*, Fiten, [7059](https://sunnah.com/bukhari:7059), Zeyneb bint Cahş rivayeti; Şirket, [2493](https://sunnah.com/bukhari:2493), Nu'mân b. Beşîr rivayeti. Arapça metin, İngilizce aktarım ve koleksiyon kaydı doğrudan karşılaştırıldı; burada Türkçe özet verilir. Numaralar bu dijital düzenindir. Yeni isnad tahkiki yapılmış veya bütün hadis külliyatı incelenmiş sayılmaz.
 
 ## Tarihsel iz ve kapsam
 
