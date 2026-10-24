@@ -1,6 +1,6 @@
 # Zanabûn — Varlık, Bilgi, Tanıklık ve Ahlaki Sorumluluk
 
-**H02-A04 | Türkçe v02 | 24 Ekim 2026 | Depolar arası kaynak sentezi**
+**H02-A04 | Türkçe v02 | 24 Ekim 2026 | Depolar arası kaynak sentezi — iç metin bütünlüğü tamamlandı**
 
 ## Öz
 
@@ -84,7 +84,7 @@ Her onayın doğruluğunu sonsuz sayıda yeni kişinin onayına bağlamak yerine
 
 Core 03, Core 05 ve Hebûname Cilt 2, bilgiyi öz, duygu, zekâ ve akılla birlikte ele alır [K1, K3]. Güncel modelde fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında kapsanır. Öz, duygu ve akıl kopuk bağımsız parçalar değil, bu yapının ilişkili anlamlarıdır. Fıtrî ahlak bu oluşum ve işleyiş düzenini; iradeli ahlak insanın bilgi, niyet ve seçimle yönlendirdiği sorumluluk alanını anlatır [K5].
 
-**Zekâ**, mevcut bilgi, bellek ve seçenekler içinde karşılaştırma ve çözüm üretme; **akıl**, bilinenlerden yeni bilgi çıkarma, gerektiğinde sorunun çerçevesini ve varsayımlarını yeniden inceleme kapasitesi olarak kullanılır. Bu kurucu ayrım, bütün psikoloji literatürünün aynı terimleri böyle tanımladığı iddiası değildir. İnsanda aklın gelişmesi zekâyı ortadan kaldırmaz. Hayvanların öğrenme, bellek ve duyguları da reddedilmez.
+**Zekâ**, mevcut bilgi, bellek ve seçenekler içinde karşılaştırma ve çözüm üretme; **akıl**, insanda bilinenlerden yeni bilgi çıkarma, gerektiğinde sorunun çerçevesini ve varsayımlarını yeniden inceleme kapasitesi olarak kullanılır. Bu kurucu ayrım, bütün psikoloji literatürünün aynı terimleri böyle tanımladığı iddiası değildir. İnsanda aklın gelişmesi zekâyı ortadan kaldırmaz. Hayvanların öğrenme, bellek ve duyguları da reddedilmez.
 
 Depodaki küvet örneğinde sunulan bardak, maşrapa ve kovayı karşılaştırmak bir çözüm yoludur; tıpanın bulunup bulunmadığını sorgulamak problemin çerçevesini değiştirir [K9]. Bu açıklayıcı örnek bir psikometrik deney değildir. Daha etkili çözüm keşfetmek ahlaki iyiliği de garanti etmez: aynı kapasite zarar verme amacıyla kullanılabilir.
 
@@ -185,6 +185,16 @@ Hebûn'la uyum, Zanistarast içi tutarlılık sorusudur; dış dünyadaki doğru
 
 Önerilen ampirik çalışma, aynı iddialarda tek değerlendirme, ortak kaynaklı değerlendirme ve farklı kanıt kanallarıyla değerlendirmeyi karşılaştırabilir. Ölçüt yalnız uyuşma değil, önceden tanımlanmış hataları saptama, yanlış alarm ve gerekçelendirme başarısıdır. Referans ölçütün de bağımlılığı ve belirsizliği incelenir. **Bu sentezde yeni saha deneyi yapılmadı.** Önceki dosyaların sentetik hesapları gerçek gözlem sonucu diye devralınmaz.
 
+### 9.1. Bir ölçüm iddiasının bütün süreçte izlenmesi
+
+Aşağıdaki örnek, ayrı ayrı açıklanan aşamaların birlikte nasıl işlediğini gösteren **kurgusal uygulamadır**. Yeni bir deney sonucu değildir. Bir çubuğun uzunluğu hakkında “120 mm” iddiası, bir ölçüm kaydı ve bu kaydın yorumuyla oluşturulmuş olsun.
+
+**İlişki ve iddia:** Çubuk, ölçme düzeni ve araştırmacı aynı varlık değildir. İlgili fiziksel ilişki ve kayıtta meydana gelen fark Lêket kapsamında ele alınabilir; mekanizma ayrıca tanımlanır. Çubuğun var olması, kaydın oluşması ve “uzunluğu 120 mm'dir” önermesinin kurulması farklı aşamalardır. Araştırmacı iddiasının hangi uç noktaları, yöntemi, koşulları ve belirsizliği kapsadığını belirtir. Bu ek bilgiler olmadan tek sayı, bütün araştırma sorusunu cevaplamaz.
+
+**Gerekçe ve değerlendirme:** Bir başka rapor aynı fotoğrafı okuyorsa ilk okumayı kontrol edebilir; fakat yeni bir fiziksel ölçüm yapmış olmaz. Ayrı bir araçla ölçüm de ortak yanlış kalibrasyona dayanabilir. Bu yüzden değerlendirme, aynı sayının tekrarından önce kaynak ve yöntem ilişkisini inceler. İtiraz, örneğin fotoğraftaki birim veya başlangıç noktasına yönelmişse, iddia bu somut gerekçeyle düzeltilir. Her uyuşmazlık ilk iddianın yanlış olduğunu göstermez; farkın nedenleri araştırılır.
+
+**Seçim, ahlak ve hafıza:** Bu ölçüm bir üretim kararında kullanılacaksa sonuç, amaca uygun hassasiyet ve kabul ölçütüyle birlikte değerlendirilir. Belirsizliği saklayıp işlemi başlatmakla, açıklayıp yeniden ölçüm istemek aynı sorumlu tercih değildir. Düzeltme gerektiğinde eski kayıt silinmez; yeni kayıt hangi gerekçeyle onun yerini aldığını belirtir. Sonraki araştırma bu kaynak ve düzeltme izini devralır. Böylece ontolojik ilişki, bilgi iddiası, gerekçeli değerlendirme, sorumlu kullanım ve birikimli öğrenme tek süreçte bağlanır.
+
 ## 10. Çekirdekten uygulamaya aktarım
 
 **Hebûn** muhatap varlığın ve ilişkinin ontolojik temelini verir. **Zanabûn** bu ilişki hakkındaki bilgi iddiasını, gerekçesini ve statüsünü çözümler. **Rasterast** kaynak, çıkarım, karşı-örnek ve düzeltme zincirini denetler; araştırmanın yalnız sonunda işleyen tek bir kontrol olarak daraltılmaz.
@@ -193,7 +203,7 @@ Hebûn'la uyum, Zanistarast içi tutarlılık sorusudur; dış dünyadaki doğru
 
 **Rabûn** için gerekçeli karar, itiraz ve hesap verebilirlik; **Mabûn** için kaynak, değer, dolaşım ve dağıtım hakkındaki iddiaların güvenilirliği araştırma girdileridir. Eski biçimsel yazılardaki “Mabûn yalnız hafızadır” tanımı güncel ekonomi/akış alanının yerine geçirilmez [K9]. **Eğitim** için hazır sonucu ezberletmek yanında gerekçeye ulaşma yolunu öğretmek; **yapay zekâ** için kaynağı görülebilen öneri üretimi ve doğrulama araçları söz konusudur. Bunlar bu metinle başarısı ölçülmüş uygulamalar değildir.
 
-Her yeni makaleye aktarılacak birikim kısa ve yeniden kullanılabilir olmalıdır: **soru → tanım/öncül → kaynak → çıkarım → karşı-örnek → kapsamlılığı sınırlanmış sonuç → sonraki kullanım**. İlgili alanın yeni kanıt yükü bu kayıttan çıkarılmaz; aynı temel gerekçenin tekrar kurulması önlenir.
+Her yeni makaleye aktarılacak birikim kısa ve yeniden kullanılabilir olmalıdır: **soru → tanım/öncül → kaynak → çıkarım → karşı-örnek → kapsamı belirtilmiş sonuç → sonraki kullanım**. İlgili alanın yeni kanıt yükü bu kayıttan çıkarılmaz; aynı temel gerekçenin tekrar kurulması önlenir.
 
 ## 11. Sonuç
 
