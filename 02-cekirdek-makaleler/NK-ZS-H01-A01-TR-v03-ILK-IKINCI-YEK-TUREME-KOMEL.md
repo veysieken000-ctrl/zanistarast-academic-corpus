@@ -185,7 +185,7 @@ Bu bölüm, mevcut kurucu savı değiştirmeden **öncül → çıkarım → sı
 
 **Mantıksal karşı-model:** İki ayrı nesnenin yan yana gelmesi bir küme oluşturabilir; ancak bu, kümenin zorunlu olarak yeni bir kimyasal bileşik, canlı veya bilen özne olacağı anlamına gelmez. Dolayısıyla `ilişki(A,B) ⇒ her alanda aynı mekanizmayla C` geçerli genel bir çıkarım değildir. Bilimsel mekanizma, her alanda bağımsız kanıt gerektirir.
 
-**H02/H03'e aktarım sınırı:** Buradaki ikinci Yek *ontolojik* rol; H02'deki ikinci bilen *epistemolojik* rol; H03'teki ikinci denetim ise *kanıt değerlendirme* rolüdür. Bunlar birbirinin yerine geçirilmez. Aynı kaynağa dayanan iki onay bağımsız kanıt sayılmaz (MK-016/MK-020). Bu ayrım sonraki metin düzeltmelerinde korunacaktır.
+**H02/H03'e aktarım sınırı:** Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında *ontolojik ikinci bilen* konumundadır. H01'deki *ikinci Yek* ise türeme dizisinin ontolojik tekilliğidir. H02'deki *epistemolojik ikinci bilen* bilgi sonucunu değerlendirir; H03'teki ikinci denetim *kanıt değerlendirme* işlevidir. Bu kavramlar özdeş değildir. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. Bunlar birbirinin yerine geçirilmez. Aynı kaynağa dayanan iki onay bağımsız kanıt sayılmaz (MK-016/MK-020). Bu ayrım sonraki metin düzeltmelerinde korunacaktır.
 
 **Tamamlanma kapısı:** Bu ek, H01'in kavramsal sınırlarını somutlaştırır; dış bilimsel literatür, K0–K6, bağımsız Rasterast ve kurucu onayı tamamlanmış sayılmaz. Makalenin yayın kilidi sürer.
 
