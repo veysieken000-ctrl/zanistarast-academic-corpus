@@ -194,3 +194,17 @@ Ana metin commit'i: `d6a13fbd7110e346d48fc384386f87a79bd7f652`.
 | Biyolojik izde çevre, alternatif, tespit sınırı ayrı; §6 | Gözlem yokluğu kesin yokluğa, sinyal varlığı tek kaynağa eşitlenmez. |
 
 Önerilen kayıt, koşul/mekanizma/ürün kontrolünü kaynak sürümü ve dar sonuçla birleştirir. Bu çalışma kazanımı için hızlanma yüzdesi ölçülmedi. Mevcut terimler yeterli olduğu için yeni Kurmancî ad üretilmedi.
+
+
+## 24 Ekim 2026 — İnsan Tarihi gerekçe devri
+
+Ana metin commit'i: `32de37c3d01bbf0e80e721c6dc1f3e193d81c1cd`.
+
+| Hazır ayrım | Sonraki kullanım |
+|---|---|
+| Tür tarihi, davranış, aktarım, kurum ve iradeli sorumluluk ayrı; §§3–6 | Ortak çekirdek denetiminde tek bir başlangıç tarihi bütün düzeylere yüklenmez. |
+| Doğrudan ölçülen nesne ile bağlamsal ilişki ayrı; §4 | Tarihleme sonucu fosil sınıflandırması veya ahlaki niyet ölçümü sayılmaz. |
+| Ortak faaliyet ile adil kurum ayrı; §§6–8 | Komel, Rabûn ve Mabûn uygulamalarında yetki, erişim, itiraz ve etkilenenler belirtilir. |
+| Tarihsel iz, yorum ve amaç ayrı; §§7–9 | Ahlaki dönemleme kendi başına çözülmenin nedeni yapılmaz; alternatif açıklama korunur. |
+
+Yeniden kullanılabilir tarih kaydı: birim/dönem, kaynak/sürüm, doğrudan iz, yorum köprüsü, bilgi/yetki, normatif ölçüt, alternatif ve dar sonuç. Yeni saha veya karşılaştırmalı performans ölçümü yapılmadı; hızlanma yüzdesi yoktur. Mevcut kavramlar yeterli olduğundan yeni Kurmancî terim üretilmedi.
