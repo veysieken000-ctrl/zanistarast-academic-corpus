@@ -106,6 +106,12 @@ Bu bilimsel açıklamalar H01'in fiziksel karşılaştırmasını belirler: hidr
 
 Özgün metinlerdeki kara delik–karanlık madde–Higgs özdeşleştirmeleri bu makalede bilimsel dayanak olarak kullanılmaz; bunlara bağlı ontolojik sonuç kurulmaz.
 
+### 5B. Özgün fizik tasnifinin korunması ve kullanılmayan çıkarımlar
+
+Özgün Varlık metni P32–37'de fizik boyutunu atom ve yıldız–gezegen evreleriyle kurar; P55 ve P61'de alt birimlerden üst örgütlenme oluşmasını tartışır. Bu ilişkisel örgütlenme sorusu §§4–6'da korunur. Bununla birlikte P59'un galaksi çokluğundan biyoloji boyutunun zorunluluğuna, P61'in fiziksel çöküşün önlenmesinden biyolojik zamana geçişi bu makalenin bilimsel sonucu değildir. Birden fazla galaksinin bulunması öncülü, biyolojinin kozmik genişlemenin nedeni olduğu sonucunu tek başına gerektirmez. Bu, çıkarımın kapsamına ilişkin akademik değerlendirmedir; burada yeni kozmoloji modeli kurulmaz.
+
+P49'daki **yokluk**, mutlak hiçlik yerine bir düzenin alt düzene geçişi anlamında kullanılır. Bu tarihsel anlam, fiziksel boşluk veya karanlık maddenin bilimsel tanımıyla eşitlenmez. P41–59'daki karanlık madde, atom altı parçacık, Higgs ve kozmik genişleme savlarının ayrıntıları Ek G'de ayrı araştırma kayıtları olarak korunur. Bu savlara dayanılarak Hebûn'un doğrulandığı ileri sürülmez. “Bilim çıkmaza girmiştir” veya “uzayın sınırına ulaşılmıştır” şeklindeki P8 değerlendirmeleri de bu makalenin kaynaklandırılmış bilim tarihi sonuçları olarak benimsenmez. Özgün araştırma amacı korunur; bütün bilimler hakkında sonuç ilan edilmez.
+
 ## 6. Biyoloji: ilk hücre, ikinci hücre ve çok hücreli Komel
 
 Birinci biyoloji evresi **tek hücreliler**, ikinci evre **çok hücreliler**dir. Bunlar “eşeysiz/eşeyli” üreme sınıflandırmasıyla değiştirilmez.
@@ -344,7 +350,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 
 | Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
 |---|---|---|
-| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
+| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–61 için ilk içerik–işlem eşlemesi Ek G'de yapıldı; kalan Varlık P62–195 ve Akıl P1–177 açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
@@ -405,3 +411,56 @@ Ratcliff ve arkadaşlarının 2012 tarihli deneyinde maya kümelerinin önceden 
 **Kaynak denetim kararı:** 2012 birincil makalenin açık tam metnindeki yöntem ve sonuç bölümleri ile 2015 takip çalışmasının açık özeti karşılaştırıldı. Bu kaynaklardan Ehad–Yek önermesinin deneysel olarak doğrulandığı sonucu çıkmaz. 2015 çalışmasının tam yöntem ve ek verileri bu turda yeniden analiz edilmedi. K0–K6 açık kalır.
 
 **Kaynaklar:** Ratcliff, W. C. ve ark. (2012), *Experimental evolution of multicellularity*, PNAS, DOI: 10.1073/pnas.1115323109, https://pmc.ncbi.nlm.nih.gov/articles/PMC3277146/ . Ratcliff, W. C. ve ark. (2015), *Origins of multicellular evolvability in snowflake yeast*, Nature Communications, DOI: 10.1038/ncomms7102, https://pmc.ncbi.nlm.nih.gov/articles/PMC4309424/ .
+
+## Ek G — H01-01 kaynak aktarım dökümü: Varlık P1–61
+
+Bu ilk sıralı döküm, *Varlık Sistemi ve Boyutları* dosyasının P1–61 aralığını kapsar. Kaynak kimliği `1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d`; numaralandırma §4C'deki 24 Ekim düz metin sırasıdır. **A**: mevcut H01'e kavramsal aktarım; **D**: tarihsel sav korunarak bilimsel dayanak dışında tutma; **R**: gerekçeli açık araştırma kaydı; **B**: başlık/künye/anahtar sözcük. Bir satırda birden fazla durum bulunabilir. D, savın silindiği veya ayrıntılı bilimsel çürütmenin tamamlandığı anlamına gelmez. H04/hedef anılması gerçek dosya güncellemesi değildir.
+
+| Paragraf | Ayrılan savlar / içerik | İşlem ve iz |
+|---|---|---|
+| P1–5 | Türkçe/İngilizce başlık, yazar, özet ve giriş etiketleri | B; kurucu sav yok. |
+| P6 | Varlıkların niteliği, boyutsal farkı ve sistemlerini tanımlama amacı | A; §1 ve yöntem. |
+| P7 | Hayatı boyut ve evrelerle açıklama hedefinin bilimsel yön sayılması | A/D; yöntem ve §5B: hedef olmak doğrulanmış bilimsel sonuç olmak değildir. |
+| P8 | Kuantum açıklamasının yetersizliği; bilimin çıkmazı; temel parçacıkların keşfi; uzayın sınırına ulaşılması; verilerin yanlış yorumlandığı genellemesi | D/R; §5B. Bu geniş iddialar H01'in bilimsel öncülü yapılmaz; bilim felsefesi/kozmoloji için ayrı kaynak incelemesi gerekir. |
+| P9 | Bilime yeni yol ve evren açıklaması sunma hedefi | A; §1, yöntem ve §11; gerçekleşmiş etki diye ilan edilmez. |
+| P10–23 | Anahtar kavramlar, İngilizce etiketler ve yinelenen başlık | B; içerik paragrafı gibi sayılmaz. |
+| P24 | Üç bileşen ve üst kanun; fizik/biyoloji/zihin eşlemesi; ikinci birimle düzen; bileşenlerin zorunlu eşzamanlılığı; kapsama; evrenin canlıya benzerliği; başlangıç | A/D/R; §§4, 5, 6, 7, 8A, 10D–10E. Bileşen zorunluluğu evrensel fizik sonucu sayılmaz. Evren–canlı benzetmesinin ölçütleri ayrıca araştırılacak. |
+| P25 | Düzenli kanun; iki varlık ve etkileşim; ortak düzlem; ikinin birden türemesi; farklı düzlemde bilinemezlik | A/R; §10E. Ortak köken ve bilinemezlik için ek öncül gerekir. |
+| P26 | Düzenin hareket olarak tanımı; atomun ilk düzen oluşu; parçacıkların kuvvet gibi kullanılması; ikinci/ağır atomun dördüncü kuvveti kurması; H/He önceliği | A/D/R; §§4C, 5–5A. Tarihsel tasnif korunur; ikinci atomun atom içi bağlanmayı zorunlu kıldığı fiziksel yasa kabul edilmez. Kuvvet–parçacık eşlemesi alan incelemesi bekler. |
+| P27 | Merkez–çevre üzerinden varlık tanımı; yıldız örneği; varlık/varlıksı ayrımı | A; §§4C, 6A; evrensel merkez zorunluluğu kanıtlanmış sayılmaz. |
+| P28 | Kanuna bağlı hareket; iç işleyiş, etkinlik ve tür içinde bağımsızlık | A; §4C. Örgütlenme ölçütleri §§4A–4B'de açık araştırma önerisidir. |
+| P29 | Kaynağa bağlı etkiler; meteor ve element tasnifi; ilk/ikinci evreye göre alt varlık | A/D; §§4C–4D, 5A. Element oluşum sırası bilimsel tanımla düzeltilir. |
+| P30 | Altı boyut önerisi; her boyutta alt düzen ve saran kanun | A/R; §§5–10, 8A. Güncel boyutlar kanona dayanır; erken bileşen benzetmesi deneysel zorunluluk değildir. |
+| P31 | Fiziksel boyut başlığı | B. |
+| P32 | H/He örneği; tek merkezde birleşim; ikincinin ilkten türemesinin evrenselliği | A/D; §§4, 5, 5B; nükleer mekanizma yerine kullanılmaz. |
+| P33 | Her şeyin maddeden oluşması; atomun en küçük, yıldızın en büyük düzen oluşu | D/R; §5B ve bu kayıt. Bütün boyutları maddi sayan evrensel önerme, ruh/hüküm kanonuna sessizce eklenmez. En küçük/en büyük nitelemeleri bilimsel ölçek sonucu diye kullanılmaz. |
+| P34 | Atom/yıldız benzetmesinden diğer boyutlarda iki evre gerekliliği | A/R; §§4, 5B; benzerlik zorunluluk ispatı değildir. |
+| P35 | Fizik boyutunda iki evre | A; §5. |
+| P36 | Atom evresi; molekül, element ve mineral grupları | A/D; §§5–5A; fizik evresi ile kimyasal sınıflandırma ayrılır. Mineral oluşumu için ayrıntılı kaynak denetimi açık. |
+| P37 | Yıldız/gezegen evresi; sistem ve galaksi grupları | A; §§4C, 5B. |
+| P38 | Üç parçacık; ikinci atom; epistemik onayın hidrojenle analojisi; aynı düzlem; ters H/He proton sayıları; üçüncü element ve yıldız geçişi | A/D; §5–5A, ikinci bilen kaynak tablosu, Ek C. Doğrulanmış fizik olarak aktarılmaz; ontolojik ve epistemik anlam ayrılır. |
+| P39 | Atom–molekül–element sırası; ağır çekirdek/hafif çevreyle yıldız/gezegen oluşumu | D/R; §5A ve bu kayıt. Kimyasal sıra düzeltildi; ayrıntılı yıldız/gezegen oluşum modeli araştırma kaydıdır. |
+| P40 | Güneş ve çevresi; yıldız/galaksi grupları; galaksinin yeni varlık sayılmaması | A/R; §4C; Komel'le ilişkisinin sistem sınırı ayrıca belirlenir. |
+| P41 | Karanlık maddenin miktarı ve çevre oluşu; atom altı konumu; kara deliklerle oluşum; gözlenememe savı | D/R; §5A ve bu kayıt. Ayrı kozmoloji iddialarıdır; güncel gözlem kaynaklarıyla değerlendirme yapılmadan H01 dayanağı olmaz. |
+| P42 | Yıldız çökmesi; maddeyi parçalama; Higgs çekirdeği ve karanlık çevre; evre/varlıksı konumu | A/D/R; §§4D, 5A; sınıflandırma sorunu korunur, bileşim savları bilimsel dayanak değildir. |
+| P43 | Kara delik nedenleri başlığı | B. |
+| P44 | Atom altında fizik yasalarının geçersizliği; ışık kaçamamasından atom parçalanması; Higgs–kütleçekim; karanlık madde/enerji üretimi; cihaz sınırı | D/R; §5A ve bu kayıt. Birbirinden ayrı savlar olarak alan denetimi bekler; hiçbiri modelin doğrulanmış fiziksel mekanizması sayılmaz. |
+| P45 | Merkez–çevreye uygun kara deliğin meteor gibi varlıksı ve ilk evre sayılması | A/R; §4D; ölçüt/evre açıklaması açık. |
+| P46 | Kara deliğin varlık oluşu; karanlık madde/enerji kaynağı; atom altı eşitlemesi; fizik yasalarının atomla başlayıp kara delikle bitmesi | A/D/R; §§4D, 5A; bu fiziksel genellemeler kanıtlanmış sayılmaz. |
+| P47 | Merkezden çevrenin zorunluluğu; çevrenin kara delik kökenli karanlık madde olması | D/R; §§5A, 10E; kavramsal merkezden fiziksel bileşim çıkmaz. |
+| P48 | Madde–karanlık madde–varlıksı üçlüsü | A/D; §4D; kurucu tarihsel tasnif. |
+| P49 | Yokluğun alt düzene geçiş olarak kullanılması; karanlık madde/atom altı eşitliği; canlı ölümü ve atmosfer analojileri | A/D/R; §5B; yokluk kavramı korunur, fiziksel özdeşlik kurulmaz. |
+| P50 | Yıldız ve atom ölümünün kara delikle atom altına dönüşüm olarak açıklanması | D/R; §5A ve bu kayıt; ayrıntılı astrofizik iddiası açık. |
+| P51 | P48 tasnifinin tekrarı | A/D; §4D; yeni bağımsız kanıt değil. |
+| P52 | Ortak özellikler başlığı | B. |
+| P53 | Atom çevresi/uzay boşluğu karanlık madde; yıldız çevresinde atomlar; ortak merkez düzeni | D/R; §§5A, 6A ve bu kayıt; benzer merkez dili maddi bileşim eşitliği sağlamaz. |
+| P54 | Atom–molekül–element gruplaması; sistem/uydu benzetmesi; elementin atom evresinin üst seviyesi sayılması | A/D/R; §§4C, 5A; benzetme korunur, elementin yanlış oluşum sırası düzeltilir. |
+| P55 | Üç parçacığı tutan dördüncü güç; üst zaman; molekül–yıldız sistemi ve element–galaksi analojisi; yeni üst varlık beklentisi | A/D/R; §§4B, 5B, 10E; yeni varlık ölçütü ve fiziksel mekanizma açıklanmadan sonuç kesinleştirilmez. |
+| P56 | Varlık koşulları başlığı | B. |
+| P57 | Sistemi ancak üst sistemin çalıştırması | A/R; §10E; kapsam ve karşı-örnek görevi açık. |
+| P58 | Her birimin merkezinden bütün evrenin merkezine geçiş; kanunun nesnel varlık olması | A/R; §10E; parça–bütün çıkarımı ve kanun ontolojisi ek gerekçe ister. |
+| P59 | Atom çeşitlenmesi/galaksi uzaklaşması; madde–karanlık madde dönüşümü; üst boyutta genişleme; tek galaksi/çöküş beklentisi; biyoloji boyutunun zorunluluğu | D/R; §5B; kozmik gözlem ile biyolojik neden iddiası ayrılır. Ayrıntılı kozmoloji karşılaştırması açık. |
+| P60 | Yaratılmayı temel alma koşulu | A; yöntem ve §10B: kurucu öncül açık gösterilir. |
+| P61 | Üst sistemin alttan oluşması; ikinci boyutun maddi taşıyıcısı; ortak düzlemde bilinebilirlik; biyolojik zamanla çöküşün önlenmesi | A/D/R; §§5B, 10D–10E; taşıyıcı koşul, ontolojik kapsama ve kozmik nedensellik özdeş değildir. |
+
+**Bu grubun sonucu:** P1–61 için paragraf atlama olmadan ilk içerik–işlem eşlemesi yapıldı; birden fazla sav içeren paragraflar satır içinde ayrıldı. Bu, fizik iddialarının doğrulandığı veya nihai atomik önerme denetiminin kapandığı anlamına gelmez. D/R satırlarının alan kaynakları ve kapsamı H01-03/04 altında açık kalır. Varlık P62–195 ve Akıl P1–177 için aynı sıralı döküm henüz tamamlanmadı; önceki seçilmiş eşlemeler bunların yerine geçmez. H01-01 ve 04. madde açık kalır.
