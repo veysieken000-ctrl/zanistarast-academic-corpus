@@ -89,7 +89,20 @@ Bu ayrım ilkeyi peşinen doğrulamaz: “merkez” her karşı-örnekte yeni bi
 
 ## 7. Zihin: ilk zihinli Yek, ikinci zihinli Yek ve hafıza
 
-Zihin boyutunda ilk evre zekâ (işlem, belek/bellek, seçeneklerden seçim), ikinci evre akıldır (genel bilgiden yeni bilgi çıkarımı). Beyin ve sinir sistemi biyolojik alt yapıdır; zihin üçüncü boyut olarak ele alınır.
+Kurucu sınıflandırmada zihin boyutunun ilk evresi zekâ (işlem, bellek, seçeneklerden seçim), ikinci evresi akıldır (bilinenlerden yeni bilgi çıkarımı). Bu, burada benimsenen kavramsal ayrımdır; psikoloji ve sinirbilimde bütün kullanımların bu iki tanıma uyduğu veya evrelerin tarihsel başlangıcının kanıtlandığı ileri sürülmez. Beyin ve sinir sistemi biyolojik alt yapıdır; zihin kurucu modelde üçüncü boyut olarak ele alınır. İnsanda aklın bulunması zekânın ortadan kalkması değildir; akıl zekâdan yararlanır. Hayvanların öğrenmesi, duyguları ve çıkarım yetileri bu ayrımla reddedilmez.
+
+### 7A. Zekâ–akıl ayrımının özgün kaynak izi
+
+Aşağıdaki P numaraları 24 Ekim 2026'da Drive'dan alınan düz metindeki boş olmayan satır/paragraf sırasıdır; Word sayfası değildir.
+
+| Özgün kaynak ve yer | Yeniden bulma izi | Aktarım ve kanıt sınırı |
+|---|---|---|
+| Varlık Sistemleri ve Boyutları, P88–P90 | P88: “Zihin boyutu iki evreden oluşur.”; P89: “1. Evre: Zekâ evresidir.”; P90: “2. Evre: Akıl evresidir.” | Zekâ–akıl evre ayrımı özgün metinde mevcuttur. P90 insanın bilgi üreterek zekâ alanını genişletmesini anlatır; zekânın insanda kaybolduğu sonucu çıkmaz. |
+| Akıl ve Bilginin Kaynağı, P138 | “Doğa sisteminde bir görevi bulunmayan insan”; paragraf içinde “Zekâ bildiği ile amel iken akıl bildiklerinden bilgi türetendir.” | Bilinenden hareket etme ile yeni bilgi türetme ayrımının özgün dayanağıdır. Paragraftaki doğa kanunlarından bağımsızlaşma anlatımı burada fiziksel nedensellikten çıkış kanıtı olarak kullanılmaz. |
+
+**Güncel kanonla karşılaştırma:** 22 Ekim fıtrat–ahlak kilometre taşı insanda zekânın sürdüğünü; otonom sistem/evrensel muhataplık kaydı, §3 ve metodolojik koruma bölümü, hayvanlarda öğrenme, duygu ve çıkarımın reddedilmediğini açıklar. Bu açıklamalar eski Word'e birebir alıntı olarak eklenmez. Kaynaklar: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`; `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`.
+
+**Akademik çözümleme ve açık iş:** Varlık P89 yumurtlama–doğurma anlatısını zekâ evresi içinde kullanır; bu üreme ayrımı zekâ–akıl ayrımının eşanlamlısı değildir. Bu tarihsel anlatı için bilimsel kronoloji denetimi henüz yapılmamıştır. Akıl P138'deki insanın doğa sistemindeki görevi ve bağımsızlığına ilişkin savlar da ayrı önermeler olarak açık kalır. Buradaki kaynak eşlemesi bunları doğrulamaz. H01 yalnız ontolojik sınıflandırma ve aktarım sınırını kaydeder; işlemsel biliş ölçütleri ve karşılaştırmalı literatür H05'in konusu olarak izlenir. Bu yönlendirme H05'in tamamlandığı anlamına gelmez.
 
 “İlk zihinli Yek kimdir?”, “İkinci zihinli Yek ilkinden nasıl oluştu?”, “İlk hafıza ve ikinci hafıza kim?” soruları bu araştırmanın **açık** sorularıdır. İnsan örneğindeki ebeveyn–çocuk dizilimi zihin boyutuna doğrudan tarihsel cevap olarak aktarılmaz. Zihinsel bilgi aktarımı, sosyal öğrenme ve yeni bilgi üretimi için ayrıca delil gerekir.
 
