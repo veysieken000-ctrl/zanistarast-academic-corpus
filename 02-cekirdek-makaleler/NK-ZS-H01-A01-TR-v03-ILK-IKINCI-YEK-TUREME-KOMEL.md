@@ -170,6 +170,15 @@ Aşağıdaki eşleştirme yalnız **mevcut makaledeki atıfların ve kaynakça a
 
 **Denetim sınırı:** Özgün Word'lerin bütün metin kapsamı envantere bağlandı; bu, her atomik önermenin dış kaynaklarla doğrulanması değildir. Bu sürümde kullanılan nükleer süreç, atom numarası, element tanımı, hücre çekirdeği ve seçilmiş hücresel örgütlenme örneklerinin kaynak yerleri belirtilmiştir. Her boyut için tam bir tarihsel türeme modeli veya yeni bir doğa yasası ispatlanmış değildir. Bağımsız alan değerlendirmesi ve 412 makale yayın kapısı açıktır.
 
+### Özgün Word kaynaklarına doğrudan dönüş — 24 Ekim 2026
+
+Bağlı Google Drive'daki iki özgün dosyanın metni yeniden açılarak okundu:
+
+1. **1-VARLIK SİSTEMLERİ VE BOYUTLARI.docx**, Drive kimliği `1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d`: Açılış/giriş bölümünde varlıkların boyutsal farklılıkları ve varoluş sistemlerini tanımlama amacı açıkça yazılıdır. Bu özgün metinde güncel kurucu kanonun `Ehad`, `Yek`, `Zanabûn`, `Komel` terimleri birebir geçmez; güncel terimler özgün Word'e geriye dönük doğrudan alıntı olarak atfedilemez.
+2. **2-Akıl ve bilginin varlığı.docx** (metin başlığı **AKIL VE BİLGİNİN KAYNAĞI**), Drive kimliği `1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM`: Özetin üçüncü paragrafında şu özgün ifade yer alır: **“Bilen öznenin bilinen nesneye yöneliminden çıkan sonucu ikinci bir özne tarafından onayı ile bilgi varlık gösterir.”** Bu ifade epistemolojik ikinci özne onayının doğrudan özgün metin dayanağıdır. Aynı paragraf nesnel sonuca ulaşma ve mutlak bilgi imkânını ayrıca tartışır. Güncel kanonun ontolojik *Ehad İlk Bilen / yaratılmış Yek ikinci bilen* tanımı ise bu Word'den birebir alıntı değil, sonraki kurucu düzey ayrımı kaydından alınır.
+
+**Kaynak sınırı:** Bu doğrudan kontrol iki belgenin açılış/özet bölümlerini ve terim taramasını kapsar; her paragrafın ayrıntılı eşleştirmesi henüz tamamlanmış değildir. Kurucu kaynaklar tarihsel sürümlerine göre ayrı gösterilir, birinin ifadeleri diğerine sessizce taşınmaz.
+
 ## H01 iç bütünlük denetimi — açık kalan işler (24 Ekim 2026)
 
 - [x] Ehad–Yek kurucu kabulü, ilk/ikinci Yek ve Komel tanımları kaynakla karşılaştırıldı.
