@@ -381,20 +381,35 @@ Makalenin mevcut katkısı, kurucu savı kaynak sürümleriyle izlenebilir kılm
 
 ### Kaynakça–iddia eşleştirme denetimi (24 Ekim 2026)
 
-Aşağıdaki eşleştirme yalnız **mevcut makaledeki atıfların ve kaynakça açıklamalarının karşılaştırılmasıdır**; dış bağlantıların bu denetimde yeniden açılıp doğrulandığı anlamına gelmez.
+Aşağıdaki kayıt, ana metnin kullandığı sınırlı bilimsel önermeleri kaynak yeri ve çıkarım sınırıyla eşler. E kimliği, bir önermenin bu makalede izlenmesini sağlar; bütün ontolojinin deneysel doğrulanma puanı değildir. Önceki doğrudan erişim kontrolleri aşağıdaki erişim dökümünde korunur; bu tablo onları yeni bir bağımsız inceleme olarak saymaz.
 
-| Kaynak | Makaledeki kullanım | Kanıt statüsü / açık sınır |
+| Kimlik / yer | Kullanılan dar önerme | Kaynak ve denetim yeri | Sonuç için kullanım sınırı |
+|---|---|---|---|
+| H01-E01 / §5 | Hidrojen ve helyumun atom numaraları 1 ve 2'dir. | NIST, Hydrogen / Helium, General Information tabloları | Atom türü sırası, ilk/ikinci Yek'in deneysel özdeşliği değildir. |
+| H01-E02 / §5 | Hidrojen-1 nötron içermez. | NIDC, Isotope Basics, What are Isotopes? | Her atomda proton–nötron–elektron üçlüsünün zorunlu olduğu genellemesine karşı-örnektir. |
+| H01-E03 / §§5–5A | İzotoplar aynı proton, farklı nötron sayısıyla ayrılır; atom numarası proton sayısıdır. | DOE, DOE Explains…Isotopes, giriş; NIDC, Isotope Basics | İzotop değişimi yeni element oluşumuyla eşitlenmez. |
+| H01-E04 / §5A | Element, aynı proton sayısıyla tanımlanan atom türünü veya bu atomlardan oluşan saf maddeyi anlatabilir. | IUPAC C01022; atom numarası A00499, 2025 kayıtları | Resmî indeks metni okundu; doğrudan sayfa erişimi 403 ile sınırlı. Molekül → element biçiminde zorunlu oluşum sırası kurulmaz. |
+| H01-E05 / §5 | Hidrojen yanmasının ilgili net bilançosunda dört protondan helyum-4 oluşur. | Adelberger ve ark., 2010 arXiv v3, §II, s. 6, denklem (2) | Çok basamaklı nükleer süreçtir; bir nötr hidrojen atomunun tek başına helyuma dönüşmesi değildir. 2011 dergi metniyle tam karşılaştırma yapılmadı. |
+| H01-E06 / §6 | Mitozu genellikle iki yavru hücreye bölünme izler. | NHGRI, Mitosis, Definition | Hücre bölünmesi, çok hücreli organizma oluşumunun yeterli koşulu sayılmaz. |
+| H01-E07 / §6A | Prokaryot hücrelerde zarla çevrili çekirdek bulunmaz. | NHGRI, Cell, Definition | Bütün biyolojik merkezlerin aynı anatomik çekirdek olduğu iddiasına sınır koyar; düzenleyici merkez kavramını tek başına çürütmez. |
+| H01-E08 / §6 | DNA dizisi biyolojik yönergelerle ilişkili genetik bilgi taşır. | NHGRI, DNA, Definition | Genetik bilgi, önermesel doğruluk veya ikinci bilenin bilinçli onayıyla özdeşleştirilmez. |
+| H01-E09 / §6 ve Ek F | İncelenen maya kümeleri bölünme sonrasında bağlı kalan hücrelerden oluşur. | Ratcliff ve ark., 2012, Mechanism of Cluster Formation; mikroskopi ve tomurcuk izi incelemesi | Belirli deneyde mekanizma örneğidir; bütün kümelerin veya yaşamın kökeninin açıklaması değildir. |
+| H01-E10 / §6 ve Ek F | Küme biçiminin yararı, deneyin seçilim koşuluna bağlı olarak karşılaştırılmıştır. | Ratcliff ve ark., 2012, Results, Şekil 2A–B | Seçilimsiz karşılaştırmadaki P = 0,06 kesin uygunluk kaybı diye aktarılmaz; ontolojik üstünlük sonucu çıkarılmaz. |
+| H01-E11 / Ek F | ACE2 müdahalesiyle küme oluşumu ve işlevsel tamamlama karşılaştırılmıştır. | Ratcliff ve ark., 2015, Genetic basis of multicellularity; Sequencing ACE2 ve Transformation | Belirli maya düzeninde nedensel mekanizma örneğidir; bütün deney hatlarının aynı mutasyona sahip olduğu veya Komel'in evrensel zorunluluğu ileri sürülmez. |
+
+**Argümandaki görev:** E02, E06 ve E07, sırasıyla evrensel parçacık üçlüsü, hücre sayısından örgütlü bütün ve anatomik çekirdekten evrensel merkez çıkarımlarını sınırlar. E09–E11, alanına özgü mekanizma ve koşul belirtilmesinin neden gerekli olduğunu örnekler. Bu bilimsel kayıtlar Ehad–Yek kabulünü, altı boyutun tamamını veya evrensel türeme zorunluluğunu deneysel olarak kanıtlayan öncüller değildir.
+
+| Bilimsel dayanak dışında kalan kayıt | H01'de işlem | Açık iş |
 |---|---|---|
-| Diyanet, Nisâ 4:1 | §3, tek nefis–eş–ikisinden çoğalma | Ayet lafzı ile Âdem–Havva kurucu yorumu ayrılır |
-| NIST; NIDC; DOE; IUPAC | §§5–5A, atom, izotop ve element tanımı | Kurumsal açıklama/veri; kurucu türeme şemasının deneysel ispatı değildir |
-| Adelberger ve ark. (2010), arXiv v3; ilişkili 2011 yayın kaydı | §5, net hidrojen yanması bilançosu | §II, s. 6, denklem (2) metin/görüntüyle kontrol edildi; dergi tam metniyle karşılaştırma açık |
-| NHGRI, Cell; Mitosis; DNA | §§6–6A, hücre, bölünme ve genetik bilgi | Biyolojik tanımlar; ontolojik ve epistemik bilgiyle özdeş değildir |
-| Ratcliff ve ark. (2012) | §6, maya hücre kümeleri ve seçilim deneyi | Seçilmiş deney; bütün çok hücrelilik tarihini veya Komel zorunluluğunu kanıtlamaz |
-| Ratcliff ve ark. (2015) | Ek F, ACE2 işlev kaybı ve tamamlama | İlgili ana yöntem/sonuçlar 24 Ekim kontrol edildi; ek dosya/ham veri yeniden analizi yok |
-| Diyanet meal pasajları; Tirmizî 3369; Müslim 2849a | §§9B–9C, ayet/yorum/rivayet ayrımı | Bir pasajın bulunması birleşik kurucu anlatının tamamını doğrulamaz |
-| Kurucu kanon ve özgün Word metinleri | §§2–4, §§7–10, ekler | Kurucu kaynak statüsü; her özgün önermenin paragraf bazında son karşılaştırması açık |
+| Hidrojenin ontolojik ikinci bilen örneği; fiziksel etkileşimin bilgi onayı sayılması | Özgün kaynak kullanımı korunur; ontolojik temsil ile epistemik onay ayrılır (§10). | Alanlar arası çıkarım için ayrıca gerekçe; fizik yasası diye kullanılmaz. |
+| Higgs–öz/çekim, kara delik–karanlık madde özdeşlikleri; atom altı yasaların geçersizliği | D/R kaydı, §§5A–5B ve kaynak dökümleri | Her alt sav için fizik kaynağı ve kapsam denetimi; ana sonucun bilimsel dayanağı değildir. |
+| Yosunların tek evresi; türlerin gelişkinlik/sıra genellemeleri; DNA–beyin / RNA–kalp analojileri | Tarihsel savlar §§4D, 6B ve eklerde korunur. | Biyolojik sınıflandırma ve mekanizma denetimi; doğrulanmış bulgu sayılmaz. |
+| Duygu–bilgi eşitliği; cinsiyete göre zekâ; iç konuşmadan bağımsız ikinci bilen çıkarımı | §§6B, 10G–10H'de kavramsal/ampirik sınırlar ayrılır. | Bilişsel ölçüt ve dış literatür; iç konuşma bağımsız değerlendirme yerine geçmez. |
+| Ruh, ahlak ve hüküm; son buzul çağı sonrası iradeli ahlak tezi | Teolojik/ontolojik kurucu statü, §§8–10 | Ayet/rivayet, yorum ve tarihsel tarihleme ayrı denetlenir; bu fizik/biyoloji kaynakları bunları doğrulamaz. |
 
-**Açık denetim:** Her dış kaynağın bibliyografik künyesi, URL erişimi, tam metin/sürüm farkı ve her metin içi atfın sayfa/bölüm konumu bağımsız olarak son kez doğrulanmadan kaynakça kapısı tamamlanmış sayılmaz.
+D/R, kaynağın silinmesi veya yanlışlığının bütünüyle ispatı değildir; bu sürümde bilimsel dayanak yapılmama ve/veya araştırmaya açık tutulma kararıdır. Kanonik kaynaklar §§2–4 ve §§7–10'un kurucu önermelerini; dinî kaynaklar §§3, 9B–9C'nin metin karşılaştırmasını destekler. Bir ayet veya rivayetin bulunması, ondan çıkarılan bütün mekanizma ve yorumları doğrulamaz.
+
+**Açık denetim:** E01–E11 için bu sürümde kullanılan dar sav–kaynak yerleri eşlendi. Bu sınırlı işlem, tarihsel metinlerin bütün atomik savlarının, bütün dış atıfların, bibliyografik biçimin veya bağımsız Rasterast'ın tamamlandığı anlamına gelmez. IUPAC doğrudan erişimi ile Adelberger sürüm farkı aşağıdaki kayıtlarda açık kalır.
 
 ### Kaynakça son denetiminde kapanan ve açık kalanlar
 
@@ -478,7 +493,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 | H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | İki metnin P1–195 ve P1–177 ilk sıralı eşlemesi Ek G–L'de tamamlandı. Çok savlı satırların atomik ayrıntı/aktarımı ve D/R kayıtlarının denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | §9A'da fizik, biyoloji, zihin, ruh, üç tarihsel ahlak anlatısı ve altıncı düzen tek karşılaştırma tablosunda güncel kanonla eşlendi. H01 içindeki adlandırma/aktarım kararı kaydedildi; H04'e gerçek aktarım ve bağımsız kanonik kontrol açık. Eski ahlak sıraları tek şema gibi uzlaştırılmadı. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasında ilgili ana yöntem/sonuç erişimi güncellendi; ek dosya/ham veri incelemesi yapılmadı. |
-| H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
+| H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Ana metnin sınırlı bilimsel kullanımları H01-E01–E11 ile sav–kaynak yeri–çıkarım sınırına bağlandı; tarihsel D/R kayıtlarının ana sonuca kanıt yapılmadığı belirtildi. Atom altı, yosun, üreme, gelişkinlik, zaman, zihin ve duygu savlarının ayrıntılı alan denetimi ve bağımsız kontrolü açık. |
 | H01-05 | Kalan dinî göndermeler ve rivayet varyantları | §9B on özgün pasajı kapsıyor: Kâf 50:16, Mâide 5:32 ve Buhârî 6168 metinleri eklendi; Furkân 25:74 de doğrudan meal kontrolüne bağlandı. Akıl P165'in ter ve mekân tasvirleri için iki rivayet karşılığı da eklendi. Kalanlar arasında P175'in keder–ölüm geçişi, Miraç/ruh göndermeleri, nimetlerin tükenmemesi gibi diğer tasvirler ve varyant değerlendirmeleri var. Kaynağı bulunmayan aktarım açık statüde tutulacak; uydurma atıf eklenmeyecek. |
 | H01-06 | Argüman ve bölüm bütünlüğü (K2–K4) | Öz, yöntem, §§2–10 ve sonuç aynı kapsamı savunacak; ortak köken, üst sistem, merkez, zaman ve normatif çıkarımların öncülleri açık olacak. §§10E–10H'nin kapsam sınırları öz, yöntem, öz değerlendirme ve sonuçla 24 Ekim'de karşılaştırılıp bu bölümler yeniden yazıldı. Bu iç editoryal kontrol bağımsız inceleme veya bütün ayrıntılı önerme denetiminin kapanışı değildir. |
 | H01-07 | Akademik biçim ve tekrarların düzenlenmesi (K5) | Tarihsel denetim notları ile makale argümanı ayırt edilecek; yinelenen kayıtlar kaynak izini kaybetmeden düzenlenecek. Bütün metin içi atıflar kaynakçada bulunacak; simülasyon bağımsız hakemlik diye sunulmayacak. |
