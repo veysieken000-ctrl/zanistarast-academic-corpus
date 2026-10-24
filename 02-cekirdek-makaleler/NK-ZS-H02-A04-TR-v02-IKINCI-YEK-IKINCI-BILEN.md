@@ -1,6 +1,6 @@
-# Zanabûn — İkinci Yek'ten İkinci Bilenin Onayına
+# Zanabûn — Muhataplık, Bilginin Kuruluşu ve Değerlendirilmesi
 
-**H02-A04 | Türkçe v02 | 22.10.2026 | Araştırma sürümü, yayına hazır değil**
+**H02-A04 | Türkçe v02 | 24.10.2026 | Düzenlenen kavramsal araştırma metni**
 
 ## Öz
 Hebûn, Ehad–Yek kurucu kabulünden ilk Yek, ikinci Yek, bunların ilişkisinden yeni Yekler ve Komel'in kuruluşunu inceler. Zanabûn, bu ontolojik düzenin içinde bilginin kuruluşunu inceler: **Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı.** Ontolojik ikinci Yek ile epistemolojik ikinci bilen farklı kavramlardır; insan dünyasında aynı kişi her iki rolü üstlenebilir. Makale, kurucu türeme şemasını Nisâ 4:1'in teolojik anlatısıyla ilişkilendirir; fizik, biyoloji ve zihin boyutlarında farklı mekanizmaları özdeşleştirmez. Fıtrî ahlakın bütün varlıklardaki düzen anlamı, ikinci Bilen'in bağımsız epistemik doğrulaması ve insandaki iradeli ahlakın hüküm karşısındaki sorumluluğundan ayrılır.
@@ -22,13 +22,13 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 
 **İç olgunluk kararı:** Bu metin araştırma sorusu, kurucu tez, karşı-örnek ve kaynakça bakımından bütünlüklü bir çekirdek taslaktır. Kaynakların tam paragraf eşlemesi ve sonraki kurucu değerlendirme yapılmadan kesin kanonik kapanış ilan edilmez. Dış hakemlik bu aşamada üretimi durdurma şartı değildir.
 
-## Kaynak önceliği: ontolojik İlk Bilen
+## Hebûn'dan devralınan temel: muhatap varlık ve Lêket
 
-Kurucu düzey ayrımı kaydına göre **Ehad ilk bilendir; yaratılmış varlık Ehad karşısında ikinci bilendir.** Ontolojik ikinci bilen, yaratılmış Yek'in Ehad karşısındaki muhataplık konumudur. **Hebûna Hebûnî**, yaratılmış Yek'in varlık göstermesi ve kendi boyutuna özgü fıtrî düzeni sergilemesidir. Bu kapsam yalnızca iki insanın bilgi denetimiyle sınırlanamaz. Fiziksel varlıklara insan türü bilinçli muhakeme atfedilmez. İnsanın iradeli ahlak ve hüküm karşısındaki sorumluluğu ayrıca ele alınır.
+Hebûn'da **muhatap varlık**, kurucunun varlık tanımı ve sınıflandırmasına göre ilişkinin muhatabı olan, etkilenen varlıktır. **Lêket**, gerçek ilişkinin bu varlığın ilgili katmanlarında meydana getirdiği farktır. Ehad karşısındaki yaratılmış Yek bu ontolojik muhataplık içinde ele alınır. Bu tanım, fiziksel etkileşimi insanın bilgi değerlendirmesiyle aynı işlem yapmaz.
 
-Epistemolojik düzeyde kurucunun bilgi tanımı şöyledir: **Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı ile çıkan sonuca bilgi denir.** Bu düzeydeki değerlendirme rolü için *Zanayê Nirxîner* terimi önerilmiştir. Ontolojik ikinci bilen, epistemik ikinci bilen ve ontolojik ikinci Yek özdeş terimler değildir.
+Zanabûn bu temelde bilginin kuruluşunu ele alır. Kurucu bilgi tanımı şöyledir: **“Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı ile çıkan sonuca bilgi denir.”** Sonucu değerlendiren epistemik muhatap için mevcut terim **Zanayê Nirxîner** kullanılır. Aşağıda S₂ bu rolü gösterir. Bir ilişkinin varlıkta fark meydana getirmesi ile o fark hakkında kurulmuş önermenin gerekçeli biçimde onaylanması ayrı işlemlerdir; Lêket tek başına bir doğruluk ölçütü değildir.
 
-Kaynak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. Buradaki kurucu önermeler felsefi/teolojik statüdedir; bağımsız ampirik doğrulama iddiası taşımaz.
+Kaynak: güncel [Hebûn, özellikle §10A](NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md) ve [kurucu düzey ayrımı kaydı](../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md). Bu anlatım 24 Ekim kurucu açıklamasını esas alır.
 
 ## 1. Devralınan kurucu kanon
 **Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Kurucu türeme sırası: **ilk Yek → ikinci Yek → ikisinin ilişkisinden üçüncü ve sonraki Yekler → Komel**. Yek yedinci yaratılmış boyut veya insan özü değildir; Komel Yek'in eşanlamlısı değildir. Nisâ 4:1'de tek nefis, ondan eş ve ikisinden çok sayıda insanın ortaya çıkışı anlatılır. Hz. Âdem–Hz. Havva–çocuklar, kurucu tefsir örneğidir; isimler ve “bel kemiği” ayetin açık lafzında bulunmaz. Meal metni ve dipnot için Diyanet İşleri Başkanlığı (2011), Nisâ 4:1; yorum ayrımı için H01 §3 esas alınır.
@@ -43,8 +43,13 @@ Kavramsal gösterim: **S'nin O'ya yönelimi → P önermesinin kurulması → S�
 
 İnsan düzeyindeki onayın doğrudan nesnesi P iddiasıdır; onay, yönelinen varlığı yaratan ontolojik sebep olarak kullanılmaz. İlahî ilk Bilen ile insanın tasdiki arasında kurulan teolojik ilişkide de insanın onayı Ehad'ın var olmasının şartı değildir; insanın bilmesi ve muhataplığıyla ilgilidir. Böylece Hebûn'un varlık temeli ile Zanabûn'un insan bilgisinin değerlendirilmesi aynı bağımlılık ilişkisine indirgenmez.
 
-## 3. İkinci Yek ile ikinci bilen neden karıştırılmamalı?
-İkinci Yek, Hebûn'un ontolojik dizisinde ayrı varlık/kimliktir. İkinci bilen, Zanabûn'un bilgi iddiasını değerlendiren muhataptır. İkinci bir varlığın ortaya çıkması tek başına doğrulama yapıldığı anlamına gelmez. Ontolojik muhataplık, bağımsız epistemik değerlendirme ve insanın hüküm karşısındaki iradeli sorumluluğu üç ayrı düzeydir. Bütün varlıklarda düzen bulunması, bütün varlıkların bilinçli bilimsel onay verdiğini göstermez. İkinci bilenin onayı da tek başına yanılmazlık sağlamaz; ortak veri veya yöntem hatası mümkündür. Bağımsız doğrulamada, ilk bilenle paylaşılan hata kaynakları ve bunları sınayan ek işlemler ayrıca gösterilir. Belirli bir hatanın saptanmaması bütün olası hataların dışlandığı anlamına gelmez; bağımsızlık kapsamı, yanılmazlık güvencesi değildir.
+## 3. İlişkiden bilgi iddiasına geçiş
+
+Muhatap varlık, Lêket ve epistemik değerlendirme birbirine bağlanan üç soruyu ayırır: İlişkinin etkilenen tarafı nedir? İlişki hangi farkı meydana getirmiştir? Bu fark hakkında ileri sürülen P önermesi hangi gerekçeyle kabul edilmektedir? İlk iki soru Hebûn'un ontolojik temelinden, üçüncüsü Zanabûn'un bilgi değerlendirmesinden yararlanır.
+
+Örneğin bir ölçüm düzeninde nesnenin aygıtla etkileşmesi bir kayıt meydana getirebilir. Araştırmacı bu kaydı belirli bir büyüklüğe ilişkin P iddiası olarak yorumlar; değerlendirici ise kaydın, kalibrasyonun ve çıkarımın P'yi destekleyip desteklemediğini inceler. Bu açıklayıcı örnekte kayıt oluşması, yorum ve onay birbirinin yerine geçmez. Gerçek ilişkinin her farkı bilinçli bilgi değildir; doğru bir ölçüm yorumuna ulaşmak ayrıca yöntem gerektirir.
+
+İnsanın iradeli ahlakı bu süreçte belirsizliği saklamama, gerekçeyi açıklama ve hatayı düzeltme sorumluluğuyla ilişkilendirilir. Ontolojik düzen, bilişsel yeti ve ahlaki sorumluluk aynı yüklem olarak kullanılmaz.
 
 ## 4. Boyutlarda aynı soru, ayrı mekanizmalar
 | Boyut | Hebûn'da ilk–ikinci–yeni Yek | Zanabûn'da bilgi/onay karşılığı |
@@ -93,36 +98,22 @@ Kurucu tanım ikinci bilenin onayını bilgi kuruluşunun parçası sayar. Bu ma
 ## 7. Hebûn–Zanabûn–Rasterast aktarımı
 **Hebûn:** Varlığın kuruluşu, ilk/ikinci/yeni Yek ve Komel. **Zanabûn:** Bilen–bilinen–sonuç–ikinci bilenin onayı. **Rasterast:** Kaynak soyağacı, karşı-örnek, bağımsızlık ve kanıt statüsü. Kurucu inanç, mantıksal çıkarım ve ampirik iddia ayrı izlenir.
 
-## 7A. Çekirdekler arası doğrulama ölçütü
-İkinci Yek'in ontolojik varlığı, ikinci Bilenin bağımsız epistemik onayıyla özdeş değildir. Bir iddia için en azından iddianın açık ifadesi, doğrulayıcının bağımsızlığı, kullanılacak gözlem/akıl yürütme yöntemi ve ortak hata ihtimali ayrı kaydedilmelidir. Bu koşullar karşılanmadığında ikinci onay, doğrulanmış bilimsel sonuç değil, kurucu epistemolojik modelin henüz sınanmamış uygulamasıdır. Bu ayrım H01'deki tekillik dizisiyle ve H03'teki kaynak soyağacıyla birlikte denetlenir.
+### 7A. Sonraki makaleye aktarılacak değerlendirme kaydı
 
-### 7B. Ana önermelerin kaynak ve statü haritası
-| Önerme | Dayanak | Statü ve aktarım sınırı |
+H03 Rasterast'a aktarılacak kayıt şunları birlikte tutar: açık P önermesi ve kapsamı; kaynak yeri; veri, cihaz ve yöntem bağımlılıkları; değerlendirme gerekçesi; onay, ret veya düzeltme sonucu. Karşı-örnek ortak hatayı gösteriyorsa yalnız onay sayısını artırmak yerine hatanın kaynağı incelenir (§5). Aynı veriyle yeniden hesaplama ile yeni veriyle sınama da ayrı kaydedilir (§5A).
+
+**Doğruluk, gerekçelendirme ve onay:** Bir önermenin doğru olması, onu kabul etmek için sunulan nedenler ve değerlendiricinin kararı farklı sorulardır. İkinci kişi okumadan da matematiksel bir ispat geçerli olabilir. Buna karşılık iki kişi aynı yanlış önermeyi onaylayabilir. Buradaki yöntemsel katkı, onayın gerekçesini denetime açmaktır; bu yorum kurucu tanımın sözcüklerinden çıkan deneysel sonuç olarak sunulmaz (§5D).
+
+| Devralınan veya savunulan önerme | Dayanak | Kullanım sınırı |
 |---|---|---|
-| Sonucun ikinci bilen tarafından değerlendirilmesi | Akıl ve Bilginin Kaynağı P5; güncel kanon | Kurucu epistemoloji; mutlak yanılmazlık sonucu verilmez |
-| Ontolojik ikinci Yek ile epistemik rol farklıdır | Kaynak P43'ün güncel kurucu ayrımla karşılaştırması | Kavramsal çözümleme; H01 ve H03 ile ortak tanım |
-| Aynı veriyle hesaplama ve yeni veriyle sınama farklıdır | NASEM, 2019, bölüm 3 | Yöntem raporu; Zanabûn'a dış karşılaştırma |
-| Kişi sayısı tek başına ortak hatayı gidermez | Bölüm 5'teki bozuk cihaz düşünce deneyi | Mantıksal karşı-örnek; gerçekleşmiş deney raporu değil |
-| Muhataplığın ontolojik, epistemik ve ahlaki düzeyleri | Kurucu kilometre taşı | İnsan bilincini cansızlara yayma gerekçesi değil |
-
-
-### 7C. Uygulama kaydı
-İkinci bilenin uygulama kaydı §5A'daki beş alanı içerir; ret veya düzeltme yolu §5D'ye göre belirtilir. Kayıt H03'teki kaynak–karşı-örnek–düzeltme zincirine bağlanır. Aynı kaynağın tekrar aktarılması yeni bağımsız kanıt sayılmaz.
-
-### 7D. Onay, doğruluk ve gerekçelendirme
-Zanabûn'da ilk bilenin nesneye yönelmesiyle ortaya çıkan sonuç ikinci bilenin değerlendirmesine açılır. Doğruluk, önermenin konusuyla uygunluğu; gerekçelendirme, kabul için gösterilen nedenler; onay ise ikinci bilenin değerlendirmesidir. İki kişinin onayı yanlış önermeyi doğru yapmaz; henüz onaylanmamış doğru önerme de bu nedenle yanlış olmaz. İkinci bilenin katkısı gerekçelerin denetlenmesi ve ortak hatanın görünür kılınmasıdır. Ontolojik ikinci Yek otomatik olarak ikinci bilen değildir. Karşı-örnek: Matematiksel ispat, ikinci kişi okumadan da geçerli olabilir. Bu yüzden ikinci onay matematiksel geçerliliğin varlık koşulu değil, kamusal hata denetimi aşamasıdır. Aynı veri ve kodla sonuç elde etme ile yeni verilerle tekrar sınama ayrımı NASEM'in (2019, bölüm 3) yöntem ayrımıyla uyumludur; bu rapor Zanabûn'un deneysel doğrulaması değildir.
-
-### 7E. Eleştirel hakem simülasyonu ve savunulan sonuç
-**İtiraz:** İkinci kişinin onayı ortak yanılgıyı çoğaltabilir. **Yanıt:** Onay tek başına doğruluk üretmez; bağımsız veri, yöntem, araç ve yorum denetimi gereklidir. İlk bilenin sonuç önermesi, ikinci bilenin değerlendirme nesnesidir; ontolojik ikinci Yek ile aynı kişi olma zorunluluğu yoktur. **Karar:** Kurucu Zanabûn dizisi gerekçelendirmenin toplumsal ve düzeltilebilir yönünü sistematikleştirir; mutlak doğruluk garantisi olarak savunulmaz. H03'ün kanıt soyağacı, bu sınırlı iddianın uygulanabilir kontrolüdür.
-
-### Ontolojik kapsamdan epistemolojik ikinci onaya geçiş
-
-Kurucu açıklamanın geniş kapsamı şudur: **Ehad karşısındaki her yaratılmış Yek, fıtratı ve fıtrî ahlakı bakımından ikinci bilenin ontolojik anlamını temsil eder.** Bu anlam, yalnız iki insanın bir önermeyi denetlemesine indirgenemez. Hebûn'da yaratılmış Yeklerin kuruluşu ve Komel ilişkisi ontolojik düzeydir; Zanabûn'da bilen özne–bilinen nesne–sonuç–ikinci bilenin onayı bu kapsamın epistemolojik özel görünümüdür.
-
-Fiziksel ve biyolojik Yeklerde fıtrî düzeni temsil etmek, atomlara veya hücrelere insan türü bilinçli onay yetisi yüklemek değildir. Zihinli varlıklarda öğrenme ve hafıza, insanda ilimden ilim üretme ve iradeli ahlak ayrıca ele alınır. İnsan hüküm karşısında iradeli ahlakıyla sorumludur. Ontolojik temsil, bilişsel yeti, bağımsız araştırmacı onayı ve teolojik hüküm **dört ayrı yüklem** olarak kaydedilmelidir. Böylece ontolojik ikinci Yek ile epistemolojik ikinci bilen her örnekte özdeşlenmez; fakat ikinci bilenin geniş ontolojik anlamı da kaybedilmez.
+| Muhatap varlık ve Lêket | Güncel H01 §10A; 24 Ekim kurucu açıklaması | Ontolojik ilişki ve meydana gelen fark; bilinçli onayla özdeş değil |
+| Sonucun epistemik muhatap tarafından değerlendirilmesi | Özgün kaynak B-P5; kurucu Zanabûn tanımı | Kurucu epistemoloji; onay doğruluğun garantisi değil |
+| Kaynak ortaklığının ayrıca incelenmesi | §5'teki bozuk cihaz karşı-örneği | Mantıksal sınama; gerçekleşmiş deney raporu değil |
+| Yeniden hesaplama ile yeni veriyle sınamanın ayrılması | NASEM, 2019, bölüm 3 | Dış yöntem karşılaştırması; Zanabûn'un ampirik ispatı değil |
+| Sevgi, dürüstlük, fayda ve doğruluğun ayrı değerlendirilmesi | B-P140–146/P170; §5C | Ahlaki yönelim, önermenin kanıtının yerine geçmez |
 
 ## 8. Sonuç
-Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Ontolojik ikinci Yek ile epistemolojik ikinci bilen arasındaki ilişki sistemin kilit ayrımıdır. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Makalenin katkısı, ikinci onayın bilgiye ne kattığını kişi sayısı yerine gerekçenin denetlenebilirliğiyle tartışmasıdır. Bölüm 5A'daki sınama önerisi uygulanmamıştır; ikinci onayın bütün bilgi türleri için zorunlu ve yeterli olduğu gösterilmiş değildir.
+Zanabûn, Hebûn'un türeme dizisini tekrar etmek yerine ikinci bilenin sonucu değerlendirmesiyle bilgi kuruluşunun nasıl temellendirileceğini açıklamaya çalışır. Muhatap varlık ve Lêket ilişkinin ontolojik temelini; Zanayê Nirxîner ise sonuç hakkındaki gerekçeli değerlendirmeyi açıklar. Fıtrî ahlakın ontolojik işleyişteki anlamı, ikinci Bilenin epistemik onayı ve insandaki iradeli ahlakın hükmî muhataplığı birbirine indirgenemez. Makalenin katkısı, ikinci onayın bilgiye ne kattığını kişi sayısı yerine gerekçenin denetlenebilirliğiyle tartışmasıdır. Bölüm 5A'daki sınama önerisi uygulanmamıştır; ikinci onayın bütün bilgi türleri için zorunlu ve yeterli olduğu gösterilmiş değildir.
 
 ## Dış kaynakça
 - National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3: aynı veriyle hesaplama ve yeni veriyle sınama ayrımı; bölüm 5A'da kullanılır. Kurumun yöntem raporudur, Zanabûn hakkında deney değildir.
