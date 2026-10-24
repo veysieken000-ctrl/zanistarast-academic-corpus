@@ -189,7 +189,7 @@ Bağlı Google Drive'daki iki özgün dosyanın metni yeniden açılarak okundu:
 - [x] İlk Bilen Ehad, ontolojik ikinci bilen ve epistemolojik ikinci bilen ayrımı ana metin ile Ek D'ye aktarıldı.
 - [x] Hebûn'un ontolojik temeli ile Zanabûn'un ilk kuruluş/devam sorularına verdiği kurucu cevap öz, giriş, argüman ve sonuçta tutarlılaştırıldı.
 - [x] Kanon VII–VIII'deki ontolojik kapsama, tarihsel sınır ve ast–üst/merkez–çevre ayrımı 10D'de kaynakla işlendi.
-- [ ] Özgün iki Word metninin her kurucu önerme için paragraf düzeyinde karşılaştırmasının eksiksiz denetimi.
+- [ ] Özgün iki Word metninin her kurucu önerme için paragraf düzeyinde karşılaştırmasının eksiksiz denetimi (ikinci bilenin hidrojen örneği ve bilgi onayı bağlamları ayrı kaynak kaydıyla karşılaştırıldı; kalan paragraflar açık).
 - [ ] Dış kaynakçadaki bütün eserlerin metin içi iddialarla birebir eşleştirilmesi ve tam metin erişim denetimi.
 - [ ] Fizik, biyoloji, zihin, ruh, ahlak ve hüküm alanlarının tüm iddiaları için K0–K6 ve bağımsız Rasterast son kontrolü.
 - [ ] Akademik makalenin son bütünlük kararı ve yayın statüsünün kaynaklı kaydı.
