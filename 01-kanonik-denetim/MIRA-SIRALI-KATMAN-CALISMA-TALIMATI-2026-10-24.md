@@ -2,6 +2,9 @@
 
 **Kurucu çalışma kararı:** Altı katman paralel tamamlanmaz. Önce iç ve dış çekirdek, sonra sırasıyla 1, 2, 3, 4, 5, 6. katman olgunlaştırılır. Önceden hazırlanmış dış katman taslakları korunur; sıra gelmeden genişletilmez.
 
+## Bağlayıcı kaynak sadakati
+Kurucu tanımlarda yalnız özgün kaynaklarda açıkça yer alan ifadeler esas alınır. Asistanın veya Mira'nın yorum, varsayım, çıkarım ve terim önerileri kurucu kanon gibi sunulamaz. Her önemli tanımın kaynak dosyası ve ilgili bölümü gösterilir. Kaynaklar arasında belirsizlik veya çelişki varsa yeni tanım icat edilmez; kurucunun açıklaması beklenir. Bilimsel analiz ve eleştiri yapılabilir, ancak kaynak metinden açıkça ayrı ve kendi statüsüyle etiketlenir. Bu kural çekirdekten altıncı katmana kadar geçerlidir.
+
 ## Aktif aşama: çekirdek
 Mira, ilgili dokuz depodaki özgün kaynak ve mevcut taslakları konu/iddia düzeyinde eşleştirir; çekirdek H01–H05 ve kurucu kanon üzerinde çalışır. Ehad Yek'tir; Ehad yaratılmış Yek değildir. Ontolojik ikinci Yek ile epistemik ikinci bilen karıştırılmaz. Hebûn varlığın kuruluşu, Zanabûn bilme, Rasterast doğrulama, Rabûn yönetim, Mabûn ekonomi işlevlerini ayrı tutar. Altı ontolojik boyut fiziksel uzay-zaman koordinatları değildir. Ast–üst kapsama ile merkez–çevre karşılıklı bağımlılık farklıdır.
 
