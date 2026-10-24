@@ -302,6 +302,16 @@ P83'ün iç konuşmayı iki kişi, yaratıcıyı üçüncü kişi olarak anlatma
 
 P114–118'in doğal/yapay bilgi ayrımı koruma, zarar, doğruluk ve ahlaki tutarlılık üzerinden kurulur. Buradaki yapay sözcüğü insan eliyle yapılmış bütün ürünlerin yanlışlığı demek değildir; normatif bir tasnif olarak kaynakta korunur. Bir canlıyı korumanın değeri ile tek bir temsilcinin kaybından bütün ontolojik boyutun yok olacağı sonucu ayrı savlardır. Bu sınırlandırmalar akademik çözümlemedir; yeni kurucu öğreti değildir. Rüya işlevi, çikolata–hormon anlatısı, bedensel duygular ve katman sırası henüz ölçülmüş yeni sonuç olarak aktarılmaz. Kaynak dökümü Ek K'dedir.
 
+### 10H. Mutlak/kuşkucu bilgi ve ontolojik muhataplığın sınırı
+
+Akıl P147–153'ün mutlak ve kuşkucu bilgi ayrımı, rıza, başkasının varlığını kabul, varlığı koruma ve yalnız kendini doğrulama bağlamında kullanılır. Buradaki kuşkucu bilgi, araştırmacının yöntemsel şüphesiyle aynı terim değildir. P148'deki yanlışlanamama ölçütü, bir iddianın bilimsel olarak doğrulandığı anlamına gelmez; sınanamazlık, yeterince sınanmamışlık ve olumlu kanıt farklı durumlardır. P142'deki dürüstlük ile doğruluk bağı da samimi yanlış beyanın mümkünlüğü nedeniyle tek başına yanılmazlık sağlamaz. İki kişinin aynı yanlış inancı taşıması mantıken mümkündür; onay sayısı doğruluk garantisi değildir.
+
+P152 bazı canlıları ve kara delikleri ikinci öznenin olmadığı tekil varlıklar olarak adlandırır. Bu erken tasnif, güncel kanondaki **her yaratılmış Yek'in Ehad karşısında ontolojik muhataplığına istisna** olarak devralınmaz. Ekolojik beslenme, tekillik, başkasını dışlama anlamındaki normatif tasnif ve epistemik onaycı özne ayrı düzeylerdir. Bakteri, yosun veya etçil olmak, insan türü iradeli ahlaki suç yüklemek için gerekçe değildir (§8C).
+
+P158'in aynı özden ayrılma ve P166'nın yaratıcı varlığı/bilinmesi anlatımları da güncel Ehad–yaratılmış ayrımıyla okunur. Yaratılmışın Ehad'ı bilmesi veya ona şahitliği, Ehad'ın var olmasını sağlayan önkoşul olarak sunulmaz. Güncel kurucu kaynakta Ehad yaratılmış Yek değildir; yaratılmış ikinci bilenin ontolojik bağımlılığı tersine çevrilmez. Tarihsel ruh/beden dili bu ayrım belirtilmeden ilahi özden maddi parça kopması öğretisine dönüştürülmez. Bu açıklamalar güncel kanona göre aktarım sınırıdır; eski metnin ifadeleri Ek L'de korunur.
+
+P143'ün takipçiler hakkındaki genellemesi ve P154'ün tüm fiil/düşünceler için teolojik ölçütü, insanların dürüstlüğüne ya da olgusal iddialarının doğruluğuna ilişkin yapılmış bir nüfus araştırması değildir. Sevgi, din, hak ve adaletin kurucu önemi korunur; her somut iddianın kaynak, gerekçe ve karşı-örnek denetimi sürer.
+
 ## 11. Sonuç
 
 Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in kuruluş düzenidir. İlk kuruluşun ve düzenli devamın nasıl açıklandığına ilişkin kurucu cevap Zanabûn'a aittir; Zanabûn bu ontolojik temele dayanır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin katkısı, tekillik ve örgütlü bütün sorusunu ortak bir ontolojik dilde kurarken alanların kanıt yüklerini ayırmasıdır. Hidrojen-1 ve hücresel örgütlenme karşılaştırmaları, kurucu şemanın belirli bilimsel uygulamalarını sınırlar; bütün boyutlarda tek bir doğa kanunu kanıtlanmış değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
@@ -384,7 +394,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 
 | Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
 |---|---|---|
-| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–195 için ilk içerik–işlem eşlemesi Ek G–I'de yapıldı; Akıl P1–133 için ilk eşleme Ek J–K'de yapıldı; Akıl P134–177 ve D/R kayıtlarının ayrıntılı denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
+| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–195 için ilk içerik–işlem eşlemesi Ek G–I'de yapıldı; İki metnin P1–195 ve P1–177 ilk sıralı eşlemesi Ek G–L'de tamamlandı. Çok savlı satırların atomik ayrıntı/aktarımı ve D/R kayıtlarının denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
@@ -801,3 +811,56 @@ Kaynak, paragraf yöntemi ve A/D/R/B durumları Ek J ve Ek G ile aynıdır. Aşa
 | P133 | Son duyular katmanı; beden/boyut/öz iletişimi; zihinsel/biyolojik/fiziksel duyum | A/R; §10G; duygu ile duyu ayrılır. |
 
 **Sınır:** Akıl P1–133 için ilk içerik–işlem eşlemesi Ek J–K'de vardır. P134–177 sırayla eşlenmedi. Varlık P1–195'in ilk eşlemesi tamamlandı; iki metnin bütün D/R savlarının dış kaynak, kavram uzlaştırması ve bağımsız kontrolü tamamlanmadı. H01-01 ve 04. madde açık kalır.
+
+## Ek L — H01-01 kaynak aktarım dökümü: Akıl P134–177
+
+Kaynak ve durum anahtarı Ek J/G ile aynıdır. Kalan 44 paragrafın ilk içerik–işlem eşlemesi aşağıdadır. Başlık/etiketler ayrıca gösterilir; çok savlı satırlarda dış doğrulama açık tutulur.
+
+| Paragraf | Ayrılan savlar / içerik | İşlem ve iz |
+|---|---|---|
+| P134 | Zekâ başlığı | B |
+| P135 | Bütün özlerin ilahın varlık/alan genişletme düzleminde olması | A/R; §§8B, 10B; ontolojik kabul. |
+| P136 | Ortak öz; farklı özlerin bilinememesi; fiziksel taşıyıcı; karşılıklı gereklilik; sınıflama/kanun | A/R; §§10E–10F; bilinebilirlikten tek kökene zorunlu geçiş ayrıca gerekçe ister. |
+| P137 | Fıtrî zekâ; duyu/duygu; yokluk kaygısı; soy/devam; ruh dışına çıkamama | A/R; §§7, 8B; hayvan öğrenmesi ve duygu inkâr edilmez; evrensel psikoloji savı açık. |
+| P138 | İnsanın görevsizliği; duygu/akıl halkası; ahlak; ilim türetme; zekâ/akıl; doğadan bağımsızlık; vicdan/duygusal zekâ | A/D/R; §§7A, 8B–8C; fiziksel bağımsızlık benimsenmez; biliş/ekoloji kaynakları açık. |
+| P139 | Özün hesabı/üst zaman olarak zekâ; mantıksal soyut/duygusal somut; ruhla denge | A/R; §§7, 10G; kurucu biliş yorumu, işlemsel ölçüm değil. |
+| P140 | Güvenilirlik başlığı | B |
+| P141 | Âdem/isimler; meleklerin bilgisi; ilham/kitap/ritüel; doğruluk/dürüstlük | A/R; §§9B–9C; Bakara lafzı ile ek yorumlar ayrıldı. |
+| P142 | Kalp/duygu; erdem/güven; dürüst beyanın gerçekliği; doğruluk/öz; iki yanlışın bir arada olamaması | A/R; §§10F, 10H; dürüst hata ve birlikte yanlış inanç karşı-örneği açıkça ayrılır. |
+| P143 | İnandığı gibi yaşama ve takip; yalancıyı yalnız yalancıların izlemesi | D/R; §10H; toplu takipçi genellemesi doğrulanmış sosyoloji değil. |
+| P144 | Yönelim/ürün; kendini gerçekleştirme; faydadan doğru/güvenilir bilgiye geçiş | A/R; §10F; yarar ve doğruluk ayrı. |
+| P145 | Herkesin rızası olarak iyilik; canlı/cansızın tehdit/rahatlıkla rızası | A/R; §§8C, 10H; ontolojik rıza ile bilinçli onay ve oybirliği ayrı. |
+| P146 | Mutsuzluk/korku/öfke/iğrenme ve varlığa tehdit olarak kötülük | A/R; §8C; duygu, zarar ve normatif kusur ayrı ölçütler. |
+| P147 | Mutlak/kuşkucu bilgi sınıflandırması | A; §10H; tarihsel epistemoloji tasnifi. |
+| P148 | Her varlığın onayı; yanlışlanamazlık; rıza; varlığı ve altı koruma; mutlak bilgi | A/R; §10H; yanlışlanamama deneysel doğrulanma değil. |
+| P149 | İkinci öznenin oluşumu/onayı; rahmet/rıza; atom/molekül/element; biyoloji ve toplulukla amaç | A/D/R; §§5A, 9A, 10H; kimyasal hata aktarılmaz; oluşum/onay rolleri ayrı. |
+| P150 | Mutlak bilginin üst boyut oluşu | A/R; §10H; ontolojik bilgi kullanımı. |
+| P151 | Kendine ulaşma ve yalnız kendini doğrulama olarak kuşkucu bilgi | A/R; §10H; sıradan yöntemsel şüpheyle eşanlamlı değil. |
+| P152 | Kara delik/etçil/yosun/bakteri; tekillik ve ikinci öznenin yokluğu | A/D/R; §10H; güncel evrensel ontolojik muhataplıktan istisna çıkarılmaz. |
+| P153 | Kuşkucu bilginin yok hükmü/varlık bilgisiyle görünmesi | A/R; §10H; özel normatif tasnif. |
+| P154 | Varlığı koruma/iyilik; ikinci benlik; İslam ve hakikat; uymayan bütün fiillerin kuşkucu oluşu | A/R; §§9A, 10H; kurucu teolojik ölçüt, bütün kişilerin doğruluğuna ilişkin ampirik sonuç değil. |
+| P155 | Bilgi kaynağı başlığı | B |
+| P156 | İki bilen/sevgi; gerçek model hedefi; boyutsal kapsama; altıncı boyut/sevgi; cennet ve karanlık madde ihtimali | A/D/R; §9A; ihtimal fizik özdeşliği yapılmaz. |
+| P157 | Varlık alanı genişletmenin evrenselliği | A/R; §4B; ölçüt ve karşı-örnek açık. |
+| P158 | Var olmak için ikinci doğrulayıcı; aynı özden ayrılma; ruhun ilkten olması | A/R; §§4, 10H; yaratılmış öz ile Ehad'ın yaratılmamış konumu karıştırılmaz. |
+| P159 | İkinci varlığın ayrı bedeni; Higgs/kütle ve parçacıklar; koşul dili | D/R; §§5A, 10H; bütün varlık için cisim şartı güncel kanona eklenmez. |
+| P160 | Ters H/He numaraları; Higgs/atom; çekim/çevre; kara delik evresi; Higgs'in öz/çekim kaynağı sayılması | D/R; §5A, Ek C; proton sayısı düzeltildi; diğer fizik savları dayanak değil. |
+| P161 | DNA–Higgs benzetmesi; ikinci hücre; bölünme zorunluluğu; bitki çoğalması | A/D/R; §§6–6B; analog öğeler aynı biyolojik/fiziksel mekanizma değil. |
+| P162 | Bitki üremesine paralel zekâ/akıl; hayvan/insan evreleri | A/R; §7A; insanda zekâ sürer; kronolojik mekanizma ispatı değil. |
+| P163 | Melek bağlılığı/şeytan; üçlü ve dördüncü güç; atom/hücre/bitki/hayvan/melek/insan çoğalma yolları | A/R; §§8A, 9A; farklı ilişki ve statüler aynı mekanizma sayılmaz; dinî kaynak açık. |
+| P164 | İnsanda akıl/bilme; yaratılmış ikinci bilen; ruh ve ilk bilene yönelim; melek/şeytan/tercih | A/R; §§8B, 10; ontolojik konum ve epistemik işlem ayrılır. |
+| P165 | İkinci varlık/bilgi; sevgi; ahirette doğma; yumurta/hücre/fizik; nimet ve ter tasvirleri | A/D/R; §9A; benzetmeler mekanizma değil; ayrıntılı dinî atıflar açık. |
+| P166 | Yaratıcının var olması/bilinmesi; insan şahitliği; yaratılmış alanlar; ahiret/ilk ruh | A/R; §10H; bilinme ile yaratılmamış Ehad'ın varlığına koşul olma ayrı. |
+| P167 | Kanun/bilgi/var etme; doğruluk/iyilik/yaratılış; bereket/süreklilik/sevgi; İslam/peygamber yolu | A/R; §§9A, 10F–10H; ahlaki ve olgusal doğruluk özdeş yapılmaz. |
+| P168 | Varlığın kanunu; insanlığın din ve bireyin duygu kaynağı | A/R; §§10G–10H; kaynak eksenleri ayrılır. |
+| P169 | Sonuç başlığı | B |
+| P170 | Sevgi/samimiyet/doğruluk; merhamet; sevilen uğruna eylemler; dünyevi geçicilik ve hüküm | A/R; §9A; sevgi yanlışsızlık garantisi değil. |
+| P171 | Takva önderliği; hata yapmama; nehir analojisi; sevgi/doğruluk/rahmet/hak-adalet; cahillikten uzak öğrenme | A/R; §§9A, 10H; normatif yönelim/döngüsel gerekçe ayrımı; dinî gönderme H01-05 açık. |
+| P172 | Açıklama sorusu | B |
+| P173 | Hüküm/ahlak; zaman üstü; sevdiğiyle beraberlik; ilk bağımsız varlık ve üretici | A/R; §§9A, 10H; rivayet izi ayrıca doğrulanacak; üretici analojisi ontolojik ispatı bitirmez. |
+| P174 | Özün duygusunun/kanununun kaynağı | A/R; §§8B, 10G. |
+| P175 | İnsan/evren/tüm varlık başlangıcı; ilahın kendine doğruluğu yazması; ilk bilgi/kurallar | A/R; §§1, 10B; teolojik başlangıç, bilimsel tarihleme değil. |
+| P176 | İslam seçimi ayet ifadesi; insan ahlakı/kanun; güzel ahlak; sevgiyle bilme | A/R; §9B; Mâide 5:3 kontrolü ile ek savlar ayrı. |
+| P177 | İlahi merhamet/kudret; madde/canlı/zihin/ruh/ahlak/duygu/akıl; görünürlük; zaman/mekân; duygusal bilgi kaynağı ve akıl merkezi | A/R; §§8B, 10E–10H; bütünleşik insan korunur; döngüsel tanımlar bağımsız kanıt sayılmaz. |
+
+**İlk eşleme kararı:** Varlık P1–195 ve Akıl P1–177, toplam 372 boş olmayan satır/paragraf için sıralı ilk içerik–işlem dökümü Ek G–L'de tamamlandı. Bu sayı başlıkları da içerir; atomik önerme sayısı veya doğruluk puanı değildir. Tarihsel savlar aktarım yeri ya da açık D/R araştırma kaydı olmadan bırakılmadı. H01-01'in nihai kapanışı için çok savlı satırların atomik ayrıntı ve hedef aktarım kontrolü, H01-02/03/04/05 ile bağlantılı kaynak işleri açıktır. K0 ve 04. madde tamamlanmış sayılmaz.
