@@ -47,3 +47,37 @@
 **P5:** Süre/kalite kazanımını karşılaştır; ancak kanıtlanan hızlanmayı raporla.
 
 Bu belge sürekli gelişim politikasını kayda geçirir; tek başına saatlik bir görevin kurulduğu veya otomasyonun çalıştığı anlamına gelmez.
+
+## H01 / 04 dersleri — gereksiz işin tekrarını önleme (24 Ekim 2026)
+
+**Kurucu talimatı:** 04'teki gereksiz büyümeler, hatalar ve yavaşlatan işler diğer makalelerde tekrarlanmayacak. Bu kayıt mevcut beş rampanın uygulama kuralıdır; yeni aşama, makale veya onay kapısı değildir.
+
+| H01'de görülen hata / zaman kaybı | Sonraki makalelerde uygulanacak kural |
+|---|---|
+| Kaynak sadakatini ilk taslağın bilimsel hatasını savunmak gibi ele almak | Kurucu maksadı koru; yerleşik bilimsel tanım ve maddi hatayı kaynakla düzelt. İlk taslağın hatasını ispatlamaya çalışma. |
+| Kurucunun açıkladığı anlamı tekrar tekrar kelime tartışmasına çevirmek | Son açık kurucu açıklamayı esas al, mevcut kavram kaydını kullan. Yeni delil veya gerçek karar çatışması yoksa aynı konuyu yeniden açma. |
+| Mira'da mevcut kavramı araştırmadan yeniden tanım kurmak | İlgili kanon ve kaynak dalını içerikleriyle kontrol et. Varsayılan dal aramasının boş dönmesi yokluk kanıtı değildir; bilinen çalışma dalının dosya ağacını da incele. |
+| Aynı sav için kaynakları değişiklik olmadan her tur yeniden araştırmak | Kaynak, sürüm, bölüm ve desteklenen dar savı bir kez kaydet; yeniden kullanılabilir kaydı devral. Sav/sürüm değişirse, hata şüphesi veya güncellik gereği varsa yeniden kontrol et. |
+| Erişim hatasını çözülmüş bilimsel tanımın belirsizliği sanmak | Teknik erişim notunu ayrı tut. Güvenilir okunmuş dayanak yeterliyse düzeltmeyi uygula; aynı 403 çağrısını yeni gerekçe olmadan tekrarlama. Desteksiz iddiayı doğrulanmış gösterme. |
+| Paragraf dökümünü tamamlayınca onu yeniden baştan üretmek | Mevcut kapsam kaydını kullan; yalnız açık savı incele. Paragraf kapsamı ile doğruluk denetimini karıştırma. |
+| Aynı açıklama, sınır ve ilerleme notunu ana metne tekrar tekrar eklemek | Güncel tanımı tek yerde ver ve oraya bağla. Araştırma günlüğünü, tarihsel farkları ve uzun tabloları kaynak ekinde tut. |
+| Makalenin yerine sürekli denetim belgesi üretmek | Önce okunabilir ana metni düzelt. Ek veya yönetim kaydı, ana metindeki somut ihtiyaca hizmet etsin; yeni kontrol listesi üretmek tek başına makale ilerlemesi sayılmasın. |
+| Küçük kelime değişiklikleriyle çok sayıda tur geçirmek | Bağımsız okumaları birlikte yap; ilişkili tanım, argüman, kaynak ve sonuç düzeltmelerini anlamlı bir iş paketi olarak tamamla. Commit sayısını başarı sayma. |
+| H01'in kapsamını bütün eski savların ve diğer çekirdeklerin tamamlanmasına kadar büyütmek | Makalenin araştırma sorusunu ve mevcut sonucunu taşıyan savları öncelikle denetle. Diğer savlar için hedef, gerekçe ve açık statü kaydet; hedef dosya güncellenmeden aktarım tamamlandı deme. Kaynak fikrini sessizce kaybetme. |
+| Tamamlanan alt işi eski “yapılacak” kaydında bırakmak | Değişiklik sonunda tek güncel durum kaydını düzelt; eski aşama notlarını tarihsel olarak işaretle. Aynı işi yeniden açık hale getirme. |
+| İç düzenleme, bağımsız inceleme ve yayın kararını tek belirsiz bekleyişte toplamak | Editoryal tamamlanma, bağımsız değerlendirme ve yayın statüsünü ayrı kaydet. Bağımsız inceleme yoksa tam kapanış verme; bu yokluk tamamlanmış editoryal işi tekrar yapma gerekçesi değildir. |
+| Dosyayı kısaltırken kaynak yerlerini ve bölüm göndermelerini koparmak | İçeriği önce kaynak ekinde koru; sonra ana metni düzenle. Yeni metnin atıf ve bölüm göndermelerini güncel ana metne veya açık ek konumuna bağla. |
+
+### Uygulama sırası
+
+1. Güncel makale, ilgili kurucu karar ve mevcut kaynak izini oku; daha önce yapılmış işi belirle.
+2. Sonucu etkileyen açık sorunları aynı iş paketi içinde düzelt; ilgili bilimsel savları alan kaynaklarıyla denetle.
+3. Öz–yöntem–argüman–sonuç tutarlılığını sağla; tarihi/işlemsel ayrıntıyı eke ayır.
+4. Kaydet, GitHub'dan yeniden oku ve içerik eşitliğini doğrula; güncel açık işi bir kez bildir.
+5. Yeni kanıt, değişen sav veya somut hata yoksa kapanmış alt işe geri dönme. Sonraki gerçek darboğazı ele al.
+
+### H01'den kanıt ve ölçüm sınırı
+
+H01 ana metni düzenleme öncesi **155.339**, sonrasında **30.789 JavaScript karakteridir**. Önceki tam içerik [kaynak ve denetim ekinde](H01-KAYNAK-VE-DENETIM-EKLERI-2026-10-24.md) korundu. Kaynak koruma commit'i: `4a8bd0bedf73fd691ba32e0b69a90b3c06a9e0d5`; düzenlenmiş ana metin commit'i: `fb549b14254df69d73987ab5e0c3d005e8e26506`. İki dosya yazım sonrası birebir yeniden okundu.
+
+Bu ölçüm ana metindeki hacim azalmasını gösterir; çalışma süresinin aynı oranda azaldığını, kaynak denetimlerinin tamamlandığını veya bağımsız inceleme yapıldığını göstermez. Sonraki makalelerde yeni veri olmadan yeniden açılan savlar, yinelenen kaynak çağrıları ve ana metne taşınmayan denetim işleri izlenir; ölçülmüş süre verisi yoksa hızlanma yüzdesi uydurulmaz.
