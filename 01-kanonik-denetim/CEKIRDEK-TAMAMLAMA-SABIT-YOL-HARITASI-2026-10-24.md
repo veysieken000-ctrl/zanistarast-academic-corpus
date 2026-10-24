@@ -1,6 +1,6 @@
 # Zanistarast cekirdek tamamlama sabit yol haritasi
 
-Tarih: 2026-10-24. Durum: 10/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
+Tarih: 2026-10-24. Durum: 11/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
 
 - [x] 01 Kurucu kaynak sadakati GitHub kaydi (f334339a)
 - [x] 02 H01 ontolojik ikinci bilen kaynak duzeltmesi (d367244e)
@@ -12,7 +12,7 @@ Tarih: 2026-10-24. Durum: 10/15; isaretler sadece belirtilen alt gorevin tamamla
 - [x] 08 H05 oz duygu zeka akil fitri ve iradeli ahlak (d1f4642)
 - [x] 09 Varlik Tarihi kaynak/mantik/bolum butunlugu (4dace25)
 - [x] 10 Jeoloji kaynak/mantik/bolum butunlugu (d6a13fb)
-- [ ] 11 Insan Tarihi cekirdek makalesi
+- [x] 11 Insan Tarihi kaynak/mantik/bolum butunlugu (32de37c)
 - [ ] 12 Cekirdekler arasi kavram/kaynak celiskilerini giderme
 - [ ] 13 Akademik yapi kaynakca sonuc son denetimi
 - [ ] 14 GitHub dosya dosya dogrulama
@@ -66,3 +66,10 @@ Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpu
 Jeoloji-01'in ic kaynak/mantik/bolum butunlugu tamamlandi. Jeolojik ana metin, iki cag/reset yazisi ve arastirma indeksi icerikleriyle karsilastirildi; jeolojik limit ve tamamlanan H01–Varlik Tarihi gerekceleri devralindi. Ortam, kimyasal olabilirlik, biyolojik islev ve tarihsel iz ayrildi. Patel 2015, Hudson 2020, Catling yazar surumu ve Schulte 2010 kaynaklari erisilen pasaj/ozet duzeyi acik tutularak dar savlarla kullanildi. ICS surum kaydi korundu. Reset yorumundan olculmus nedensellik sonucu cikarilmadi.
 
 Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/d6a13fbd7110e346d48fc384386f87a79bd7f652 . Dosya geri okunarak yazilan icerikle birebir dogrulandi; yerel baglantilar dosya agacinda kontrol edildi. Onceki metin 1b77040 surumunde korunur. Bu isaret yeni deney, tum kaynaklarin tam metin incelemesi veya yasamin kokeninin cozumu degildir. Toplu 12–14 denetimleri kendi sirasinda kalir. Siradaki ana madde 11 Insan Tarihi'dir.
+
+
+## 11 kapanis kaydi — 24 Ekim 2026
+
+Insan Tarihi'nin ic kaynak/mantik/bolum butunlugu tamamlandi. Insan cagina gecis, ahlak boyutu ve Newroza Kawa cekirdek yazilari icerikleriyle karsilastirildi. Guncel H01–Jeoloji ve onceki Core/paragraf/tarihyazim arastirmasi devralindi. Biyolojik tur tarihi, davranis izi, bilgi aktarimi, kurumsal orgutlenme ve iradeli sorumluluk ayrildi. Jebel Irhoud tarihlemesi, Gobekli Tepe 2012 yorumu, kulturel aktarim deneyi ve Ostrom kurumsal cercevesi erisilen kisimlarla sinirli kullanildi.
+
+Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/32de37c3d01bbf0e80e721c6dc1f3e193d81c1cd . Dosya GitHub'dan geri okunarak gonderilen icerikle birebir dogrulandi. Yerel kaynak baglantilari dosya agaciyla kontrol edildi; onceki metin 2933966 surumunde korunur. Iradeli ahlakin ilk ani icin tarih hesaplanmadi; Newroza Kawa'nin ampirik ustunlugu veya yeni saha/insan deneyi ileri surulmedi. Siradaki ana madde 12 cekirdekler arasi kavram ve kaynak celiskileri denetimidir. 13–15 kendi kapsamlarinda acik kalir.
