@@ -4,13 +4,13 @@
 
 ## Öz
 
-Bu çalışma, Zanistarast'ın jeolojik hazırlık tezini çevresel koşul, kimyasal mekanizma ve biyolojik iz ayrımıyla inceler. Özgün jeoloji ve geçiş yazıları, tamamlanan Hebûn–Varlık Tarihi çerçevesi ve seçilmiş bilimsel yayınlarla karşılaştırılır. Kurucu yaklaşımda jeolojik süreçler biyolojik işlevin taşıyıcı ortamını hazırlar; bu önerme her uygun ortamın zorunlu olarak yaşam ürettiği anlamına gelmez. Çalışma, iki prebiyotik kimya araştırmasının sınırlı sonuçlarını, biyolojik iz değerlendirmesini ve kitlesel yok oluşlara ilişkin nedensel açıklamayı karşılaştırır. Kimyasal ürün oluşumu, canlı sistemin kurulması, erken Dünya'da olayın gerçekten gerçekleşmesi ve bugünkü jeolojik kayıtta tanınması ayrı savlardır. “Jeolojik limit”, “kararlılık” ve “reset” kavramlarının ölçütleri belirtilmeden evrensel geçiş yasası kurulamayacağı gösterilir. Katkı, jeolojik ortamdan biyolojik sonuca geçişi kaynak, kontrol, kronoloji ve alternatif açıklamalarla inceleyen bir araştırma çerçevesidir. Yeni deney, saha verisi veya yaşamın kökenine ilişkin tamamlanmış çözüm sunulmaz.
+Bu çalışma jeolojik hazırlık ve biyolojik işlev sorularını, Hebûn–Zanabûn'un yaratılış düzeni ile insanın iradeli ahlakını birlikte dikkate alarak inceler. Tabiat Ehad'dan bağımsız son açıklama olarak alınmaz; maddi mekanizma ile ilahî hikmet, farklı fakat ilişkili sorular olarak ele alınır. Kur'an'ın insan eylemleriyle bozulma arasındaki bağı, hadislerin ortak zararı önleme vurgusu ve Risale-i Nur'un maddi sebepler–musibet–imtihan okuması senteze katılır. Bir doğa olayının oluşumu, afete dönüşmesi, insan tercihlerinin kaybı artırması ve olayın manevi yorumu ayrılır. Jeolojik ortam, kimyasal dönüşüm, biyolojik işlev ve tarihsel iz için seçilmiş bilimsel kaynaklar değerlendirilir. Katkı, yaratılışın anlamını ve sorumlu insanı dışarıda bırakmadan ölçülebilir mekanizmayı araştıran bir çerçevedir. Yeni deney veya belirli afetteki herkes hakkında kusur hükmü sunulmaz.
 
 **Anahtar sözcükler:** jeoloji, yaşanabilirlik, prebiyotik kimya, biyolojik iz, jeolojik limit, boyutsal hazırlık.
 
 ## 1. Araştırma sorusu ve yöntem
 
-**Soru:** Fiziksel-jeolojik koşulların biyolojik işlevlere hazırlık oluşturduğu tezi, hangi gözlem ve deneylerle araştırılabilir; hangi sonuçlar mevcut dayanakların ötesine geçer?
+**Soru:** Yaratılış düzenindeki jeolojik işleyiş ve biyolojik hazırlık nasıl araştırılır; insanın iradeli hükmünün bu düzene aykırılığıyla oluşabilen zarar, fiziksel olay ve ilahî hikmet ilişkisi nasıl birlikte ele alınır?
 
 Varlık Tarihi ontolojik kapsama ile kronoloji ve mekanizmayı ayırır. Jeoloji'nin ayrı işi, **belirli bir ortamın hangi kimyasal sürece ne ölçüde imkân sağladığını ve elde edilen izin neyi desteklediğini** incelemektir. Ontolojik tabloyu tekrar etmek bu mekanizmayı açıklamaz.
 
@@ -44,6 +44,24 @@ Jeolojik ana metin gezegen oluşumu, soğuma, kabuk, su ve kimyasal dolaşımı 
 `G_limit → E_balance → Bio_opening` kavramsal okudur; değişkenleri kalibre edilmiş bir yasa değildir. “Denge” termodinamik denge, çevresel kararlılık veya ekolojik süreklilik anlamında kullanılıyorsa hangisinin kastedildiği yazılır. Bunlar tek büyüklük değildir.
 
 Özgün kaynakta “jeoloji biter, biyoloji işler” anlatımı alanın ortadan kalkması olarak alınmaz. Jeolojik süreçler biyolojik ortamın koşullarını değiştirmeyi sürdürebilir; biyolojik süreçler de çevreyle karşılıklı ilişki içindedir. Bu nedenle tek yönlü bir sahne kurulumu yerine belirli geri beslemeler araştırılır.
+
+## 3.1. Yaratılış düzeninde tabiat, ilahî hüküm ve iradeli ahlak
+
+Jeolojik ortam bu makalede Ehad'dan bağımsız, kendine yeterli son açıklama olarak alınmaz. Hebûn–Zanabûn sentezinde tabiatın düzenli işleyişi yaratılış ve idame bağlamında okunur. Merkez–çevre ilişkisi, insanın yararlandığı su, toprak, yapı ve canlı çevrenin birbirinden kopuk olmadığını araştırmaya yöneltir. İnsan kendi iradeli hükmünü verirken bu taşıyıcı düzeni dikkate almakla sorumludur [İS1–İS3].
+
+Rûm 30:41 insan eylemleri ile karada ve denizdeki bozulmayı ilişkilendirir. Şûrâ 42:30–31'in sorumluluk ve ilahî kudret vurgusu, tedbiri kaderin karşıtı değil insanın görevi olarak değerlendirmeye imkân verir. Buradaki sentez, insanın emre aykırı tercihlerinin çevre ve toplumda sonuç doğurabileceğini kabul eder. Fakat insan iradesi ilahî yaratıcı kudreti durduran veya ona denk bir güç değildir.
+
+Risale-i Nur'un *On Dördüncü Söz'ün Zeyli*nde maddi sebepler ilahî irade ve hikmetten ayrı nihai kaynaklar olarak görülmez [İS3]. Bu okuma doğa olayının nasıl gerçekleştiğini araştırmayı dışlamaz; maddi sebep ile teolojik anlamın sorularını birlikte tutar. Metindeki tarihsel jeoloji betimleri güncel ölçüm modeli yerine kopyalanmaz.
+
+## 3.2. Doğa olayı, afete dönüşme ve ahlaki muhataplık
+
+Buhârî 2493'te gemideki zararlı girişimin önlenmesi ortak korunma sorumluluğunu anlatır [İS4]. Afet araştırmasında bu, tedbirin ve bilgiye dayalı kararın ahlaki önemini düşünmek için kullanılır.
+
+Bir doğa olayının oluşumu, insanların ona maruz kalması ve kaybın büyüklüğü ayrı araştırılır. UNDRR afet tanımında tehlikeli olayın maruziyet, kırılganlık ve kapasiteyle etkileşimini vurgular [D6]. Zanistarast açısından bu ayrım, iradeli ahlakın somut sorularını açar: kararı kim verdi, hangi bilgi saklandı, kim korunmadı, kaynak hangi ölçüyle dağıtıldı?
+
+Örneğin güvenlik bilgisinin bilerek göz ardı edildiği **kurgusal bir durumda**, oluşan zararı yalnız “doğanın işi” diye anlatmak insan hükmünü ve sorumluluğunu görünmez kılar. Tersine, ölçülmüş mekanizma göstermeden bir tercihin belirli bir yer hareketini doğurduğunu söylemek de bilimsel çıkarım değildir. Araştırma hem fiziksel olayı hem önlenebilir kayıp ve kurumsal tercihi açık tutmalıdır.
+
+*Zeyil*de masumların da musibete uğraması imtihan ve ahiret karşılığıyla açıklanır [İS3]. Bu nedenle afetin manevi anlamını kabul etmek, zarar gören herkesi fail veya suçlu ilan etmeyi gerektirmez. Yardım, hak koruma, tedbir ve ihmalin giderilmesi iradeli ahlakın uygulamasıdır.
 
 ## 4. Dört ayrı kanıt sorusu
 
@@ -140,6 +158,8 @@ Newroza Kawa bakımından çevresel süreklilik, Rabûn bakımından uzun vadeli
 
 ## 10. Sonuç ve sonraki kullanım
 
+Jeoloji, Zanistarast sentezinde yaratılış düzeninin maddi işleyişini araştırır. Merkez–çevre ve iradeli ahlak, insanın çevre ve başkaları üzerindeki etkisini açıklamaya katılır. Kur'an, hadis ve Risale-i Nur dayanakları manevi anlamı ve ortak sorumluluğu korurken maddi mekanizma, maruziyet ve önlenebilir zarar ayrı araştırılır. İlâhî kudret ile maddi sebepler birbirinin rakibi olarak kurulmaz.
+
 Jeolojik hazırlık tezi, hangi ortamın hangi kimyasal işleve koşul sağladığını araştıran açık bir soruya dönüştürülebilir. Seçilmiş deneyler sınırlı kimyasal basamakları; jeolojik sentezler ise iz, tarih ve mekanizma ilişkisini gösterir. Bunlar aynı sonucu veya bütün canlılık tarihini kanıtlamaz.
 
 Ortam, kimyasal olabilirlik, bütünleşik biyolojik işlev ve tarihsel gerçekleşme ayrı tutulmalıdır. Yaşam tespit edilmemesi kesin yokluğa, organik ürün yaşamın varlığına, yok oluş sonrasındaki gelişim de olayın amacına eşitlenmez. “Limit” ve “reset” kullanılacaksa değişkenleri ve başarısızlık koşulları açıklanmalıdır.
@@ -171,6 +191,19 @@ Bu makalenin katkısı, kurucu hazırlık düşüncesini koruyup ona özgül mek
 **[D4]** Schulte, P. ve ark. (2010). The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary. *Science, 327*(5970), 1214–1218. https://doi.org/10.1126/science.1177265 . Yazar kurumu kaydı: https://cris.uni-muenster.de/portal/en/publication/18330236 ; PubMed: https://pubmed.ncbi.nlm.nih.gov/20203042/ . 24 Ekim'de kurumsal araştırma kaydındaki özet ve künye kontrol edildi. Tam makale, ek stratigrafi verisi ve bütün karşıt modeller yeniden analiz edilmedi. Eski yaş değeri güncel jeolojik çizelge yerine kullanılmadı.
 
 **[D5]** International Commission on Stratigraphy. *International Chronostratigraphic Chart*, v2026/06. https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf . Sürüm/güncelleme duyurusu: https://stratigraphy.org/news/156 . Duyuru doğrudan okundu; bütün çizelge sınırları ve kaynak makaleler incelenmiş sayılmadı. Kullanım, birim ve kaynak sürümünün önemini açıklamakla sınırlıdır.
+
+
+### Kur'an, hadis ve Risale-i Nur dayanakları — 24 Ekim yeniden incelemesi
+
+**[İS1]** Diyanet, Kur'an Yolu: Rûm 30:41, [meal/tefsir kaydı](https://kuran.diyanet.gov.tr/mushaf/kuran-tefsir-1/rum-suresi-30/ayet-33/kuran-yolu-meali-5); Şûrâ 42:30–31, [meal ve tefsir](https://kuran.diyanet.gov.tr/kuran?ayet=30&mode=tefsir&sure=42); En'âm 6:65, [meal/tefsir kaydı](https://kuran.diyanet.gov.tr/mushaf/tefsir-2/enam-suresi-6/ayet-61/diyanet-isleri-baskanligi-meali-1). Mushaf sayfasının bağlantı ayeti ile içerikte incelenen ayet farklı olabildiğinden burada kullanılan ayet numarası açık yazıldı. İndekslenmiş resmî meal/tefsir pasajları okundu; yorumlar ayetin lafzıyla özdeşleştirilmedi.
+
+**[İS2]** Diyanet, [Enfâl 8:25](https://kuran.diyanet.gov.tr/tefsir/Enf%C3%A2l-suresi/1185/25-ayet-tefsiri) ve [Bakara 2:155–157](https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/162/155-157-ayet-tefsiri). Resmî indeks pasajları incelendi; Bakara doğrudan sayfası okunabilir gövde döndürmedi. Kullanım: toplumsal sonuç ve imtihanı birlikte ele almak.
+
+**[İS3]** Said Nursî, *Sözler*, On Dördüncü Söz'ün Zeyli; külliyatın [s.159](https://kulliyat.risaleinurenstitusu.org/sozler/on-dorduncu-soz/159), dördüncü/beşinci sual ve [s.160](https://kulliyat.risaleinurenstitusu.org/sozler/on-dorduncu-soz/160), maddi sebepler–ilahî irade pasajları doğrudan okundu. Bunlar tefsirî/teolojik yorumdur; güncel jeoloji ölçümü veya Kur'an'ın doğrudan lafzı değildir. Sayfalar bu dijital basıma aittir.
+
+**[İS4]** *Sahîh-i Buhârî*, Fiten, [7059](https://sunnah.com/bukhari:7059), Zeyneb bint Cahş rivayeti; Şirket, [2493](https://sunnah.com/bukhari:2493), Nu'mân b. Beşîr rivayeti. Arapça metin, İngilizce aktarım ve koleksiyon kaydı doğrudan karşılaştırıldı; burada Türkçe özet verilir. Numaralar bu dijital düzenindir. Yeni isnad tahkiki yapılmış veya bütün hadis külliyatı incelenmiş sayılmaz.
+
+**[D6]** UNDRR, [Disaster tanımı](https://www.undrr.org/terminology/disaster). Doğrudan kurum metni okundu. Kullanım: tehlikeli olay, maruziyet, kırılganlık ve kapasitenin etkileşimini ayırmak; bu tanım ilahî hikmetin ölçümü sayılmadı.
 
 ## Tarihsel iz ve tamamlanma kapsamı
 
