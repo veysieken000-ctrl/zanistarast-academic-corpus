@@ -5,15 +5,15 @@
 
 ## Öz
 
-Bu çalışma, Hebûn'un Ehad–Yek kabulü ile **ilk Yek → ikinci Yek → ilişkisel yeni Yekler → Komel** dizisini kurucu metinler üzerinden çözümleyen kavramsal bir araştırmadır. İlk kuruluş ve düzenli devam sorularının kurucu cevabı Zanabûn'dur; Zanabûn Hebûn ontolojisine dayanır. İki özgün Word metni, sonraki kurucu kararlarla tarihsel farkları korunarak karşılaştırılır; Nisâ 4:1'in tek nefis–eş–çoğalma anlatısı kurucu insan örneğinin teolojik dayanağı olarak ele alınır. Kaynak eşlemesi ontolojik ikinci Yek, ontolojik ikinci bilen ve epistemolojik ikinci bilenin farklı rollerini; altı boyut ile +Tek'in ve fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı işlevlerini görünür kılar. Seçilmiş fiziksel ve biyolojik karşı-örnekler, ortak şemanın bütün alanlarda aynı mekanizmayı zorunlu kılmadığını gösterir. İki metnin ilk sıralı eşlemesi tamamlanmış olmakla birlikte çok savlı pasajların ayrıntılı denetimi, bütün dış atıfların kapanışı ve bağımsız değerlendirme açıktır. Sunulan sonuç evrensel bir doğa yasasının ispatı değil, kaynağı ve uygulama sınırı belirtilmiş ontolojik açıklama programıdır.
+Bu çalışma, Hebûn'un Ehad–Yek kabulü ile **ilk Yek → ikinci Yek → ilişkisel yeni Yekler → Komel** dizisini kurucu metinler üzerinden çözümleyen kavramsal bir araştırmadır. İlk kuruluş ve düzenli devam sorularının kurucu cevabı Zanabûn'dur; Zanabûn Hebûn ontolojisine dayanır. İki özgün Word metni, sonraki kurucu kararlarla tarihsel farkları korunarak karşılaştırılır; Nisâ 4:1'in tek nefis–eş–çoğalma anlatısı kurucu insan örneğinin teolojik dayanağı olarak ele alınır. Kaynak eşlemesi türeme dizisindeki ikinci Yek'i, muhatap varlığı, Lêket'i ve bilgi değerlendirmesinin farklı rollerini; altı boyut ile +Tek'in ve fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı işlevlerini görünür kılar. Seçilmiş fiziksel ve biyolojik karşı-örnekler, ortak şemanın bütün alanlarda aynı mekanizmayı zorunlu kılmadığını gösterir. İki metnin ilk sıralı eşlemesi tamamlanmış olmakla birlikte çok savlı pasajların ayrıntılı denetimi, bütün dış atıfların kapanışı ve bağımsız değerlendirme açıktır. Sunulan sonuç evrensel bir doğa yasasının ispatı değil, kaynağı ve uygulama sınırı belirtilmiş ontolojik açıklama programıdır.
 
 **Anahtar sözcükler:** Hebûn, Ehad, Yek, ikinci Yek, türeme, Komel, Nisâ 4:1, 6+Tek, Zanabûn.
 
-## Kurucu kaynakla ontolojik ikinci bilen sınırı
+## Muhatap varlık ve ilişkisel gerçekleşme
 
-Kurucunun 23 Ekim tarihli düzey ayrımında **Ehad İlk Bilen**, yaratılmış varlık ise Ehad karşısında **ontolojik ikinci bilen** olarak kaydedilir. Kurucunun 24 Ekim açıklamasıyla bu ifade, kendi varlık tanımı ve sınıflandırmasına uyan **Ehad karşısındaki muhatap, etkilenen varlık** anlamındadır. Bu muhataplık Hebûn'un varlık ve fıtrat alanına ilişkindir. Ontolojik **ikinci Yek** türeme dizisindeki bir terimdir; ontolojik **ikinci bilen** ise yaratılmışın Ehad karşısındaki konumunu belirtir. İkisi aynı tanım değildir. Fiziksel ve biyolojik varlığın fıtrî düzeni insan türü bilinçli bilgi onayı olarak sunulmaz. Zanabûn'daki ikinci bilenin bilgi sonucunu onaylama işlevi ayrı epistemolojik düzeyde işlenir.
+Ehad İlk Bilen'dir. Yaratılmış Yek, kurucunun varlık tanımı ve sınıflandırması içinde **Ehad karşısındaki muhatap, etkilenen varlıktır**. Varlıklar arasındaki gerçek ilişkinin ilgili katmanlarda meydana getirdiği fark **Lêket** terimiyle açıklanır (§10). **İkinci Yek** ise türeme dizisindeki tekilliği belirtir. Bu anlatım fiziksel ve biyolojik varlıklara insan tipi bilinç yüklemez.
 
-Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md` ve `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Bu bölüm kurucu kaynak aktarımıdır; yeni bilimsel deney sonucu değildir.
+Dayanak: 24 Ekim kurucu açıklaması; `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`; Lêket kaynak kaydı §10'dadır.
 
 ## Yöntem ve iddiaların kapsamı
 
@@ -276,19 +276,19 @@ Bu denetim, özgün metindeki dinî ifadelerin kaynak statüsünü belirler; kur
 
 **Doğrudan kaynaklar:** Diyanet meal PDF'si: https://webdosya.diyanet.gov.tr/kuran/kuranikerim/dosyalar/document/kuran_meal.pdf . Tirmizî 3369 Arapça metni, İngilizce çevirisi ve platform derece kaydı: https://sunnah.com/tirmidhi:3369 . Müslim 2849a Arapça metni ve İngilizce çevirisi: https://sunnah.com/muslim:2849a . Erişim: 24 Ekim 2026. Bu rivayet metinleri teolojik kaynak karşılaştırmasıdır; fiziksel güç sıralaması veya ahiretin ampirik kanıtı olarak kullanılmaz. Tam isnad/varyant incelemesi ve bağımsız Rasterast kapısı açıktır.
 
-## 10. Hebûn'dan Zanabûn'a: ikinci Yek ve ikinci bilen
+## 10. Hebûn'dan Zanabûn'a: muhatap varlık ve Lêket
 
-Kurucu düzey ayrımına göre **Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında ontolojik ikinci bilen, yani muhatap ve etkilenen varlık konumundadır**. Hebûn'da **ikinci Yek**, ilk Yek'ten sonra gelen ontolojik tekilliktir; bu terim ontolojik ikinci bilenin eşanlamlısı değildir. Zanabûn'da **epistemolojik ikinci bilen**, bilenin bilinen nesneye yönelimiyle doğan sonucu onaylayan muhataptır. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları H02'de ele alınır. H03 bu sürecin kaynak, karşı-örnek ve denetim zincirini kurar. H01'in varlık şeması, bu yöntemlerin uygulanmış ve başarılı olduğu varsayımına dayanmaz.
+Hebûn, muhatap varlığın kuruluşunu ve ilişkilerini; Zanabûn, bu ilişkiler hakkında ileri sürülen bilgi iddialarının değerlendirilmesini ele alır. H03 Rasterast kaynak, karşı-örnek ve kanıt denetimini yürütür. Varlığın etkilenmesi, araştırmacının iddiasının doğrulandığı anlamına gelmez.
 
 ### Muhatap varlık ve Lêket
 
-Kurucunun varlık tanımı ve sınıflandırması içinde ontolojik ikinci bilen, **Ehad karşısındaki muhatap, etkilenen varlıktır**. Varlıklar arasındaki ilişkinin oluşturduğu fark ise **Lêket** kavramıyla açıklanır: gerçek bir varlık veya gerçeklik, gerçek bir ilişki yoluyla bir Yek'in bir veya birkaç gerçek katmanında fark meydana getirir ve onun zaman, yer ve ilgili boyuttaki durumunun değişimine/oluşumuna katılır. Muhatap varlık ilişkinin tarafını, Lêket ilişkide meydana gelen farkı anlatır.
+Kurucunun varlık tanımı ve sınıflandırması içinde yaratılmış Yek, **Ehad karşısındaki muhatap, etkilenen varlıktır**. Varlıklar arasındaki ilişkinin oluşturduğu fark ise **Lêket** kavramıyla açıklanır: gerçek bir varlık veya gerçeklik, gerçek bir ilişki yoluyla bir Yek'in bir veya birkaç gerçek katmanında fark meydana getirir ve onun zaman, yer ve ilgili boyuttaki durumunun değişimine/oluşumuna katılır. Muhatap varlık ilişkinin tarafını, Lêket ilişkide meydana gelen farkı anlatır.
 
 Bu tanım Mira'ya daha önce kaydedilmiş Lêket açıklamasına dayanır; burada yeni bir terim icat edilmez. Fiziksel ilişkide fiziksel durum farkı, biyolojik ilişkide ilgili yaşamsal/örgütsel fark, zihinsel ilişkide ise ilgili bilişsel fark incelenir. Her durumda hangi varlığın hangi katmanının etkilendiği ve farkın nasıl belirlendiği açıklanır. Aynı kavramın farklı alanlarda kullanılması aynı mekanizmanın işlediği anlamına gelmez.
 
 Lêket'in gerçekleşmesi insan gibi bilinçli bilme veya bilimsel bir iddiayı onaylama şartına bağlı değildir. Etkilenen varlığın durumunun değişmesi de her seferinde yeni bir bireysel Yek meydana geldiği anlamına gelmez. Zanabûn'da bilgi iddiasını değerlendiren bağımsız ikinci bilen ve Rasterast denetimi ayrı yöntemsel işlevlerdir.
 
-**Kaynak ve kapsam:** Mira deposu, `faz32-scientific-autonomy` dalı, [Canonical Reflection, Lêket and Second Knower Relation](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/faz32-scientific-autonomy/docs/architecture/CANONICAL_REFLECTION_AND_SECOND_KNOWER_RELATION_2026-09-17.md), §§4–10 ve §13; 24 Ekim 2026'da doğrudan okundu. Buraya yalnız Lêket ve ilişkisel ikinci muhatap ayrımı aktarılmıştır. Aynı eski belgedeki Ehad–Tek–Yek açıklamalarının tamamı güncel 22–24 Ekim kanonunun yerine geçirilmez. Lêhat ve lênat için bu erişimde tanımlayıcı kayıt doğrulanamadığından anlam uydurulmaz ve bunlar eşanlamlı kabul edilmez.
+**Kaynak ve kapsam:** Mira deposu, `faz32-scientific-autonomy` dalı, [Canonical Reflection, Lêket and Second Knower Relation](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/faz32-scientific-autonomy/docs/architecture/CANONICAL_REFLECTION_AND_SECOND_KNOWER_RELATION_2026-09-17.md), §§4–10 ve §13; 24 Ekim 2026'da doğrudan okundu. Buraya yalnız Lêket ve ilişkisel ikinci muhatap ayrımı aktarılmıştır. Aynı eski belgedeki Ehad–Tek–Yek açıklamalarının tamamı güncel 22–24 Ekim kanonunun yerine geçirilmez. 
 
 ### 10A. Ana önermelerin kaynak ve statü haritası
 | Önerme | Dayanak | Statü ve aktarım sınırı |
@@ -299,13 +299,9 @@ Lêket'in gerçekleşmesi insan gibi bilinçli bilme veya bilimsel bir iddiayı 
 | Hücre sayısı ile bütünleşmiş yaşam döngüsü farklıdır | Ratcliff ve ark., 2012; bölüm 6 | Birincil deneyle karşılaştırma; bütün türlerin tarihine genellenmez |
 | Fıtrat ve iki ahlak ayrımı | 22 Ekim kurucu kilometre taşı | Güncel felsefi/teolojik tanım; H04/H05'e aktarılır |
 
-### 10A.1. Fizik örneğinde muhatap varlık
+### 10A.1. Fizik örneğinin düzeltilmiş kullanımı
 
-Kurucunun 24 Ekim 2026 açıklamasına göre, özgün Varlık P38'deki “ikinci bilen” ifadesi, kurucunun varlık tanımı ve sınıflandırması içinde **Ehad karşısında muhatap olan, etkilenen varlığı** anlatır. Fizik boyutunun birinci evresinde atom bu kapsamda ele alınır. Buradaki “ikinci”, Ehad karşısındaki yaratılmışlık konumudur; hidrojen ile helyum arasında birinci/ikinci atom türü sıralaması değildir. Bilinçli muhakeme veya bir araştırma sonucunu değerlendirme şartı taşımaz.
-
-Bu nedenle fizik örneği, insanın bilgi onaylama işlemi üzerinden açıklanmaz. Hidrojen/helyum adları, proton sayıları ve oluşum süreçleri fizik kaynaklarına göre düzeltilir (§§5–5A); muhataplık tanımı bu eski örnekteki adlandırma hatasına bağlanmaz. Zanabûn'daki epistemolojik ikinci bilenin sonuç değerlendirmesi ayrı işlevdir.
-
-Özgün P38'in bütün atomlarda nötron, ters proton sayıları, ikinci atom zorunluluğu ve yıldız/gezegen oluşumuna ilişkin savları düzeltilmiş makalenin bilimsel öncülleri değildir. Bunların mevcut düzeltme ve açık araştırma izleri §§5–5B, H01-E01–E05 ve Ek G'dedir. Akıl P149'un kimyasal sıralaması §5A, hücresel örgütlenme geçişi §6 kapsamında değerlendirilir. İlk taslaklar araştırmanın girdisidir; kurucunun maksadı korunarak hataları giderilir. Bu açıklama yeni bir varlık tanımı veya yeni bir fizik yasası eklemez.
+Fizik boyutunun ilk evresinde atom, kurucunun sınıflandırmasına göre muhatap varlık olarak ele alınır. Atomlar arasındaki gerçek ilişkilerde meydana gelen ilgili durum farkları Lêket kapsamında incelenebilir. Bu kullanım belirli bir atom türüne bilinç atfetmez; hidrojen/helyum adlandırması ve oluşum süreçleri §§5–5A'daki bilimsel düzeltmelere dayanır. Eski taslağın hatalı proton sayıları ve açıklanmamış oluşum sıraları güncel açıklamaya taşınmaz.
 
 ### 10B. Ontolojik argüman ve rakip açıklama
 Kurucu kayda göre ilk kuruluş ve düzenli devam sorularının cevabı Zanabûn'dur; Zanabûn, Hebûn'un Ehad–Yek kabulüne ve ilk Yek → ikinci Yek → yeni Yekler → Komel ontolojik düzenine dayanır. Tekillik, birbirinden ayırt edilebilir varlıkları; türeme, önceki varlıklarla bağıntılı yeni varlığın ortaya çıkmasını; Komel, tekillerin ilişkisel bütününü anlatır. Bu kavramlar özdeş değildir. Argüman: (1) Varlık alanında tekiller ve ilişkisel bütünler vardır. (2) Bir bütünü yalnız tekillerin sayısı açıklamaz; aralarındaki düzen de açıklanmalıdır. (3) Zanistarast bu düzenin ontolojik temelini Yek olarak yorumlar. Sonuç, açıklayıcı bir metafizik çerçevedir; üçüncü öncül ilk ikisinden zorunlu mantıksal sonuç olarak çıkmaz. Karşı görüş, farklı bilimlerin kendi mekanizmalarının zaten yeterli açıklama sunduğudur. Hebûn bu mekanizmaların yerine geçme iddiası taşımaz; onların ontolojik açıklama düzeylerini ilişkilendirmeyi önerir. Fiziksel bir deneyle Ehad'ın ispatlandığı ileri sürülmez.
@@ -363,7 +359,7 @@ P143'ün takipçiler hakkındaki genellemesi ve P154'ün tüm fiil/düşünceler
 
 Hebûn bu metinde Ehad'ın yaratılmamış kurucu konumu, yaratılmış tekillikler ve ilişkisel Komel üzerinden ontolojik açıklama programı olarak savunulur. İlk kuruluş ve düzenli devam sorularının kurucu cevabı Zanabûn'a aittir; Zanabûn bu ontolojik temele dayanır. Nisâ 4:1 insan örneğinin teolojik yorum kaynağıdır; bütün fiziksel ve biyolojik türeme süreçlerinin aynı işlem olduğunu göstermez.
 
-Kaynak karşılaştırmasının sonucu üç ayrı düzeydir: ikinci Yek türeme dizisinin tekilliği, ontolojik ikinci bilen yaratılmışın Ehad karşısındaki konumu, epistemolojik ikinci bilen bilgi sonucunu değerlendiren muhataptır. İlk sıralı kaynak eşlemesi iki özgün metnin bütün paragraf/satırlarını kapsar; tarihsel evreler, kanun/zaman/bilgi kullanımları ve sonraki fıtrat–ahlak tanımları birbirine geriye dönük alıntı olarak yüklenmez. İnsan ve hayvanın ortak özüne ilişkin kurucu kabul ile insandaki iradeli sorumluluk birlikte korunur.
+Kaynak karşılaştırmasının sonucu üç ayrı düzeydir: ikinci Yek türeme dizisinin tekilliği, ontolojik muhatap varlık yaratılmışın Ehad karşısındaki konumu, epistemolojik ikinci bilen bilgi sonucunu değerlendiren muhataptır. İlk sıralı kaynak eşlemesi iki özgün metnin bütün paragraf/satırlarını kapsar; tarihsel evreler, kanun/zaman/bilgi kullanımları ve sonraki fıtrat–ahlak tanımları birbirine geriye dönük alıntı olarak yüklenmez. İnsan ve hayvanın ortak özüne ilişkin kurucu kabul ile insandaki iradeli sorumluluk birlikte korunur.
 
 Seçilmiş bilimsel kaynaklar belirli uygulamaları sınırlar: hidrojen-1 bütün atomlarda nötron gerekliliğine karşı-örnektir; iki hücrenin bulunması örgütlü çok hücreli yaşam döngüsünü tek başına açıklamaz; maya deneylerinde belirli seçilim ve gen işlevi mekanizmaları incelenir. Bu sonuçlar Ehad–Yek öncülünün deneysel ispatı, bütün yaşam tarihinin yeniden kurulması veya aynı mekanizmanın altı boyutta gösterilmesi değildir. Ortak köken, merkez, zaman ve normatif çıkarımların evrensel kapsamı ilave gerekçe ister.
 
@@ -552,7 +548,7 @@ Bu bölüm, mevcut kurucu savı değiştirmeden **öncül → çıkarım → sı
 
 **Mantıksal karşı-model:** İki ayrı nesnenin yan yana gelmesi bir küme oluşturabilir; ancak bu, kümenin zorunlu olarak yeni bir kimyasal bileşik, canlı veya bilen özne olacağı anlamına gelmez. Dolayısıyla `ilişki(A,B) ⇒ her alanda aynı mekanizmayla C` geçerli genel bir çıkarım değildir. Bilimsel mekanizma, her alanda bağımsız kanıt gerektirir.
 
-**H02/H03'e aktarım sınırı:** Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında *ontolojik ikinci bilen* konumundadır. H01'deki *ikinci Yek* ise türeme dizisinin ontolojik tekilliğidir. H02'deki *epistemolojik ikinci bilen* bilgi sonucunu değerlendirir; H03'teki ikinci denetim *kanıt değerlendirme* işlevidir. Bu kavramlar özdeş değildir. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. Bu kavramlar birbirinin yerine geçirilmez. Aynı kaynağa dayanan iki onay bağımsız kanıt sayılmaz (MK-016/MK-020). Bu ayrım sonraki metin düzeltmelerinde korunacaktır.
+**H02/H03'e aktarım sınırı:** Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında *ontolojik muhatap varlık* konumundadır. H01'deki *ikinci Yek* ise türeme dizisinin ontolojik tekilliğidir. H02'deki *epistemolojik ikinci bilen* bilgi sonucunu değerlendirir; H03'teki ikinci denetim *kanıt değerlendirme* işlevidir. Bu kavramlar özdeş değildir. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. Bu kavramlar birbirinin yerine geçirilmez. Aynı kaynağa dayanan iki onay bağımsız kanıt sayılmaz (MK-016/MK-020). Bu ayrım sonraki metin düzeltmelerinde korunacaktır.
 
 **Tamamlanma kapısı:** Bu ek, H01'in kavramsal sınırlarını somutlaştırır; dış bilimsel literatür, K0–K6, bağımsız Rasterast ve kurucu onayı tamamlanmış sayılmaz. Makalenin yayın kilidi sürer.
 
@@ -829,7 +825,7 @@ Kaynak: *Akıl ve Bilginin Kaynağı*, Drive kimliği `1MOKZhk0VslI4aWwOtcDDsLb4
 | P46 | İkili örnekler; ilk öznenin ikinciye yönelimiyle evrensel ürün | A/R; §4; farklı ilişkiler aynı mekanizma sayılmaz. |
 | P47 | Varoluşun ikili düzenle başlaması | A/R; §4; kurucu şema, bağımsız evrensel deney sonucu değil. |
 | P48 | Bilgi sorusu başlığı | B |
-| P49 | Yaratıcı ilk/yaratılmış ikinci; insan/ahiret/esma; tekten türeme | A/R; §§9A, 10; ontolojik ikinci bilen kapsamının erken izi. |
+| P49 | Yaratıcı ilk/yaratılmış ikinci; insan/ahiret/esma; tekten türeme | A/R; §§9A, 10; ontolojik muhatap varlık kapsamının erken izi. |
 | P50 | Doğrusal düzen; boyut/özne/nesne; üçlü ve bir yansıması | A/R; §10E; geometriyle eşitlenmez. |
 | P51 | Dairesel düzen; varlığın kapsadığı alan; türeyen ikinci bir | A/D/R; §§10E, 5A; kimyasal sıra hatası aktarılmaz. |
 | P52 | Varlığın kendisi/hareketi ve gelişim sınırı olarak bilgi | A/R; §10E; önermesel bilgiyle eşit değil. |
@@ -888,7 +884,7 @@ Kaynak, paragraf yöntemi ve A/D/R/B durumları Ek J ve Ek G ile aynıdır. Aşa
 | P96 | Doğru bilginin yanlışı silmesi; uyum ve mutluluk; ret/mutsuzluk; diğer duygular; bedensel savunma | A/R; §10G; kavramsal model, doğrulanmış psikoloji yasası değil. |
 | P97 | Akıl/üst konum; doğal kırılganlık; ruh/duygu ve öz/zihin kaynakları; akıl/zekâ | A/R; §§7, 8B, 10G; doğaya bağlılık P81 ve P23'teki bağımsızlık dilinden ayrılır. |
 | P98 | Duyguların yaratıcı/insan etkisi; kendini bilme; sağlıklı ruh/zekâ/akıl/kültür/din | A/R; §§8B, 9A; normatif yönelim, kişilerin sağlık teşhisi değil. |
-| P99 | Altıncı boyut/duygu perdesi; öz ilk bilgi ve ontolojik ikinci bilen | A/R; §§10, 10G; metafor ve epistemik rol ayrı. |
+| P99 | Altıncı boyut/duygu perdesi; öz ilk bilgi ve ontolojik muhatap varlık | A/R; §§10, 10G; metafor ve epistemik rol ayrı. |
 | P100 | Peygamber tarihi/sabit din; iki özne iletişimi; İslam ve bilgi kuramı uyumu; tüm bilinçle ispat | A/R; §§9A, 10F; tam tarihsel/dinî ve mantıksal kaynak denetimi açık. |
 | P101 | Doğa bilgileri başlığı | B |
 | P102 | Doğa yasaları/uygulayıcılar; rüyanın dış dünyaya hazırlığı; doğal duygu | A/R; §§8A, 10G; rüya işlevi literatür görevi. |
