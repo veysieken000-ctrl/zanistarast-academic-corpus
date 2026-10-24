@@ -95,7 +95,7 @@ Kurucu ruh boyutu ilk evrede ruh, ikinci evrede meleklerdir; meleklerde ruh vard
 
 Ahlak boyutunun birinci evresi fıtrî, ikinci evresi iradeli ahlaktır. Sevgi, merhamet ve iyiyi isteme insanın ahlaki yönelimiyle ilişkilidir. İnsan fizik, biyoloji, zihin, ahlak, akıl, duygu + öz katmanlarıyla evrenin özetidir; bu insan katmanları 6+Tek kozmik boyutlarının sayısal eşlemesi değildir.
 
-### 8B. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı tanımları
+### 8A. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı tanımları
 
 22 Ekim 2026 tarihli kurucu kilometre taşı uyarınca **fıtrat**, varlığın kuruluşu, imkânları, sınırları ve ilişkisel düzenidir. **Fıtrî ahlak**, bu düzenin işleyiş, davranış ve ilişkilerde tezahürüdür; fiziksel varlıklara bilinçli tercih, suç veya insan türü sorumluluk yüklemez. **İradeli ahlak**, insanın öz, duygu, zekâ, akıl ve fıtrî ahlakla ilişkili imkânlarını bilgi, niyet ve seçimle yönlendirmesi ve hüküm karşısındaki özel sorumluluğudur.
 
@@ -118,13 +118,15 @@ Fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında
 
 +Tek yedinci yaratılmış boyut değildir. Ehad yaratılmış boyutların bileşeni yapılmaz. Biyoloji–zihin–ruh kapsaması ontolojik ilişkidir; zorunlu kronolojik sıra değildir. İradeli ahlak çağının son buzul çağı sonrasıyla ilişkilendirilmesi kurucu tarihsel tezdir; Homo sapiens'in biyolojik başlangıç tarihiyle eşitlenmez.
 
+Kurucu kanondaki **kemal ve açılım** tezi, alt düzeyin işlevsel olgunluğunun üst düzeyin işlevlerine taşıyıcı koşul sağlaması olarak ele alınır. Üst düzey altı ortadan kaldırmaz; onu daha kapsayıcı bir düzende ilişkilendirir. Bu, fiziksel büyüklük artışı veya her bireyin zorunlu olarak bütün boyutlara geçmesiyle özdeş değildir. H01 bu ontolojik yönelimi korur; belirli fiziksel ya da biyolojik geçişin mekanizması ve ayırt edici öngörüsü ayrıca gerekçelendirilmelidir. Dayanak: Ehad–Yek kurucu kanonu VII–VIII.
+
 Eski hüküm–ahlak ve dünya–ahiret evrelemeleri güncel fıtrî/iradeli ayrımla aynı tarihsel ifade değildir. Karşılaştırmaları kaynak ekinin §9A'sındadır. Ayet, meal, rivayet ve kurucu yorum ayrı tutulur. Eski birleşik anlatılar tek bir doğrulanmış rivayet gibi kullanılmaz; kaynağı kapanmamış Miraç, ruh ve nimet tasvirleri ana argümanın kanıtı yapılmaz.
 
 ## 10. Hebûn'dan Zanabûn'a: muhatap varlık ve Lêket
 
 Hebûn, muhatap varlığın kuruluşunu ve ilişkilerini; Zanabûn, bu ilişkiler hakkında ileri sürülen bilgi iddialarının değerlendirilmesini ele alır. H03 Rasterast kaynak, karşı-örnek ve kanıt denetimini yürütür. Varlığın etkilenmesi, araştırmacının iddiasının doğrulandığı anlamına gelmez.
 
-### Muhatap varlık ve Lêket
+### 10A. Muhatap varlık ve Lêket
 
 Kurucunun varlık tanımı ve sınıflandırması içinde yaratılmış Yek, **Ehad karşısındaki muhatap, etkilenen varlıktır**. Varlıklar arasındaki ilişkinin oluşturduğu fark ise **Lêket** kavramıyla açıklanır: gerçek bir varlık veya gerçeklik, gerçek bir ilişki yoluyla bir Yek'in bir veya birkaç gerçek katmanında fark meydana getirir ve onun zaman, yer ve ilgili boyuttaki durumunun değişimine/oluşumuna katılır. Muhatap varlık ilişkinin tarafını, Lêket ilişkide meydana gelen farkı anlatır.
 
@@ -135,16 +137,16 @@ Lêket'in gerçekleşmesi insan gibi bilinçli bilme veya bilimsel bir iddiayı 
 **Kaynak ve kapsam:** Mira deposu, `faz32-scientific-autonomy` dalı, [Canonical Reflection, Lêket and Second Knower Relation](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/faz32-scientific-autonomy/docs/architecture/CANONICAL_REFLECTION_AND_SECOND_KNOWER_RELATION_2026-09-17.md), §§4–10 ve §13; 24 Ekim 2026'da doğrudan okundu. Buraya yalnız Lêket ve ilişkisel ikinci muhatap ayrımı aktarılmıştır. Aynı eski belgedeki Ehad–Tek–Yek açıklamalarının tamamı güncel 22–24 Ekim kanonunun yerine geçirilmez.
 
 ### 10B. Ontolojik argüman ve rakip açıklama
-Kurucu kayda göre ilk kuruluş ve düzenli devam sorularının cevabı Zanabûn'dur; Zanabûn, Hebûn'un Ehad–Yek kabulüne ve ilk Yek → ikinci Yek → yeni Yekler → Komel ontolojik düzenine dayanır. Tekillik, birbirinden ayırt edilebilir varlıkları; türeme, önceki varlıklarla bağıntılı yeni varlığın ortaya çıkmasını; Komel, tekillerin ilişkisel bütününü anlatır. Bu kavramlar özdeş değildir. Argüman: (1) Varlık alanında tekiller ve ilişkisel bütünler vardır. (2) Bir bütünü yalnız tekillerin sayısı açıklamaz; aralarındaki düzen de açıklanmalıdır. (3) Zanistarast bu düzenin ontolojik temelini Yek olarak yorumlar. Sonuç, açıklayıcı bir metafizik çerçevedir; üçüncü öncül ilk ikisinden zorunlu mantıksal sonuç olarak çıkmaz. Karşı görüş, farklı bilimlerin kendi mekanizmalarının zaten yeterli açıklama sunduğudur. Hebûn bu mekanizmaların yerine geçme iddiası taşımaz; onların ontolojik açıklama düzeylerini ilişkilendirmeyi önerir. Fiziksel bir deneyle Ehad'ın ispatlandığı ileri sürülmez.
+Kurucu kayda göre ilk kuruluş ve düzenli devam sorularının cevabı Zanabûn'dur; Zanabûn, Hebûn'un Ehad–Yek kabulüne ve ilk Yek → ikinci Yek → yeni Yekler → Komel ontolojik düzenine dayanır. Tekillik, birbirinden ayırt edilebilir varlıkları; türeme, önceki varlıklarla bağıntılı yeni varlığın ortaya çıkmasını; Komel, tekillerin ilişkisel bütününü anlatır. Bu kavramlar özdeş değildir. Aşağıdaki çözümleme yazarın akademik yeniden kuruluşudur; kurucudan doğrudan alıntı değildir. Argüman: (1) Varlık alanında tekiller ve ilişkisel bütünler vardır. (2) Bir bütünü yalnız tekillerin sayısı açıklamaz; aralarındaki düzen de açıklanmalıdır. (3) Zanistarast bu düzenin ontolojik temelini Yek olarak yorumlar. Sonuç, açıklayıcı bir metafizik çerçevedir; üçüncü öncül ilk ikisinden zorunlu mantıksal sonuç olarak çıkmaz. Karşı görüş, farklı bilimlerin kendi mekanizmalarının zaten yeterli açıklama sunduğudur. Hebûn bu mekanizmaların yerine geçme iddiası taşımaz; onların ontolojik açıklama düzeylerini ilişkilendirmeyi önerir. Fiziksel bir deneyle Ehad'ın ispatlandığı ileri sürülmez.
 
-### 10C. Eleştirel hakem simülasyonu ve savunulan sonuç
-**İtiraz:** İlişkisel bütünleri açıklamak için Yek ilkesinin eklenmesi gereksiz olabilir. **Yanıt:** Bu metin Yek'i fiziksel mekanizmalara rakip bir kuvvet olarak değil, ontolojik kuruluşun tekillik–ilişki–Komel düzeylerini ayıran kurucu ilke olarak savunur. Bir fiziksel veya biyolojik süreç ancak alanının kendi mekanizmasıyla açıklanır. **Öz değerlendirme:** Bu yanıt ontolojik öncül ile fiziksel mekanizmanın farklı işlevlerini açıklar; ontolojinin gerekliliğini veya rakip açıklamalara üstünlüğünü tek başına kanıtlamaz. Evrensel kapsam, bireysellik ölçütü ve eski/yeni tanımların ayrıntılı uzlaştırılması açık itirazlardır. İç tutarlılığın bütünü veya bağımsız hakem kabulü bu simülasyonla tamamlanmış sayılmaz; Ehad–Yek öncülünün evrensel doğruluğu doğa bilimlerinden türetilmiş değildir. H02 ve H03'ün epistemik ve denetim soruları ontolojik sorunun yerine geçirilmez.
+### 10C. İtiraz, yanıt ve açıklama sınırı
+**İtiraz:** İlişkisel bütünleri açıklamak için Yek ilkesinin eklenmesi gereksiz olabilir. **Yanıt:** Bu metin Yek'i fiziksel mekanizmalara rakip bir kuvvet olarak değil, ontolojik kuruluşun tekillik–ilişki–Komel düzeylerini ayıran kurucu ilke olarak savunur. Bir fiziksel veya biyolojik süreç ancak alanının kendi mekanizmasıyla açıklanır. **Öz değerlendirme:** Bu yanıt ontolojik öncül ile fiziksel mekanizmanın farklı işlevlerini açıklar; ontolojinin gerekliliğini veya rakip açıklamalara üstünlüğünü tek başına kanıtlamaz. Evrensel kapsam, bireysellik ölçütü ve eski/yeni tanımların ayrıntılı uzlaştırılması açık itirazlardır. Bu iç argüman incelemesi bağımsız hakem değerlendirmesi değildir; Ehad–Yek öncülünün evrensel doğruluğu doğa bilimlerinden türetilmiş değildir. H02 ve H03'ün epistemik ve denetim soruları ontolojik sorunun yerine geçirilmez.
 
 ## 11. Sonuç
 
 Hebûn, Ehad–Yek kabulüne dayanan tekillik, türeme ve ilişkisel Komel açıklamasıdır. Muhatap varlık ilişkinin tarafını, Lêket bu ilişkide ilgili katmanlarda meydana gelen farkı açıklar. İlk kuruluş ve düzenli devam sorularının kurucu cevabı Zanabûn'dur; Zanabûn Hebûn ontolojisine dayanır.
 
-Çalışma, ortak şemanın alanlar arasında aynı mekanizmayı gerektirmediğini ortaya koyar. Fizikte çekirdek süreçleri, biyolojide bölünme ve örgütlenme, zihinde biliş ve bilgi üretimi ayrı açıklamalar gerektirir. Fıtrat kuruluş düzenini, fıtrî ahlak onun tezahürünü, iradeli ahlak bilgi–niyet–tercih–sorumluluk ilişkisini belirtir. Teolojik hüküm bu bilimsel örneklerden deneysel sonuç olarak türetilmez.
+Kavramsal çözümleme ve seçilmiş örnekler, ortak şemadan alanlar arasında aynı mekanizmanın işlediği sonucunun çıkarılamayacağını gösterir. Fizikte çekirdek süreçleri, biyolojide bölünme ve örgütlenme, zihinde biliş ve bilgi üretimi ayrı açıklamalar gerektirir. Fıtrat kuruluş düzenini, fıtrî ahlak onun tezahürünü, iradeli ahlak bilgi–niyet–tercih–sorumluluk ilişkisini belirtir. Teolojik hüküm bu bilimsel örneklerden deneysel sonuç olarak türetilmez.
 
 Özgün katkı, kurucu kavramları kaynaklarıyla birlikte açık bir açıklama programında birleştirmektir. Rakip açıklamaya karşı üstünlük, evrensel türeme zorunluluğu ve bütün boyutların ampirik doğruluğu ispatlanmış değildir. Bağımsız eleştiri ve nihai yayın kararı bekleyen bu metin, düzenlenmiş kavramsal araştırma statüsündedir.
 
@@ -171,4 +173,4 @@ Kaynakların 22–24 Ekim 2026 erişim/sürüm kayıtları ve ana metinden eke t
 - [Özgün Akıl ve Bilginin Kaynağı](https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit).
 - [Tam kaynak karşılaştırmaları ve denetim ekleri](../01-kanonik-denetim/H01-KAYNAK-VE-DENETIM-EKLERI-2026-10-24.md): özgün araştırma kaydı, 372 paragrafın ilk eşlemesi, H01-E01–E11 bilimsel sav tablosu, dinî metin karşılaştırmaları, erişim kısıtları ve açık işler.
 
-**Editoryal karar:** Ana metin ve kaynak dökümü ayrıldı; kaynak kaybı olmaması için önceki tam içerik ekte korundu. İç editoryal bütünleştirme tamamlandı. Bu işlem bağımsız Rasterast incelemesi değildir; K6 ve nihai yayın kararı açık olduğundan yol haritasının 04. maddesi bu commit ile kapatılmaz.
+**Editoryal karar:** Ana metin ve kaynak dökümü ayrıldı; önceki tam içerik ekte korundu. İç kontrol sırasında ana bölüm dizisi, yerel kaynak dosyaları, ana metin/ek göndermeleri ve sonuç kapsamı gözden geçirildi. Kemal–açılım önermesi güncel kanona bağlandı; argümanın akademik yeniden kuruluş olduğu açıklandı. Bağımsız Rasterast ve nihai yayın kararı açık kalır. Eklerdeki tarihsel açık iş listeleri güncel metnin tamamlanma kararı olarak okunmaz; bütün eski savların doğrulandığı ileri sürülmez.
