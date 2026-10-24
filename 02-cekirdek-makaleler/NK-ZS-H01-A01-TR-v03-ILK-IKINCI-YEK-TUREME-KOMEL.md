@@ -248,6 +248,20 @@ Kurucu kayda göre ilk kuruluş ve düzenli devam sorularının cevabı Zanabûn
 
 Kurucu kanon VII uyarınca biyolojinin zihin kapsamında, zihnin ruh kapsamında ele alınması ontolojik kapsama ilişkisidir; kronolojik öncelik iddiası değildir. Son buzul çağı sonrasıyla ilişkilendirilen iradeli ahlak çağı tezi, Homo sapiens türünün biyolojik başlangıç tarihiyle özdeş değildir. Kurucu kanon VIII uyarınca ast-üst kapsama/katman ilişkisini, merkez-çevre düzenleyici odak ile karşılıklı etkileşimi anlatır. Bu ayrımlar birbirinin yerine kullanılmaz. Kaynak: `../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`, VII-VIII. Bu ifadeler kurucu felsefi kayıt olarak aktarılır; deneysel doğrulama olarak sunulmaz.
 
+### 10E. Kanun, zaman ve doğrusal–dairesel düzenin kaynaklı ayrımı
+
+Özgün metinlerde bilgi yalnız önermesel bilgi anlamında kullanılmaz. *Varlık Sistemi ve Boyutları* P114 ayırt edilebilir farkı, P116 varlığın/düzenin oluşmasını bilgiyle ilişkilendirir; P117 kanunu sistemi oluşturan hüküm olarak tanımlar. *Akıl ve Bilginin Kaynağı* P50 doğrusal düzeni yaratılış düzlemiyle, P51 dairesel düzeni varlığın kapsadığı alanla ilişkilendirir; P52 bilgiyi varlığın kendisi ve gelişim sınırı bağlamında kullanır. Bu anlamlar kaybolmadan korunur; H02'deki sonuç–ikinci bilen onayı tanımının eşanlamlıları yapılmaz.
+
+| Kaynak | Korunan kurucu sav | Akademik açıklama ve sınır |
+|---|---|---|
+| Varlık P25, “Kâinatta düzenli ve tutarlı”; P117, “Kanun: Bir sistemi” | Etkileşimdeki tutarlılık, ortak düzlem ve kanun; kanunun hükümle ilişkisi | İki şeyin etkileşmesi, tek başına aynı tekil atadan türediklerini mantıken zorunlu kılmaz. Ortak köken tezi ek ontolojik öncüldür. |
+| Varlık P57–58, “Bir sistemi ancak” / “Her varlık veya varlık öbeklerinin” | Üst sistem ve merkez gerekliliği | Her bileşene atfedilen merkez özelliği, bütünde tek merkez bulunduğunu tek başına kanıtlamaz. Bileşen–bütün geçişi için ayrıca gerekçe gerekir; §6A ve Ek D'nin kapsam koşulları geçerlidir. |
+| Varlık P68, “Zaman: Üst sistem kapsülünde”; Akıl P82, “Hareket: Zamanın kaynağı” | Zamanın işleyiş, hareket, üst sistem ve kemale erme üzerinden açıklanması | Kurucu ontolojik zaman tasavvurudur; fiziksel zamanın ölçüm tanımı veya doğrulanmış zamanın durması mekanizması değildir. Fiziksel zamanla karşılaştırma ayrı araştırma gerektirir. |
+| Akıl P50–52, “Doğrusal düzen” / “Dairesel düzen” / “Bilgi: Bir kanun” | Ortak yaratılış düzlemi ile varlığın kapsadığı alan ayrımı | Doğrusal ve dairesel sözcükleri, burada ölçülmüş geometrik şekil veya matematiksel model kurulduğu anlamına gelmez. Sistem sınırı ve temsil ölçütü ayrıca belirtilmelidir. |
+| Varlık P122 ve P125–126, “Ahlakın temeli insan için”; “1. Evre: Hak, hukuk”; “2. Evre: Kavimler” | İlk ve ikinci insanın hak, hukuk ve adaletle yaratılması; çocuklar ve toplumsal açılım | İlk–ikinci–yeni Yek dizisinin kaynaktaki normatif boyutu korunur. P136 ve P142–143'teki farklı hüküm–ahlak evre adlarıyla tek ve değişmez erken şema varmış gibi birleştirilmez; güncel fıtrî/iradeli ayrım §8B'dedir. |
+
+Bu tablodaki çıkarım eleştirileri akademik çözümlemedir. Kurucu savlar tarihsel içerikleriyle korunur; yeni tanım veya bilimsel ispat eklenmez. P numaraları aynı iki Drive kaynağının 24 Ekim düz metin sırasıdır (§4C). Kanun, ontolojik bilgi, epistemolojik bilgi, zaman ve geometrik temsil ayrı kavramlar olarak H02/H04'e aktarılmalıdır; aktarımın yapılmış olduğu burada iddia edilmez.
+
 ## 11. Sonuç
 
 Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in kuruluş düzenidir. İlk kuruluşun ve düzenli devamın nasıl açıklandığına ilişkin kurucu cevap Zanabûn'a aittir; Zanabûn bu ontolojik temele dayanır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin katkısı, tekillik ve örgütlü bütün sorusunu ortak bir ontolojik dilde kurarken alanların kanıt yüklerini ayırmasıdır. Hidrojen-1 ve hücresel örgütlenme karşılaştırmaları, kurucu şemanın belirli bilimsel uygulamalarını sınırlar; bütün boyutlarda tek bir doğa kanunu kanıtlanmış değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
@@ -290,7 +304,7 @@ Aşağıdaki eşleştirme yalnız **mevcut makaledeki atıfların ve kaynakça a
 4. Diyanet, Nisâ 4:1 meal ve tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri .
 5. Hebûn v01–v02 ve EK01–EK05; eski araştırmalar silinmeden korunur.
 
-**Denetim sınırı:** Özgün Word'lerin bütün metin kapsamı envantere bağlandı; bu, her atomik önermenin dış kaynaklarla doğrulanması değildir. Bu sürümde kullanılan nükleer süreç, atom numarası, element tanımı, hücre çekirdeği ve seçilmiş hücresel örgütlenme örneklerinin kaynak yerleri belirtilmiştir. Her boyut için tam bir tarihsel türeme modeli veya yeni bir doğa yasası ispatlanmış değildir. Bağımsız alan değerlendirmesi ve 412 makale yayın kapısı açıktır.
+**Denetim sınırı:** İki özgün Word'ün düz metnine erişildi ve seçilmiş pasajlar kaynak eşlemesine bağlandı. Tam metne erişim, bütün önermelerin envanterinin veya denetiminin tamamlanması değildir. Bu sürümde kullanılan nükleer süreç, atom numarası, element tanımı, hücre çekirdeği ve seçilmiş hücresel örgütlenme örneklerinin kaynak yerleri belirtilmiştir. Her boyut için tam bir tarihsel türeme modeli veya yeni bir doğa yasası ispatlanmış değildir. Bağımsız alan değerlendirmesi ve 412 makale yayın kapısı açıktır.
 
 ### Özgün Word kaynaklarına doğrudan dönüş — 24 Ekim 2026
 
@@ -320,18 +334,29 @@ Bu kayıt, yukarıdaki tarihsel kullanım ayrımını ayrıntılandırır. P num
 
 **Denetim sınırı:** Bu dört paragrafın bağlam eşlemesi tamamlandı. İki belgenin bütün kurucu önermelerinin denetimi, K0–K6 ve bağımsız Rasterast kontrolü açık kalır.
 
-## H01 iç bütünlük denetimi — açık kalan işler (24 Ekim 2026)
+## H01 iç bütünlük denetimi — toplu kapanış dökümü (24 Ekim 2026)
 
-- [x] Ehad–Yek kurucu kabulü, ilk/ikinci Yek ve Komel tanımları kaynakla karşılaştırıldı.
-- [x] İlk Bilen Ehad, ontolojik ikinci bilen ve epistemolojik ikinci bilen ayrımı ana metin ile Ek D'ye aktarıldı.
-- [x] Hebûn'un ontolojik temeli ile Zanabûn'un ilk kuruluş/devam sorularına verdiği kurucu cevap öz, giriş, argüman ve sonuçta tutarlılaştırıldı.
-- [x] Kanon VII–VIII'deki ontolojik kapsama, tarihsel sınır ve ast–üst/merkez–çevre ayrımı 10D'de kaynakla işlendi.
-- [ ] Özgün iki Word metninin her kurucu önerme için paragraf düzeyinde karşılaştırmasının eksiksiz denetimi (ikinci bilenin hidrojen örneği ve bilgi onayı bağlamları ayrı kaynak kaydıyla karşılaştırıldı; kalan paragraflar açık).
-- [ ] Dış kaynakçadaki bütün eserlerin metin içi iddialarla birebir eşleştirilmesi ve tam metin erişim denetimi.
-- [ ] Fizik, biyoloji, zihin, ruh, ahlak ve hüküm alanlarının tüm iddiaları için K0–K6 ve bağımsız Rasterast son kontrolü.
-- [ ] Akademik makalenin son bütünlük kararı ve yayın statüsünün kaynaklı kaydı.
+**Kapsam ölçüsü:** Aynı tarihte erişilen düz metinde Varlık 195, Akıl 177 olmak üzere toplam 372 boş olmayan satır/paragraf vardır. Başlıklar ve kısa etiketler bu sayıya dahildir; 372 bağımsız önerme veya 372 tamamlanmış denetim anlamına gelmez. Seçilmiş paragraflar §§4C–4D, 7A, 8A–8B, 9A–9C, 10E ve Ek C'de eşlenmiştir. “Bütün metin envantere bağlandı” ifadesi, tam önerme denetimi izlenimi vermemesi için yukarıda düzeltildi.
 
-**Karar:** H01'in kaynak sadakati ve iç tutarlılığında ilerleme vardır; yukarıdaki açık işler tamamlanmadan sabit yol haritasındaki 04. madde bitmiş sayılmaz.
+**Tamamlanan somut alt işler:** Ehad–Yek ve ikinci bilen düzey ayrımı; Hebûn–Zanabûn görev ayrımı; kapsama/kronoloji ve ast–üst/merkez–çevre sınırı; açık varlıksı kullanımlarının yer envanteri; seçilmiş zekâ–akıl, ruh, ahlak, hüküm ve sevgi pasajlarının kaynak eşlemesi; belirtilen Bakara, A'râf, Mâide ve Tekvîr meal pasajlarının kontrolü; P175 için iki rivayetle karşılaştırma. Bunlar K0–K6'nın bütününü kapatmaz.
+
+Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket sayısı tur, saat veya eşit iş yükü değildir; yeni bir sorun aynı paket altında kaydedilir.
+
+| Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
+|---|---|---|
+| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
+| H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
+| H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
+| H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
+| H01-05 | Kalan dinî göndermeler ve rivayet varyantları | Kontrol edilmiş beş pasaj dışındaki göndermeler taranacak; P175'in keder–ölüm geçişi ve farklı rivayet değerlendirmeleri araştırılacak. Kaynağı bulunmayan aktarım açık statüde tutulacak; uydurma atıf eklenmeyecek. |
+| H01-06 | Argüman ve bölüm bütünlüğü (K2–K4) | Öz, yöntem, §§2–10 ve sonuç aynı kapsamı savunacak; ortak köken, üst sistem, merkez, zaman ve normatif çıkarımların öncülleri açık olacak. §10E'deki sınırlar ana argüman ve sonuçla son kez karşılaştırılacak. |
+| H01-07 | Akademik biçim ve tekrarların düzenlenmesi (K5) | Tarihsel denetim notları ile makale argümanı ayırt edilecek; yinelenen kayıtlar kaynak izini kaybetmeden düzenlenecek. Bütün metin içi atıflar kaynakçada bulunacak; simülasyon bağımsız hakemlik diye sunulmayacak. |
+| H01-08 | Bağımsız Rasterast ve nihai statü (K6) | Yazarı tekrar eden bir öz değerlendirme yeterli değil: ayrı eleştiri kaydı, yanıtlar, çözülmemiş itirazlar ve nihai Müdebbir kararı gerekir. Bu oturumdaki kontrol bağımsız değerlendirme sayılmaz. |
+
+**Kapı durumu:** K0 kısmi; K1 açık; K2 kısmi; K3 kısmi; K4 kısmi; K5 açık; K6 açık. “Kısmi” geçildi anlamına gelmez. §10C hakem simülasyonu ve bu döküm bağımsız Rasterast yerine kullanılamaz.
+
+**Tamamlanma kararı:** H01 çalışma metnidir; yayın veya TR-FINAL statüsü verilmedi. Sekiz paketin çıktıları doğrulanmadan sabit yol haritasının 04. maddesi kapatılmaz. H02–H05'e yönlendirme, bu metinlerin güncellendiği veya tamamlandığı anlamına gelmez.
+
 
 ## Ek A — Kurucu açıklama: ortak öz ve iki kapsama ilişkisi (22 Ekim 2026)
 Kurucunun güncel ontolojik tasavvurunda insan ile hayvanın özü aynı temel ontolojik niteliğe sahiptir. Ayrım, özün varlıkla ilişki kurma kapsamı ve insanda iradeli ahlakla bağlantılı sorumluluk alanıdır. Atom ve yıldız örneği bu kapsam farkını açıklayan bir benzetmedir; fiziksel eşitlik iddiası değildir.
