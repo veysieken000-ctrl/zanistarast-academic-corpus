@@ -73,3 +73,16 @@ Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpu
 Insan Tarihi'nin ic kaynak/mantik/bolum butunlugu tamamlandi. Insan cagina gecis, ahlak boyutu ve Newroza Kawa cekirdek yazilari icerikleriyle karsilastirildi. Guncel H01–Jeoloji ve onceki Core/paragraf/tarihyazim arastirmasi devralindi. Biyolojik tur tarihi, davranis izi, bilgi aktarimi, kurumsal orgutlenme ve iradeli sorumluluk ayrildi. Jebel Irhoud tarihlemesi, Gobekli Tepe 2012 yorumu, kulturel aktarim deneyi ve Ostrom kurumsal cercevesi erisilen kisimlarla sinirli kullanildi.
 
 Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/32de37c3d01bbf0e80e721c6dc1f3e193d81c1cd . Dosya GitHub'dan geri okunarak gonderilen icerikle birebir dogrulandi. Yerel kaynak baglantilari dosya agaciyla kontrol edildi; onceki metin 2933966 surumunde korunur. Iradeli ahlakin ilk ani icin tarih hesaplanmadi; Newroza Kawa'nin ampirik ustunlugu veya yeni saha/insan deneyi ileri surulmedi. Siradaki ana madde 12 cekirdekler arasi kavram ve kaynak celiskileri denetimidir. 13–15 kendi kapsamlarinda acik kalir.
+
+
+## 09–11 yeniden düzenleme — 24 Ekim 2026 kurucu yönlendirmesi
+
+09, 10 ve 11'in ilk iç metin kapanışlarından sonra kurucu, yaratılış düzeni, merkez–çevre, iradeli ahlak, insan hükmü–ilahî hüküm ilişkisi ile afet/savaş sonuçlarının Kur'an, hadis ve Risale-i Nur dikkate alınarak ana argümana işlenmesini istedi. Üç makalenin araştırma soruları, özleri, gövde bölümleri ve sonuçları bu doğrultuda güncellendi; İS1–İS4 kaynak kayıtları eklendi.
+
+09 Varlık Tarihi: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/0212c568a047d3c325e83f8fcd094fbca1892d6b
+
+10 Jeoloji: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/bfe22b6c1784c559c709e8f884c26cf807ecbc56
+
+11 İnsan Tarihi: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/423a960b6a1181137cc26a16031286c4d0f1a3ef
+
+Üç dosya commit sonrası GitHub'dan geri okunup gönderilen metinle birebir eşleştirildi. Önceki bilimsel kaynak ve yöntem ayrımları korunurken yaratılış ve ahlaki sorumluluk anlamı ana açıklamaya katıldı. Afet mağduriyeti tek başına kişisel kusur sayılmadı. 09–11 güncel revizyonlarıyla tamamlanan iç metin işleri olarak kalır; toplam 11/15'tir. 12. çekirdekler arası toplu denetim henüz tamamlanmadı; sıradaki iştir.
