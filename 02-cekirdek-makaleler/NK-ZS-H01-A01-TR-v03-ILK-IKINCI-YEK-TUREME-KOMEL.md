@@ -280,6 +280,16 @@ Bu denetim, özgün metindeki dinî ifadelerin kaynak statüsünü belirler; kur
 
 Kurucu düzey ayrımına göre **Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında ontolojik ikinci bilen, yani muhatap ve etkilenen varlık konumundadır**. Hebûn'da **ikinci Yek**, ilk Yek'ten sonra gelen ontolojik tekilliktir; bu terim ontolojik ikinci bilenin eşanlamlısı değildir. Zanabûn'da **epistemolojik ikinci bilen**, bilenin bilinen nesneye yönelimiyle doğan sonucu onaylayan muhataptır. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları H02'de ele alınır. H03 bu sürecin kaynak, karşı-örnek ve denetim zincirini kurar. H01'in varlık şeması, bu yöntemlerin uygulanmış ve başarılı olduğu varsayımına dayanmaz.
 
+### Muhatap varlık ve Lêket
+
+Kurucunun varlık tanımı ve sınıflandırması içinde ontolojik ikinci bilen, **Ehad karşısındaki muhatap, etkilenen varlıktır**. Varlıklar arasındaki ilişkinin oluşturduğu fark ise **Lêket** kavramıyla açıklanır: gerçek bir varlık veya gerçeklik, gerçek bir ilişki yoluyla bir Yek'in bir veya birkaç gerçek katmanında fark meydana getirir ve onun zaman, yer ve ilgili boyuttaki durumunun değişimine/oluşumuna katılır. Muhatap varlık ilişkinin tarafını, Lêket ilişkide meydana gelen farkı anlatır.
+
+Bu tanım Mira'ya daha önce kaydedilmiş Lêket açıklamasına dayanır; burada yeni bir terim icat edilmez. Fiziksel ilişkide fiziksel durum farkı, biyolojik ilişkide ilgili yaşamsal/örgütsel fark, zihinsel ilişkide ise ilgili bilişsel fark incelenir. Her durumda hangi varlığın hangi katmanının etkilendiği ve farkın nasıl belirlendiği açıklanır. Aynı kavramın farklı alanlarda kullanılması aynı mekanizmanın işlediği anlamına gelmez.
+
+Lêket'in gerçekleşmesi insan gibi bilinçli bilme veya bilimsel bir iddiayı onaylama şartına bağlı değildir. Etkilenen varlığın durumunun değişmesi de her seferinde yeni bir bireysel Yek meydana geldiği anlamına gelmez. Zanabûn'da bilgi iddiasını değerlendiren bağımsız ikinci bilen ve Rasterast denetimi ayrı yöntemsel işlevlerdir.
+
+**Kaynak ve kapsam:** Mira deposu, `faz32-scientific-autonomy` dalı, [Canonical Reflection, Lêket and Second Knower Relation](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/faz32-scientific-autonomy/docs/architecture/CANONICAL_REFLECTION_AND_SECOND_KNOWER_RELATION_2026-09-17.md), §§4–10 ve §13; 24 Ekim 2026'da doğrudan okundu. Buraya yalnız Lêket ve ilişkisel ikinci muhatap ayrımı aktarılmıştır. Aynı eski belgedeki Ehad–Tek–Yek açıklamalarının tamamı güncel 22–24 Ekim kanonunun yerine geçirilmez. Lêhat ve lênat için bu erişimde tanımlayıcı kayıt doğrulanamadığından anlam uydurulmaz ve bunlar eşanlamlı kabul edilmez.
+
 ### 10A. Ana önermelerin kaynak ve statü haritası
 | Önerme | Dayanak | Statü ve aktarım sınırı |
 |---|---|---|
