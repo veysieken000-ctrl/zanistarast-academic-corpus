@@ -6,7 +6,7 @@ Bu dosya, bu depoda çalışan ChatGPT, kod ajanları ve diğer yardımcılar i�
 
 1. `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md` — birincil kurucu türeme kanonu.
 2. `01-kanonik-denetim/INANC-HEBUN-ZANABUN-KURUCU-ARASTIRMA-CERCEVESI.md` — inanç, Kur'an, Hz. Muhammed, Risale-i Nur, fıtrat ve kâinat okuması.
-3. `02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v02-BUTUNLESIK-KURUCU-METIN.md` — Hebûn bütünleşik araştırma metni.
+3. `02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md` — güncel Hebûn temel metni. v02 tarihsel karşılaştırma kaynağıdır; rutin başlangıç metni olarak güncel v03 yerine kullanılmaz.
 4. `01-kanonik-denetim/27-MAKALE-URETIM-VE-KALITE-MATRISI-2026-10-22.md` — çalışma havuzu; **eski kanonik çatışmalarda 1. dosya önceliklidir**.
 
 ## Tartışmasız kurucu kararlar
@@ -63,3 +63,7 @@ Kurucunun açık talimatı: Ontolojik “ikinci bilen”, kurucunun varlık tan�
 ## H01 / 04'ten bağlayıcı çalışma dersi — 24 Ekim 2026
 
 Diğer makalelere başlamadan veya devam ederken [hızlanma rampaları politikasının H01 / 04 derslerini](01-kanonik-denetim/SUREKLI-INOVASYON-HIZLANMA-RAMPALARI-POLITIKASI-2026-10-23.md#h01--04-dersleri--gereksiz-işin-tekrarını-önleme-24-ekim-2026) uygula. İlk taslak hatasını savunma; açıklanmış kavramı yeniden tartışma; mevcut kaynak ve tanımı yeniden icat etme. Kaynak araştırmasını gerçek yeni iddia/hata ihtiyacına bağla. Ana makaleyi düzelt, tekrarlanan denetim notlarıyla büyütme; ilişkili düzeltmeleri topluca bitir ve doğrula. Editoryal tamamlanma, bağımsız inceleme ve yayın kararını ayrı izle. Yeni delil veya gerçek sorun olmadan kapanmış alt işi yeniden açma. Bu kurallar kalite kapılarını kaldırmaz; gereksiz tekrarları kaldırır.
+
+## Birikimli tamamlama ilkesi — 24 Ekim 2026
+
+Hebûn temel alınır. Her makalede soru, öncül/tanım, kaynak yeri, çıkarım, karşı-örnek, dar sonuç ve sonraki kullanımı [ortak hızlanma kaydında](01-kanonik-denetim/SUREKLI-INOVASYON-HIZLANMA-RAMPALARI-POLITIKASI-2026-10-23.md) kısa biçimde birleştir. Önceki makalenin tanımını ve doğrulanmış kaynak izini devral; yalnız yeni makalenin ayırt edici sorusunu geliştir. Eski depoları hedefli kaynak olarak kullan, arşiv çözümlemesine takılıp ana metin üretimini durdurma. Her makale sonrakine hazır kavram, gerekçe ve kaynak bıraksın. Yeni bir yönetim belgesi veya aynı tablonun kopyasını üretmek yerine ortak kaydı güncelle. Hızlandırma görevleri esas makaledeki somut düzeltmenin yerini almasın.
