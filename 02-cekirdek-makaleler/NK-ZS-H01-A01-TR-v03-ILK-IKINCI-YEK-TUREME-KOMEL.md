@@ -125,6 +125,14 @@ Kurucu 1→2 örneği hücreden hücre türemesi üzerinden araştırılır; sü
 
 Bu ayrım ilkeyi peşinen doğrulamaz: “merkez” her karşı-örnekte yeni bir anlamla tanımlanırsa iddia denetlenemez hâle gelir. Uygulama öncesinde merkez adayının ne olduğu, hangi ilişkileri düzenlediği ve hangi gözlemin yorumu yetersiz bırakacağı belirtilmelidir. Atom çekirdeği, hücrenin genetik/işlevsel örgütlenmesi ve insan topluluğundaki yönelim merkezi aynı maddi mekanizma sayılmaz.
 
+### 6B. Tarihsel biyoloji–zihin sınırının güncel kanonla okunması
+
+Varlık P65 ve P70–73'te biyolojinin tek hücreli/çok hücreli evreleri bulunur. P66'daki üreme biçimleri ve P73'teki bitki örneği, güncel kanonda bu evrelerin tanımının yerine geçirilmez. P85'in zihinli varlıkları biyoloji sistemine dahil etmeyen ifadesi de H01'de biyolojik bedenin reddi olarak devralınmaz: aynı paragraf hayvan ve insanın fiziksel ve biyolojik sistemleri bünyesinde taşıdığını belirtir. Güncel bütünleşik kapsama kaydı bu ayrımı açıklaştırır (§8B). Böylece ontolojik açıklama düzeyinin farklılığı, biyolojik yapının yokluğu sayılmaz.
+
+P76'daki küçüldükçe gelişkinliğin artması ve P95–97'deki DNA–beyin, RNA–kalp, protein–organ eşlemeleri tarihsel benzetmelerdir; ortak ölçütü tanımlanmış bir gelişkinlik ölçeği veya aynı mekanizmanın gösterimi değildir. P85'te erkek/dişi ile duygusal/mantıksal zekâyı eşleştiren anlatım da güncel zekâ–akıl ayrımının tanımı olarak kullanılmaz. Bu eşlemenin evrensel biyolojik veya psikolojik gerçek olduğu burada ileri sürülmez; ayrı literatür denetimi gerekir.
+
+P81 ve P96'da hayvanların açtığı üst düzenin biyolojik/kozmik çöküşü önlemesi savı korunmuş bir araştırma kaydıdır (Ek H). Bitkilerin yayılması, hayvanlarla ilişkiler ve yaşam tarihindeki çeşitlenme tek bir zorunlu üst-boyut mekanizmasının kanıtı olarak birleştirilmez. Bunlar güncel kanonun ontolojik kapsama teziyle, kronolojik veya deneysel nedensellik iddiası arasında ayrım gerektirir (§10D).
+
 ## 7. Zihin: ilk zihinli Yek, ikinci zihinli Yek ve hafıza
 
 Kurucu sınıflandırmada zihin boyutunun ilk evresi zekâ (işlem, bellek, seçeneklerden seçim), ikinci evresi akıldır (bilinenlerden yeni bilgi çıkarımı). Bu, burada benimsenen kavramsal ayrımdır; psikoloji ve sinirbilimde bütün kullanımların bu iki tanıma uyduğu veya evrelerin tarihsel başlangıcının kanıtlandığı ileri sürülmez. Beyin ve sinir sistemi biyolojik alt yapıdır; zihin kurucu modelde üçüncü boyut olarak ele alınır. İnsanda aklın bulunması zekânın ortadan kalkması değildir; akıl zekâdan yararlanır. Hayvanların öğrenmesi, duyguları ve çıkarım yetileri bu ayrımla reddedilmez.
@@ -350,7 +358,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 
 | Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
 |---|---|---|
-| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–61 için ilk içerik–işlem eşlemesi Ek G'de yapıldı; kalan Varlık P62–195 ve Akıl P1–177 açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
+| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–118 için ilk içerik–işlem eşlemesi Ek G–H'de yapıldı; kalan Varlık P119–195 ve Akıl P1–177 açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
@@ -464,3 +472,69 @@ Bu ilk sıralı döküm, *Varlık Sistemi ve Boyutları* dosyasının P1–61 ar
 | P61 | Üst sistemin alttan oluşması; ikinci boyutun maddi taşıyıcısı; ortak düzlemde bilinebilirlik; biyolojik zamanla çöküşün önlenmesi | A/D/R; §§5B, 10D–10E; taşıyıcı koşul, ontolojik kapsama ve kozmik nedensellik özdeş değildir. |
 
 **Bu grubun sonucu:** P1–61 için paragraf atlama olmadan ilk içerik–işlem eşlemesi yapıldı; birden fazla sav içeren paragraflar satır içinde ayrıldı. Bu, fizik iddialarının doğrulandığı veya nihai atomik önerme denetiminin kapandığı anlamına gelmez. D/R satırlarının alan kaynakları ve kapsamı H01-03/04 altında açık kalır. Varlık P62–195 ve Akıl P1–177 için aynı sıralı döküm henüz tamamlanmadı; önceki seçilmiş eşlemeler bunların yerine geçmez. H01-01 ve 04. madde açık kalır.
+
+## Ek H — H01-01 kaynak aktarım dökümü: Varlık P62–118
+
+Ek G'deki kaynak, numaralandırma ve A/D/R/B durumları geçerlidir. Her paragrafın ayrı satırı vardır; çok savlı paragraflarda ayrıntılı dış kanıt denetimi açık tutulur. H04/H05 yönlendirmeleri o dosyalara yazıldığı anlamına gelmez.
+
+| Paragraf | Ayrılan savlar / içerik | İşlem ve iz |
+|---|---|---|
+| P62 | Biyoloji başlığı | B |
+| P63 | DNA–RNA–protein; ihtiyaç/dengeyi dördüncü güç sayma; biyolojinin fiziği kapsaması | A/R; §§6, 10D; bileşen analojisi evrensel mekanizma değil. |
+| P64 | Fizik kanunu; çekirdek–çevreli hücrenin ihtiyaç/dengeyle devamı | A/D; §6A; tüm hücrelere aynı çekirdek varsayılmaz. |
+| P65 | Tek/çok hücreli evre; hücre ölümünün protein/enzim varlıksılarına geçiş sayılması | A/R; §§6, 4C; ölüm mekanizması ayrıca denetlenecek. |
+| P66 | Üreme ve tohum biçimleriyle evre anlatımı; toprak–karanlık madde alt sistem analojisi | A/D/R; §6B; güncel evre tanımıyla değiştirilmez. |
+| P67 | Biyolojik zamanın fizik zamanını kapsaması; zaman kapsülü | A/R; §§10D–10E; ontolojik zaman savı. |
+| P68 | Baskın etkiyle zaman; bitkisel genişleme; mücadele bitince zamanın durması | A/D/R; §10E; fiziksel ölçüm sonucu değil. |
+| P69 | Hücre/bitkinin atom/yıldız üst sistemi olması; sezgisel açıklık | A/R; §10D; sezgi bağımsız ampirik ispat değil. |
+| P70 | Biyolojinin iki evresi | A; §6. |
+| P71 | Tek hücreliler; bakterileri eşeyli/eşeysiz olarak adlandırma | A/R; §6B; üreme terminolojisinin alan denetimi açık. |
+| P72 | İlk yaşamın tek hücreli oluşu | R; yaşam tarihi kaydı; bu tur tarihsel kanıt kontrol edilmedi. |
+| P73 | Çok hücreliler; tohumsuz/tohumlu bitki örnekleri | A/R; §6B; evre bütün çok hücrelileri yalnız bitkilere indirgemez. |
+| P74 | Bitki evresi; yosunların iki evre ve varlıksı konumu; üst kanun | A/R; §4D; grup ve yaşam döngüsü denetimi açık. |
+| P75 | Yeni biyolojik düzenin ispatı başlığı | B |
+| P76 | Hücre/atom karşılaştırması; küçüldükçe gelişkinlik | A/D/R; §6B; ölçüt eksik. |
+| P77 | Atomlardan hücre ve ayrı işleyiş; boyut ispatı | A/R; §§6, 10D; örgütlenme gözlemi tek başına metafizik zorunluluk değil. |
+| P78 | Parçacık ve molekül üçlülerinin eşlenmesi | D/R; §6B; analoji mekanizma özdeşliği değil. |
+| P79 | Hücre için fiziksel kâinatın koşul olması; üst sistem çıkarımı | A/R; §§10D–10E; taşıyıcı koşul ile kapsama ayrılır. |
+| P80 | Sezgiyi kanıt sayma | D/R; yöntem; sezgi deneysel doğrulama yerine geçmez. |
+| P81 | Biyolojik genişleme/çöküş; bitki yayılması için hayvanlar; biyolojik beden ve zihinsel sistem | A/D/R; §6B; ekolojik iddia ile kozmik sonuç ayrı. |
+| P82 | Hayvanların ihtiyaç/denge bilgisi sayılması; her bilginin zihinden gelmesi; ruh | A/R; §§8A, 10E; ontolojik ve epistemik bilgi anlamları ayrılır. |
+| P83 | Zihin başlığı | B |
+| P84 | Zihni dördüncü boyuttan bakış ve duyu/sinir/bellek sistemiyle tanımlama | A/R; §§7, 8A; teolojik bakış ile işlemsel tanım aynı değil. |
+| P85 | Ruh/fıtrat; biyolojiden dışlama; bedensel kapsama; dış dünya iletişimi; cinsiyet–zekâ eşlemesi; akla geçiş | A/D/R; §6B; güncel bütünleşik kapsama esas, cinsiyet eşlemesi tanım yapılmaz. |
+| P86 | Fizik/biyoloji/zihin tasnifi; beden–atom, tür–element ve grup–sistem benzetmeleri | A/R; §4D; aynı mekanizma sonucu çıkarılmaz. |
+| P87 | İnsan/hayvanın üçüncü zaman konumu; sistem etkileşimlerinden öğrenme | A/R; §§7, 10E; yöntem önerisi, yapılmış deney değil. |
+| P88 | Zihnin iki evresi | A; §7A. |
+| P89 | Zekâ evresi; yumurtlamadan doğurmaya tarihsel sıra; üstte altın kapsanması | A/R; §7A; tarihsel üreme kronolojisi denetimi açık. |
+| P90 | Akıl evresi; insanda ilimden ilim üretimi ve zekâ alanının genişlemesi | A; §§7–7A; insan zekâsı dışlanmaz. |
+| P91 | Değişen insan ürünleri/sabit hayvan düzeni; epigenetik, iklim ve akılla genişleme | A/D/R; §7 ve bu kayıt; evrensel sabitlik veya aynı genişleme mekanizması benimsenmez; H05/literatür açık. |
+| P92 | Etçil/otçul ikili tasnifi; avın bedensel enerjiye dönüşümü; madde benzetmesi | D/R; araştırma kaydı; bütün hayvanlar için ikili taksonomi veya ahlaki kötülük tanımı yapılmaz. |
+| P93 | Zihin düzeninin ispatı başlığı | B |
+| P94 | Hayvanlar âlemi adını sezgisel kanıt sayma | D/R; yöntem; adlandırma tek başına ontolojik ispat değil. |
+| P95 | Beyin/kalp/organ–DNA/RNA/protein gelişkinliği; zihin kapsaması | A/D/R; §§6B, 10D; kıyas ölçütü açık. |
+| P96 | Hayvanın biyolojik/fiziksel koşulları; üst açılımla çöküşün önlenmesi; jeolojik çeşitlenme | A/D/R; §6B; jeoloji ve yaşam tarihi kaynak denetimi açık. |
+| P97 | Molekül/organ ve zihinsel bileşen benzerliği; doğuştan bilmeden üst bakış çıkarımı | D/R; §§6B, 8A; benzerlik ek kanıt değildir. |
+| P98 | Hücrelerin toprakla ilişkisi; hayvanların görevi; kombinasyondan ruh zorunluluğu | A/R; §8A; maddi oluşum ve teolojik çıkarım ayrı. |
+| P99 | Üç sistemin dördüncü boyutla sarılması | A/R; §8A; kurucu kapsama. |
+| P100 | Doğa kanunu boyutu başlığı | B; erken adlandırma §8A'da korunur. |
+| P101 | Denge için ruh/doğa kanunu; nüfusların tam uyumu ve doğum–ölüm | A/R; §8A; tam denge genellemesi ekolojik kanıt bekler. |
+| P102 | Dördüncü zamanın kapsaması; ruh veren varlıklar; varlık/devam/fıtrat; ahlak–hüküm ilişkisi | A/R; §§8A–8B, 10E; ihtimal dili kesinleştirilmez. |
+| P103 | Üç güç–üst kanun; anayasa/organizma analojisi; melekler; her canlının erkek/dişi olduğu savı; H/He çeşitlenmesi; doğanın yazılımı | A/D/R; §§8A, 6B, 5A; evrensel üreme ve fizik savları doğrulanmış değil. Analoji teolojik çıkarımı tek başına kanıtlamaz. |
+| P104 | Doğa boyutunda iki evre | A; §8A. |
+| P105 | Ruh evresi; zihinlilerin ruhu; gebelikte ruhla veri toplamaya başlama | A/R; §8A; gebelik zamanlaması biyolojik bulgu değil. |
+| P106 | Melek evresi; müdahale ve genişleme; jeolojik devirlerin kanıt sayılması | A/R; §8A; jeolojik gözlem tek başına teolojik müdahaleyi seçmez. |
+| P107 | Doğa boyutu delilleri başlığı | B |
+| P108 | Üst güç; programlı canlılar; evren/âlem benzetmesi; bireyi türe denk sayma; çoklu evreni türlere bağlama | A/D/R; §8A ve bu kayıt; ontolojik bireysellik biyolojik tür tanımı veya kozmolojik çoklu evren sonucu değildir. |
+| P109 | Metafizik inançlar, film/masal ve korkular; tasavvurun sınırı | A/R; §8A; tasavvur ve dış nesnenin varlığı ayrılır. |
+| P110 | Tarihsel inanç yaygınlığı ve fıtrat üzerinden ispat | A/R; §8A; yaygınlık tek başına doğruluk garantisi değil. |
+| P111 | Ekolojik uyum; karşılıklı yarar; hüküm merkezi; üç milyar yıl denge; rastlantı reddi; siyasal düzen analojisi | A/D/R; §8A; süre ve ekolojik/siyasal genellemeler kaynak bekler; analoji bağımsız mekanizma kanıtı değil. |
+| P112 | Doğa yasaları için fiziksel meleklerin zorunluluğu | A/R; §8A; kurucu teolojik sav; deneysel zorunluluk ilan edilmez. |
+| P113 | Kanun ve bilgi tanımına geçiş | B |
+| P114 | Farktan bilgi; ortak kaynak/düzlem; aritmetik işlemler ve tüm varlığın atomlarla açıklanması | A/D/R; §10E; ayırt edilebilirlikten her nesneye aynı sayı işlemi veya ontolojik köken zorunluluğu çıkmaz. |
+| P115 | Hayvanlarda görünüş/görev/genetik fark; klonlarda zekâ/zaman/mekânla ayırt edilme | A/R; §4'ün kimlik sorusu ve bu kayıt; klon kimliği ve biliş genellemesi ayrı araştırma. |
+| P116 | Bilgi oluşumunun varlık/düzen oluşumuyla eşdeğerliği; aşkın yaratıcı | A; §10E; ontolojik bilgi, önerme onayıyla özdeş değil. |
+| P117 | Kanunu hüküm/düzlem/üst bilgi olarak tanımlama; alt sistem ve iki bilgi koşulu | A/R; §10E; farklı tanım işlevleri korunur. |
+| P118 | Kendiliğinden var/yok olmama; kanun koyucu; üst sistemler; melek ve hükümle devamlılık | A/R; §§4D, 8A, 10E; metafizik kabul fiziksel korunma yasası diye sunulmaz. |
+
+**Sonuç:** Varlık P62–118 için ilk içerik–işlem eşlemesi yapıldı. Ek G ile sıralı kapsam P1–118'e ulaştı. 118/195 bir bilimsel doğrulama yüzdesi değildir. Varlık P119–195 ve Akıl P1–177 henüz sıralı döküme bağlanmadı; D/R kayıtlarının dış kaynak ve bağımsız denetimleri açık. H01-01 ve yol haritasının 04. maddesi kapanmadı.
