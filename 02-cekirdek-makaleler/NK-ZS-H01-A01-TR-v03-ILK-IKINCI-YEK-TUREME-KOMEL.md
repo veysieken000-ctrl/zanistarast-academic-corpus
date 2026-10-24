@@ -144,6 +144,28 @@ Kurucu ruh boyutu ilk evrede ruh, ikinci evrede meleklerdir; meleklerde ruh vard
 
 Ahlak boyutunun birinci evresi fıtrî, ikinci evresi iradeli ahlaktır. Sevgi, merhamet ve iyiyi isteme insanın ahlaki yönelimiyle ilişkilidir. İnsan fizik, biyoloji, zihin, ahlak, akıl, duygu + öz katmanlarıyla evrenin özetidir; bu insan katmanları 6+Tek kozmik boyutlarının sayısal eşlemesi değildir.
 
+### 8A. Ruh ve doğa kanunu anlatısının özgün kaynak sınırı
+
+Özgün *Varlık Sistemi ve Boyutları* P100–106'da başlık “Doğa Kanunu Boyutu”dur; P105 ruh, P106 melek evresini açıkça adlandırır. Dolayısıyla bu iki evre yalnız sonraki kanondan alınmış değildir. Bununla birlikte erken metnin doğa kanunu, ruh, zaman ve “4. güç” ifadelerini birlikte kullanması, bunların bilimsel veya kavramsal olarak özdeşliğini kanıtlamaz. Güncel kanonda dördüncü boyut ruh olarak adlandırılır; erken adlandırma tarihsel farkıyla korunur.
+
+| Özgün kaynak ve paragraf izi | Kaynakta bulunan sav | Aktarım ve kanıt sınırı |
+|---|---|---|
+| Varlık P101, “Fizik, biyoloji ve zihin”; P102, “4. Zaman hem”; P103, “Fiziki varlıklar, biyolojik varlıklar” | Üç sistemin üst kanunla kapsanması; ruh, zaman, kanun ve meleklerle açıklama | Ontolojik/teolojik savdır. Doğa yasalarının betimlenmesi ile bu yasaların meleklerle açıklanması ayrı gerekçelendirme ister. |
+| Varlık P105, “1.Evre: Ruh evresidir.”; P106, “2.Evre: Melek, evresidir.” | Ruh–melek evreleri; gebelikte ruh ve veri toplama; jeolojik devirlerle meleklerin müdahalesi arasında ilişki | Evre adlarının özgün kaynak izi doğrulandı. Gebelikteki zamanlama ve veri toplama savı biyolojik bulgu olarak aktarılmaz; jeolojik dönemler tek başına teolojik müdahalenin deneysel kanıtı değildir. |
+| Varlık P109, “b) Sezgisel olarak”; P110, “c) İnançsal kabul kanıttır.” | İnançların, tasavvurların ve korkuların metafizik varlıklar için kanıt sayılması | Kaynakta ileri sürülen gerekçe korunur. İnancın varlığı ile inanılan nesnenin dış dünyada varlığı farklı önermelerdir; ilki ikincisini tek başına zorunlu kılmaz. |
+| Varlık P111, “d) Muhteşem uyum”; P112, “e) Biyoloji için” | Doğal uyumdan hüküm merkezi ve meleklerin varlığına çıkarım | Kurucu çıkarım olarak kaydedilir. Doğal uyuma ilişkin gözlem, bu teolojik açıklamayı rakip açıklamalara karşı tek başına seçmez. |
+| Akıl P22, “Fizik kanunlarının varlığı”; P40, “1, 2, 3 diye başlayan” | Ruh/fıtrat ile sistemlerin kanunları ilişkilendirilir; P40 melek açıklamasını ihtimal diliyle sunar | P40'taki ihtimal kesin bulguya çevrilmez. Güncel fıtrat ve iki ahlak tanımı bu eski paragraflardan birebir alıntı gibi gösterilmez. |
+
+P numaraları 24 Ekim 2026'da Drive'dan alınan düz metindeki boş olmayan satır/paragraf sırasıdır; Word sayfası değildir. Doğrudan kaynaklar: [Varlık Sistemi ve Boyutları](https://docs.google.com/document/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d/edit), [Akıl ve Bilginin Kaynağı](https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit). Tablodaki çıkarım sınırları akademik çözümlemedir; yeni kurucu öğreti değildir. Bu kayıt ilgili pasajların kaynak eşlemesidir; bütün ruh ve hüküm önermelerinin dış kaynak veya bağımsız Rasterast denetiminin tamamlandığı anlamına gelmez.
+
+### 8B. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı tanımları
+
+22 Ekim 2026 tarihli kurucu kilometre taşı uyarınca **fıtrat**, varlığın kuruluşu, imkânları, sınırları ve ilişkisel düzenidir. **Fıtrî ahlak**, bu düzenin işleyiş, davranış ve ilişkilerde tezahürüdür; fiziksel varlıklara bilinçli tercih, suç veya insan türü sorumluluk yüklemez. **İradeli ahlak**, insanın öz, duygu, zekâ, akıl ve fıtrî ahlakla ilişkili imkânlarını bilgi, niyet ve seçimle yönlendirmesi ve hüküm karşısındaki özel sorumluluğudur.
+
+Fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında ele alınır. Fıtrî ahlak bu yapının oluşum ve hareket düzenini kapsarken bütünleşik insan Yek'i iradeli ahlak bakımından sorumlu muhataptır. Öz, duygu ve akıl birbirinden kopuk bağımsız parçalar olarak yorumlanmaz. Böylece kuruluş düzeni, bu düzenin tezahürü ve bilinçli sorumluluk üç ayrı kavram olarak korunur.
+
+**Kaynak statüsü:** Bu tanımlar sonraki kurucu karara dayanır: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`; bütünleşik insan kapsaması ayrıca `../AGENTS.md`, “İnsan Yek'i için bağlayıcı kapsama” kaydındadır. Tanımlar eski Word'e geriye dönük doğrudan alıntı olarak yüklenmez. Kaynak sadakatinin sağlanması bu tanımların evrensel ampirik yasa olarak doğrulandığı anlamına gelmez.
+
 ## 9. Hüküm/ahiret ve Yek'in konumu
 
 Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik-ontolojik statüde ele alınır. Yek bütün boyutların üstünde kurucu birlik ilkesidir; yedinci yaratılmış evre değildir.
