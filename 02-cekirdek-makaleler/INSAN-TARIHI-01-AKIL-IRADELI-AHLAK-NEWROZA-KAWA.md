@@ -4,13 +4,13 @@
 
 ## Öz
 
-Bu çalışma, Zanistarast'ın insan çağı tezini biyolojik insan tarihi, öğrenme ve bilgi aktarımı, ortak örgütlenme ve iradeli sorumluluk arasındaki ilişkilerle inceler. Özgün insan çağı, ahlak boyutu ve Newroza Kawa yazıları tamamlanan Hebûn–Jeoloji çerçevesiyle karşılaştırılır. Kurucu yaklaşım insanı bütünleşik bir Yek ve bilgi, niyet, tercih bakımından sorumlu muhatap olarak ele alır. Bu ontolojik konum, bir fosilin, aracın veya yapının tek başına ahlaki iradenin ilk tarihini gösterdiği anlamına gelmez. Seçilmiş tarihleme, arkeoloji, kültürel aktarım ve kurum araştırmaları; tür tarihi, davranışsal iz ve normatif yorumun farklı kanıt yüklerini görünür kılmak için kullanılır. Akıl ve araç kapasitesi güzel ahlakı, ortak faaliyet de kendiliğinden adil kurumu garanti etmez. Katkı, insan tarihindeki geçişleri kaynak, aktarım, karar yetkisi ve sorumluluk bakımından ayrı kaydeden bir araştırma çerçevesidir. Newroza Kawa bu çerçevede normatif uygarlık önerisi olarak ele alınır; bütün toplum tarihini açıklayan doğrulanmış yasa veya tamamlanmış uygulama değildir.
+Bu çalışma insan tarihini Hebûn–Zanabûn'un yaratılış düzeni, merkez–çevre ve iradeli ahlak çerçevesinde ele alır. İnsanın hükmü sınırlı tercih ve uygulama kararıdır; ilahî hükme eşit değildir. İlâhî emre aykırı tercihler, zulüm ve ihmalin toplum ve çevreye yayılan sonuçları; afetler, savaşlar ve düzeltme sorumluluğu bağlamında araştırılır. Kur'an temel kaynak, hadis nebevî açıklama, Risale-i Nur ise tefsirî ve düşünsel dayanak olarak kullanılır. Biyolojik tür tarihi, bilgi aktarımı ve kurumlara ilişkin seçilmiş bilimsel kaynaklar bu anlam çerçevesinde kendi kanıtlarıyla değerlendirilir. Newroza Kawa bilgi, ahlaki yön ve ekolojik dengeyi birlikte gözeten uygarlık önerisidir. Çalışma tarihsel mekanizma ile manevi yorumu ilişkilendirir; zarara uğrayan her kişiyi suçlu sayan veya belirli olayın bütün ilahî hikmetini bildiğini öne süren bir hüküm kurmaz.
 
 **Anahtar sözcükler:** insan tarihi, akıl, birikimli bilgi, iradeli ahlak, kurum, Rabûn, Mabûn, Newroza Kawa.
 
 ## 1. Araştırma sorusu ve yöntem
 
-**Soru:** Bireyin bilgi üretme ve sorumlu tercih kapasitesi, tarihsel bilgi aktarımı ve ortak kurumlarla nasıl ilişkilendirilir; bu ilişkide hangi savlar arkeolojik, hangileri kavramsal ve normatiftir?
+**Soru:** Yaratılış düzeninde insanın iradeli hükmü ilahî ölçüyle nasıl ilişkilidir; uyum veya çatışma, bilgi aktarımı, merkez–çevre, kurumlar, afet ve savaşların sonuçları içinde nasıl araştırılır?
 
 Varlık Tarihi kapsama, kronoloji ve mekanizmayı; Jeoloji ortam, kimyasal işlev ve tarihsel izi ayırır. İnsan Tarihi'nin ayrı konusu, **öğrenme, aktarım, ortak karar ve sorumluluğun tarihsel ilişkileridir**. Bu makale bütün insanlık olaylarının kronolojik özeti değildir.
 
@@ -58,6 +58,22 @@ Bu soruların tarihleri zorunlu olarak tek olayda birleşmez. Bir bulgunun eldek
 Kurucu kayıt iradeli ahlak çağını son buzul çağı sonrasındaki tarihsel açılımla ilişkilendirir [K4]. Bu tez burada **biyolojik Homo sapiens'in ancak o tarihte ortaya çıktığı** şeklinde aktarılmaz. Çevresel dönem, toplumsal örgütlenme ve ontolojik sorumluluk farklı sorulardır.
 
 Arkeolojik bulgular normlar veya ortak faaliyet hakkında yorum sağlayabilir; iradenin kendisini doğrudan tarihlendiren cihaz değildir. Belirli bir topluluğun hangi sorumluluk anlayışını taşıdığı iddiası, ilgili kaynak ve yorum köprüsüyle savunulmalıdır. Bu makale iradeli ahlakın ilk anı için yeni bir tarih hesaplamaz.
+
+## 3.2. İnsan hükmü ile ilahî ölçünün çatışması
+
+İnsan Tarihi'nin açıklayıcı omurgası, yalnız tür ve kurumların kronolojisi değil, **yaratılış düzeninde insanın kendi hükmünü hangi ölçüyle verdiği** sorusudur. Hebûn insanın bütünleşik varlığını, Zanabûn bilme ve devam ilişkisini, merkez–çevre ise insanın başkalarını ve taşıyıcı çevresini etkileyen konumunu birlikte düşündürür. İnsandaki en üst ahlaki düzey olan iradeli ahlak, bu imkânları niyet ve tercih yönünden kapsar; ilahî hükmün üstüne çıkmaz.
+
+İnsan hükmü, tercih ve uygulama kararıdır. İlâhî hüküm burada yaratıcı/idame edici kudret, emredilen ahlaki ölçü ve nihai hesap bağlamları ayrılarak kullanılır. İnsan ahlaki emre aykırı davranabilir; ilahî kudreti yenemez. Çatışma, yaratılmış iradenin hak, adalet ve emanet ölçüsünden sapmasıdır. Bu sapmanın sonuçları yalnız kişide kalmayıp aile, kurum, toplum ve çevreye yayılabilir [İS1–İS4].
+
+Kur'an'ın En'âm 6:65'te toplumsal ayrışma ve birbirinin şiddetini tatma temasını ele alması, savaşları yalnız askerî güç hesabıyla okumayan bir anlam çerçevesi sağlar. Rûm 30:41'in bozulma ve dönüş çağrısı da iradeli ahlak ile tarihsel sonuç arasındaki bağı öne çıkarır. Bu, her savaşın tek sebebinin araştırmacının seçtiği bir günah olduğu iddiası değildir; somut aktör, karar, zulüm ve sonuç ilişkisi ayrıca belgelenir.
+
+## 3.3. Kur'an, hadis ve Risale-i Nur ile toplumsal sonuç
+
+Enfâl 8:25, toplumsal fitnenin zararının yalnız zulmedenlerle sınırlı kalmayabileceği konusunda uyarır. Bakara 2:155–157 sıkıntıların imtihan yönünü de gösterir [İS1–İS2]. Dolayısıyla ortak felaket ile tek tek kişilerin kusuru özdeşleştirilmez. Masuma yönelik zulüm ve ona yardım yükümlülüğü, toplumsal sonuç anlatısında kaybolmaz.
+
+Buhârî 7059'da kötülüğün yayılması karşısındaki toplu tehlike; 2493'te gemiye zarar verilmesini önleme temsili yer alır [İS4]. Bu rivayetler, ortak hayatı tahrip eden tercihe kayıtsız kalmamayı ve koruyucu sorumluluğu temellendirmede kullanılır. Gemi temsili, kurumların sınırsız baskı yetkisi değil, ortak zararı önleme sorusunu açar.
+
+Risale-i Nur'un *On Dördüncü Söz'ün Zeyli*, afetin maddi sebepleriyle manevi hikmetini birlikte ele alır; masumların maruz kaldığı kaybı onların suçluluğuna eşitlemez [İS3]. Zanistarast'ın bu kaynaklardan geliştirdiği tarih okuması, **hüküm → iradeli tercih → ahlaki gerçekleşme → ortak sonuç → düzeltme ve hesap** ilişkisini araştırır. Bu teknik şema Kur'an'ın, hadisin veya Risale'nin kendi kelimesi kelimesine formülü diye sunulmaz.
 
 ## 4. Tür tarihi ile davranışın tarihini ayırmak
 
@@ -170,6 +186,8 @@ Makalenin ayırt edici katkısı, biyolojik tür, bilişsel kapasite, aktarım, 
 
 ## 11. Sonuç
 
+İnsan Tarihi'nin merkezinde, yaratılış düzeninde kendi hükmünü veren ve bunun hesabına muhatap olan insan vardır. Kur'an, hadis ve Risale-i Nur'un dayanakları, insanın tercihlerinin ortak hayatı koruma veya bozma yönünü açıklamaya katılır. Savaş, afet ve çözülmede karar, zulüm, ihmal ve etkilenenlerin hakkı araştırılır. Manevi anlamı korumak masumun kaybını onun kusuruna eşitlemez; bilimsel açıklama da nihai anlamı dışlayan bir dünya anlatısı hâline getirilmez.
+
 İnsan Tarihi, Zanistarast'ın bütünleşik insan ve sorumluluk yaklaşımını tarihsel kaynakla birlikte inceler. Türün biyolojik tarihi, bilginin üretim ve aktarımı, ortak kurumlar ve iradeli ahlak tek bir başlangıç tarihi veya tek kanıt türü değildir.
 
 Seçilmiş örnekler, tarihlemede ölçülen nesneyle yorumlanan olayı; arkeolojik izde ortak faaliyetin göstergesiyle ahlaki niyeti; kurumsal düzende koordinasyonla meşruiyeti ayırmayı gerektirir. Akıl ve teknik kapasite güzel ahlakı, bireysel iyi niyet de kurumsal başarıyı garanti etmez.
@@ -201,6 +219,17 @@ Newroza Kawa bilgi, ahlak ve ekolojik dengeyi birlikte gözeten normatif araşt�
 **[D4]** Ostrom, E. (2010). Beyond Markets and States: Polycentric Governance of Complex Economic Systems. *American Economic Review, 100*(3), 641–672. https://doi.org/10.1257/aer.100.3.641 . Açık üniversite kopyası: https://web.augsburg.edu/sabo/BeyondMarketsandStatesPolycentricGovernanceofComplexEconomicSystems.pdf . Künye ve girişteki s.641 araştırma çerçevesi doğrudan okundu. Bütün vaka, deney ve sonuç bölümleri incelenmiş sayılmadı. Nobel sitesi PDF çağrısı 403 döndürdü; erişim alternatifi kullanıldı.
 
 Dış kaynaklar 24 Ekim 2026'da belirtilen kapsamla incelendi. Kaynağın varlığı, kurucu ontolojinin veya Newroza Kawa'nın bilimsel olarak doğrulandığı anlamına gelmez.
+
+
+### Kur'an, hadis ve Risale-i Nur dayanakları — 24 Ekim yeniden incelemesi
+
+**[İS1]** Diyanet, Kur'an Yolu: Rûm 30:41, [meal/tefsir kaydı](https://kuran.diyanet.gov.tr/mushaf/kuran-tefsir-1/rum-suresi-30/ayet-33/kuran-yolu-meali-5); Şûrâ 42:30–31, [meal ve tefsir](https://kuran.diyanet.gov.tr/kuran?ayet=30&mode=tefsir&sure=42); En'âm 6:65, [meal/tefsir kaydı](https://kuran.diyanet.gov.tr/mushaf/tefsir-2/enam-suresi-6/ayet-61/diyanet-isleri-baskanligi-meali-1). Mushaf sayfasının bağlantı ayeti ile içerikte incelenen ayet farklı olabildiğinden burada kullanılan ayet numarası açık yazıldı. İndekslenmiş resmî meal/tefsir pasajları okundu; yorumlar ayetin lafzıyla özdeşleştirilmedi.
+
+**[İS2]** Diyanet, [Enfâl 8:25](https://kuran.diyanet.gov.tr/tefsir/Enf%C3%A2l-suresi/1185/25-ayet-tefsiri) ve [Bakara 2:155–157](https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/162/155-157-ayet-tefsiri). Resmî indeks pasajları incelendi; Bakara doğrudan sayfası okunabilir gövde döndürmedi. Kullanım: toplumsal sonuç ve imtihanı birlikte ele almak.
+
+**[İS3]** Said Nursî, *Sözler*, On Dördüncü Söz'ün Zeyli; külliyatın [s.159](https://kulliyat.risaleinurenstitusu.org/sozler/on-dorduncu-soz/159), dördüncü/beşinci sual ve [s.160](https://kulliyat.risaleinurenstitusu.org/sozler/on-dorduncu-soz/160), maddi sebepler–ilahî irade pasajları doğrudan okundu. Bunlar tefsirî/teolojik yorumdur; güncel jeoloji ölçümü veya Kur'an'ın doğrudan lafzı değildir. Sayfalar bu dijital basıma aittir.
+
+**[İS4]** *Sahîh-i Buhârî*, Fiten, [7059](https://sunnah.com/bukhari:7059), Zeyneb bint Cahş rivayeti; Şirket, [2493](https://sunnah.com/bukhari:2493), Nu'mân b. Beşîr rivayeti. Arapça metin, İngilizce aktarım ve koleksiyon kaydı doğrudan karşılaştırıldı; burada Türkçe özet verilir. Numaralar bu dijital düzenindir. Yeni isnad tahkiki yapılmış veya bütün hadis külliyatı incelenmiş sayılmaz.
 
 ## Tarihsel iz ve tamamlanma kapsamı
 
