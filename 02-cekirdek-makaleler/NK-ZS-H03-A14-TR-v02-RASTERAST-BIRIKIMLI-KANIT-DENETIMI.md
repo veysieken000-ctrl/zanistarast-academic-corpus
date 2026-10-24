@@ -143,7 +143,7 @@ Bu kayıtta H02'nin eski §5 veya §5A numaraları güncel yer gibi kullanılmaz
 
 ### 8.2. H05'te bulgu, yorum, eleştiri ve yanıt
 
-H05 §5B, Boeckle ve arkadaşlarının 2020 araştırmasını, de Mahy ve arkadaşlarının 2021 eleştirisini ve yazarların 2021 yanıtını ayrı kaynak rolleriyle ele alır [R11]. Hayvanın yaptığı görev, araştırmacının planlama yorumu, alternatif öğrenme açıklaması ve yanıtta savunulan hedef aynı önerme değildir.
+H05 §5.2, Boeckle ve arkadaşlarının 2020 araştırmasını, de Mahy ve arkadaşlarının 2021 eleştirisini ve yazarların 2021 yanıtını ayrı kaynak rolleriyle ele alır [R11]. Hayvanın yaptığı görev, araştırmacının planlama yorumu, alternatif öğrenme açıklaması ve yanıtta savunulan hedef aynı önerme değildir.
 
 Bu nedenle “yayın ve yanıt var” denilerek iki bağımsız deney kaydedilmez. Eğitime giren, teste alınan ve ölçüte ulaşan bireylerin paydaları da karıştırılmaz. Burada bu yayınlar yeniden analiz edilmiş değildir; H05'teki mevcut kaynak ve kapsam denetimi, Rasterast'ın kayıt örneği olarak devralınır.
 
@@ -207,7 +207,7 @@ Böylece her makale yalnız yeni içerik değil, sonraki araştırmanın devrala
 
 **[R10]** [H03–H02 bağlam incelemesi](../01-kanonik-denetim/H03-H02-INSAN-TARIHI-RISK-BAGLAM-DENETIMI-2026-10-23.md). Reddedilen önermenin otomatik uyarıyla savunulan görüş sanılmaması.
 
-**[R11]** [H05 güncel araştırma metni](NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md), §§5A–5B ve kaynakçası. Yayın–yorum–eleştiri–yanıt ayrımı için önceki doğrudan inceleme kaydı devralındı. İlgili yayınlar: Boeckle ve ark. (2020), DOI 10.1098/rspb.2020.1490; de Mahy ve ark. (2021), DOI 10.1098/rspb.2021.0186; Boeckle ve ark. (2021), DOI 10.1098/rspb.2021.1271.
+**[R11]** [H05 güncel araştırma metni](NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md), §§5.1–5.3 ve kaynakçası (24 Ekim bütünleştirmesi, commit `d1f4642ea43283730cfe1fdcd3fe88343df62e16`). Yayın–yorum–eleştiri–yanıt ayrımı için önceki doğrudan inceleme kaydı devralındı. İlgili yayınlar: Boeckle ve ark. (2020), DOI 10.1098/rspb.2020.1490; de Mahy ve ark. (2021), DOI 10.1098/rspb.2021.0186; Boeckle ve ark. (2021), DOI 10.1098/rspb.2021.1271.
 
 **Dış yöntem kaynağı:** National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science*. The National Academies Press. https://doi.org/10.17226/25303. Bölüm 3; önceki kaynak denetiminden devralınan karşılaştırma.
 
