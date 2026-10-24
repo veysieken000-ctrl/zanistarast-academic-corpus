@@ -137,3 +137,17 @@ H03 ana metni: commit `6f4325ff207f4c97ccd4729fba12e9bb8406e59c`. Kaynak sürüm
 - Yazılı kural, biçimsel tanım ve gerçek uygulama doğrulaması ayrı raporlanır.
 
 Bunlar iş akışı kazanımlarıdır; inceleme süresinde veya hata oranında ölçülmüş yüzdelik iyileşme ileri sürülmez. İki Kurmancî ad önerisi mevcut kavram havuzuna aday olarak eklendi; çekirdek üretimi dilsel son onayı bekleyerek durdurulmaz.
+
+
+## 24 Ekim 2026 — H04 gerekçe ve aktarım kazanımları
+
+Ana metin commit'i: `b15ecfa684b1ffa436624a8054ac789c375e75b3`. H01 tabloya kaynaklı geri besleme: `14a45fc3bc6117172e6d45cabdbab06b1eec27e1`.
+
+| Hazır gerekçe | Sonraki kullanım |
+|---|---|
+| Boyut–evre–katman–kronoloji ayrı; H04 §§2–3 | Tarih makaleleri kozmik tabloyu tek tarih çizgisi yapmaz. Altıncı boyutun adları TEORILER sabit kaynağından kullanılır. |
+| Teknik imkân erişimi, erişim sorumluluğu garanti etmez; H04 §§5–6 | H05 kapasite, bilgi üretimi ve ahlaki kullanımı birbirine indirgemez. |
+| Seçenek sayısı sorumluluğun tek ölçütü değil; H04 §6.2 | Frankfurt itirazı korunur; kontrol ve eylemin gerçekleşme gerekçesi ayrıca incelenir. |
+| Norm, insan kararı, uygulama incelemesi ve nihai hüküm ayrı; H04 §7 | Ahlak, hukuk, Rabûn ve Mabûn metinlerinde geri besleme ilahî kaynağı üretme diye okunmaz. |
+
+Kaynakta mevcut terim bulununca yeni ad üretmek yerine sabit kaynaktan devralındı. H04'te yinelenen ekler tek ana argümanda toplandı; eski içerik Git geçmişinde korundu. Bunlar yeniden kullanılabilir çalışma kazanımlarıdır; süre veya başarı yüzdesi ölçülmüş değildir.
