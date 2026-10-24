@@ -30,7 +30,7 @@ Bu dosya, bu depoda çalışan ChatGPT, kod ajanları ve diğer yardımcılar i�
 4. **GitHub doğrulama:** Dosyayı yaz, geri oku, içerik eşitliğini ve commit SHA'sını kontrol et; doğrulanmadan “kaydedildi/yeşil” deme.
 5. **Kalite kapısı:** Kurucu tez, kaynak, özgün katkı, karşı görüş, ampirik sınır, hedef dergi biçimi ve kullanıcı son onayı tamamlanmadan “hazır/kanıtlandı” deme.
 6. **Yetki sınırı:** Mira'nın bu özel akademik depoda okuma hakkı vardır; yazma/değiştirme/silme hakkı yoktur. Mira geliştirmesi ve PR67 bu iş akışının dışındadır.
-7. **İlerleme raporu:** Kısa biçimde dosya, commit, gerçek ilerleme ve sıradaki somut işi belirt; aynı ilkeleri tekrar uzun uzun anlatma.
+7. **İlerleme raporu:** Kısa biçimde dosya, commit, gerçek ilerleme ve sıradaki somut işi belirt; aynı ilkeleri tekrar uzun uzun anlatma. Her ilerleme yanıtının en altında `01-kanonik-denetim/CEKIRDEK-TAMAMLAMA-SABIT-YOL-HARITASI-2026-10-24.md` içindeki güncel 01–15 listesini ver; listenin sonrasına başka açıklama ekleme.
 
 ## Bu talimatın sınırı
 
