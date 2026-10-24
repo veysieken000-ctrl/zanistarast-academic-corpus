@@ -151,3 +151,17 @@ Ana metin commit'i: `b15ecfa684b1ffa436624a8054ac789c375e75b3`. H01 tabloya kayn
 | Norm, insan kararı, uygulama incelemesi ve nihai hüküm ayrı; H04 §7 | Ahlak, hukuk, Rabûn ve Mabûn metinlerinde geri besleme ilahî kaynağı üretme diye okunmaz. |
 
 Kaynakta mevcut terim bulununca yeni ad üretmek yerine sabit kaynaktan devralındı. H04'te yinelenen ekler tek ana argümanda toplandı; eski içerik Git geçmişinde korundu. Bunlar yeniden kullanılabilir çalışma kazanımlarıdır; süre veya başarı yüzdesi ölçülmüş değildir.
+
+
+## 24 Ekim 2026 — H05 gerekçe devri
+
+Ana metin commit'i: `d1f4642ea43283730cfe1fdcd3fe88343df62e16`.
+
+| Soru ve kaynak yolu | Dar sonuç ve sonraki kullanım |
+|---|---|
+| Öz–duygu–akıl nasıl ilişkilidir? Core 03/05, güncel kurucu kayıtlar ve düzeltilmiş A13; H05 §§2–3 | Bütünleşik Yek'in ilişkili anlamlarıdır; insan katmanları kozmik sayılarla eşlenmez. A12/A13 ve İnsan Tarihi devralır. |
+| Yeni ürün yeni ilim midir? H05 §4; tarif/ürün/yeni sav karşılaştırması | Bilgi uygulaması, ürün ve yeni bilgi ayrı; kişinin öğrendiği yenilik alanın yeni keşfiyle eşitlenmez. Bilim ve eğitim makalelerine aktarılır. |
+| Hayvan görevi insan aklını ayırır mı? H05 §5; mevcut Kenward/Boeckle/Jelbert ve eleştiri–yanıt kayıtları | Görev başarısı, mekanizma ve kurucu tanıma uygunluk ayrı; payda ve eğitim geçmişi korunur. Yeni tür karşılaştırması yapılmış sayılmaz. |
+| İlimden ilim nasıl kaydedilir? H05 §6 | Öncül, yeni sav, yenilik tabanı, çıkarım, alternatif açıklama, sınama ve düzeltme birlikte; metinsel yenilik yeterli değil. |
+
+H03/H04'ün H05'e bölüm göndermeleri yeni düzenle aynı iş paketinde güncellendi ve geri okundu. Mevcut terimler yeterli olduğundan yeni ad üretilmedi. Kaynakların tekrar kullanılabilmesi çalışma kazanımıdır; süre veya başarı yüzdesi ölçülmüş değildir.
