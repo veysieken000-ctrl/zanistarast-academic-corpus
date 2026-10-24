@@ -72,7 +72,23 @@ Uygulama, önerdiği ölçütlerle örgütlü sistem ile yalnızca birlikte bulu
 
 P numaraları, yukarıdaki kaynak eşlemesinde olduğu gibi 24 Ekim 2026'da Drive'dan alınan düz metindeki boş olmayan satır/paragraf sırasıdır; Word sayfası değildir. Kaynaklar: [Varlık Sistemi ve Boyutları](https://docs.google.com/document/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d/edit) ve [Akıl ve Bilginin Kaynağı](https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit).
 
-**Akademik çözümleme:** Bir şeyin kaynağa bağlı olması, başka bir örgütlenmenin bileşeni olması ve merkez–çevreyle tanımlanması farklı ölçütlerdir. Bu nedenle varlıksı, ikinci Yek veya Komel'in eşanlamlısı olarak kullanılamaz. Belirli bir uygulamada hangi anlamın seçildiği ve hangi bütün/evreye göre konuşulduğu belirtilmelidir. Bu ayrıştırma kaynak çözümlemesidir; yeni kurucu tanım değildir. Özgün metindeki diğer varlıksı kullanımları ve bunların H04 ile ayrıntılı eşlemesi açık kalır.
+**Akademik çözümleme:** Bir şeyin kaynağa bağlı olması, başka bir örgütlenmenin bileşeni olması ve merkez–çevreyle tanımlanması farklı ölçütlerdir. Bu nedenle varlıksı, ikinci Yek veya Komel'in eşanlamlısı olarak kullanılamaz. Belirli bir uygulamada hangi anlamın seçildiği ve hangi bütün/evreye göre konuşulduğu belirtilmelidir. Bu ayrıştırma kaynak çözümlemesidir; yeni kurucu tanım değildir. Diğer açık varlıksı kullanımlarının kaynak envanteri §4D'dedir; bunların H04 ile ayrıntılı eşlemesi açık kalır.
+
+### 4D. Varlıksı kullanımlarının tamamlayıcı kaynak denetimi — 24 Ekim 2026
+
+§4C'deki tanım eşlemesine ek olarak, iki özgün düz metinde “varlıksı” kökünü içeren bütün paragraflar tarandı. Varlık metninde P24, P27, P29, P40, P42, P45, P48, P51, P65, P74, P86 ve P118; Akıl metninde P72 ve P76 bulundu. Bu liste yalnız sözcüğün açık geçtiği yerlerin envanteridir; sözcük kullanılmadan anlatılan bütün ilgili fikirlerin tamamlandığı anlamına gelmez. P numaralarının yöntemi ve doğrudan kaynak bağlantıları §4C'dedir.
+
+| §4C dışında kalan kaynak izi | Tarihsel kullanım / sorun | Makaleye aktarım kararı |
+|---|---|---|
+| Varlık P24, “Fizikle başlayan kâinattaki”; P118, “Hiçbir şey kendi kendine” | Alt boyuttaki varlık ve varlıksıların üst kanunla ilişkisi; P118'de melekler ve hükümle açıklama | Ontolojik/teolojik kapsama savı olarak korunur. Erken “4. boyut/kanun” anlatısı güncel ruh boyutuyla kaynak farkı belirtilmeden eşitlenmez; §10D ve H04 için ayrıntılı eşleme açık kalır. |
+| Varlık P42, “Karadelik, büyük bir yıldızın”; P45, “Merkez ve çevre koşuluna”; Akıl P72, “Karadelik: Büyük bir yıldızın”; P76, “Merkez ve çevre koşuluna” | Kara delik hem fiziksel varlık hem varlıksı ve birinci evre bağlamında ele alınır. Akıl P76 parantezi fizik varlığı adlandırmasını da içerir. | Tek ve tutarlı bir sınıf kesinleşmiş gibi aktarılmaz. Özellikle merkez–çevreye uyma gerekçesiyle varlık kabulü ile meteor benzetmesiyle varlıksı adlandırılması arasındaki ölçüt sorunu kaydedilir. Higgs/karanlık madde açıklamaları §5A'daki sınır gereğince bilimsel dayanak yapılmaz. |
+| Varlık P48, “Evren: Fizik varlıkları”; P51, “Fizik boyutu:” | Madde, kara madde ve varlıksı üçlü tasnifi iki yerde yinelenir. | Aynı kaynağın tekrarı iki bağımsız kanıt sayılmaz. Bu tasnif güncel fizik literatürünün kabul edilmiş sınıflandırması olarak sunulmaz. |
+| Varlık P74, “Çok hücreli bitki türleriyle” | Yosunlar hem birinci/ikinci evre hem biyolojik varlıksı bağlamında anılır. | Kaynaktaki çoklu konum korunur; yosunların tamamına tek bir hücresel evre atayan sonuç çıkarılmaz. Canlı grupları ve yaşam döngüleri için ayrı biyolojik kaynak denetimi gerekir. |
+| Varlık P86, “Bakteri, yosun ve bitkilerin sistemi” | Fizik, biyoloji ve zihin sistemleri arasında beden, tür ve grup benzetmeleri kurulur. | Benzetme kaynakta mevcuttur; aynı mekanizmanın veya aynı sınıflandırma ölçütünün kanıtı sayılmaz. §4B'deki birim, ilişki ve sistem sınırı koşulları korunur. |
+
+**Akademik çözümleme:** Tarihsel metnin aynı nesneye birden fazla ad vermesi, tek başına tutarsızlık hükmü için yeterli değildir; adlandırmalar farklı evre veya ilişkiye göre yapılmış olabilir. Ancak incelenen evre ve ölçüt açıklanmadan bu kullanımlar tek tanım altında uzlaştırılmış sayılamaz. Burada yeni kurucu tanım önerilmez; açıklama gerektiren yerler görünür tutulur.
+
+**Sınırlı tamamlanma:** İki metindeki açık “varlıksı” sözcük kullanımlarının yer tespiti ve bağlam kaydı tamamlandı. Kavramın bütün örtük kullanımları, dış fizik/biyoloji denetimi, H04'e ayrıntılı aktarımı ve bağımsız Rasterast incelemesi tamamlanmadı. H01'in K0–K6 kapıları ile yol haritasının 04. maddesi açık kalır.
 
 ## 5. Fizik: atomik Yek'ten sistem Komeline
 
