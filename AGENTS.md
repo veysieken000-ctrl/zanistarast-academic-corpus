@@ -53,3 +53,9 @@ Yeni bilim felsefesi çalışmalarında `02-cekirdek-makaleler/NK-ZS-BILIM-FELSE
 6. **Yazma öncesi kısa iç kontrol:** “İlgili geçmiş dosyaları gerçekten okudum mu? Kapsama hiyerarşisi doğru mu? Teolojik/felsefi/ampirik statü ayrıldı mı? Tekrar veya çelişki var mı? K0–K6 açıkları dürüstçe belirtildi mi?” Sorulardan biri olumsuzsa doğrudan yeni makale üretme.
 7. **Yazma sonrası doğrula:** Yalnız yetkili `research/chatgpt-academic-2026-10-20` dalına yaz; commit sonrası dosyayı yeniden oku ve birebir eşleşmeyi doğrula. İşlem engellendiyse başarı iddia etme.
 8. **Sohbetler arası süreklilik:** Yeni sohbette önce bu dosyayı ve en güncel kurucu belgeleri yeniden aç; önceki sohbetin tüm ayrıntılarının otomatik erişilebilir olduğunu varsayma. Karar değiştiğinde bu kalıcı kaydı ve ilgili makaleleri güncelle. 412 makalenin tamamı, kanonik uyum ve kurucu onayı olmadan yayımlama.
+
+## 24 Ekim 2026 — İlk taslakları düzeltme ve muhatap varlık ilkesi
+
+Kurucunun açık talimatı: Ontolojik “ikinci bilen”, kurucunun varlık tanımı ve sınıflandırmasına uyan, **Ehad karşısındaki muhatap, etkilenen varlık** anlamındadır. İnsan tipi bilinçli bilgi onayı şartı aranmaz. Zanabûn'daki epistemolojik sonuç değerlendirmesi ayrı tutulur. Ayrıntılı kayıt: `01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`, 24 Ekim açıklaması.
+
+Özgün makaleler ilk çalışmalardır; hatalarını doğru kabul edip ispatlamaya çalışma. Kurucu maksadı koruyarak bilimsel hataları, yanlış adlandırmaları ve tutarsız anlatımı düzelt; düzeltilmiş, okunabilir makaleyi üret. Eski sürümler geçmişi korur. Açıklanmış terimler üzerine tekrar tekrar denetim notu ekleyerek ana işi uzatma. Bu talimat bütün makaleler için geçerlidir.
