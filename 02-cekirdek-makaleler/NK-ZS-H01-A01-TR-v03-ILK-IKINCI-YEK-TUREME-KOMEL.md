@@ -170,6 +170,26 @@ Fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında
 
 Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik-ontolojik statüde ele alınır. Yek bütün boyutların üstünde kurucu birlik ilkesidir; yedinci yaratılmış evre değildir.
 
+### 9A. Hüküm, ahiret ve sevginin tarihsel kaynak eşlemesi
+
+Özgün metnin ahlak bölümündeki evre adları güncel kanondaki fıtrî/iradeli ahlak ayrımından farklıdır. *Varlık Sistemi ve Boyutları* P142–143, ahlak bağlamında hüküm ve ahlak evrelerini; P161–162 ve P166–172 ise altıncı düzen bağlamında dünya ve ahiret hayatını adlandırır. Bu iki tarihsel evreleme birbirine veya güncel beşinci boyutun evrelerine sessizce eşitlenmez. H01'de güncel sınıflandırma korunur; özgün kaynak farkı aşağıda görünür tutulur.
+
+| Özgün kaynak ve paragraf izi | Kaynakta bulunan önerme | H01'de kullanım ve açık sınır |
+|---|---|---|
+| Varlık P141, “Ahlakı oluşturan üç temel bileşen”; P142–143, “1. Evre: Hüküm” / “2. Evre: Ahlak” | Hükümden ahlak türemesi ve ahlakın hükme ulaşması; erken ahlak evreleri | Güncel fıtrî/iradeli ayrımın birebir eski ifadesi sayılmaz. Güncel tanımlar §8B'deki 22 Ekim kurucu kaydına dayanır. |
+| Varlık P161–162, “1. Evre: Dünya hayatıdır.” / “2. Evre: ahiret hayatıdır.”; P166 ve P172 | Altıncı düzenin dünya–ahiret evrelemesi | Tarihsel evre adları kaynakta mevcuttur; burada güncel altıncı boyutun kesin alt evre kararı olarak yeniden ilan edilmez. H04 için kanonik uzlaştırma açık kalır. |
+| Varlık P165, “Ayıırım günü kural gereği”; P177, “Zamansızlık, zamanın bitimi” | Cennet, cehennem, araf ve hüküm sahibinin ilah olması; nihai hüküm ve ebedilik | Teolojik kaynak aktarımıdır. Ehad hüküm sahibidir; yaratılmış altıncı boyutun bir bileşeni olarak tanımlanmaz. |
+| Varlık P178, “6. Boyut, ayırım sistemi”; Akıl P156, “Bilginin kaynağı, 1. Bilen öznenin” | Ahiret ile madde/karanlık madde benzetmeleri; Akıl P156'da sevgi, altıncı boyut ve cehennem için ihtimal dili | Benzetme fiziksel özdeşlik veya gözlemsel kozmoloji sonucu sayılmaz. Akıl P156'nın ihtimali kesinleştirilmez; §5A'nın bilimsel dayanak sınırı sürer. |
+| Akıl P63, “Bilginin doğası bilen öznenin” | Özne–nesne–sonuç ilişkisi ahiret anlatısıyla karşılaştırılır; metin bunu metafor olarak da niteler | Metaforun kaynakta bulunduğu korunur. İnsan bilgisinin doğrulanması ile teolojik yaratma/hüküm ilişkisi aynı denetim işlemi sayılmaz (§10). |
+| Akıl P165, “Doğal gözlemlere bakıldığında” | Ahiret, doğurma, yumurta ve hücre çoğalması benzetmeleriyle anlatılır | Biyolojik mekanizmaların ahireti deneysel olarak açıkladığı sonucu çıkarılmaz. Dinî tasvirlerin ayet/hadis dayanakları ayrıca doğrulanmalıdır. |
+| Akıl P170, “Bilginin kaynağı sevgidir”; P171, “Ahlakın en ilerisi” | Sevgi, samimiyet, doğruluk, merhamet, hak ve adalet arasında kurucu bağ | Sevgi yalnız edebî süs olarak daraltılmaz; ontolojik ve ahlaki yönelim olarak korunur. Samimiyetin tek başına her önermenin doğruluğunu garanti ettiği kabul edilmez. |
+
+**Akademik argüman denetimi:** Sevgiyle ve samimiyetle konuşan bir kişi eksik bilgi nedeniyle yanlış bir önerme kurabilir. Bu mantıksal karşı-örnek, sevginin kurucu değerini reddetmez; ahlaki yönelimden olgusal doğruluğa geçişin ayrıca gerekçelendirilmesi gerektiğini gösterir. Benzer biçimde doğada ayrım ve düzen bulunduğu öncülünden cennet/cehennem şeklindeki belirli teolojik sonuç, ilave teolojik öncüller olmadan zorunlu olarak çıkmaz. Bu değerlendirmeler akademik çözümlemedir; kurucunun söylemediği yeni öğreti değildir.
+
+**İzlenebilirlik:** P numaraları 24 Ekim 2026'da Drive'dan alınan boş olmayan satır/paragraf sırasıdır; Word sayfası değildir. Kaynaklar: [Varlık Sistemi ve Boyutları](https://docs.google.com/document/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d/edit), [Akıl ve Bilginin Kaynağı](https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit). Ehad'ın hüküm sahibi konumu ve güncel ahlak ayrımı: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
+
+**Açık iş:** Bu seçilmiş pasajların kaynak eşlemesi yapıldı. Bütün sevgi/hüküm önermelerinin envanteri, dinî alıntı ve rivayetlerin birincil kaynakları, eski evrelerle güncel kanonun H04'te ayrıntılı uzlaştırılması ve bağımsız Rasterast denetimi tamamlanmadı. Bu bölüm altıncı boyut için yeni alt evre kararı vermez; H01'in 04. tamamlama maddesi açıktır.
+
 ## 10. Hebûn'dan Zanabûn'a: ikinci Yek ve ikinci bilen
 
 Kurucu düzey ayrımına göre **Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında ontolojik ikinci bilen konumundadır**. Hebûn'da **ikinci Yek**, ilk Yek'ten sonra gelen ontolojik tekilliktir; bu terim ontolojik ikinci bilenin eşanlamlısı değildir. Zanabûn'da **epistemolojik ikinci bilen**, bilenin bilinen nesneye yönelimiyle doğan sonucu onaylayan muhataptır. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları H02'de ele alınır. H03 bu sürecin kaynak, karşı-örnek ve denetim zincirini kurar. H01'in varlık şeması, bu yöntemlerin uygulanmış ve başarılı olduğu varsayımına dayanmaz.
