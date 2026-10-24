@@ -22,6 +22,14 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 
 **İç olgunluk kararı:** Bu metin araştırma sorusu, kurucu tez, karşı-örnek ve kaynakça bakımından bütünlüklü bir çekirdek taslaktır. Kaynakların tam paragraf eşlemesi ve sonraki kurucu değerlendirme yapılmadan kesin kanonik kapanış ilan edilmez. Dış hakemlik bu aşamada üretimi durdurma şartı değildir.
 
+## Kaynak önceliği: ontolojik İlk Bilen
+
+Kurucu düzey ayrımı kaydına göre **Ehad ilk bilendir; yaratılmış varlık Ehad karşısında ikinci bilendir.** Ontolojik ikinci bilen, yaratılmış Yek'in Ehad karşısındaki muhataplık konumudur. **Hebûna Hebûnî**, yaratılmış Yek'in varlık göstermesi ve kendi boyutuna özgü fıtrî düzeni sergilemesidir. Bu kapsam yalnızca iki insanın bilgi denetimiyle sınırlanamaz. Fiziksel varlıklara insan türü bilinçli muhakeme atfedilmez. İnsanın iradeli ahlak ve hüküm karşısındaki sorumluluğu ayrıca ele alınır.
+
+Epistemolojik düzeyde kurucunun bilgi tanımı şöyledir: **Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı ile çıkan sonuca bilgi denir.** Bu düzeydeki değerlendirme rolü için *Zanayê Nirxîner* terimi önerilmiştir. Ontolojik ikinci bilen, epistemik ikinci bilen ve ontolojik ikinci Yek özdeş terimler değildir.
+
+Kaynak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. Buradaki kurucu önermeler felsefi/teolojik statüdedir; bağımsız ampirik doğrulama iddiası taşımaz.
+
 ## 1. Devralınan kurucu kanon
 **Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Kurucu türeme sırası: **ilk Yek → ikinci Yek → ikisinin ilişkisinden üçüncü ve sonraki Yekler → Komel**. Yek yedinci yaratılmış boyut veya insan özü değildir; Komel Yek'in eşanlamlısı değildir. Nisâ 4:1'de tek nefis, ondan eş ve ikisinden çok sayıda insanın ortaya çıkışı anlatılır. Hz. Âdem–Hz. Havva–çocuklar, kurucu tefsir örneğidir; isimler ve “bel kemiği” ayetin açık lafzında bulunmaz. Meal metni ve dipnot için Diyanet İşleri Başkanlığı (2011), Nisâ 4:1; yorum ayrımı için H01 §3 esas alınır.
 
