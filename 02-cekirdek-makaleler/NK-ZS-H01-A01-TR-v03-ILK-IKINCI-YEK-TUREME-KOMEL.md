@@ -183,6 +183,21 @@ Bağlı Google Drive'daki iki özgün dosyanın metni yeniden açılarak okundu:
 
 `1-VARLIK SİSTEMLERİ VE BOYUTLARI.docx` dosyasında ikinci bilen için hidrojen örneği kullanılır. `2-Akıl ve bilginin varlığı.docx` dosyasının *Akıl ve Bilginin Kaynağı* başlıklı metninde ise bilgi sonucunun ikinci öznece onayı açıklanır. Bunlar farklı özgün bağlamlardır. Güncel Ehad–yaratılmış Yek ontolojik düzey ayrımı sonraki kurucu kanona dayandırılır. Hidrojen örneği deneysel doğrulama olarak sunulmaz. Her iki özgün dosyanın paragraf düzeyinde karşılaştırılması henüz tamamlanmamıştır.
 
+### İkinci bilen: paragraf düzeyinde kaynak eşlemesi — 24 Ekim 2026
+
+Bu kayıt, yukarıdaki tarihsel kullanım ayrımını ayrıntılandırır. P numaraları bu tarihte Drive'dan alınan düz metindeki boş olmayan satır/paragraf sırasıdır; Word sayfa numarası değildir. Yeniden bulma için paragraf başlangıçları da verilir. Varlık dosyasının görünen son değişiklik tarihi 5 Şubat 2026, Akıl dosyasınınki 25 Aralık 2025'tir.
+
+| Özgün kaynak ve yer | Paragraf başlangıcı / kısa kaynak izi | Bağlam ve H01'e aktarım sınırı |
+|---|---|---|
+| Varlık Sistemleri, P38 | “Atom evresi”; “İkinci bileni temsil eden hidrojendir.” | Aynı paragraf bilgi sonucunun onayını fiziksel atom örneğine taşır. Bu tarihsel analoji korunur; hidrojenin bilinçli doğrulama yaptığı veya analojinin doğrulanmış fizik yasası olduğu sonucu çıkarılmaz. Paragraftaki proton sayısı hataları için §5A ve Ek C geçerlidir. |
+| Akıl ve Bilginin Kaynağı, P5 | “Bilen öznenin bilinen nesneye yöneliminden” | Sonucun ikinci öznece onayı bilgi tanımının özgün dayanağıdır. Onayın tek başına yanılmazlık sağladığı bu kaynak aktarımıyla kanıtlanmaz. |
+| Akıl ve Bilginin Kaynağı, P22 | “Fizik kanunlarının varlığı”; “İlki tanrı 2.si insan” | İkinci bilen öz ve yaratıcı–insan ilişkisi de eski metinde bulunur. Dolayısıyla bu dosyanın yalnız epistemolojik onaydan söz ettiği söylenemez. Güncel Ehad–yaratılmış Yek terminolojisi ve bütün yaratılmışlara ilişkin kapsam yine sonraki kanonik düzey ayrımına dayandırılır. |
+| Akıl ve Bilginin Kaynağı, P43 | “İlk yaratılış” | İkinci bilenin varlığının ilk bilenin yaratmasına bağlılığı, ruh ve fizik âlem birlikte tartışılır. Bu, ontolojik/teolojik bağlamın özgün izidir; bağımsız araştırmacının bilgi denetimiyle aynı işlem sayılmaz. |
+
+**Kaynak sadakati sonucu:** İki belgeyi “biri yalnız ontolojik, diğeri yalnız epistemolojik” diye bölmek özgün kapsamı daraltır. Varlık P38 onay dilini hidrojen analojisine taşır; Akıl P5 bilgi onayını, P22 ve P43 ise yaratıcı–yaratılmış ilişkisini işler. Bu bağlamların güncel kavramsal ayrımı için §10 ve 23 Ekim düzey ayrımı kaydı esas alınır. Buradaki sınırlandırmalar akademik kaynak çözümlemesidir; yeni kurucu öğreti veya deneysel bulgu değildir.
+
+**Denetim sınırı:** Bu dört paragrafın bağlam eşlemesi tamamlandı. İki belgenin bütün kurucu önermelerinin denetimi, K0–K6 ve bağımsız Rasterast kontrolü açık kalır.
+
 ## H01 iç bütünlük denetimi — açık kalan işler (24 Ekim 2026)
 
 - [x] Ehad–Yek kurucu kabulü, ilk/ikinci Yek ve Komel tanımları kaynakla karşılaştırıldı.
