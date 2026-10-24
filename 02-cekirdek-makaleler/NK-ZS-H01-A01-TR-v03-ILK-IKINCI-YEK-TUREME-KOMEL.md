@@ -20,7 +20,7 @@ Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu 
 
 ## 1. Giriş: Hangi sorunun cevabı aranıyor?
 
-“Varlığın ilk kuruluşunu ne açıklar?” ve “Varlığın zaman içinde düzenini koruyarak devam etmesini ne açıklar?” soruları Hebûn'un ontolojik başlangıcı ile Zanabûn'un kuruluş ve devamlılık ilişkisini birlikte gündeme getirir. Kurucu tez, varlığın yalnız parçalarını değil **tekilliklerin oluşması ve çoğalması arasındaki ilişkiyi** açıklamayı hedefler. Atom, hücre, zihinli canlı ve insan örnekleri bu ilişkiyi araştırmanın alanlarıdır; model yalnız bir atomun parçacık sayısından türetilmez.
+“Varlığın ilk kuruluşunu ne açıklar?” ve “Varlığın zaman içinde düzenini koruyarak devam etmesini ne açıklar?” sorularının kurucu cevabı **Zanabûn** olarak kaydedilir; Zanabûn, **Hebûn ontolojisine dayanır**. Hebûn varlığın başlangıç temelini ele alır; bu iki sorunun kurucu cevabı olarak Zanabûn'un yerine geçirilmez. Kurucu tez, varlığın yalnız parçalarını değil **tekilliklerin oluşması ve çoğalması arasındaki ilişkiyi** açıklamayı hedefler. Atom, hücre, zihinli canlı ve insan örnekleri bu ilişkiyi araştırmanın alanlarıdır; model yalnız bir atomun parçacık sayısından türetilmez.
 
 ## 2. Ehad ve Yek
 
