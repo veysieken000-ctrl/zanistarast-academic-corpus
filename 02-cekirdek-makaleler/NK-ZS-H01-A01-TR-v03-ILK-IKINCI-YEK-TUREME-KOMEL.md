@@ -139,6 +139,18 @@ Lêket'in gerçekleşmesi insan gibi bilinçli bilme veya bilimsel bir iddiayı 
 ### 10B. Ontolojik argüman ve rakip açıklama
 Kurucu kayda göre ilk kuruluş ve düzenli devam sorularının cevabı Zanabûn'dur; Zanabûn, Hebûn'un Ehad–Yek kabulüne ve ilk Yek → ikinci Yek → yeni Yekler → Komel ontolojik düzenine dayanır. Tekillik, birbirinden ayırt edilebilir varlıkları; türeme, önceki varlıklarla bağıntılı yeni varlığın ortaya çıkmasını; Komel, tekillerin ilişkisel bütününü anlatır. Bu kavramlar özdeş değildir. Aşağıdaki çözümleme yazarın akademik yeniden kuruluşudur; kurucudan doğrudan alıntı değildir. Argüman: (1) Varlık alanında tekiller ve ilişkisel bütünler vardır. (2) Bir bütünü yalnız tekillerin sayısı açıklamaz; aralarındaki düzen de açıklanmalıdır. (3) Zanistarast bu düzenin ontolojik temelini Yek olarak yorumlar. Sonuç, açıklayıcı bir metafizik çerçevedir; üçüncü öncül ilk ikisinden zorunlu mantıksal sonuç olarak çıkmaz. Karşı görüş, farklı bilimlerin kendi mekanizmalarının zaten yeterli açıklama sunduğudur. Hebûn bu mekanizmaların yerine geçme iddiası taşımaz; onların ontolojik açıklama düzeylerini ilişkilendirmeyi önerir. Fiziksel bir deneyle Ehad'ın ispatlandığı ileri sürülmez.
 
+### Sonucu taşıyan önermelerin dayanakları
+
+| Sonuç önermesi | Dayanak ve çıkarım | Geçerlilik sınırı |
+|---|---|---|
+| Tekillik, türeme ve Komel farklı işlevlerdir. | §§2–4'teki kurucu tanımlar; bileşen kimliği ile ilişkinin ayrı izlenmesi. | Kavramsal ayrımdır; her topluluk yeni bireysel Yek sayılmaz. |
+| Muhatap varlık ve Lêket, ilişkinin tarafı ile etkisini ayırır. | §10A; kurucunun açıklaması ve Mira Lêket kaydı. | Etkilenme tek başına bilinç, yeni birey veya bilgi iddiasının doğrulanması değildir. |
+| Ortak şema aynı fiziksel/biyolojik mekanizmayı zorunlu kılmaz. | §5'teki çekirdek süreci ile §6'daki hücresel bölünme ve bağlılık mekanizmalarının ayrılması. | Seçilmiş örnekler bütün evrenin tarihsel kuruluşunu yeniden kurmaz. |
+| Kuruluş, düzenin tezahürü ve iradeli sorumluluk ayrıdır. | §8A'daki fıtrat–fıtrî ahlak–iradeli ahlak tanımları. | Normatif sorumluluk yalnız fiziksel düzen veya kapasiteden türetilmez. |
+| Boyutsal kapsama ile kronolojik sıra farklıdır. | §9; güncel kurucu kanon VII–VIII. | Kemal–açılım yorumu belirli tarihsel geçişin bilimsel mekanizması yerine geçmez. |
+
+Bu tablo, sonuç bölümünün dayanaklarını toplar; ayrı bir deney, bağımsız inceleme veya yeni kurucu önerme değildir.
+
 ### 10C. İtiraz, yanıt ve açıklama sınırı
 **İtiraz:** İlişkisel bütünleri açıklamak için Yek ilkesinin eklenmesi gereksiz olabilir. **Yanıt:** Bu metin Yek'i fiziksel mekanizmalara rakip bir kuvvet olarak değil, ontolojik kuruluşun tekillik–ilişki–Komel düzeylerini ayıran kurucu ilke olarak savunur. Bir fiziksel veya biyolojik süreç ancak alanının kendi mekanizmasıyla açıklanır. **Öz değerlendirme:** Bu yanıt ontolojik öncül ile fiziksel mekanizmanın farklı işlevlerini açıklar; ontolojinin gerekliliğini veya rakip açıklamalara üstünlüğünü tek başına kanıtlamaz. Evrensel kapsam, bireysellik ölçütü ve eski/yeni tanımların ayrıntılı uzlaştırılması açık itirazlardır. Bu iç argüman incelemesi bağımsız hakem değerlendirmesi değildir; Ehad–Yek öncülünün evrensel doğruluğu doğa bilimlerinden türetilmiş değildir. H02 ve H03'ün epistemik ve denetim soruları ontolojik sorunun yerine geçirilmez.
 
