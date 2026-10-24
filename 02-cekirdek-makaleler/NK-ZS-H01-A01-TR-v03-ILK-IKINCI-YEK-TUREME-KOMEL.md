@@ -190,6 +190,22 @@ Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik
 
 **Açık iş:** Bu seçilmiş pasajların kaynak eşlemesi yapıldı. Bütün sevgi/hüküm önermelerinin envanteri, dinî alıntı ve rivayetlerin birincil kaynakları, eski evrelerle güncel kanonun H04'te ayrıntılı uzlaştırılması ve bağımsız Rasterast denetimi tamamlanmadı. Bu bölüm altıncı boyut için yeni alt evre kararı vermez; H01'in 04. tamamlama maddesi açıktır.
 
+### 9B. Dinî atıflarda ayet, yorum ve anlatı ayrımı — 24 Ekim 2026
+
+Bu denetim, özgün metindeki dinî ifadelerin kaynak statüsünü belirler; kurucu boyut modelinin ayetlerde aynen yer aldığını ileri sürmez.
+
+| Özgün pasaj | Kaynak kontrolü | H01 için karar |
+|---|---|---|
+| Varlık P143, “2. Evre: Ahlak evresidir.” içindeki yeryüzüne iniş ifadesi | Diyanet Kur'an Yolu meali A'râf 7:24 doğrudan okundu; yakın bağlam 7:23–25 ile karşılaştırıldı. Benzer iniş anlatımı Bakara 2:36 için Diyanet'in indekslenmiş meal metninde de görüldü. | Özgün Türkçe ifade anlam aktarımı olarak korunur; belirli bir mealin birebir alıntısı diye gösterilmez. Ayetteki iniş anlatısından güncel fıtrî/iradeli ahlak evrelerinin doğrudan lafız olarak çıktığı söylenmez. |
+| Akıl P141, “Âdem’e isimleri öğreten Allah” | Diyanet'in indekslenmiş Bakara 2:31–33 mealinde isimlerin öğretilmesi, meleklerin bilgisinin sınırı ve Âdem'in isimleri bildirmesi bulundu. Dinamik portal açılışı tam metin vermedi; bu nedenle doğrudan tam sayfa kontrolü tamamlandı sayılmaz. | İsimlerin öğretilmesi anlatısının ayet yeri belirtilebilir. Paragraftaki meleklerin şaşırması ve insanın ilk kez bilgilendirilmesi ifadeleri aynı ayetlerin birebir lafzı gibi aktarılmaz; kurucu anlatım/yorum olarak ayrılır. |
+| Varlık P175, “En güçlü nedir sorusuna” | Dağ–demir–ateş–su–insan–keder–ölüm dizisi, ardından ahirette kurban kesilmesi tek anlatıda birleştirilir. Bu tur birincil rivayet metni, kitap/bab, numara ve sıhhat değerlendirmesi doğrulanmadı. | Bütün paragraf tek bir sahih hadismiş gibi kaynaklandırılmaz. Anlatının parçaları ayrı ayrı doğrulanana kadar kaynak bekleyen kurucu aktarım olarak tutulur; kesin dinî delil olarak kullanılmaz. |
+
+**Denetlenen dış kaynaklar:** Diyanet, *Kur'an Yolu Meali*, A'râf 7:24 ve yakın bağlamı: https://kuran.diyanet.gov.tr/mushaf/meal-2/araf-suresi-7/ayet-24/kuran-yolu-meali-5 . Diyanet İşleri Başkanlığı mealinde Bakara 2:31–36 için erişilen indekslenmiş metin: https://kuran.diyanet.gov.tr/mushaf/meal-2/bakara-suresi-2/ayet-27/diyanet-isleri-baskanligi-meali-1 ; ayrıca mevcut kaynakçadaki Diyanet meal PDF'sinin arama dizini Bakara 2:31–36 pasajını gösterdi. İndeks okuması doğrudan PDF sayfa görüntüsünün doğrulanmasıyla aynı işlem değildir. Erişim: 24 Ekim 2026.
+
+**Akademik aktarım ilkesi:** Ayet numarasının bulunması, çevresindeki bütün kurucu açıklamanın o ayetin doğrudan ifadesi olduğunu göstermez. Ayet, belirli mealin çevirisi, tefsir ve kurucu ontolojik yorum ayrı atıf düzeyleridir. Benzer biçimde bir anlatıdaki tek bölümün rivayet karşılığı bulunsa bile bütün birleşik anlatı doğrulanmış sayılmaz.
+
+**Açık sınır:** Bu tablo yalnız belirtilen üç pasajı kapsar. Varlık P173'teki ahiret tasviri, Akıl P176'daki din seçimi ifadesi, diğer ayet göndermeleri ve hadis/rivayet anlatıları için tam kaynak kontrolü sürmektedir. P numaraları §9A ile aynı özgün düz metin sırasına dayanır. K0–K6 ve H01 tamamlama kararı açık kalır.
+
 ## 10. Hebûn'dan Zanabûn'a: ikinci Yek ve ikinci bilen
 
 Kurucu düzey ayrımına göre **Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında ontolojik ikinci bilen konumundadır**. Hebûn'da **ikinci Yek**, ilk Yek'ten sonra gelen ontolojik tekilliktir; bu terim ontolojik ikinci bilenin eşanlamlısı değildir. Zanabûn'da **epistemolojik ikinci bilen**, bilenin bilinen nesneye yönelimiyle doğan sonucu onaylayan muhataptır. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları H02'de ele alınır. H03 bu sürecin kaynak, karşı-örnek ve denetim zincirini kurar. H01'in varlık şeması, bu yöntemlerin uygulanmış ve başarılı olduğu varsayımına dayanmaz.
