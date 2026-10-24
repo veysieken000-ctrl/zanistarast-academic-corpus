@@ -112,3 +112,16 @@ Taban: H01 `fb549b14254df69d73987ab5e0c3d005e8e26506`; bu taban bağımsız ince
 - Saptanan yeni çelişki kaynak makaleye geri beslenir. Güncellenen tanım bağımlı metinlere aktarılır; bütün eski araştırma gerekçesiz yeniden açılmaz.
 
 **En hızlı güvenilir yol:** Tanımı ve kaynak yerini bir kez kur → gerekçe yolunu kaydet → sonraki makalede yalnız ayırıcı katkıyı geliştir → ilişkili düzeltmeleri topluca bitir → kaydı doğrula. Bağımsız inceleme gereğini saklama; editoryal işi bu gerekçeyle tekrar üretme.
+
+## H02 — Depo birikiminden devralınan hızlanma (24 Ekim 2026)
+
+[Kaynak ve çıkarım haritası](H02-DEPOLAR-ARASI-KAYNAK-VE-CIKARIM-HARITASI-2026-10-24.md), 11 deponun taranan sürümlerini ve H02'ye taşınan gerekçeleri bir araya getirir. Ana sentez: [H02](../02-cekirdek-makaleler/NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md).
+
+| Birikim | Sonraki makalede hazır kullanılacak sonuç |
+|---|---|
+| Core 03 + ciltlerin farklı bilgi kullanımları | H02 §3'teki ontolojik düzen / kayıt / biliş / önermesel sav / normatif kullanım ayrımını devral; aynı sözcükten anlam atlaması yapma. |
+| Core 04 + Hüküm–Ahlak uzlaştırması | H02 §6'daki açık normatif köprü ve yorum/uygulama geri beslemesini kullan; davranış nihai hükmün kaynağı sayılmaz. |
+| Zanabûname'nin dil, emanet ve hafıza yaklaşımı | H02 §7'deki kaynak–bağlam–sürüm–düzeltme izini devral; kalıcı kayıt doğruluk kanıtı değildir. |
+| Mevcut sayısal/biçimsel altyapı | H02 §8'deki tip ve varsayım kontrolünü kullan; aynı ortak hata/minimaks hesabını tekrar yazma. Tanım gereği koruma gerçek uygulama ispatı değildir. |
+
+Kazanım: kaynaklara tekrar ulaşmak ve aynı kavramı yeniden kurmak için hazır iz oluştu. Süre ölçümü yapılmadığı için hızlanma yüzdesi veya performans artışı iddia edilmez. Yeni makalede önce bu gerekçelerden ilgili olanı seç, yalnız yeni sorunun ek kanıt yükünü araştır.
