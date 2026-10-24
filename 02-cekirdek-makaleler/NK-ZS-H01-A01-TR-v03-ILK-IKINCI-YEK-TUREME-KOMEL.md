@@ -289,6 +289,30 @@ Kurucu düzey ayrımına göre **Ehad İlk Bilen'dir; yaratılmış Yek Ehad kar
 | Hücre sayısı ile bütünleşmiş yaşam döngüsü farklıdır | Ratcliff ve ark., 2012; bölüm 6 | Birincil deneyle karşılaştırma; bütün türlerin tarihine genellenmez |
 | Fıtrat ve iki ahlak ayrımı | 22 Ekim kurucu kilometre taşı | Güncel felsefi/teolojik tanım; H04/H05'e aktarılır |
 
+### 10A.1. Hidrojen pasajının atomik sav denetimi
+
+Varlık P38, tek paragrafta atom yapısı, ontolojik kuruluş, bilgi onayı ve kozmik oluşum savlarını birleştirir. Aşağıdaki çözümleme 24 Ekim'de alınmış özgün düz metindeki P26, P32 ve P38 ile Akıl P149'u karşılaştırır. P numaraları Word sayfası değildir; kaynak bağlantıları §4C'dedir. Satırlar doğrudan alıntı değil, **akademik çözümleme için ayrılmış sav özetleridir**. Sonraki kurucu düzey ayrımı eski paragrafa ait bir ifade gibi gösterilmez.
+
+| Sav / özgün yer | Kaynakta ileri sürülen | H01'de karar ve gerekçe |
+|---|---|---|
+| V38-01 / P38 ilk cümle | Atom evresinin proton, nötron ve elektrondan oluşması | Tarihsel üçlü model korunur; bütün atomlar için zorunluluk kabul edilmez. Hidrojen-1 karşı-örneği H01-E02'dedir. |
+| V38-02 / P38 ilk cümle | Çekirdeğin merkez–çevre kuralıyla ilişkilendirilmesi | Atom örneği evrensel merkez ölçütünün ispatı yapılmaz; anatomik merkez ile düzenleyici ilişki ayrı tutulur (§6A). |
+| V38-03 / P38 ilk cümle; P26 | Bir atomun bir kuralla işlemesinin ikinci atomun varlığına bağlanması | Bu bağımlılık bilimsel yasa olarak benimsenmez. P26'daki “dördüncü kuvvet/ikinci atom” gerekçesi ayrıca mekanizma ve alan kaynağı gerektirir; mevcut kaynaklar bu zorunluluğu kurmaz. |
+| V38-04 / P38 ikinci cümle | İlk fiziksel düzenin atomla ve ilk varlıkla özdeşleştirilmesi | Kurucu tarihsel tasniftir; bütün fizik tarihinin doğrulanmış başlangıç kronolojisi sayılmaz (§5B). |
+| V38-05 / P38 üçüncü cümle | Var olmanın özne–nesne–ürün–ikinci onay dizisini gerektirmesi | Kaynakta epistemik dille ontolojik koşul kurulmaktadır. Güncel ayrım uyarınca epistemik onay, bütün yaratılmışların insan tipi bilgi değerlendirmesi yaptığı anlamına taşınmaz (§10). |
+| V38-06 / P38 dördüncü cümle | İkinci bilenin hidrojenle temsil edilmesi | Hidrojen örneği özgün kaynakta gerçekten vardır. Fakat bu kısa cümle güncel ontolojik/epistemik ayrımı kendi başına açıklamaz; güncel yorum 23 Ekim kararına dayandırılır. |
+| V38-07 / P38 beşinci cümle; P32 | Aynı yaratılış düzlemindeki iki şeyin tek şeyin genişlemesi sayılması | Ortak düzlemden tekil köken ve evrensel türeme zorunluluğuna geçiş ek öncül gerektirir (§10E). Kurucu kapsam tezi, gözlemsel fizik yasası diye sunulmaz. |
+| V38-08 / P38 altıncı cümle | Helyumun proton sayısının 1 olarak verilmesi | Bilimsel kullanımda düzeltilir: helyum 2'dir (H01-E01). Özgün metnin hata izi korunur. |
+| V38-09 / P38 yedinci cümle | Hidrojenin proton sayısının 2 olarak verilmesi | Bilimsel kullanımda düzeltilir: hidrojen 1'dir (H01-E01). İki adın kaynakta ters verilmiş olması yeni bir kurucu kavram olarak yorumlanmaz. |
+| V38-10 / P38 yedinci cümle | Hidrojenin varlığıyla üçüncü elementin fizik kanunu gereği oluşması | Üçüncü elementin kimliği, tepkime ağı ve koşulları bu cümlede belirtilmez. H01-E05'in belirli net bilançosu bu belirsiz evrensel savın kanıtı değildir. |
+| V38-11 / P38 son cümle | Üçünün etkileşimiyle yıldız ve gezegen evresinin oluşması | Atom türü sayısından yıldız/gezegen oluşum mekanizması çıkarılmaz. Tarihsel önerme korunur; nükleer süreç ve gökcismi oluşumu aynı işlem olarak aktarılmaz (§§5–5B). |
+| A149-01 / Akıl P149 | Üründen ikinci bilen öznenin oluşması ve onayı; bunun rahmet ve amaçla ilişkilendirilmesi | Özne oluşumu, sonuç onayı ve teolojik amaç ayrı savlardır. Bu paragraf hidrojen örneğinin açık anlamını tek başına belirlemez; onay ile doğruluk garantisi özdeş değildir. |
+| A149-02 / Akıl P149 | Atom → molekül → element → yıldız/topluluk; hücre → çok hücreli → bitki ve üst bilen dizileri | Kimyasal sınıflandırma §5A'da düzeltilir; hücre sayısı ve örgütlenme §6'da ayrılır. Alanların sıralarının benzemesi aynı mekanizmayı veya zorunlu amacı kanıtlamaz. |
+
+**Bu denetimin sonucu:** Hidrojen örneği ile bilgi sonucunun onaylanması arasındaki özgün bağ gizlenmez; bunların güncel sistemdeki farklı rolleri de birbirine karıştırılmaz. Varlık P38 zaten epistemik onay dilini hidrojen temsiliyle yan yana getirir. Dolayısıyla “ilk metin yalnız ontolojik, ikinci metin yalnız epistemolojik konuşur” biçiminde kesin bir tarihsel ayrım yapılamaz. Güncel kavramsal ayrım, eski metinlerin kendiliğinden açık ayrımı olarak değil, sonraki kurucu açıklamayla yapılan yorum olarak kaydedilir.
+
+V38-01–11 ve A149-01–02 için sav ayırma ve H01 aktarım kararı kaydedilmiştir. V38-03/07/10/11 ile A149-02'nin evrensel uygulamalarının dış bilimsel denetimi açık kalır. Bu işlem P26, P32 ve P149'un bütün diğer savlarının veya H01-01'in tamamlandığı anlamına gelmez.
+
 ### 10B. Ontolojik argüman ve rakip açıklama
 Kurucu kayda göre ilk kuruluş ve düzenli devam sorularının cevabı Zanabûn'dur; Zanabûn, Hebûn'un Ehad–Yek kabulüne ve ilk Yek → ikinci Yek → yeni Yekler → Komel ontolojik düzenine dayanır. Tekillik, birbirinden ayırt edilebilir varlıkları; türeme, önceki varlıklarla bağıntılı yeni varlığın ortaya çıkmasını; Komel, tekillerin ilişkisel bütününü anlatır. Bu kavramlar özdeş değildir. Argüman: (1) Varlık alanında tekiller ve ilişkisel bütünler vardır. (2) Bir bütünü yalnız tekillerin sayısı açıklamaz; aralarındaki düzen de açıklanmalıdır. (3) Zanistarast bu düzenin ontolojik temelini Yek olarak yorumlar. Sonuç, açıklayıcı bir metafizik çerçevedir; üçüncü öncül ilk ikisinden zorunlu mantıksal sonuç olarak çıkmaz. Karşı görüş, farklı bilimlerin kendi mekanizmalarının zaten yeterli açıklama sunduğudur. Hebûn bu mekanizmaların yerine geçme iddiası taşımaz; onların ontolojik açıklama düzeylerini ilişkilendirmeyi önerir. Fiziksel bir deneyle Ehad'ın ispatlandığı ileri sürülmez.
 
@@ -578,7 +602,7 @@ Bu ilk sıralı döküm, *Varlık Sistemi ve Boyutları* dosyasının P1–61 ar
 | P35 | Fizik boyutunda iki evre | A; §5. |
 | P36 | Atom evresi; molekül, element ve mineral grupları | A/D; §§5–5A; fizik evresi ile kimyasal sınıflandırma ayrılır. Mineral oluşumu için ayrıntılı kaynak denetimi açık. |
 | P37 | Yıldız/gezegen evresi; sistem ve galaksi grupları | A; §§4C, 5B. |
-| P38 | Üç parçacık; ikinci atom; epistemik onayın hidrojenle analojisi; aynı düzlem; ters H/He proton sayıları; üçüncü element ve yıldız geçişi | A/D; §5–5A, ikinci bilen kaynak tablosu, Ek C. Doğrulanmış fizik olarak aktarılmaz; ontolojik ve epistemik anlam ayrılır. |
+| P38 | Üç parçacık; ikinci atom; epistemik onayın hidrojenle analojisi; aynı düzlem; ters H/He proton sayıları; üçüncü element ve yıldız geçişi | A/D/R; §10A.1'de V38-01–11 atomik sav ve aktarım kararı; §5–5A, ikinci bilen kaynak tablosu, Ek C. Doğrulanmış fizik olarak aktarılmaz; ontolojik ve epistemik anlam ayrılır. |
 | P39 | Atom–molekül–element sırası; ağır çekirdek/hafif çevreyle yıldız/gezegen oluşumu | D/R; §5A ve bu kayıt. Kimyasal sıra düzeltildi; ayrıntılı yıldız/gezegen oluşum modeli araştırma kaydıdır. |
 | P40 | Güneş ve çevresi; yıldız/galaksi grupları; galaksinin yeni varlık sayılmaması | A/R; §4C; Komel'le ilişkisinin sistem sınırı ayrıca belirlenir. |
 | P41 | Karanlık maddenin miktarı ve çevre oluşu; atom altı konumu; kara deliklerle oluşum; gözlenememe savı | D/R; §5A ve bu kayıt. Ayrı kozmoloji iddialarıdır; güncel gözlem kaynaklarıyla değerlendirme yapılmadan H01 dayanağı olmaz. |
