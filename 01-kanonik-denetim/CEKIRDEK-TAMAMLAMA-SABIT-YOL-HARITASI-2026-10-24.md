@@ -1,12 +1,12 @@
 # Zanistarast cekirdek tamamlama sabit yol haritasi
 
-Tarih: 2026-10-24. Durum: 4/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
+Tarih: 2026-10-24. Durum: 5/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
 
 - [x] 01 Kurucu kaynak sadakati GitHub kaydi (f334339a)
 - [x] 02 H01 ontolojik ikinci bilen kaynak duzeltmesi (d367244e)
 - [x] 03 H02 ontolojik ve epistemolojik ikinci bilen duzeltmesi (5e9590a)
 - [x] 04 H01 tam metin kaynak/mantik/bolum butunlugu (467c43d)
-- [ ] 05 H02 tam metin kaynak/mantik/bolum butunlugu
+- [x] 05 H02 tam metin kaynak/mantik/bolum butunlugu (350ccc5)
 - [ ] 06 H03 Rasterast tamamlama
 - [ ] 07 H04 alti boyut Tek/Yek fitrat ahlak hukum
 - [ ] 08 H05 oz duygu zeka akil fitri ve iradeli ahlak
@@ -23,3 +23,9 @@ Her Zanistarast ilerleme raporunun en altinda bu listenin guncel durumu verilir.
 
 ## 04 kapanis kaydi — 24 Ekim 2026
 Kurucunun bu sohbetteki acik karariyla 04, H01'in ic calisma ve tam metin butunlugu kapsaminda tamamlandi olarak isaretlendi. Makale: `02-cekirdek-makaleler/NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md`. Son makale duzeltmesi: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/467c43d36f45efede242dc9116d097314fd47ca4 . Bu kapanis dergi hakemligi veya yayin kabul beyanı degildir; dis hakemlik sonraki yayin surecinde ele alinir. Siradaki ana madde 05 H02'dir.
+
+## 05 kapanis kaydi — 24 Ekim 2026
+
+H02'nin ic calisma kapsami tamamlandi: depo birikiminden kaynak sentezi, guncel Hebun ve H05 tanimlariyla uyum, soru–arguman–sonuc butunlugu, karsi-ornekler, kaynak ve aktarim baglantilari kontrol edildi. Olcum iddiasindan sorumlu kullanim ve hafizaya uzanan butunlesik kurgusal ornek eklendi. Makale: `02-cekirdek-makaleler/NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md`. Son makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/350ccc54af162c22ccfe5496bba2a2265caaa588 . Commit sonrasi dosya geri okunup birebir esitlik dogrulandi.
+
+Bu isaret kaynak/mantik/bolum butunlugu alt gorevini kapatir; butun depo iddialarinin dogrulandigi, saha deneyi yapildigi veya yayina kabul edildigi anlamina gelmez. Toplu cekirdek celiski denetimi (12), akademik son denetim (13) ve dosya dosya nihai dogrulama (14) kendi kapsamlarinda kalir. Siradaki ana madde 06 H03 Rasterast'tir. Liste her ilerleme yanitinin en altinda guncel haliyle verilir.
