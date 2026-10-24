@@ -1,6 +1,6 @@
 # Zanistarast cekirdek tamamlama sabit yol haritasi
 
-Tarih: 2026-10-24. Durum: 6/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
+Tarih: 2026-10-24. Durum: 7/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
 
 - [x] 01 Kurucu kaynak sadakati GitHub kaydi (f334339a)
 - [x] 02 H01 ontolojik ikinci bilen kaynak duzeltmesi (d367244e)
@@ -8,7 +8,7 @@ Tarih: 2026-10-24. Durum: 6/15; isaretler sadece belirtilen alt gorevin tamamlan
 - [x] 04 H01 tam metin kaynak/mantik/bolum butunlugu (467c43d)
 - [x] 05 H02 tam metin kaynak/mantik/bolum butunlugu (350ccc5)
 - [x] 06 H03 Rasterast kaynak/mantik/bolum butunlugu (6f4325f)
-- [ ] 07 H04 alti boyut Tek/Yek fitrat ahlak hukum
+- [x] 07 H04 alti boyut Tek/Yek fitrat ahlak hukum (b15ecfa)
 - [ ] 08 H05 oz duygu zeka akil fitri ve iradeli ahlak
 - [ ] 09 Varlik Tarihi cekirdek makalesi
 - [ ] 10 Jeoloji cekirdek makalesi
@@ -36,3 +36,12 @@ Bu isaret kaynak/mantik/bolum butunlugu alt gorevini kapatir; butun depo iddiala
 H03 Rasterast'in ic metin butunlugu tamamlandi. Bes kaynak depodaki 16 ilgili metin, onceki korpus incelemeleri ve guncel H01–H02/H05 kayitlariyla birlestirildi. Kaynak, cikarim, baglam, karsi-ornek ve duzeltmenin aktarimi tek ana argumanda duzenlendi. Sabit kaynak surumleri mevcut eke, iki Kurmanci ad onerisi mevcut aday havuzuna kaydedildi.
 
 Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/6f4325ff207f4c97ccd4729fba12e9bb8406e59c . Ana metin, kaynak eki ve aday havuzu GitHub'dan geri okunarak yazilan icerikle birebir karsilastirildi. Bu kapanis ic kaynak/mantik/bolum butunlugudur; karsilastirmali performans deneyi yapildigi iddiasi degildir. 12–14 kapsamindaki toplu denetimler kendi sirasinda kalir. Siradaki ana madde 07 H04'tur.
+
+
+## 07 kapanis kaydi — 24 Ekim 2026
+
+H04'un ic kaynak/mantik/bolum butunlugu tamamlandi. Ozgun paragraf izleri, Core 04 Etik ve Ahlak, Hebuname ahlak/hukum yazilari, hukum–ahlak ve ruh–fitrat kaynak kayitlari guncel cekirdekle karsilastirildi. Boyut–evre–katman ve kapsama anlamlari ayrildi; arac–imkan–erisim–bilgi/kontrol–secim–sorumluluk argumani karsi-modellerle birlestirildi. Hume ve Frankfurt karsilastirmalari korundu; yapilmamis deney sonucuna donusturulmedi.
+
+H04 commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/b15ecfa684b1ffa436624a8054ac789c375e75b3 . TEORILER'in kurucu onayli tablosunda bulunan altinci boyut evreleri (hesap/hukum; hukmun sonucu/ahiret karsiligi) devralindi. H01'in eksik tablo satirina ayni kaynak aktarildi: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/14a45fc3bc6117172e6d45cabdbab06b1eec27e1 . Iki metin commit sonrasi geri okunarak birebir dogrulandi. Eski H04 403dfe4 surumunde korunur.
+
+Bu isaret ic metin butunlugu alt gorevini kapatir. Toplu 12–14 denetimleri kendi sirasinda kalir; siradaki ana madde 08 H05'tir. Yeni kavram ihtiyaci bulunmadigindan mevcut terimler yeniden adlandirilmadi.
