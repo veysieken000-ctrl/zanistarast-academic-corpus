@@ -1,158 +1,221 @@
-# 6+Tek: Fıtrî İmkân, Araç ve İradeli Ahlak — Türkçe v03 akademik çalışma metni
+# 6+Tek — Boyut, Fıtrî İmkân ve İradeli Sorumluluk
 
-**H04/A02 | Türkçe v03 | 22 Ekim 2026 | Birikimli akademik çalışma sürümü; bağımsız denetim ve yayın kapısı açık**
-
-## 23 Ekim 2026 — H01–H04 ve ZANABUN-01 kanonik aktarım denetimi
-
-**Çekirdekler arası ayrım:** H01/Hebûn, Ehad Yek'tir kurucu kabulünden yaratılmış ilk Yek, ikinci Yek, türeme ve Komel'in ontolojik kuruluşunu inceler. H02/Zanabûn, bilene yönelen öznenin ortaya koyduğu **sonucun** ikinci bilen tarafından doğrulanmasını epistemolojik özel uygulama olarak inceler. H03/Rasterast, bu iddiaların kaynak kökeni, mantık, karşı-örnek ve bağımsız kanıt statüsünü denetler. **H04'ün özgün sorusu ise bu kurucu kavramları tekrar anlatmak değil, 6+Tek kozmik boyutlarında fıtrî imkân, araç kullanımı ve iradeli ahlak arasındaki sınırları araştırmaktır.**
-
-**Muhataplık düzeyleri:** Hebûn'da her yaratılmış Yek'in Ehad karşısında kendine özgü kimliği ve muhataplığı bulunduğu kurucu ontolojik yorumdur; iki varlığın ilişkisi de bu düzeyde ele alınır. İnsanın hüküm karşısında iradeli ahlakın en üst örneği olması, diğer varlıkların ontolojik muhataplığını ortadan kaldırmaz. ZANABUN-01'in istatistiksel ikinci tanık ve kaynak kümesi modeli bu ontolojik muhataplığı ölçmez; insanların kanıt yolları için koşullu doğrulama protokolüdür.
-
-**Kozmik–insan ayrımı:** Altı kozmik boyut (fizik, biyoloji, zihin, ruh/melekler, ahlak, hüküm/ahiret) insanın öz, duygu, akıl, irade vb. iç katmanlarının bire bir numaralandırması değildir. Beşinci kozmik boyuttaki ahlak, önceki boyutların iş/oluş/hareket ve fıtrî düzenini kapsayan kurucu geniş kullanımdır; insandaki iradeli ahlak özel ve hükmî bir durumdur. Altıncı boyutun teolojik statüsü deneysel olarak ispatlanmış gibi sunulamaz.
-
-**H04 için sınanabilir dar hipotez:** Belirli bir insan görevi ve açıkça tanımlanmış koşullarda, araç erişimi kişinin **fiilen kullanabildiği seçenekler kümesini** artırabilir; ancak bu artıştan ahlaken iyi kararın zorunlu çıktığı sonucu gelmez. İşlemselleştirme önerisi: görev öncesi/sonrası erişilebilir seçenekleri, bilgi farkını, seçimin gerekçesini ve zarar/fayda ölçütlerini ayrı kaydetmek. Bu öneri henüz uygulanmış deney veya doğrulanmış nedensel sonuç değildir. Karşı-örnek: yeni araç daha çok seçenek üretirken yanlış bilgi veya bağımlılık nedeniyle kişinin etkili seçeneklerini azaltabilir.
-
-**Devredilebilir bilgi paketi:** H01'den ontolojik kimlik/Yek–Komel, H02'den ikinci bilenin sonuç denetimi, H03'ten kaynak/kanıt/karşı-örnek kapıları alınır. H04'ün kendi katkısı fıtrî imkân–araç–seçim–iradeli ahlak ayrımıdır. H05'e akıl, bilgi ve seçenek değerlendirme bağımlılığı aktarılır; H04'ün tezi yeni makale diye kopyalanmaz. Eksik: ampirik görev tasarımı, karşıt literatür, bağımsız Rasterast incelemesi ve K0–K6 kapanışı.
+**H04/A02 Türkçe v03 | 24 Ekim 2026 | Düzenlenmiş kavramsal araştırma**
 
 ## Öz
-6+Tek'in beşinci boyutu olan ahlakın fıtrî ve iradeli evreleri, akıl ve araç üretimiyle ilişkilendirilir. İnsan yaratılmış fiziksel ve biyolojik sınırları kendisi belirlemez. Akıl yoluyla araç geliştirerek bu sınırlar içinde kullanabildiği imkânları genişletebilir. Genişleyen imkânlar iradeli seçimlerin alanını büyütebilir; güzel ahlakı zorunlu olarak üretmez. Altıncı boyut hüküm/ahiret, insanın sınırlı karar verme gücüyle özdeş değildir. Fıtrat varlığın kuruluş imkân ve sınırlarıdır; fıtrî ahlak bu düzenin tezahürü, iradeli ahlak ise insanda bilgi ve tercihle bu imkânların yönetilmesidir. Hüküm karşısındaki özel ahlaki sorumluluk iradeli ahlakla ilişkilidir.
 
-**Anahtar sözcükler:** 6+Tek, Yek, fıtrat, fıtrî ahlak, iradeli ahlak, ontolojik kapsama.
+Bu çalışma Zanistarast'ın altı kozmik boyutunu, boyut–evre–katman ayrımı ve fıtrî imkânların insan eyleminde kullanılması üzerinden inceler. Hebûn'un Yek ve Komel tanımları, Zanabûn'un bilgi değerlendirmesi ve Rasterast'ın kaynak–çıkarım denetimi devralınır. Özgün metinlerin mevcut paragraf izleri, Core 04 Etik ve Ahlak, Hebûname'nin ahlak ve hüküm yazıları ve sonraki kurucu açıklamalar karşılaştırılır. Fıtrat kuruluş, imkân ve sınırları; fıtrî ahlak bu düzenin işleyişini; iradeli ahlak bütünleşik insanın bilgi, niyet ve seçimle yönlendirdiği eylemleri anlatır. Araçlar doğa kanunlarını kaldırmadan uygulanabilir eylemleri değiştirebilir; teknik imkândan fiilî erişime, erişimden sorumluluğa ve kapasiteden güzel ahlaka doğrudan geçilemez. Hüküm, normatif yönelim, insanın uygulama kararı ve nihai teolojik hesap anlamlarında ayrılır. Katkı, boyutsal kapsama ile eylemin ahlaki değerlendirmesini birbirine bağlayan, koşulları ve karşı-örnekleri açık bir kavramsal çerçevedir. Yeni deney veya bütün boyutları doğrulayan fiziksel model ileri sürülmez.
 
-## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
+**Anahtar sözcükler:** 6+Tek, Yek, boyut, evre, fıtrat, araç, iradeli ahlak, hüküm.
 
-## 1. Önceki sürümden devralınan ayrım
-H04 v02'nin 6+Tek kozmik boyutları korunur: fizik (atomlar; yıldız ve gezegenler), biyoloji (tek hücreli; çok hücreli), zihin (zekâ; akıl), ruh (ruh; melekler), ahlak (fıtrî; iradeli), hüküm/ahiret. Tek/Yek yedinci yaratılmış boyut değildir. İnsan katmanları kozmik boyutlarla sayısal olarak eşitlenmez. Bu sürüm, v02'nin tanımlarını devralan güncel H04 ana çalışma metnidir; v01 ve v02 tarihsel sürümler olarak korunur. Aynı araştırmanın sürümleridir ve bağımsız makale sayılmaz.
+## 1. Araştırma sorusu ve birikimin kullanımı
 
-## 2. Elin kaldırılması örneği
-İnsan elini kaldırmayı diler; fakat kolunun yapısını, hareket aralığını ve hareketi mümkün kılan kanunları yaratmaz. Yaratılmış imkânlar ve sınırlar fıtrî düzen açısından ele alınır. İnsanın bu sınırlar içinde bilgi, niyet ve tercihle eylemini yönlendirmesi iradeli ahlak açısından değerlendirilir. Örnekte elin hareket etmesi tek başına ahlaki erdem veya kusur göstermez; değerlendirme eylemin bağlamını ve sorumluluk koşullarını gerektirir. İnsan karar verebilir; bu karar mutlak yaratıcı hüküm değildir.
+**Araştırma sorusu:** İnsan, kuruluşunun fiziksel ve biyolojik koşullarını kendisi yaratmadığı hâlde, bilgi ve araçlarla erişebildiği eylemleri nasıl değiştirebilir; bu değişiklik hangi ek gerekçelerle iradeli sorumluluk açısından değerlendirilebilir?
 
-## 3. Araç ve genişleyen imkân
-Bir kaldıraç veya vinç, insanın çıplak elle kaldıramadığı yükleri kaldırmasını sağlayabilir. Burada fiziksel kanunlar iptal edilmez; onlardan yararlanılır. Akıl yeni bilgi ve araç üretirken fıtrî imkânları kullanım biçimini değiştirir. Böylece üçüncü boyutun akıl evresiyle beşinci boyutun iradeli ahlak evresi arasında araştırılabilir bir ilişki kurulur.
+H01 tekillik, türeme ve Komel'in ontolojik temelini; H02 bilgi ve gerekçeli değerlendirmeyi; H03 kaynak, çıkarım ve düzeltmenin izlenmesini sağlar. H04'ün ayrı işi bu temelleri yeniden ispatlamak değil, **kuruluş düzeni, kullanılabilir imkân ve sorumlu tercih arasındaki geçişleri** açıklamaktır.
 
-### 3A. Mekanik örneğin kaynağı ve sınırı
-OpenStax'ın *College Physics 2e*, bölüm 9.5 açıklamasında mekanik avantaj çıkış kuvveti büyüklüğünün giriş kuvveti büyüklüğüne oranıdır (denklem 9.29). İdeal bir makine kuvvet kazancını yol ile değiş tokuş eder; enerji üretmez (OpenStax, tarihsiz). Mekanik avantaj bir kuvvet oranıdır; tek başına güç veya enerji artışı değildir. Fiziksel güç iş/enerji aktarımının zamana oranıdır (§7.7); H05 §1 bu teknik anlamı esas alır. Kaynakta bütün araçların kuvveti büyütmediği de görülür: verilen kürek örneğinde mekanik avantaj birden küçük, sabit makara örneğinde birdir (§9.5, Şekil 9.22b ve 9.23c). Dolayısıyla araç, belirli yük ve koşullarda uygulanabilir eylemi değiştirir; varlığın bütün sınırlarının kalktığı sonucu çıkmaz. Bu kaynak bir fizik ders kitabıdır; insanın ahlaki sorumluluğu hakkında deneysel kanıt değildir.
+Yöntem kurucu kaynakların karşılaştırılması, kavramsal çözümleme, düşünce örnekleri ve seçilmiş karşıt argümanlarla sınamadır. Kaynak tabanı *Varlık Sistemleri ve Boyutları* ile *Akıl ve Bilginin Kaynağı* için mevcut paragraf envanteri, özgün etik yazısının kaynak izi, Core 04 ve ahlak–hüküm birikimidir [K1–K6]. Özgün DOCX'ler bu turda yeniden açılmış sayılmaz; önceki paragraf kayıtları ve bu tur içerikleriyle okunan depo metinleri ayrı belirtilir. Core 04'ün özgün DOCX ile birebir aynı olduğu varsayılmaz.
 
-## 4. Hüküm ve sorumluluk
-Araçlarla seçeneklerin artması, iyilik yapma fırsatlarını da zarar verme kapasitesini de artırabilir. Bu yüzden daha çok güç otomatik olarak güzel ahlak demek değildir. Kurucu teolojik tezde insan Ehad'ın hükmü karşısında ahlaki muhataptır ve kendi iradeli tercihlerinden sorumludur. Sorumluluğun kapsamı bilgi, niyet, kontrol ve öngörülebilir sonuçlar dikkate alınarak tartışılmalıdır.
+Özgün metindeki farklı evreler, sonraki kurucu kararlarla karşılaştırılır. İlk taslakta bulunmak bir bilimsel savın doğruluğunu garanti etmez. Araştırma sorusuna katkı sağlayan gerekçe korunur; hatalı genelleme güncel metnin öncülü yapılmaz. Bu bir sistematik literatür derlemesi değildir.
 
-### 4A. Normatif köprü ve karşı-örnek
-“Bir aracı kullanabilir” önermesi betimleyicidir; “kullanmalıdır” sonucu için ayrıca normatif öncül gerekir. Bu makalede sorumluluk, bilgisi ve kontrolü bulunduğu ölçüde öngörülebilir zararı değerlendirme yükümlülüğü olarak tartışılır; bu bir felsefi öneridir. Ehad karşısındaki nihai sorumluluk ise teolojik kabuldür. Örneğin iki kişi aynı makineye sahip olduğu hâlde bakım bilgisi, erişim yetkisi ve kullanım amacı bakımından farklı olabilir. Eşit teknik kapasite eşit kusur veya eşit iyilik göstermez. Seçenek artışından sorumluluk artışına geçiş ancak bilgi, niyet ve denetim koşulları açıklanırsa savunulabilir.
+## 2. Boyut, evre, katman ve Yek
 
-### 4B. Sorumluluk çıkarımının koşulları
-Araçla yapılabilir eylemlerin artması, belirli bir kişinin ahlaki yükümlülüğünün aynı oranda arttığını gösteren bir denklem değildir. Bu metnin önerdiği değerlendirmede kişi hakkında en azından eylemi bilme, sonuçları makul olarak öngörebilme, seçeneğe fiilen erişme ve kullanımını denetleme koşulları ayrı belirtilir. Bu koşullar burada normatif çözümleme alanlarıdır; doğrulanmış bir kusur puanı ölçeği değildir.
+**Boyut**, kurucu modelde varlık ve işleyişin ele alındığı kozmik alandır. **Evre**, o alanın içinde tanımlanan ayrımdır. **Katman**, belirli bir varlığın bünyesinde birlikte ele alınan yapı ve işlevleri anlatır. Bunlar fiziksel koordinat sayısı veya tek bir bireyin zorunlu gelişim takvimi değildir.
 
-Örneğin aynı kaldırma düzeneğine erişen iki kişiden biri güvenlik bilgisinden ve kullanım yetkisinden yoksunsa, yalnız cihazın kapasitesine bakılarak ikisine aynı görev veya kusur yüklenemez. Zorlama ve fiilî imkânsızlık da kapasite ile tercih arasındaki ilişkiyi değiştirir. Bu düşünce örneğinde amaç kesin bir hukuk hükmü vermek değil, betimleyici teknik özelliklerden sorumluluk sonucuna geçerken gereken ek öncülleri görünür kılmaktır. Sonuç, H02'deki bilgi onayıyla veya altıncı boyuttaki nihai ilahî hükümle özdeş değildir.
+**Tek**, varlığın kendine özgülüğünü; yaratılmış **Yek**, bu özelliklerin ayırt edilebilir bütünleşik varoluşunu ifade eder [K2]. H01'deki tekillik–ilişki–Komel ayrımı korunur. Birden çok Yek'in aynı türe mensup olması kendiliğinden yeni bireysel Yek üretmez. Komel ilişkisel bütündür; her topluluk aynı ölçüte göre birey sayılmaz.
 
-## 5. Rasterast ile üç eksenli denetim
-- **Doğruluk:** Araçların kapasiteyi artırdığı iddiası ölçülebilir ve karşı-örneklerle sınanabilir.
-- **Fayda:** Aynı aracın etkisi kullanım bağlamına ve zaman ufkuna bağlıdır.
-- **Ahlak:** Kullanım amacı, sorumluluk ve etkilenebilecek diğer kişiler ayrı değerlendirilir.
+**Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Ehad yaratılmış Yek değildir ve yaratılmış altı boyuttan birinin bileşeni yapılmaz. **+Tek**, bu boyutlara eklenen yedinci yaratılmış boyut değildir.
 
-Faydasız bilgi, sözde bilim ve henüz pratik uygulaması bilinmeyen temel araştırma aynı kategori değildir. Dinî/normatif hükümler ampirik bulgu olarak gösterilmez.
+### 2.1. Altı boyut ve kaynaklı evreler
 
-## 5A. Altı kozmik boyutun iki evresi ve Yek ayrımı
-| Kozmik boyut | Birinci evre | İkinci evre |
+| Kozmik boyut | Birinci evre | İkinci evre | Kullanım sınırı |
+|---|---|---|---|
+| 1. Fizik | Atom | Yıldızlar ve gezegenler | Örgütlenme ayrımı; bütün atom türlerinin yıldızlardan önce tamamlandığı kronolojisi değil |
+| 2. Biyoloji | Tek hücreliler | Çok hücreliler | Üreme biçimi ayrımı değil; iki hücre bulunması bütünleşmiş organizma için yeterli değil |
+| 3. Zihin | Zekâ | Akıl | Kurucu yeti ayrımı; hayvanların öğrenme ve çıkarım bulgularını reddetmez |
+| 4. Ruh ve melekler | Ruh | Melekler | Teolojik ontoloji; ruh ile melek özdeş değil, meleklerde ruh vardır |
+| 5. Ahlak | Fıtrî ahlak | İradeli ahlak | Doğal işleyiş ile insanın sorumlu tercihi ayrılır |
+| 6. Ahiret/hüküm | Hesap/hüküm | Hükmün sonucu (ahiret karşılığı) | Kaynaklı teolojik evre ayrımı; ölçülmüş ampirik süreç değil |
+
+Tablonun dayanağı, TEORILER deposundaki **16 Ekim kurucu onaylı 6 boyut/12 evre tablosu** ve 22–24 Ekim güncel açıklamalardır [K2–K3]. Önceki H04'ün altıncı boyut için “evre adı önerilmez” kaydı kaynakta ad bulunmadığı anlamında okunamaz: mevcut adlar burada devralınır; yeni evre icat edilmez. *Varlık Sistemleri* P160–P162'deki dünya–ahiret anlatımı ise kendi tarihsel ifadesi olarak korunur; iki kaynak aynı cümleymiş gibi gösterilmez [K1].
+
+Biyoloji eşeysiz/eşeyli; ruh melekler/insan; ahlak hak-hukuk/hüküm diye yeniden adlandırılmaz. Bir evre ayrımı önermek her bireyin bütün evrelere geçeceğini söylemek değildir. İnsan katmanları bu tabloya sayısal olarak eşitlenmez.
+
+## 3. Kapsama, kemal ve açılım
+
+Kurucu kapsama tezinde üst, altı yok etmez; onun işlevlerini daha geniş bir düzende ilişkilendirir. Alt düzey taşıyıcı koşullar sağlar. **Kemal ve açılım**, altın işlevsel olgunluğunun daha kapsayıcı işlevlere imkân sağlaması yönünde yorumlanır [K3, VII–VIII]. Bu, her varlığın sürekli büyüdüğü veya her biyolojik geçişin mekanizmasının açıklandığı anlamına gelmez.
+
+Kapsamanın farklı anlamları ayrı tutulur:
+
+| İlişki | Örnek | Çıkarılamayacak sonuç |
 |---|---|---|
-| Fizik | Atom (hidrojen/helyum örnekleri) | Yıldız ve gezegen düzenleri |
-| Biyoloji | Tek hücreliler | Çok hücreliler |
-| Zihin | Zekâ | Akıl |
-| Ruh | Ruh | Melekler (ruhu bulunan nurani varlıklar) |
-| Ahlak | Fıtrî ahlak | İradeli ahlak |
-| Hüküm/Ahiret | Hüküm ve ahiret düzeni | Ayrı bir ampirik evre dizisi ileri sürülmez |
+| Fiziksel kuruluş | Canlı bedenin maddi bileşenleri | Canlının yalnız bileşen sayısıyla açıklanması |
+| Biyolojik taşıyıcılık | Zihinli canlının hücresel bedeni | Zihinli insan veya hayvanın biyoloji dışında kalması |
+| Ontolojik/açıklayıcı kapsama | “Biyoloji zihin kapsamında, zihin ruh kapsamında” kurucu tezi | Zihnin kronolojik olarak biyolojiden önce ortaya çıkması |
+| Normatif değerlendirme | İnsan eyleminin hak ve sorumluluk bakımından ele alınması | Doğal düzenliliğin tek başına ahlaki yükümlülük üretmesi |
+| Teolojik muhataplık | İnsanın Ehad'ın hükmü karşısındaki sorumluluğu | Laboratuvar ölçümünün nihai hesabı doğrudan göstermesi |
 
-**Tek/Yek**, bu altı boyuta eklenen yedinci yaratılmış boyut değildir. Bu kozmik tablo insanın öz, duygu, akıl ve fıtrî/iradeli ahlak açıklamasıyla sayısal olarak eşitlenmez. Biyoloji evreleri eşeysiz/eşeyli üreme olarak yeniden tanımlanmaz. İlk beş boyutun iki evre ayrımı kurucu sınıflamadır; altıncı boyutta doğrulanmamış iki aşama uydurulmaz.
+Fiziksel büyüklük ile açıklayıcı kapsama aynı ölçü değildir. İnsan bedeni evrene göre küçük diye normatif sorumluluğun önemsiz olduğu sonucu çıkmaz; insanın sorumlu olması da bedensel ve ekolojik bağımlılığını kaldırmaz.
 
-### 5B. Evre, tarih ve açıklama düzeyi
-Tablodaki “evre”, kurucu ontolojik örgütlenme ayrımıdır. Her boyut için bir evre ayrımı önermek, o boyuttaki her tekil varlığın bütün evrelere zorunlu olarak geçeceğini söylemek değildir. Özellikle zihin ve ahlak için verilen evreler, bütün canlılara aynı kişisel gelişim öyküsünü yüklemez. Bütün atom türlerinin yıldızlardan önce tamamlandığını, bütün çok hücrelilerin tek bir tarihsel geçişle oluştuğunu veya zihinsel yeteneklerin her bireyde aynı sırada ortaya çıktığını gösteren bir kronoloji değildir. Bu tür tarihsel iddialar ayrıca alan verisi ister. H01'in yıldız nükleer süreçleri ve maya örneği bu sınırı; H05'in hayvan bilişi tartışması zekâ–akıl ayrımının deneysel uygulama yükünü açıklar.
+Özgün *Varlık Sistemleri* P85'te zihinli varlığın biyolojiden dışlanması yönündeki anlatım bu nedenle düzeltilir. İnsan ve hayvanların hücresel kuruluşu korunur; çok hücrelilik yalnız bitkilere daraltılmaz. H01 §6 ve mevcut NHGRI kaydı bu bilimsel düzeltmenin dayanağıdır [K1, K7]. Yeni bir boyut adlandırması biyolojik sınıflandırmanın yerine geçmez.
 
-İnsan katmanları aynı tabloda yedinci veya altıncı kozmik basamak olarak yeniden numaralandırılmaz. Fıtrî ahlak bütün varlıkların işleyişi için önerilen geniş ontolojik kullanımdır; normatif fail olmak anlamına gelmez. “İlk dört boyutu kapsama” açıklama ilişkisidir; fiziksel büyüklük, biyolojik sınıflandırma veya ölçülmüş koordinat sayısı değildir.
+Ast–üst kapsama ilişkisidir; merkez–çevre örgütlenme ve karşılıklı etkileşim ilişkisidir. Bir merkez mutlaka üst boyut değildir. Bu ontolojiden insan topluluklarında doğuştan üstünlük veya sınırsız itaat yetkisi çıkarılmaz.
 
-### 5C. Ana önermelerin kaynak ve statü haritası
-| Önerme | Dayanak | Statü ve aktarım sınırı |
-|---|---|---|
-| Altı boyut ve Yek ayrımı | Kurucu kanon; özgün metinle karşılaştırma | Ontolojik sınıflama; fiziksel koordinat teorisi değil |
-| Tek hücreli/çok hücreli, zekâ/akıl evreleri | Güncel kurucu karar; Varlık Sistemleri P71/P90 | Kurucu sınıflama; farklı üreme biçimleriyle eşitlenmez |
-| Kaldıraç belirli yük için gerekli kuvveti değiştirir | OpenStax §9.5 | Fiziksel açıklama; ahlaki iyilik hakkında sonuç vermez |
-| Teknik kapasiteden yükümlülük için ek öncül gerekir | Bölüm 4A düşünce deneyi | Normatif argüman; istatistiksel bulgu değil |
-| Fıtrat, fıtrî ve iradeli ahlak farklıdır | Kurucu kilometre taşı | H01/H05 ile ortak tanım; bilinçsiz işleyişe kusur atfedilmez |
+## 4. Fıtrat, fıtrî ahlak ve bütünleşik insan
 
-### 5D. Ontolojik kapsama biyolojik sınıflandırmayı kaldırmaz
-Özgün *Varlık Sistemi ve Boyutları* P85'te zihinli varlıkların biyolojiye dâhil edilemeyeceği biçiminde bir ifade vardır. Güncel modelde bu, biyolojik bedenin reddi olarak okunmaz. İnsan ve hayvanlar hücresel canlılardır; bitki ve hayvanların çok sayıda ökaryotik hücreden oluşması biyolojik kuruluşun bir özelliğidir (NHGRI, 2026). Zihin düzeyinde ayrıca açıklanması gereken yetenekler bulunduğunu savunmak, canlıyı biyolojinin kapsamından çıkarmaz.
+**Fıtrat**, varlığın kuruluşu, imkânları, sınırları ve ilişkisel düzenidir. **Fıtrî ahlak**, bu düzenin işleyiş, davranış ve ilişkilerdeki tezahürüdür. **İradeli ahlak**, insanın bütünleşik imkânlarını bilgi, niyet ve seçimle yönlendirmesi ve bu bakımdan sorumlu muhatap olmasıdır [K3–K4].
 
-Biyolojinin ikinci evresi yalnız bitkiler diye daraltılmaz. Tek hücreli/çok hücreli ayrımı, zihin boyutundaki zekâ/akıl ayrımıyla aynı sınıflama değildir. Özgün metnin farklı evre kullanımları tarihsel iz olarak korunur; güncel tabloya alternatif gizli bir evre dizisi olarak taşınmaz. İnsanın normatif sorumluluğu da bedensel veya ekolojik bağımsızlık anlamına gelmez. H01'de ilk/ikinci Yek için kullanılan sıra ile H02'de bilen/bilinen için kullanılan roller bu tabloya yeni boyut veya biyolojik sınıf olarak eklenmez.
+Fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında ele alınır. Öz, duygu ve akıl dört kopuk parçanın bileşen listesi değildir. Fıtrî ahlak bu ilişkili yapının oluşum ve hareket düzenini kapsar; oluşan bütünleşik insan Yek'i iradeli ahlak kapsamında değerlendirilir. İnsanda akıl bulunması zekânın yok olması değildir.
 
-### 5E. Kapsama türleri ve ahlaki geçiş
-Altı kozmik boyut fiziksel koordinat sayısı değildir. Fizik, biyolojik varlığın maddi koşuludur; biyolojik örgütlenme zihinli canlıların taşıyıcısıdır; ruh ve melekler teolojik ontoloji kapsamında tartışılır. Beşinci boyut ahlak, ilk dört boyutun fıtrî düzeni ile insanın iradeli eylemlerinin değerlendirilmesini kapsar. Altıncı boyut hüküm/ahiret bu sorumluluğun teolojik ufkudur; Yek yedinci yaratılmış boyut değildir. «Kapsama» fiziksel içerilme, açıklayıcı bağımlılık, normatif değerlendirme ve teolojik muhataplık anlamlarına gelebilir; biri diğerinin ispatı değildir. Karşı-örnek: Araçların çoğalması daha çok eylem seçeneği sunabilir fakat kişiyi otomatik olarak daha ahlaklı yapmaz. İradeli ahlak için bilgi, niyet, seçim ve sorumluluk ayrıca değerlendirilir. H05'in ilimden ilim modeli kapasiteyi, H04 bunun normatif kullanımını açıklar. İnsan katmanları kozmik boyutlarla bire bir numaralanmaz.
+Fıtrî ahlakın geniş kullanımı, bir atoma niyet, suç veya erdem yüklemez. İnsan dışı canlıların öğrenmesi, duyguları ve toplumsal davranışları da bu adlandırmayla inkâr edilmez. H05, kurucu akıl tanımı ile davranışsal biliş bulgularını ayrıca araştırır.
 
-### 5F. Eleştirel hakem simülasyonu ve savunulan sonuç
-**İtiraz:** Doğadaki işleyişi ahlak diye adlandırmak doğadan normatif yükümlülük çıkarmak olabilir. **Yanıt:** Fıtrat imkân ve sınırları; fıtrî ahlak bu düzenin işleyişini ifade eden kurucu kullanım; iradeli ahlak ise bilgi, niyet, tercih ve sorumlulukla ilgili normatif düzeydir. Bir düzenin doğal olması, insanın onu ahlaken seçmesi gerektiğini göstermez. **Karar:** Kapsama ve evreler arasındaki ilişkiler tek tip nedensellik olarak sunulmadığında model tutarlıdır; ruh ve ahiret hakkındaki önermeler teolojik statüdedir.
+### 4.1. Elin kaldırılması
 
-## 6. Sonuç ve açık araştırma soruları
-Kurucu sentezde **fıtrat** kuruluş, imkân ve sınır; **fıtrî ahlak** bu düzenin varlıklardaki işleyişi; **iradeli ahlak** insanın bilgi, niyet ve tercihleriyle fıtrî imkânları yönlendirmesi olarak ayrılır. Bu son evre hüküm karşısında özel sorumluluk taşır. Fizik–biyoloji–zihin–ruh düzeylerinin kapsanması fiziksel hacim veya deneysel boyut sayısı değil, felsefi açıklama ilişkisidir. Mekanik örnek teknik imkânın koşullu genişlemesini açıklar; bundan güzel ahlak veya ahiret düzeninin deneysel kanıtı çıkmaz. Makalenin sonucu bu üç iddia düzeyini ayıran bir felsefi modeldir.
+İnsan elini kaldırmayı dileyebilir; ancak kolunu, kaslarını, hareket aralığını ve eylemin fiziksel koşullarını kendisi yaratmamıştır. Hareketin gerçekleşmesi mevcut beden, çevre ve koşullara bağlıdır. Bu, kurucunun fıtrî düzen ile iradeli yönelimi ayıran örneğidir [K4].
 
-### Açık araştırma soruları
-1. Hangi araçlar insanın kullanılabilir seçeneklerini gerçekten artırır, hangileri yeni bağımlılıklar üretir?
-2. Seçenek artışı ile sorumluluk artışı hangi koşullarda birlikte görülür?
-3. Fıtrî ahlakın sınırları ile araçla genişleyen eylem kapasitesi nasıl tanımlanabilir?
-4. Güzel ahlakın imkânı ile gerçekleşen güzel ahlak nasıl ayırt edilir?
+El kaldırmak yardım istemek, selam vermek veya zarar vermeye hazırlanmak için yapılabilir. Aynı hareket biçimi, niyet ve bağlam değişince aynı ahlaki anlamı taşımaz. Elin istemsiz hareketi de bilinçli tercih olarak kaydedilemez. Fiziksel hareketi açıklamak sorumluluğu tek başına açıklamaz.
 
-## Dış kaynakça
-- OpenStax. (Tarihsiz). *College Physics 2e*, §9.5, Simple Machines; §7.7, Power. https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines . Kullanım: bölüm 3A; mekanik avantaj, enerji sınırı ve güç ayrımı. Güç tanımı: https://openstax.org/books/college-physics-2e/pages/7-7-power . Erişim: 22 Ekim 2026. Normatif veya teolojik iddiaların kaynağı değildir.
+İnsanın kendi hükmünü vermesi sınırlı karar yetisidir; mutlak yaratma veya nihai ilahî hüküm değildir. Sınırlı olmak ile hiçbir seçimde bulunamamak aynı önerme değildir. İyi seçimi öven özgürlük ideali ile kişinin yanlış seçiminden de sorumlu olabilmesi ayrılır.
 
-- National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §5D; hücresel kuruluş. Kurumsal biyoloji açıklaması, ontolojik boyut sayısının kanıtı değildir. Erişim: 22 Ekim 2026.
+## 5. Araçlar hangi imkânı değiştirir?
 
-## Kaynak ve sürüm izi
-- `NK-ZS-H04-A02-TR-v02-ALTI-ARTI-TEK-TUREME-KOMEL.md`
-- `NK-ZS-H03-A14-EK02-UCLU-DENETIM.md`
-- `NK-ZS-BILIM-FELSEFESI-ARAC-FITRI-IMKAN-IRADELI-AHLAK-v01.md`
-- `../01-kanonik-denetim/FITRI-IRADELI-AHLAK-HUKMUN-AHLAKI-MUHATAPLIK-2026-10-22.md`
+Core 04, insanın ev, araç ve toplumsal birikim yoluyla ihtiyaçlarına cevap üretmesini ele alır. H04 bunu kanunları ortadan kaldırma olarak değil, **verili koşullar içinde fiilen yapılabilir eylemlerin değişmesi** olarak yorumlar [K5].
 
-**Durum:** Kurucu görüşlerin akademik taslağıdır; dış literatür karşılaştırması ve bağımsız hakem denetimi henüz tamamlanmadı.
+Araç geliştirme yeni bilgi üretimini gerektirebilir; kullanıcının her araç kullanımında yeni ilim üretmesi gerekmez. Bir vinci kullanmakla vincin yöntemini geliştirmek aynı bilişsel işlem değildir. Bu ayrım H05'in zekâ, öğrenme ve ilimden ilim üretme sorusuna devredilir.
 
-## Ek A — Kurucu açıklama: ontolojik kapsama, ahlak ve hüküm (22.10.2026)
-Fiziksel evrenin kütle/hacimce büyüklüğü, Zanistarast'taki **birinci ontolojik boyut** oluşuyla çelişmez. Biyoloji fizik içinde var olur; ancak canlılık ve bilgi düzeniyle yeni açıklama alanı açar. Zihin ve ruh bunu takip eder. **Beşinci boyut ahlak**, fıtrî düzen ve insandaki iradeli sorumluluk bakımından ilk dört boyutu kapsayan bir ufuk olarak yorumlanır. **Altıncı boyut hüküm/ahiret**, iradeli ahlakın nihai muhataplık ufkudur. Ehad bu yaratılmış boyutlardan biri değildir, hüküm sahibidir. “Küçük büyüğün içinde, büyük küçüğün içinde” fiziksel hacim eşitliği değil fiziksel içerilme ile ontolojik/açıklayıcı kapsamanın iki ayrı ilişkisidir. Otonom kâinat benzetmesi ilahî düzenden bağımsızlık iddiası değildir. Bu yaklaşım felsefi/teolojik tez olarak sunulur; fiziksel boyut teorisi veya ampirik ispat olarak gösterilmez.
+### 5.1. Mekanik örnek
 
-**Kurucu kaynak:** `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`.
+OpenStax §9.5'te mekanik avantaj, çıkış kuvvetinin giriş kuvvetine oranıdır. Kaldıraç belirli bir yük için gereken kuvveti değiştirebilir; ideal durumda kuvvet kazancı yol ile değiş tokuş edilir. Makine enerji yaratmaz. Aynı kaynakta bütün araçların kuvvet kazandırmadığı da görülür: örneğin küreğin mekanik avantajı birden küçük olabilir [D1].
 
-## Ek B — Kurucu kilometre taşı: fıtrî ahlak ile iradeli ahlakın kapsamı
-Fıtrî işleyiş ile insanın bilgi, niyet ve tercih sorumluluğu §§4–5D'de ayrılmıştır. Güncel kanonik dayanak: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Altıncı boyut yaratılmış hüküm/ahiret düzenidir; Ehad bu boyutun bir bileşeni değildir.
+Dolayısıyla teknik kapasite hangi görev, yük ve koşul için söylendiği belirtilerek karşılaştırılır. Mekanik avantaj kuvvet oranıdır; fiziksel güç veya enerjiyle eşanlamlı değildir. Güç iş/enerji aktarımının zamana oranıdır; bu tanım H05 ve OpenStax §7.7'de kaynaklıdır. Kaldıraç açıklaması ahlaki iyilik hakkında deneysel kanıt değildir.
 
-## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
-*Varlık Sistemleri ve Boyutları* özgün Word dosyasının boş olmayan metin paragraflarında P66 üreme biçimleriyle evreleri karıştırırken P71 tek hücrelileri birinci evre diye adlandırır. Güncel kurucu karar uyarınca bölüm 5A tek hücreli/çok hücreli ayrımını esas alır. P90 zekâ/akıl ayrımıyla uyumludur. P161 ve devamında dünya/ahiret evre anlatımı bulunur; güncel tabloda bunun tarihsel teolojik anlatım olduğu korunur, yeni ampirik evre dizisi kurulmaz. Bu nedenle “altıncı boyut için özgün kaynakta hiçbir evre anlatımı yoktur” sonucu çıkarılmamalıdır. Kaynak: https://drive.google.com/file/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d .
+### 5.2. Teknik imkân ile fiilî erişim
 
+Bir aracın üretilmiş olması, belirli kişinin onu kullanabildiğini göstermez. Araç uzakta, kilitli, bakımsız veya görev için uygunsuz olabilir. Eğitim, enerji, yardımcı kişiler ve zaman da kullanılabilirliği etkileyebilir. Bu nedenle teknik olarak mümkün eylemler ile kişinin belirli koşullarda erişebildiği eylemler ayrı tanımlanır.
 
-## Ek E — MK-013–015 işlevsel anlama rampası ve karşı-örnek denetimi (23 Ekim 2026)
+Araç öncesi ve sonrası seçenek kümelerinin yalnız sayıları değil, içerikleri de karşılaştırılır. Bazı seçenekler eklenirken başkaları kaybolabilir. Yeni bir araca bağımlılık, eski yöntemlere erişimi azaltabilir. Daha fazla seçenek her bağlamda daha etkili kontrol veya daha iyi karar değildir. Bunlar araştırılacak koşullardır; bu metinde ölçülmüş sıklık veya nedensel etki verilmez.
 
-**Kaynak ve statü:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`. Bu bölüm kaynaklı kavramsal aktarım önerisidir; yapılmış deney, bağımsız Rasterast onayı veya yeni kurucu aksiyom değildir.
+## 6. İmkândan sorumluluğa geçiş
 
-**Beş sorulu profil:** (R) beden, araç, enerji ve çevre gibi fiziksel taşıyıcılar; (I) öznenin eriştiği bilgi ve gerekçe; (P) seçenekleri değerlendirme ve eylem; (C) fıtrî imkân, fiziksel kısıtlar ve kurum kuralları; (V) iradeli ahlaki değerlendirme. Beş işlev kozmik beş boyut değildir; kozmik D5 ahlak önceki boyutları kapsar.
+Aşağıdaki kayıt bir sorumluluk puanı veya zorunlu gelişim yasası değildir. Eylem değerlendirmesinde karıştırılmaması gereken soruları ayırır:
 
-**Örnek ve sınama:** Elini kaldırmak isteyen kişinin fiziksel hareket aralığı R/C'ye, niyetini gerekçelendirmesi I/P'ye, hareketin ahlaki değerlendirmesi V'ye aittir. Yeni bir araç kullanabilmesi seçenek kümesini genişletebilir; bunun ahlaken doğru seçim sağladığı çıkarılamaz. Karşı-örnek: yanlış bilgi, bağımlılık veya yeni zarar riskiyle kullanılabilir seçeneklerin fiilen azalması.
+| Alan | Sorulacak soru |
+|---|---|
+| Teknik imkân | Eylem hangi araç ve fiziksel koşullarla yapılabilir? |
+| Fiilî erişim | Bu kişi, bu zamanda o eyleme erişebiliyor mu? |
+| Bilgi | Eylemin niteliği ve sonuçları hakkında ne biliyor; neyi öğrenmesi makul olarak beklenebilir? |
+| Kontrol ve bağlam | Eylemi yönlendirebiliyor mu; baskı, engel veya yanıltma var mı? |
+| Niyet ve tercih | Neyi amaçladı, hangi gerekçeyle seçti? |
+| Normatif değerlendirme | Hangi hak, yükümlülük ve sorumluluk ölçütü uygulanıyor? |
+| Gerçekleşen sonuç | Kim, nasıl etkilendi; niyet ile sonuç nerede ayrıldı? |
 
-**Aktarım koşulu:** Jeoloji makalesindeki hazırlık–mekanizma–sonuç ayrımı burada imkân–erişim–tercih–ahlaki sonuç ayrımını incelemek için **yöntemsel benzetme** olarak kullanılır; jeokimyasal süreç ve iradeli seçim aynı nedensel mekanizma değildir. Fıtrat bilgisayar koduna, ruh fiziksel yazılıma indirgenmez.
+**Karşı-model 1:** Kullanılabilir bir vinç vardır, fakat kişi ona erişemiyordur. Teknik imkândan fiilî erişim çıkmaz.
 
-**Denetim açığı:** Belirlenmiş görevlerde araç öncesi/sonrası erişilebilir seçenek sayısı, bilgi kalitesi, tercih gerekçesi ve zarar ölçütleri ayrı kodlanmalı; karşı-örnekler ve bağımsız değerlendirme toplanmalıdır. K0–K6 ve yayın kilidi açıktır.
+**Karşı-model 2:** Araca erişim vardır, fakat kişi gizlenmiş arızayı bilmiyordur. Erişimden tam kusur sonucu çıkmaz. Bununla birlikte bilgi eksikliği her durumda mazeret değildir; makul inceleme yükümlülüğünün ihlal edilip edilmediği ayrıca tartışılır.
 
+**Karşı-model 3:** Kişi bilgili ve teknik olarak yetkindir, fakat zarar vermeyi seçer. Kapasiteden güzel ahlak çıkmaz. Bu sonuç sorumlu fail olma konumunu ortadan kaldırmaz.
 
-## Ek F — İmkân–erişim–seçim–sorumluluk çıkarım testi
+Aynı teknik kapasiteye sahip iki kişiye otomatik olarak aynı sorumluluk yüklenmez. İyi niyet de öngörülebilir zararı değerlendirme gereğini kendiliğinden kaldırmaz. İhmal, kasıt, öngörü ve denetim ayrı gerekçeler ister. Burada belirli bir hukuk sistemi hakkında kusur hükmü verilmez.
 
-**Ayrı katkı:** H04, H01'in ontolojik türeme modelini yeniden ispatlamaz; fıtrî imkânın iradeli ahlaka hangi ek koşullarla bağlanabileceğini sınar. Tanımlar: `I` = fiziksel/teknik imkân; `E` = fiilen erişilebilir seçenek; `B` = seçenek ve sonuç hakkında bilgi; `C` = fiilî kontrol; `N` = niyet; `S` = normatif sorumluluk değerlendirmesi. `I ⇒ E` ve `E ⇒ S` genel geçer değildir.
+### 6.1. Açık normatif öncül ve Hume itirazı
 
-**Karşı-model 1 (erişim):** Bir kişi için teknik olarak kullanılabilir araç vardır, fakat araç kişiye fiilen erişilebilir değildir. Böylece `I` doğruyken `E` yanlış olabilir.
+Bu makalenin benimsediği normatif yönelim şudur: **İnsan imkânlarını hak, adalet, merhamet ve diğer varlıkların yaşam alanını koruma sorumluluğu içinde kullanmalıdır.** Bu öncül kurucu ahlaki yaklaşımın parçasıdır; kuvvet veya hücre ölçümünden çıkarılmış değildir.
 
-**Karşı-model 2 (sorumluluk):** Araç erişilebilir olsa da kişi sonuç hakkında bilgiye veya fiilî kontrole sahip olmayabilir. Bu durumda `E` doğruyken tam sorumluluk otomatik çıkmaz. Bilgi, niyet, öngörülebilirlik ve normatif ölçüt ayrı gerekçelendirilmelidir.
+Hume, *Treatise* III.i.1.27'de betimleyici ifadelerden yükümlülük ifadelerine geçişte yeni ilişkinin açıklanmasını ve gerekçelendirilmesini ister [D2]. H04 bu itirazı, “doğada gerçekleşiyor, dolayısıyla yapılmalıdır” geçişine karşı kullanır. Bu sınırlı yöntemsel kullanım Hume'un bütün ahlak teorisinin kabul edildiği anlamına gelmez.
 
-**Sınanabilir araştırma düzeni:** Önceden belirlenmiş görevlerde erişilebilir seçenekleri ve fiilî kontrolü bağımsız gözlemciler kodlar; sorumluluk hükümleri ise normatif çerçeve ve gerekçe ile ayrı değerlendirilir. Bu düzen deney önerisidir; uygulanmış insan araştırması değildir. Jeoloji'deki önkoşul–mekanizma–sonuç yapısı yalnız yöntemsel benzetmedir.
+Örneğin bir aracın daha çok yük kaldırması ölçülebilir olabilir. Bu aracın başkasına zarar vermek için kullanılmaması gerektiği hükmü ise yukarıdaki normatif öncülle ilişkilidir. Olgusal bilginin doğru olması, kullanımın meşru olduğunu tek başına göstermez.
 
-**Bitirme açığı:** Normatif karşıt literatürün kapsamlı doğrulaması, uzman eleştirisi, K0–K6 ve kurucu onayı tamamlanmadan 'hakemli hazır' statüsü verilmez.
+### 6.2. Alternatif seçenek ve Frankfurt itirazı
 
+Önceki H04'teki erişim ve kontrol ayrımı, “başka türlü yapamayan hiç kimse sorumlu değildir” biçiminde kesinleştirilemez. Frankfurt (1969), alternatif olanakların bulunmamasının sorumluluğu her durumda kaldırdığı ilkeye karşı düşünce örnekleri sunar [D3].
 
-## Ek G — H01–H05 ortak çıkarım sınırı
+Jones–Black örneğinde, kişinin başka yönde karar vermesi durumunda müdahale edecek bir düzenek vardır; fakat kişi eylemi kendi gerekçeleriyle seçtiği için müdahale gerçekleşmez. Frankfurt'un savı, alternatifin engellenmiş olmasının gerçekleşen eylemin sorumluluğunu tek başına kaldırmayabileceğidir. Bu bir düşünce argümanıdır; yapılmış davranış deneyi değildir.
 
-H01'in Yek–Komel ilişkisel tasnifi, H04'teki iradeli sorumluluk ölçütünü kendiliğinden üretmez. H02'de bir iddianın ikinci bilen tarafından onaylanması da bir davranışın ahlaken haklı olduğunu göstermez; H03'te kaynak bağımsızlığının artması normatif öncül ihtiyacını ortadan kaldırmaz. H04'ün önerdiği imkân, erişim, bilgi, kontrol ve niyet ayrımları bu yüzden ayrı gerekçelendirilmelidir.
+H04'ün dar sonucu, seçenek sayısının sorumluluk için tek ölçüt olamayacağıdır. Gerçekleşen eylemin nasıl ortaya çıktığı, bilgi, niyet ve kontrol ilişkisi incelenmelidir. Bu karşılaştırma bütün özgür irade tartışmasını çözmez; koşulsuz bir seçenek–sorumluluk denkleminden kaçınmayı sağlar.
 
-**Sınama örneği:** Bir eylemin teknik olarak mümkün olduğu ve iki değerlendiricinin bu olguyu doğruladığı varsayılsın. Kişinin araca erişimi, baskı altında bulunup bulunmadığı ve sonuçları öngörüp öngöremediği bilinmiyorsa tam sorumluluk sonucu çıkarılamaz. Ampirik onay ile normatif değerlendirme farklı sorulara yanıt verir.
+## 7. Hüküm, ahlak ve geri besleme
 
-**H05 ile sınır:** Akıl veya zekâ görevindeki başarı, kişinin belirli eylemde yeterli bilgiye ve fiilî seçme özgürlüğüne sahip olduğunu tek başına göstermez. **Normatif karşılaştırma:** Hume'un olgudan yükümlülüğe geçiş itirazı (A Treatise of Human Nature, III.i.1), betimleyici imkândan doğrudan sorumluluk çıkarmamayı gerektirir; Frankfurt'un alternatif imkânlara ilişkin karşı-örnekleri (1969, DOI: 10.2307/2023833), alternatiflerin yokluğunun sorumluluğu her durumda otomatik kaldırmadığı yönünde rakip görüştür. Hume'un birincil metnindeki ilgili paragraf (*Treatise*, III.i.1) ve Frankfurt'un 1969 tarihli makalesinin açık tam metni karşılaştırıldı. Hume betimleyici öncüllerden normatif sonuca geçişin gerekçelendirilmesini ister; Frankfurt ise başka türlü yapabilmenin ahlaki sorumluluk için her durumda zorunlu olduğunu reddeder. Bu iki tez birbiriyle özdeş değildir: H04'ün erişim ve kontrol ölçütleri Frankfurt karşı-örneğini otomatik çözmez. Metinler: https://davidhume.org/texts/t/3/1/full ve https://personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/Frankfurt1969.pdf . Kapsamlı normatif literatür taraması ve bağımsız hakemlik yine açık kalır. Bu ek kurucu tasnifi değiştirmeyen bir tutarlılık denetimidir; yeni deney, bağımsız hakemlik veya K0–K6 tamamlanması değildir.
+Core 04'ün “her ahlak bir hükme varır; her hüküm bir ahlak doğurur” anlatımı farklı hüküm anlamlarını içerir. Sonraki uzlaştırma kaydı bunları ayırır [K5–K6]:
+
+**Normatif yönelim**, eylemin nasıl olması gerektiğine ilişkin ölçüdür. **İnsanın kararı**, belirli bağlamda ne yapacağını belirlemesidir. **Uygulama değerlendirmesi**, kararın sonuçlarının ve gerekçelerinin yeniden incelenmesidir. **Nihai hüküm/ahiret**, kurucu teolojik hesap ve karşılık düzenidir.
+
+İnsan araştırması için açıklayıcı ilişki şöyledir: normatif yönelim, bilgi ve niyet eylemi yönlendirir; eylemin sonuçları uygulama kararının veya yorumun yeniden değerlendirilmesine veri sağlar. Geri besleme, insan davranışının ilahî hükmün kaynağını yarattığı anlamına gelmez. H02 §6'daki ayrım burada eylem koşullarına uygulanır.
+
+Altıncı boyutta hesap/hüküm ve hükmün sonucu ayrımı kaynaklı teolojik sınıflamadır. İnsanın sorumluluğu, kendi yaratmadığı sınırların mutlak sahibi olmasıyla değil, bu sınırlar içinde bilgi, niyet ve tercihle yönlendirebildiği eylemleriyle ilişkilidir. Ehad bu yaratılmış düzenin bir bileşeni değil hüküm sahibidir [K2, K4].
+
+### 7.1. Eski güçlü çıkarımların sınırı
+
+Hebûname'nin ahlak yazısındaki “düzen iyilik değildir” ayrımı yararlıdır. Fakat özverinin bulunması, biyolojik açıklamaların tümünün yetersizliğini tek başına ispatlamaz. Benzer biçimde hüküm yazısında adalet talebinden nihai hükmün varlığına geçiş ek metafizik öncül gerektirir; bir talebin bulunması onun nesnesinin varlığını mantıken garanti etmez [K6].
+
+Nihai adalet ve ahiret kurucu inançta korunur. Bunlar özveri veya cezasızlık örneğinden elde edilmiş deneysel sonuç diye sunulmaz. “Nihai hüküm inancı yoksa bütün toplumlar çöker” savı da burada kanıtlanmış evrensel tarih yasası değildir.
+
+Eski bildirgedeki ahlaki düşüşün insanın özne olmaktan çıkması veya kara deliğe dönüşmesi gibi anlatımları fiziksel/ontolojik olay diye benimsenmez. Ahlaki değer kaybı, insanın biyolojik türünü, ruhunu veya Yek kimliğini otomatik olarak ortadan kaldırmaz. Daha sonraki ruh–fıtrat kaydı bu ayrımı açıkça korur [K6]. Böylece sorumluluk taşıyan insan ile yalnız güzel davranışta bulunan insan aynı sınıf yapılmaz.
+
+## 8. Kaynaklı uygulama: tek bir eylemin bütün ilişkileri
+
+Aşağıdaki örnek kurgusaldır; saha çalışması değildir. Bir kişi, başka bir kişinin geçişini engelleyen yükü kaldırmak istemektedir. Çıplak elle görev yapılamazken uygun bir kaldırma düzeneği görev için yeterli olabilir.
+
+Fiziksel değerlendirme yük, kuvvet, denge ve aracın koşullarını inceler. Fiilî erişim değerlendirmesi aracın orada ve kullanılabilir olup olmadığını araştırır. Bilgi değerlendirmesi kişinin sınırları ve olası sonuçları ne ölçüde bildiğini ele alır. İradeli değerlendirme amacı, tercih gerekçesini, kontrolü ve etkilenecek kişileri sorar.
+
+İki kişi aynı düzeneğe erişse de aynı durumda değildir: biri güvenli kullanım bilgisine sahip olabilir, öteki olmayabilir. Bilgili kişinin arızayı gizlemesi ile öğrenme imkânı olmayan kişinin gizli arızayı fark etmemesi aynı gerekçe yapısını taşımaz. Ayrıca hareketin gerçekleşmesi ile amaçlanan yardımın gerçekleşmesi farklıdır.
+
+**Savunulan dar sonuç:** Araç teknik imkânı değiştirebilir; bu değişikliğin belirli bir kişide sorumluluk bakımından ne ifade ettiği erişim, bilgi, niyet, kontrol ve açık normatif ölçütle gerekçelendirilir. Hiçbir tek gösterge bütün değerlendirmeyi temsil etmez.
+
+Bu kayıt H03'ün kaynak–sav–çıkarım–kapsam yöntemine uygundur. Doğruluk, fayda ve ahlaki kullanım ayrı tutulur. Doğru hesap zararlı amaçta kullanılabilir; kısa vadeli fayda bütün etkileri göstermez; bugün uygulaması bilinmeyen temel bilgi de sırf bu nedenle sözde bilim sayılmaz.
+
+## 9. İtirazlar, sınama ve sonraki kullanım
+
+**“Fıtrî ahlak” gereksiz anlam genişlemesi mi?** Terim, kurucu sistemde düzenin tezahürünü adlandırır. İnsanî övgü ve kusurla karıştırılırsa açıklama zayıflar. Bu metin iki anlamı ayrı tutarak kullanır; terimin bütün disiplinlerce aynı anlamda benimsendiğini ileri sürmez.
+
+**Kapsama tezi yeni açıklama getiriyor mu?** Ontolojik ilişki kurmak kendi başına biyolojik veya tarihsel mekanizma açıklaması değildir. Belirli bir uygulama ek açıklayıcı gerekçe veya ayırt edici sonuç sağlayamıyorsa o uygulamanın gücü sınırlı kalır. H01'in araştırma yükü H04'te çözülmüş sayılmaz.
+
+**Araç mutlaka özgürleştirir mi?** Hayır. Görev için fiziksel imkân artarken erişim, bilgi veya kontrol azalabilir. İlgili karşılaştırma kişi, görev ve zaman aralığı belirtilerek yapılmalıdır.
+
+Ampirik alt çalışma tasarlanırsa aynı görevde araç öncesi/sonrası yapılabilir eylemler, gerçekleşen erişim ve kontrol kaydedilir; bilgi ve tercih gerekçeleri ayrıca incelenir. Başarı yalnız seçenek sayısıyla ölçülmez; kaybolan seçenekler ve yeni bağımlılıklar da kayda girer. Normatif sorumluluk yargıları hangi ölçüte dayandıklarıyla raporlanır. Bu çalışma böyle bir deney yapmış değildir.
+
+H05, öğrenme ve problem çözme ile ilimden ilim üretmenin ayrımını devralır. Varlık Tarihi ve İnsan Tarihi ise evre, açıklama düzeyi ve kronolojiyi ayrı kullanır. İradeli ahlak çağını son buzul çağı sonrasıyla ilişkilendiren kurucu tarihsel tez, Homo sapiens'in biyolojik başlangıcıyla eşitlenmez; bu tarihsel sav H04'ün sonucunu taşıyan ampirik öncül değildir.
+
+## 10. Sonuç
+
+6+Tek modeli, altı kozmik alanı kendi evreleriyle ayırır; Yek'i yedinci yaratılmış boyut yapmaz. Boyut, varlık katmanı, evre ve tarihsel sıra farklı sorulardır. Ontolojik kapsama insanın biyolojik kuruluşunu kaldırmaz.
+
+Fıtrat kuruluş imkânlarını, fıtrî ahlak bunların işleyişini, iradeli ahlak bütünleşik insanın bilgi, niyet ve tercihle eylemini yönlendirmesini ifade eder. Araç bu imkânlardan yararlanmayı değiştirebilir. Ancak teknik imkân erişime, erişim tam sorumluluğa veya gelişmiş kapasite güzel ahlaka kendiliğinden dönüşmez.
+
+Hüküm eyleme yön veren ölçü, insanın kararı, uygulama incelemesi ve nihai hesap anlamlarında ayrılır. Sonuçların gözden geçirilmesi yorum ve uygulamayı düzeltebilir; nihai ilahî kaynağı insan eyleminin ürünü yapmaz. H04'ün katkısı, bu geçişlerin ek öncüllerini ve sınırlarını görünür kılan kavramsal sentezdir.
+
+## Kaynaklar ve sürüm izi
+
+### Kurucu ve korpus kaynakları
+
+**[K1]** [İki özgün metnin paragraf envanteri](../01-kanonik-denetim/H01-H05-IKI-OZGUN-KAYNAK-PARAGRAF-KAPSAMA-VE-IDDIA-ENVANTERI-2026-10-22.md), özellikle A13–A17, A20–A21, A24–A34; [AHLAK-01 kaynak izi](AHLAK-01-FITRI-VE-IRADELI-AHLAK-KAYNAK-DENETIMLI.md), özgün etik metni §§58–83 ve 85–135. A/B P numaraları okuyucunun boş olmayan satırları; etik § numaraları ilgili önceki kaydın 0 tabanlı sırasıdır. Bunlar aynı numaralandırma sistemi değildir.
+
+**[K2]** [TEORILER, kurucu kanonik ontoloji, 16 Ekim 2026](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md), “Kurucu onaylı nihai tablo”; blob `312510036f6c6516468296019b9dff2e489e74a8`. Altıncı boyut evreleri bu kaynaktan devralındı.
+
+**[K3]** [Güncel Ehad–Yek kurucu kanonu](../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md), özellikle VII–VIII; [fıtrat–ahlak kilometre taşı](../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md); bütünleşik insan açıklaması için [AGENTS](../AGENTS.md), 23–24 Ekim kurucu kayıtları.
+
+**[K4]** [Fıtrî/iradeli ahlak ve hükmün ahlaki muhatabı](../01-kanonik-denetim/FITRI-IRADELI-AHLAK-HUKMUN-AHLAKI-MUHATAPLIK-2026-10-22.md); [araç ve fıtrî imkân araştırması](NK-ZS-BILIM-FELSEFESI-ARAC-FITRI-IMKAN-IRADELI-AHLAK-v01.md). Aynı araştırma çekirdeği bağımsız yeni yayın sayılmadı.
+
+**[K5]** [Core 04 — Etik ve Ahlak](https://github.com/veysieken000-ctrl/zanistarast-ai-native-model/blob/2f9cf84dc04033c6bd40ad7359d682a21d19abc0/core-04.html), blob `d20794b598d7fee789d998924d026d8b1379bb48`. “İnsan Eylemlerinde Özgür müdür?”, “Ahlaki Eylemin Amacı” ve hüküm–ahlak pasajları. Eski biyoloji evreleri ve aklın beşinci boyutla özdeşleştirilmesi güncel tanım yapılmadı.
+
+**[K6]** Aşağıdaki kaynaklar 24 Ekim'de içerikleriyle karşılaştırıldı; eski evre numaraları güncel kanonla birlikte yorumlandı:
+- [Hebûname, Ahlak Boyutu](https://github.com/veysieken000-ctrl/hebun-zanabun/blob/3297457ec00995740f9e2c226b3713edd43266ae/hebun/HEBUNAME-SER%C4%B0S%C4%B0/05_Ahlak_Boyutu.md), blob `efbb182246ca56ccd1147e635c6b03f841a029e8`.
+- [Hebûname, Hüküm Boyutu](https://github.com/veysieken000-ctrl/hebun-zanabun/blob/3297457ec00995740f9e2c226b3713edd43266ae/hebun/HEBUNAME-SER%C4%B0S%C4%B0/06_H%C3%BCk%C3%BCm_Boyutu.md), blob `bf997792362df16b88e9aaf0ffb5cec344ad8335`.
+- [Hüküm–Ahlak uzlaştırması](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/73218d1558acf1d827359c5a0a5b5ae8062e86ef/docs/architecture/CANONICAL_AHLAK_HUKUM_CORPUS_CORE_2026-09-17.md), §§2–8, 13, 17–19. Geri besleme ve kapasite/ahlak ayrımı devralındı; eski 4B eşik anlatımı güncel kozmik evre tablosunun yerine geçirilmedi.
+- [Ruh–melek, fıtrat–akıl–ahlak kaynak kaydı](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/73218d1558acf1d827359c5a0a5b5ae8062e86ef/docs/architecture/CANONICAL_FITRAT_REASON_MORAL_DIMENSION_SOURCE_LOCK_2026-09-17.md), özellikle §§2–8. Sonraki fıtrat/fıtrî ahlak ayrımı önceliklidir; dinî atıf temaları burada yeniden birincil metin doğrulaması sayılmadı.
+- [Tarihsel Varlık–Ahlak bildirgesi](https://github.com/veysieken000-ctrl/hebun-zanabun/blob/3297457ec00995740f9e2c226b3713edd43266ae/makaleler/09_h%C3%BCk%C3%BCm_bir_ahlak/temel_metin.md), §§3–7. Varlık alanı ve muhabbet sorusu korundu; ahlaki düşüşten kimlik kaybı veya fiziksel kara delik çıkarılmadı.
+
+**[K7]** [H01 Hebûn](NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md), §§4–9; [H02 Zanabûn](NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md), §6, commit `350ccc54af162c22ccfe5496bba2a2265caaa588`; [H03 Rasterast](NK-ZS-H03-A14-TR-v02-RASTERAST-BIRIKIMLI-KANIT-DENETIMI.md), §§3–9, commit `6f4325ff207f4c97ccd4729fba12e9bb8406e59c`; [H05 akıl/bilgi](NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md), §§1, 5A–5F. [11 deponun önceki kaynak haritası](../01-kanonik-denetim/H02-DEPOLAR-ARASI-KAYNAK-VE-CIKARIM-HARITASI-2026-10-24.md) yeniden tarama yerine devralındı.
+
+### Dış karşılaştırma kaynakları
+
+**[D1]** OpenStax. *College Physics 2e*, §9.5, Simple Machines, denklemler 9.29–9.32 ve kürek örneği. https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines . 24 Ekim'de okunabilir metin incelendi. §7.7 güç tanımı önceki H04/H05 kaydından devralındı: https://openstax.org/books/college-physics-2e/pages/7-7-power .
+
+**[D2]** Hume, D. (1739–1740). *A Treatise of Human Nature*, III.i.1.27, SBN 469–470. https://davidhume.org/texts/t/3/1/full . Kullanım: betimleyici öncül ile normatif sonucun ayrımı; ilgili paragraf 24 Ekim'de yeniden incelendi.
+
+**[D3]** Frankfurt, H. G. (1969). Alternate Possibilities and Moral Responsibility. *The Journal of Philosophy, 66*(23), 829–839. https://doi.org/10.2307/2023833 . Açık kopya: https://personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/Frankfurt1969.pdf . Önceki H04 incelemesi devralındı; bu tur PDF s.835–836 görüntülerindeki Jones–Black örneği ve müdahalenin gerçekleşmediği durum yeniden okundu. Tam metin katmanı yalnız kapak metnini döndürdüğünden bu tur bütün PDF yeniden okunmuş sayılmadı.
+
+**Devralınan bilimsel tanım:** NHGRI, *Cell*: https://www.genome.gov/genetics-glossary/Cell . Hücresel kuruluşun önceki kaynak denetimi H01/H04 kaydından kullanıldı; ontolojik boyut sayısının kanıtı sayılmadı.
+
+### Tarihsel sürüm
+
+Önceki H04 v03 ana metni ve ekleri [403dfe4 sürümünde](https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/blob/403dfe4376f692f78c1a0bba370d917779517e8c/02-cekirdek-makaleler/NK-ZS-H04-A02-TR-v03-FITRI-IMKAN-ARAC-IRADELI-AHLAK.md) korunur. Yinelenen tanım ve ekler burada tek argümana birleştirildi. Eski bölüm göndermeleri o sürüme aittir. İç kaynak–mantık–bölüm bütünlüğü çalışması ile bağımsız inceleme ve yayın kararı ayrı tutulur.
