@@ -155,6 +155,19 @@ Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareket
 
 **Denetim sınırı:** Özgün Word'lerin bütün metin kapsamı envantere bağlandı; bu, her atomik önermenin dış kaynaklarla doğrulanması değildir. Bu sürümde kullanılan nükleer süreç, atom numarası, element tanımı, hücre çekirdeği ve seçilmiş hücresel örgütlenme örneklerinin kaynak yerleri belirtilmiştir. Her boyut için tam bir tarihsel türeme modeli veya yeni bir doğa yasası ispatlanmış değildir. Bağımsız alan değerlendirmesi ve 412 makale yayın kapısı açıktır.
 
+## H01 iç bütünlük denetimi — açık kalan işler (24 Ekim 2026)
+
+- [x] Ehad–Yek kurucu kabulü, ilk/ikinci Yek ve Komel tanımları kaynakla karşılaştırıldı.
+- [x] İlk Bilen Ehad, ontolojik ikinci bilen ve epistemolojik ikinci bilen ayrımı ana metin ile Ek D'ye aktarıldı.
+- [x] Hebûn'un ontolojik temeli ile Zanabûn'un ilk kuruluş/devam sorularına verdiği kurucu cevap öz, giriş, argüman ve sonuçta tutarlılaştırıldı.
+- [x] Kanon VII–VIII'deki ontolojik kapsama, tarihsel sınır ve ast–üst/merkez–çevre ayrımı 10D'de kaynakla işlendi.
+- [ ] Özgün iki Word metninin her kurucu önerme için paragraf düzeyinde karşılaştırmasının eksiksiz denetimi.
+- [ ] Dış kaynakçadaki bütün eserlerin metin içi iddialarla birebir eşleştirilmesi ve tam metin erişim denetimi.
+- [ ] Fizik, biyoloji, zihin, ruh, ahlak ve hüküm alanlarının tüm iddiaları için K0–K6 ve bağımsız Rasterast son kontrolü.
+- [ ] Akademik makalenin son bütünlük kararı ve yayın statüsünün kaynaklı kaydı.
+
+**Karar:** H01'in kaynak sadakati ve iç tutarlılığında ilerleme vardır; yukarıdaki açık işler tamamlanmadan sabit yol haritasındaki 04. madde bitmiş sayılmaz.
+
 ## Ek A — Kurucu açıklama: ortak öz ve iki kapsama ilişkisi (22 Ekim 2026)
 Kurucunun güncel ontolojik tasavvurunda insan ile hayvanın özü aynı temel ontolojik niteliğe sahiptir. Ayrım, özün varlıkla ilişki kurma kapsamı ve insanda iradeli ahlakla bağlantılı sorumluluk alanıdır. Atom ve yıldız örneği bu kapsam farkını açıklayan bir benzetmedir; fiziksel eşitlik iddiası değildir.
 
