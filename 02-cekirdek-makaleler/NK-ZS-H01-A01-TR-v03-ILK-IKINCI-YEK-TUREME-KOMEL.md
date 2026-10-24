@@ -603,7 +603,7 @@ Bu ilk sıralı döküm, *Varlık Sistemi ve Boyutları* dosyasının P1–61 ar
 | P60 | Yaratılmayı temel alma koşulu | A; yöntem ve §10B: kurucu öncül açık gösterilir. |
 | P61 | Üst sistemin alttan oluşması; ikinci boyutun maddi taşıyıcısı; ortak düzlemde bilinebilirlik; biyolojik zamanla çöküşün önlenmesi | A/D/R; §§5B, 10D–10E; taşıyıcı koşul, ontolojik kapsama ve kozmik nedensellik özdeş değildir. |
 
-**Bu grubun sonucu:** P1–61 için paragraf atlama olmadan ilk içerik–işlem eşlemesi yapıldı; birden fazla sav içeren paragraflar satır içinde ayrıldı. Bu, fizik iddialarının doğrulandığı veya nihai atomik önerme denetiminin kapandığı anlamına gelmez. D/R satırlarının alan kaynakları ve kapsamı H01-03/04 altında açık kalır. Varlık P62–195 ve Akıl P1–177 için aynı sıralı döküm henüz tamamlanmadı; önceki seçilmiş eşlemeler bunların yerine geçmez. H01-01 ve 04. madde açık kalır.
+**Bu grubun sonucu:** P1–61 için paragraf atlama olmadan ilk içerik–işlem eşlemesi yapıldı; birden fazla sav içeren paragraflar satır içinde ayrıldı. Bu, fizik iddialarının doğrulandığı veya nihai atomik önerme denetiminin kapandığı anlamına gelmez. D/R satırlarının alan kaynakları ve kapsamı H01-03/04 altında açık kalır. Bu grubun hazırlanmasından sonra Varlık P62–195 Ek H–I'de, Akıl P1–177 Ek J–L'de ilk sıralı döküme bağlandı. Güncel toplam kapsam Ek L'nin kapanış kaydıdır. H01-01 ve 04. madde açık kalır.
 
 ## Ek H — H01-01 kaynak aktarım dökümü: Varlık P62–118
 
@@ -669,7 +669,7 @@ Ek G'deki kaynak, numaralandırma ve A/D/R/B durumları geçerlidir. Her paragra
 | P117 | Kanunu hüküm/düzlem/üst bilgi olarak tanımlama; alt sistem ve iki bilgi koşulu | A/R; §10E; farklı tanım işlevleri korunur. |
 | P118 | Kendiliğinden var/yok olmama; kanun koyucu; üst sistemler; melek ve hükümle devamlılık | A/R; §§4D, 8A, 10E; metafizik kabul fiziksel korunma yasası diye sunulmaz. |
 
-**Sonuç:** Varlık P62–118 için ilk içerik–işlem eşlemesi yapıldı. Ek G ile sıralı kapsam P1–118'e ulaştı. 118/195 bir bilimsel doğrulama yüzdesi değildir. Varlık P119–195 ve Akıl P1–177 henüz sıralı döküme bağlanmadı; D/R kayıtlarının dış kaynak ve bağımsız denetimleri açık. H01-01 ve yol haritasının 04. maddesi kapanmadı.
+**Sonuç:** Varlık P62–118 için ilk içerik–işlem eşlemesi yapıldı. Ek G ile sıralı kapsam P1–118'e ulaştı. 118/195 bir bilimsel doğrulama yüzdesi değildir. Sonraki Ek I, Varlık P119–195'i; Ek J–L, Akıl P1–177'yi ilk sıralı döküme bağlar. D/R kayıtlarının dış kaynak ve bağımsız denetimleri açıktır. H01-01 ve yol haritasının 04. maddesi kapanmadı.
 
 ## Ek I — H01-01 kaynak aktarım dökümü: Varlık P119–195
 
@@ -755,7 +755,7 @@ Kaynak ve A/D/R/B durumları Ek G ile aynıdır. Bu tablo kalan 77 paragrafı s�
 | P194 | İnsan/ahlak tezinin toplum ve psikolojiyi tümüyle değiştirme beklentisi | D/R; §11; etki araştırması yapılmadı. |
 | P195 | Sorunsalları çözme ve felsefeye yeni evre açma hedefi | A/R; §11 ve yöntem; hedef, doğrulanmış başarı değil. |
 
-**Sınırlı tamamlanma:** Varlık P1–195'in ilk içerik–işlem eşlemesi Ek G–I ile tamamlandı. Bu, 195 paragrafın bütün savlarının doğru olduğu, tüm atomik önermelerin dış kaynaklarla doğrulandığı veya H01-01'in kapandığı anlamına gelmez. Akıl P1–177'nin sıralı dökümü ile D/R kayıtlarının denetimi açık kalır. İlerleme bir doğruluk yüzdesi olarak raporlanmaz.
+**Sınırlı tamamlanma:** Varlık P1–195'in ilk içerik–işlem eşlemesi Ek G–I ile tamamlandı. Bu, 195 paragrafın bütün savlarının doğru olduğu, tüm atomik önermelerin dış kaynaklarla doğrulandığı veya H01-01'in kapandığı anlamına gelmez. Akıl P1–177'nin ilk sıralı dökümü sonraki Ek J–L'de tamamlanmıştır; iki metnin D/R kayıtlarının ayrıntılı denetimi açık kalır. İlerleme bir doğruluk yüzdesi olarak raporlanmaz.
 
 ## Ek J — H01-01 kaynak aktarım dökümü: Akıl P1–64
 
@@ -828,7 +828,7 @@ Kaynak: *Akıl ve Bilginin Kaynağı*, Drive kimliği `1MOKZhk0VslI4aWwOtcDDsLb4
 | P63 | Ortak doğrusal; öznede ürün; yaratıcı/insan/ahiret; metafor ve yargı | A/R; §9A; metnin metafor nitelemesi korunur; yaratıcı yaratılmış boyuta dahil edilmez. |
 | P64 | Uyumlu bilgi; alfabe/rakam; tekil yapay bilgi; kara delik/yosun/etçil/şeytan/cehennem; hak/lütuf; ikinci birin Tek'e bağı | A/D/R; §§8C, 9A, 10F; doğa olgusu normatif kötülükle özdeş değil; metafor gözlemsel ispat yapılmaz. |
 
-**Sınır:** Akıl P1–64 ilk içerik–işlem eşlemesine bağlandı. P65–177 sırayla eşlenmedi; önceki seçilmiş atıflar bu eksiği kapatmaz. D/R kayıtları, dış kaynak karşılaştırması ve bağımsız Rasterast açıktır. Ek G–I ile Varlık metninin ilk eşlemesi tamamlanmış olsa da H01-01 ve 04. madde tamamlanmadı.
+**Sınır:** Akıl P1–64 ilk içerik–işlem eşlemesine bağlandı. P65–177'nin ilk sıralı eşlemesi sonraki Ek K–L'dedir. D/R kayıtları, dış kaynak karşılaştırması ve bağımsız Rasterast açıktır. Ek G–I ile Varlık metninin ilk eşlemesi tamamlanmış olsa da H01-01 ve 04. madde tamamlanmadı.
 
 ## Ek K — H01-01 kaynak aktarım dökümü: Akıl P65–133
 
@@ -906,7 +906,7 @@ Kaynak, paragraf yöntemi ve A/D/R/B durumları Ek J ve Ek G ile aynıdır. Aşa
 | P132 | İğrenme dairesi; doğal/yapay düzene aykırılık | A/R; §10G; biyolojik/psikolojik ölçüt açık. |
 | P133 | Son duyular katmanı; beden/boyut/öz iletişimi; zihinsel/biyolojik/fiziksel duyum | A/R; §10G; duygu ile duyu ayrılır. |
 
-**Sınır:** Akıl P1–133 için ilk içerik–işlem eşlemesi Ek J–K'de vardır. P134–177 sırayla eşlenmedi. Varlık P1–195'in ilk eşlemesi tamamlandı; iki metnin bütün D/R savlarının dış kaynak, kavram uzlaştırması ve bağımsız kontrolü tamamlanmadı. H01-01 ve 04. madde açık kalır.
+**Sınır:** Akıl P1–133 için ilk içerik–işlem eşlemesi Ek J–K'de vardır. P134–177'nin ilk sıralı eşlemesi sonraki Ek L'dedir. Varlık P1–195'in ilk eşlemesi tamamlandı; iki metnin bütün D/R savlarının dış kaynak, kavram uzlaştırması ve bağımsız kontrolü tamamlanmadı. H01-01 ve 04. madde açık kalır.
 
 ## Ek L — H01-01 kaynak aktarım dökümü: Akıl P134–177
 
@@ -958,5 +958,21 @@ Kaynak ve durum anahtarı Ek J/G ile aynıdır. Kalan 44 paragrafın ilk içerik
 | P175 | İnsan/evren/tüm varlık başlangıcı; ilahın kendine doğruluğu yazması; ilk bilgi/kurallar | A/R; §§1, 10B; teolojik başlangıç, bilimsel tarihleme değil. |
 | P176 | İslam seçimi ayet ifadesi; insan ahlakı/kanun; güzel ahlak; sevgiyle bilme | A/R; §9B; Mâide 5:3 kontrolü ile ek savlar ayrı. |
 | P177 | İlahi merhamet/kudret; madde/canlı/zihin/ruh/ahlak/duygu/akıl; görünürlük; zaman/mekân; duygusal bilgi kaynağı ve akıl merkezi | A/R; §§8B, 10E–10H; bütünleşik insan korunur; döngüsel tanımlar bağımsız kanıt sayılmaz. |
+
+### Ek G–L için güncel kapsam ve aşama ayrımı
+
+| Kaynak | İlk sıralı döküm | Kapsanan P aralığı | Boş olmayan satır/paragraf |
+|---|---|---|---|
+| Varlık | Ek G | P1–61 | 61 |
+| Varlık | Ek H | P62–118 | 57 |
+| Varlık | Ek I | P119–195 | 77 |
+| Akıl | Ek J | P1–64 | 64 |
+| Akıl | Ek K | P65–133 | 69 |
+| Akıl | Ek L | P134–177 | 44 |
+| Toplam | Ek G–L | İki kaynakta ayrı P dizileri | 372 |
+
+**24 Ekim bütünlük kontrolü:** Tablo satırlarındaki P aralıkları açılarak her kaynak kendi dizisi içinde denetlendi; Varlık P1–195 ve Akıl P1–177 için ilk dökümde numara boşluğu veya yinelenen paragraf numarası bulunmadı. Ek G'deki P1–5 ve P10–23 toplu başlık/künye kayıtları aralık olarak sayıldı. Bu, kaynak metinle her sözcüğün yeniden karşılaştırılması veya her savın doğrulanması değildir.
+
+Ek G–K'nin kapanışları güncel kapsamı Ek L'ye yönlendirir. İlk sıralı eşleme tamamlanmıştır; çok savlı paragrafların atomik denetimi, D/R araştırması, hedef makalelere gerçek aktarım ve bağımsız inceleme ayrı açık işlerdir. Bir ekin yerel kapsamı, bütün makalenin tamamlanma durumu olarak okunmaz.
 
 **İlk eşleme kararı:** Varlık P1–195 ve Akıl P1–177, toplam 372 boş olmayan satır/paragraf için sıralı ilk içerik–işlem dökümü Ek G–L'de tamamlandı. Bu sayı başlıkları da içerir; atomik önerme sayısı veya doğruluk puanı değildir. Tarihsel savlar aktarım yeri ya da açık D/R araştırma kaydı olmadan bırakılmadı. H01-01'in nihai kapanışı için çok savlı satırların atomik ayrıntı ve hedef aktarım kontrolü, H01-02/03/04/05 ile bağlantılı kaynak işleri açıktır. K0 ve 04. madde tamamlanmış sayılmaz.
