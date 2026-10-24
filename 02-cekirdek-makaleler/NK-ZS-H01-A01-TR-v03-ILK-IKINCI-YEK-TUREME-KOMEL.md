@@ -284,6 +284,14 @@ Kurucu kanon VII uyarınca biyolojinin zihin kapsamında, zihnin ruh kapsamında
 
 Bu tablodaki çıkarım eleştirileri akademik çözümlemedir. Kurucu savlar tarihsel içerikleriyle korunur; yeni tanım veya bilimsel ispat eklenmez. P numaraları aynı iki Drive kaynağının 24 Ekim düz metin sırasıdır (§4C). Kanun, ontolojik bilgi, epistemolojik bilgi, zaman ve geometrik temsil ayrı kavramlar olarak H02/H04'e aktarılmalıdır; aktarımın yapılmış olduğu burada iddia edilmez.
 
+### 10F. Ortak doğa, tutarlılık ve bilgi onayının farklı yükleri
+
+Akıl P3–6 ve P20–21 ortak doğa/düzlem ile bilinebilirliği ilişkilendirir; P5 epistemolojik ikinci öznenin onayını açıkça belirtir. Bu kaynak dizisi, ontolojik taşıyıcı koşul, bir iddianın tutarlılığı ve sonucun bağımsız onayını aynı işlem saymayı gerektirmez. Aynı türden veya aynı maddi dünyadan olan iki bilen aynı hatayı paylaşabilir; tutarlı bir anlatı da dış olguyla uyuşmayabilir. Bunlar mantıksal karşı-örneklerdir; yeni deney sonucu değildir. Bu nedenle ortak köken veya sınıflandırma, tek başına bütün tepkilerin aynılığını ya da mutlak doğru bilgiye erişildiğini göstermez.
+
+Akıl P17'nin sonunda **tek ve yek** sözcükleri vardır. Bu erken sözcük izi korunur; güncel Ehad–Yek–Komel kanonunun bütün tanımlarının aynı paragrafta mevcut olduğu söylenmez. Aynı şekilde P56'daki üçüncü şey ve boyut numaraları, P5'teki sonucu onaylayan ikinci öznenin basit eşanlamlısı değildir. Sayısal örüntü, ontolojik sıra ve epistemik rol ayrı gösterilmelidir.
+
+Akıl P4'ün masal bilgisi, P6'nın fayda/zarar ve P57–60'ın iyi/temiz akılla öğrenme anlatımları kurucunun normatif bilgi yönelimini gösterir. Hayal edilebilirlik, yararlılık, ahlaki yönelim, öğrenme kapasitesi ve olgusal doğruluk ayrı değerlendirme ölçütleridir. Bir iddianın yararının henüz bilinmemesi onun yanlışlığını; bir iddianın yararlı olması da doğruluğunu tek başına kanıtlamaz. Ayrıntılı epistemik gerekçelendirme H02'ye, biliş/duygu karşılaştırması H05'e ait açık görevlerdir. Bu yönlendirme dosyaların güncellendiği anlamına gelmez. Kaynak izleri Ek J'dedir.
+
 ## 11. Sonuç
 
 Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareketle ilk tekillik, ikinci tekillik, yeni tekillikler ve Komel'in kuruluş düzenidir. İlk kuruluşun ve düzenli devamın nasıl açıklandığına ilişkin kurucu cevap Zanabûn'a aittir; Zanabûn bu ontolojik temele dayanır. Nisâ 4:1 insan örneği bu mantığın teolojik yorum dayanağıdır. Fizik, biyoloji, zihin ve diğer boyutlar **aynı kurucu soruyu**, farklı mekanizma ve kanıt türleriyle ele alır. Makalenin katkısı, tekillik ve örgütlü bütün sorusunu ortak bir ontolojik dilde kurarken alanların kanıt yüklerini ayırmasıdır. Hidrojen-1 ve hücresel örgütlenme karşılaştırmaları, kurucu şemanın belirli bilimsel uygulamalarını sınırlar; bütün boyutlarda tek bir doğa kanunu kanıtlanmış değildir. Fıtratın kuruluş düzeni ile fıtrî ahlakın bu düzenin tezahürü olarak ayrılması, insan ve hayvanın ortak özünü korurken insana özgü iradeli sorumluluğun açıklanmasına katkı sağlar.
@@ -366,7 +374,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 
 | Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
 |---|---|---|
-| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–195 için ilk içerik–işlem eşlemesi Ek G–I'de yapıldı; Akıl P1–177 ve D/R kayıtlarının ayrıntılı denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
+| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–195 için ilk içerik–işlem eşlemesi Ek G–I'de yapıldı; Akıl P1–64 için ilk eşleme Ek J'de yapıldı; Akıl P65–177 ve D/R kayıtlarının ayrıntılı denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
@@ -632,3 +640,76 @@ Kaynak ve A/D/R/B durumları Ek G ile aynıdır. Bu tablo kalan 77 paragrafı s�
 | P195 | Sorunsalları çözme ve felsefeye yeni evre açma hedefi | A/R; §11 ve yöntem; hedef, doğrulanmış başarı değil. |
 
 **Sınırlı tamamlanma:** Varlık P1–195'in ilk içerik–işlem eşlemesi Ek G–I ile tamamlandı. Bu, 195 paragrafın bütün savlarının doğru olduğu, tüm atomik önermelerin dış kaynaklarla doğrulandığı veya H01-01'in kapandığı anlamına gelmez. Akıl P1–177'nin sıralı dökümü ile D/R kayıtlarının denetimi açık kalır. İlerleme bir doğruluk yüzdesi olarak raporlanmaz.
+
+## Ek J — H01-01 kaynak aktarım dökümü: Akıl P1–64
+
+Kaynak: *Akıl ve Bilginin Kaynağı*, Drive kimliği `1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM`. P numaraları 24 Ekim 2026 düz metnindeki boş olmayan satır sırasıdır; Word sayfası değildir. A/D/R/B durumları Ek G ile aynıdır. A aktarımın yerini, D bilimsel dayanak dışında tutmayı, R açık araştırmayı, B başlık/etiketi belirtir.
+
+| Paragraf | Ayrılan savlar / içerik | İşlem ve iz |
+|---|---|---|
+| P1 | Metin başlığı | B |
+| P2 | Özet etiketi | B |
+| P3 | Yönelim–ürün bilgi tanımı; ortak doğrusal; atom/bitki örneği | A/R; §§10–10E; maddi ortaklık epistemik doğruluk garantisi değil. |
+| P4 | Öznenin doğasıyla bilme; doğasında olmayanın masal/yok sayılması | A/R; §10F; bilinebilirlik ve değer yargısı ayrılır; H02 hedefi. |
+| P5 | İkinci özne onayı; nesnellikten mutlak/genel bilgi | A/R; §10 ve kaynak tablosu; onay yanılmazlık ispatı değil. |
+| P6 | Türdeş hayvanların aynı tepki vermesi; sınıflamayla mutlak bilgi; doğaya uyumsuzun zararlı oluşu | D/R; §10F; evrensel davranış, doğruluk ve fayda savları ayrı. |
+| P7 | Toplumsal sorunlara hızlı/güvenilir çözüm beklentisi | R; yöntem; gerçekleşmiş etki değil. |
+| P8 | Giriş etiketi | B |
+| P9 | Aklın nasıl bildiği ve kaynağını araştırma amacı | A; §1; ayrıntılı epistemoloji H02 hedefi. |
+| P10 | Somuttan soyuta sorgulama; insan konumu ve anlam/bilgi kaynağı | A/R; §§1, 10; H02 yöntem açıklaması açık. |
+| P11 | Anahtar kelimeler etiketi | B |
+| P12 | Bilgi anahtar sözcüğü | B |
+| P13 | Akıl anahtar sözcüğü | B |
+| P14 | Varlık anahtar sözcüğü | B |
+| P15 | Nesne anahtar sözcüğü | B |
+| P16 | Akıl ve bilgi başlığı | B |
+| P17 | Bilme için varlık/yeti; bireysel evren; üç evren; akıl/bilgi düzlemi; tek ve yek sözcükleri | A/R; §§10E–10F; erken sözcük izi korunur, güncel tam kanon geriye yazılmaz. |
+| P18 | İyiyi/güzeli seçen sevgi olarak akıl; yarar ve devam; tehdit/kötülük; özün duygu kanunu | A/R; §§8–8C, 9A; ahlaki yönelim ve psikolojik mekanizma ayrı; H05 hedefi. |
+| P19 | Tekten türeme; H/He çeşitlenmesi; ortak zarar; özün devam arzusundan akıl | A/D/R; §§4–5A, 8; fizik örneği kanıt yerine geçmez. |
+| P20 | Bilginin fark, anımsama, evren ve uyumlu düş olarak kullanımı; yaratıcı kanun | A/R; §§10E–10F; ayrı bilgi anlamları korunur. |
+| P21 | Ortak fizik/biyoloji/zihin; üst/alt algılama; taş/hayvan; yazılım; paralel evren; tek küme | A/R; §§8B, 10D–10F; taşın fiziksel etkisi bilinçli onay sayılmaz; evren benzetmesi kozmoloji ispatı değil. |
+| P22 | Kanun ve bilgi; üç sistem/ruh; ayırıcılar; ruh üflenmesi; yaratıcı/insan ikinci bilen; toplum ve hayvan fıtratı | A/R; §§8A–8B, 10 ve kaynak tablosu; teoloji/biliş/ontolojik muhataplık ayrı. |
+| P23 | Doğa kanunlarından bağımsız insan; akıl/kalp; duygunun özü saran kanun oluşu | A/D/R; §8C; fiziksel bağımsızlık benimsenmez; H05 katman karşılaştırması açık. |
+| P24 | Yaratıcı doğrusalı; varlık alanını genişletme isteğinin bütün özlerde kanun olması | A/R; §10B; evrensel ontolojik kabul, ölçülmüş ortak amaç değil. |
+| P25 | Bütün varlıklarda varlık alanı genişletme gözlemi | R; §4B; evrensel genellemenin birim/ölçütü ve karşı-örneği gerekli. |
+| P26 | Kozmik genişleme ve kütleçekimin var olma/alan genişletme kanunu sayılması | D/R; §5B; ontolojik amaç yorumu fiziksel mekanizma yerine geçmez. |
+| P27 | Bölünme, kök ve tohum yayılmasının ortak kanunu onaylaması | A/R; §6; farklı mekanizmalar aynı zorunluluğun kanıtı değil. |
+| P28 | Soy aktarımı ve maksimum yaşama isteği | A/R; §7; tüm zihinliler için davranış/amaç genellemesi kaynak bekler. |
+| P29 | Üç kanun ve dördüncü doğal dengenin kanıt sayılması | A/R; §8A; kurucu sistem tasnifi, bağımsız deney değil. |
+| P30 | İnsanın ahlaki değer, tutarlılık ve var olma çabası | A; §8B–8C; sorumluluk ve sonuç değeri ayrılır. |
+| P31 | Ahlak–bilgi–kanun; doğrusal/dairesel; ahiret inancının delil sayılması | A/R; §§9A, 10E; inanç tek başına dış doğrulama değil. |
+| P32 | Özün dileği; koruyucu kanun; duygu ilk halka; zihni saran ruh | A/R; §8B; H05 katman çözümlemesi açık. |
+| P33 | Tercih/irade/ahlak; tutarlılık; duygu–akıl kapsaması | A/R; §§8B, 10F; tutarlılık tek başına olgusal doğruluk değil. |
+| P34 | Ast–üst ve tek; akıl/duygu; kar tanesi/parmak izi; ilahi/insani bilgi; din/duygu kanunu; alfabe; ortak düzlem | A/R; §§8B, 10D–10F; varlık ilişkisinden zorunlu yaratıcı sonucu ek öncül ister; duygu/din benzetmesi kavramsal, bilimsel özdeşlik değil. |
+| P35 | Yaratılış düzeni başlığı | B |
+| P36 | Merkez/çevre; üç bileşen; kanuna bağlı varlık tanımı | A/D; §§4C, 5, 6A; bütün atomlarda nötron şartı yok. |
+| P37 | İlk/ikinci atom; yıldız/gezegen; yerçekimin dördüncü kuvvet oluşu | A/D/R; §§5–5B; parçacık sayısı ve fiziksel etkileşim ayrılır. |
+| P38 | DNA/RNA/protein; eşeyli/eşeysiz bölünme; çok hücre/bitki; dördüncü kuvvet | A/D/R; §§6–6B; bölünme/üreme terminolojisi ve evre ayrımı korunur. |
+| P39 | Sinir/duyu/bellek; dişi/erkek; yumurtlama–doğurma; ruhun bedeni kazandırması | A/R; §§7A, 8A; tarihsel üreme ve teolojik mekanizma ayrı. |
+| P40 | Üç sistemin kanunları; fıtrat; beden idaresi; meleklerin ihtimal oluşu | A/R; §8A; ihtimal kesin bilgi yapılmaz. |
+| P41 | Kanunun bilgiden oluşması; insan ahlakı ve kanun | A/R; §§8C, 10E; insani norm ile doğa kanunu ayrı. |
+| P42 | İnsan konumu ve evrensel yaratılış kurallarını açıklama hedefi | A; yöntem; hedef doğrulanmış evrensellik değil. |
+| P43 | İlk/ikinci bilen; beden ve ruh; üç/dört öğeli düzlem; ikili örnekler; tüm yaratılışa genelleme | A/R; §10 ve kaynak tablosu; sayısal şema güncel matematiksel formalizm sayılmaz. |
+| P44 | Ruh üflemesi; beden; fail/fiil; kendiliğinden var/yok olmama; yaratıcı nitelikleri; deneylenebilirlik | A/R; §§8A, 10B; metafizik fail gerekçesi yapılmış deney değil. |
+| P45 | Büyük patlama/yoktan yaratma; Higgs/ilk kütle; parçacık türeme ihtimali; Âdem/Havva kemiği | D/R; §§3, 5A, Ek C; ihtimal korunur; anatomik yorum ayet lafzı değil. |
+| P46 | İkili örnekler; ilk öznenin ikinciye yönelimiyle evrensel ürün | A/R; §4; farklı ilişkiler aynı mekanizma sayılmaz. |
+| P47 | Varoluşun ikili düzenle başlaması | A/R; §4; kurucu şema, bağımsız evrensel deney sonucu değil. |
+| P48 | Bilgi sorusu başlığı | B |
+| P49 | Yaratıcı ilk/yaratılmış ikinci; insan/ahiret/esma; tekten türeme | A/R; §§9A, 10; ontolojik ikinci bilen kapsamının erken izi. |
+| P50 | Doğrusal düzen; boyut/özne/nesne; üçlü ve bir yansıması | A/R; §10E; geometriyle eşitlenmez. |
+| P51 | Dairesel düzen; varlığın kapsadığı alan; türeyen ikinci bir | A/D/R; §§10E, 5A; kimyasal sıra hatası aktarılmaz. |
+| P52 | Varlığın kendisi/hareketi ve gelişim sınırı olarak bilgi | A/R; §10E; önermesel bilgiyle eşit değil. |
+| P53 | Yalnız kendini bilme; konuma göre bakış; beş boyut; iyi/üreten insan | A/R; §§8C, 10F; öznel bakış dış nesnenin imkânsızlığını tek başına ispatlamaz. |
+| P54 | Akıl başlığı | B |
+| P55 | Ortak düzlem/sayma; beyin büyüklüğü yerine konum; yüksekten bakış; somut/soyut; varlık amacı/sorumluluk | A/R; §§8B, 10D–10F; mekânsal benzetme bilişsel mekanizma kanıtı değil; H05 hedefi. |
+| P56 | Üçüncü şey/ara boyutlar; iki bilinç; iki beyin; matematiksel düzen ve akıl | A/D/R; §10F; sayısal temsil, nörolojik bulgu ve onaycı özne birbirine eşitlenmez. |
+| P57 | Temiz akıl/öğrenme; boyut konumu; beyin makinesi; düzen/akıl; doğaya bağımlılık; görünmeyen üst boyut; kesin bilgi | A/R; §§8C, 10F; ahlaki ölçüt öğrenmenin evrensel şartı sayılmaz; çıkarım yükü açık. |
+| P58 | Dünya/ahlak konumu; Âdem'in beden/ruh yaratılışı; bilginin üst kapsamı | A/R; §§8A, 9A, 10D; ahirette ruh üfleme yeri ayrıca dinî kaynak bekler. |
+| P59 | Kanun keşfi/öğrenme; soy/devam; iyiye yönelme ile akıl; ikinci özne gözlemi; evrensel/insani ahlak | A/R; §§8B–8C, 10F; normatif akıl ideali ile biliş yetisi ayrı. |
+| P60 | Aklın doğruyu görme ve evrensel ahlakı bilme yetisi olması | A/R; §§7, 8B; kurucu normatif tanım, işlemsel psikoloji tanımı değil. |
+| P61 | Varlık/bilginin doğası başlığı | B |
+| P62 | İkinci onayla görünürlük/bilgi; insanın yaratılmasıyla kesinleşme | A/R; §10; ontolojik muhataplık ve epistemik onay ayrımı. |
+| P63 | Ortak doğrusal; öznede ürün; yaratıcı/insan/ahiret; metafor ve yargı | A/R; §9A; metnin metafor nitelemesi korunur; yaratıcı yaratılmış boyuta dahil edilmez. |
+| P64 | Uyumlu bilgi; alfabe/rakam; tekil yapay bilgi; kara delik/yosun/etçil/şeytan/cehennem; hak/lütuf; ikinci birin Tek'e bağı | A/D/R; §§8C, 9A, 10F; doğa olgusu normatif kötülükle özdeş değil; metafor gözlemsel ispat yapılmaz. |
+
+**Sınır:** Akıl P1–64 ilk içerik–işlem eşlemesine bağlandı. P65–177 sırayla eşlenmedi; önceki seçilmiş atıflar bu eksiği kapatmaz. D/R kayıtları, dış kaynak karşılaştırması ve bağımsız Rasterast açıktır. Ek G–I ile Varlık metninin ilk eşlemesi tamamlanmış olsa da H01-01 ve 04. madde tamamlanmadı.
