@@ -1,6 +1,6 @@
 # Zanistarast cekirdek tamamlama sabit yol haritasi
 
-Tarih: 2026-10-24. Durum: 7/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
+Tarih: 2026-10-24. Durum: 8/15; isaretler sadece belirtilen alt gorevin tamamlandigini ifade eder, makalenin tamamlandigini degil.
 
 - [x] 01 Kurucu kaynak sadakati GitHub kaydi (f334339a)
 - [x] 02 H01 ontolojik ikinci bilen kaynak duzeltmesi (d367244e)
@@ -9,7 +9,7 @@ Tarih: 2026-10-24. Durum: 7/15; isaretler sadece belirtilen alt gorevin tamamlan
 - [x] 05 H02 tam metin kaynak/mantik/bolum butunlugu (350ccc5)
 - [x] 06 H03 Rasterast kaynak/mantik/bolum butunlugu (6f4325f)
 - [x] 07 H04 alti boyut Tek/Yek fitrat ahlak hukum (b15ecfa)
-- [ ] 08 H05 oz duygu zeka akil fitri ve iradeli ahlak
+- [x] 08 H05 oz duygu zeka akil fitri ve iradeli ahlak (d1f4642)
 - [ ] 09 Varlik Tarihi cekirdek makalesi
 - [ ] 10 Jeoloji cekirdek makalesi
 - [ ] 11 Insan Tarihi cekirdek makalesi
@@ -45,3 +45,10 @@ H04'un ic kaynak/mantik/bolum butunlugu tamamlandi. Ozgun paragraf izleri, Core 
 H04 commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/b15ecfa684b1ffa436624a8054ac789c375e75b3 . TEORILER'in kurucu onayli tablosunda bulunan altinci boyut evreleri (hesap/hukum; hukmun sonucu/ahiret karsiligi) devralindi. H01'in eksik tablo satirina ayni kaynak aktarildi: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/14a45fc3bc6117172e6d45cabdbab06b1eec27e1 . Iki metin commit sonrasi geri okunarak birebir dogrulandi. Eski H04 403dfe4 surumunde korunur.
 
 Bu isaret ic metin butunlugu alt gorevini kapatir. Toplu 12–14 denetimleri kendi sirasinda kalir; siradaki ana madde 08 H05'tir. Yeni kavram ihtiyaci bulunmadigindan mevcut terimler yeniden adlandirilmadi.
+
+
+## 08 kapanis kaydi — 24 Ekim 2026
+
+H05'in ic kaynak/mantik/bolum butunlugu tamamlandi. Oz, duygu, zeka ve akil butunlesik insan Yek'i icinde ele alindi; fitri ahlak ile iradeli sorumluluk ayrildi. Core 03/05, ilgili kavram sozlugu ve birlesik zihin yazisi icerikleriyle karsilastirildi; Core 04, ozgun paragraf envanteri, cilt ve bilis kaynagi incelemeleri kapsam ve surumleriyle devralindi. Bilgi uygulamasi, urun, yeni bilgi adayi ve bilgi duzeltmesi ayrildi; yenilik tabani (kisi/gorev/alan), gerekce ve sinama kaydi gelistirildi.
+
+Makale commit'i: https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/commit/d1f4642ea43283730cfe1fdcd3fe88343df62e16 . H03 ve H04'un H05 bolum gondermeleri ayni calismada guncellendi. Uc dosya GitHub'dan geri okunarak yazilan icerikle birebir dogrulandi. Onceki tam H05 715589a surumunde korunur. Yeni turler arasi deney veya zekanin ayirt etme basarisi olculmus sayilmaz. 12–14 toplu denetimleri kendi sirasinda kalir. Siradaki ana madde 09 Varlik Tarihi'dir.
