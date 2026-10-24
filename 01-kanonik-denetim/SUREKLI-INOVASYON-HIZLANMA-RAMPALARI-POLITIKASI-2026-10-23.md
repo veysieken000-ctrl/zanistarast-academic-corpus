@@ -125,3 +125,15 @@ Taban: H01 `fb549b14254df69d73987ab5e0c3d005e8e26506`; bu taban bağımsız ince
 | Mevcut sayısal/biçimsel altyapı | H02 §8'deki tip ve varsayım kontrolünü kullan; aynı ortak hata/minimaks hesabını tekrar yazma. Tanım gereği koruma gerçek uygulama ispatı değildir. |
 
 Kazanım: kaynaklara tekrar ulaşmak ve aynı kavramı yeniden kurmak için hazır iz oluştu. Süre ölçümü yapılmadığı için hızlanma yüzdesi veya performans artışı iddia edilmez. Yeni makalede önce bu gerekçelerden ilgili olanı seç, yalnız yeni sorunun ek kanıt yükünü araştır.
+
+
+## 24 Ekim 2026 — H03'ten devralınabilir yöntem kazanımları
+
+H03 ana metni: commit `6f4325ff207f4c97ccd4729fba12e9bb8406e59c`. Kaynak sürümleri mevcut H03 kaynak-soyağacı ekinde kaydedildi.
+
+- İddia türü, kaynak erişimi, çıkarım ve değerlendirme kararı ayrı tutulur; bu kayıt sonraki makaleye kapsamıyla devredilir.
+- Reddedilen örnek ile savunulan önerme ayrılır; sözcük eşleşmesi doğrulanmış hata sayılmaz.
+- Düzeltme yalnız ona bağımlı savlara aktarılır; değişmemiş ve sağlam kaynak araştırması yeniden başlatılmaz.
+- Yazılı kural, biçimsel tanım ve gerçek uygulama doğrulaması ayrı raporlanır.
+
+Bunlar iş akışı kazanımlarıdır; inceleme süresinde veya hata oranında ölçülmüş yüzdelik iyileşme ileri sürülmez. İki Kurmancî ad önerisi mevcut kavram havuzuna aday olarak eklendi; çekirdek üretimi dilsel son onayı bekleyerek durdurulmaz.
