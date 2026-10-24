@@ -179,6 +179,10 @@ Bağlı Google Drive'daki iki özgün dosyanın metni yeniden açılarak okundu:
 
 **Kaynak sınırı:** Bu doğrudan kontrol iki belgenin açılış/özet bölümlerini ve terim taramasını kapsar; her paragrafın ayrıntılı eşleştirmesi henüz tamamlanmış değildir. Kurucu kaynaklar tarihsel sürümlerine göre ayrı gösterilir, birinin ifadeleri diğerine sessizce taşınmaz.
 
+### Özgün Word: ikinci bilenin tarihsel kullanım ayrımı
+
+`1-VARLIK SİSTEMLERİ VE BOYUTLARI.docx` dosyasında ikinci bilen için hidrojen örneği kullanılır. `2-Akıl ve bilginin varlığı.docx` dosyasının *Akıl ve Bilginin Kaynağı* başlıklı metninde ise bilgi sonucunun ikinci öznece onayı açıklanır. Bunlar farklı özgün bağlamlardır. Güncel Ehad–yaratılmış Yek ontolojik düzey ayrımı sonraki kurucu kanona dayandırılır. Hidrojen örneği deneysel doğrulama olarak sunulmaz. Her iki özgün dosyanın paragraf düzeyinde karşılaştırılması henüz tamamlanmamıştır.
+
 ## H01 iç bütünlük denetimi — açık kalan işler (24 Ekim 2026)
 
 - [x] Ehad–Yek kurucu kabulü, ilk/ikinci Yek ve Komel tanımları kaynakla karşılaştırıldı.
