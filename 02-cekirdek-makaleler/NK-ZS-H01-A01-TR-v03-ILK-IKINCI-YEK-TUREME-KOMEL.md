@@ -326,10 +326,16 @@ Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareket
 - IUPAC. (2025). *Compendium of Chemical Terminology*, 5. basım: chemical element ve atomic number. https://doi.org/10.1351/goldbook.C01022 ; https://doi.org/10.1351/goldbook.A00499 . Kullanım: §5A; kimyasal tanımlar. İndekslenmiş resmî metin kontrol edildi; doğrudan HTML çağrısında erişim hatası kaydedildi.
 - National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §6A; prokaryotik hücre ve çekirdek ayrımı. Erişim: 22 Ekim 2026.
 
-- Diyanet İşleri Başkanlığı. (2011). *Kur'an-ı Kerim Meâli*. Hazırlayanlar: Halil Altuntaş ve Muzaffer Şahin. 12. basım. Ankara. Nisâ 4:1 ve dipnot 1, basılı s. 87 (PDF sayfası 150). https://webdosya.diyanet.gov.tr/kuran/kuranikerim/dosyalar/document/kuran_meal.pdf . Kullanım: bölüm 3; doğrudan metin ve sayfa görüntüsü kontrol edildi.
+- Diyanet İşleri Başkanlığı. (2011). *Kur'an-ı Kerim Meâli*. Hazırlayanlar: Halil Altuntaş ve Muzaffer Şahin. 12. basım. Ankara. Nisâ 4:1 ve dipnot 1, basılı s. 87 (PDF sayfası 150). https://webdosya.diyanet.gov.tr/kuran/kuranikerim/dosyalar/document/kuran_meal.pdf . Kullanım: §3 (Nisâ 4:1) ve §9B–9C (Bakara 2:31–36, basılı s. 8–9, PDF sayfaları 72–73); doğrudan metin ve sayfa görüntüsü kontrol edildi.
 - NHGRI. (2026). *Deoxyribonucleic Acid (DNA)*. https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA?id=48 . Kullanım: bölüm 6; genetik bilgi taşıyıcısı. Resmî tanım doğrudan okundu; psikolojik veya metafizik bilgi tanımını doğrulamaz.
 
 - National Human Genome Research Institute (NHGRI). (2026). *Mitosis*. https://www.genome.gov/genetics-glossary/Mitosis . Kullanım: bölüm 6; mitoz ve onu genellikle izleyen iki yavru hücre oluşumu. Doğrudan resmî tanım okundu. Ontolojik kimlik sürekliliği bu biyolojik tanımdan ayrıca tartışılır. Erişim: 22 Ekim 2026.
+
+- Ratcliff, W. C., Fankhauser, J. D., Rogers, D. W., Greig, D. ve Travisano, M. (2015). *Origins of multicellular evolvability in snowflake yeast*. Nature Communications, 6, 6102. https://doi.org/10.1038/ncomms7102 . Kullanım: Ek F; ana metin Results: Genetic basis of the snowflake yeast developmental pattern, Şekil 1 ve Methods: Sequencing ACE2 / Transformation bölümleri 24 Ekim 2026'da yayıncıdan doğrudan kontrol edildi. Ek yöntem dosyası ve ham veriler yeniden analiz edilmedi. https://www.nature.com/articles/ncomms7102 .
+- Diyanet, *Kur'an Yolu Meali*. (Tarihsiz web sunumu). Nisâ 4:1 (§3), A'râf 7:24 (§9B) ve Tekvîr 81:12–14 (§9B). İlgili pasajların ayrı erişim kayıtları §3 ve §9B'dedir; meal ile tefsir eşitlenmez. Nisâ: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri ; A'râf: https://kuran.diyanet.gov.tr/mushaf/meal-2/araf-suresi-7/ayet-24/kuran-yolu-meali-5 ; Tekvîr: https://kuran.diyanet.gov.tr/mushaf/kuran-meal-2/tekvir-suresi-81/ayet-1/kuran-yolu-meali-5 .
+- Diyanet İşleri Başkanlığı, *Kur'an-ı Kerim Meali*, Mâide 5:3, çevrimiçi sunum. https://kuran.diyanet.gov.tr/mushaf/kuran-tefsir-1/M%C3%A2ide-S%C3%BBresi-5/ayet-3/diyanet-isleri-baskanligi-meali-1 . Kullanım: §9B; 24 Ekim 2026 doğrudan meal kontrolü. Web sunumunun baskı kimliği, 2011 PDF'siyle doğrulanmadan eşitlenmez.
+- Tirmizî, *el-Câmiʿ*, Tefsir, dijital no. 3369. Sunnah.com Arapça metin ve İngilizce çeviri sunumu. https://sunnah.com/tirmidhi:3369 . Kullanım: §9C; metin farkı, garîb nitelemesi ve platformun Darussalam'a atfettiği hasen kaydı ayrı gösterilir. Erişim: 24 Ekim 2026; yeni isnad tenkidi yapılmadı.
+- Müslim, *el-Cennet ve sıfatu naʿîmihâ ve ehlihâ*, dijital no. 2849a. Sunnah.com Arapça metin ve İngilizce çeviri sunumu. https://sunnah.com/muslim:2849a . Kullanım: §9C; ölümün koç biçiminde getirilmesi anlatısı, birleşik güç sıralamasının tamamına atfedilmez. Erişim: 24 Ekim 2026.
 
 ### Kaynakça–iddia eşleştirme denetimi (24 Ekim 2026)
 
@@ -342,9 +348,19 @@ Aşağıdaki eşleştirme yalnız **mevcut makaledeki atıfların ve kaynakça a
 | Adelberger ve ark. (2011) | §5, nükleer füzyon süreçleri | Açık sürüm incelenmiş; dergi sürümüyle satır satır karşılaştırma açık |
 | NHGRI, Cell; Mitosis; DNA | §§6–6A, hücre, bölünme ve genetik bilgi | Biyolojik tanımlar; ontolojik ve epistemik bilgiyle özdeş değildir |
 | Ratcliff ve ark. (2012) | §6, maya hücre kümeleri ve seçilim deneyi | Seçilmiş deney; bütün çok hücrelilik tarihini veya Komel zorunluluğunu kanıtlamaz |
+| Ratcliff ve ark. (2015) | Ek F, ACE2 işlev kaybı ve tamamlama | İlgili ana yöntem/sonuçlar 24 Ekim kontrol edildi; ek dosya/ham veri yeniden analizi yok |
+| Diyanet meal pasajları; Tirmizî 3369; Müslim 2849a | §§9B–9C, ayet/yorum/rivayet ayrımı | Bir pasajın bulunması birleşik kurucu anlatının tamamını doğrulamaz |
 | Kurucu kanon ve özgün Word metinleri | §§2–4, §§7–10, ekler | Kurucu kaynak statüsü; her özgün önermenin paragraf bazında son karşılaştırması açık |
 
 **Açık denetim:** Her dış kaynağın bibliyografik künyesi, URL erişimi, tam metin/sürüm farkı ve her metin içi atfın sayfa/bölüm konumu bağımsız olarak son kez doğrulanmadan kaynakça kapısı tamamlanmış sayılmaz.
+
+### Kaynakça son denetiminde kapanan ve açık kalanlar
+
+24 Ekim 2026'da NIST'in hidrojen ve helyum tabloları doğrudan yeniden okundu; atom numaraları sırasıyla 1 ve 2 olarak kontrol edildi. Tabloların diğer sayısal verileri bu makaleye yeni sonuç olarak taşınmadı. NHGRI Mitosis sayfasının mevcut tanımı da doğrudan okundu; mitozu genellikle izleyen iki yavru hücre oluşumu anlatımı §6 ile uyumludur. Sayfa bu erişimde 23 Ekim 2026 güncelleme tarihi gösterir; eski 22 Ekim erişim notu tarihsel kontrol olarak kalır, güncel sayfanın o tarihte aynı olduğu varsayılmaz.
+
+**Bibliyografik bütünlükte giderilen eksikler:** Ek F'deki 2015 eser ile §§9B–9C'deki ayet ve rivayet kaynakları ana kaynakçaya bağlandı; Bakara PDF sayfa kullanımı eklendi. Önceki yalnız özet erişimi ve açılışla sınırlı kaynak taraması notları güncel kontrolden ayrıldı.
+
+**Açık kalanlar:** Adelberger'in kullanılan açık sürümüyle dergi sürümü; 2012 deneyinin son kaynak/iddia kontrolü; NIDC/DOE/IUPAC ve diğer NHGRI maddelerinin son erişim/sürüm kontrolü; kurucu savların bütün atıflarla atomik eşlemesi; bağımsız Rasterast. Bu oturumun kendi okuması bağımsız inceleme sayılmaz. H01-03/07 kapatılmadı.
 
 ## Kaynaklar ve izlenebilirlik
 
@@ -363,11 +379,11 @@ Bağlı Google Drive'daki iki özgün dosyanın metni yeniden açılarak okundu:
 1. **1-VARLIK SİSTEMLERİ VE BOYUTLARI.docx**, Drive kimliği `1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d`: Açılış/giriş bölümünde varlıkların boyutsal farklılıkları ve varoluş sistemlerini tanımlama amacı açıkça yazılıdır. Bu özgün metinde güncel kurucu kanonun `Ehad`, `Yek`, `Zanabûn`, `Komel` terimleri birebir geçmez; güncel terimler özgün Word'e geriye dönük doğrudan alıntı olarak atfedilemez.
 2. **2-Akıl ve bilginin varlığı.docx** (metin başlığı **AKIL VE BİLGİNİN KAYNAĞI**), Drive kimliği `1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM`: Özetin üçüncü paragrafında şu özgün ifade yer alır: **“Bilen öznenin bilinen nesneye yöneliminden çıkan sonucu ikinci bir özne tarafından onayı ile bilgi varlık gösterir.”** Bu ifade epistemolojik ikinci özne onayının doğrudan özgün metin dayanağıdır. Aynı paragraf nesnel sonuca ulaşma ve mutlak bilgi imkânını ayrıca tartışır. Güncel kanonun ontolojik *Ehad İlk Bilen / yaratılmış Yek ikinci bilen* tanımı ise bu Word'den birebir alıntı değil, sonraki kurucu düzey ayrımı kaydından alınır.
 
-**Kaynak sınırı:** Bu doğrudan kontrol iki belgenin açılış/özet bölümlerini ve terim taramasını kapsar; her paragrafın ayrıntılı eşleştirmesi henüz tamamlanmış değildir. Kurucu kaynaklar tarihsel sürümlerine göre ayrı gösterilir, birinin ifadeleri diğerine sessizce taşınmaz.
+**Tarihsel kontrol sınırı:** Bu ilk doğrudan kontrol açılış/özet ve terim taramasıyla sınırlıydı. Sonraki ilk sıralı içerik–işlem eşlemesi her iki belge için Ek G–L'de tamamlandı; atomik önerme ve dış kanıt denetimi hâlâ açıktır. Kurucu kaynaklar tarihsel sürümlerine göre ayrı gösterilir, birinin ifadeleri diğerine sessizce taşınmaz.
 
 ### Özgün Word: ikinci bilenin tarihsel kullanım ayrımı
 
-`1-VARLIK SİSTEMLERİ VE BOYUTLARI.docx` dosyasında ikinci bilen için hidrojen örneği kullanılır. `2-Akıl ve bilginin varlığı.docx` dosyasının *Akıl ve Bilginin Kaynağı* başlıklı metninde ise bilgi sonucunun ikinci öznece onayı açıklanır. Bunlar farklı özgün bağlamlardır. Güncel Ehad–yaratılmış Yek ontolojik düzey ayrımı sonraki kurucu kanona dayandırılır. Hidrojen örneği deneysel doğrulama olarak sunulmaz. Her iki özgün dosyanın paragraf düzeyinde karşılaştırılması henüz tamamlanmamıştır.
+`1-VARLIK SİSTEMLERİ VE BOYUTLARI.docx` dosyasında ikinci bilen için hidrojen örneği kullanılır. `2-Akıl ve bilginin varlığı.docx` dosyasının *Akıl ve Bilginin Kaynağı* başlıklı metninde ise bilgi sonucunun ikinci öznece onayı açıklanır. Bunlar farklı özgün bağlamlardır. Güncel Ehad–yaratılmış Yek ontolojik düzey ayrımı sonraki kurucu kanona dayandırılır. Hidrojen örneği deneysel doğrulama olarak sunulmaz. Bu erken kayıttan sonra iki dosyanın ilk sıralı eşlemesi Ek G–L'de tamamlandı; ayrıntılı önerme ve dış kaynak denetimi tamamlanmadı.
 
 ### İkinci bilen: paragraf düzeyinde kaynak eşlemesi — 24 Ekim 2026
 
@@ -396,7 +412,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 |---|---|---|
 | H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–195 için ilk içerik–işlem eşlemesi Ek G–I'de yapıldı; İki metnin P1–195 ve P1–177 ilk sıralı eşlemesi Ek G–L'de tamamlandı. Çok savlı satırların atomik ayrıntı/aktarımı ve D/R kayıtlarının denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
-| H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
+| H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasında ilgili ana yöntem/sonuç erişimi güncellendi; ek dosya/ham veri incelemesi yapılmadı. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
 | H01-05 | Kalan dinî göndermeler ve rivayet varyantları | Kontrol edilmiş beş pasaj dışındaki göndermeler taranacak; P175'in keder–ölüm geçişi ve farklı rivayet değerlendirmeleri araştırılacak. Kaynağı bulunmayan aktarım açık statüde tutulacak; uydurma atıf eklenmeyecek. |
 | H01-06 | Argüman ve bölüm bütünlüğü (K2–K4) | Öz, yöntem, §§2–10 ve sonuç aynı kapsamı savunacak; ortak köken, üst sistem, merkez, zaman ve normatif çıkarımların öncülleri açık olacak. §10E'deki sınırlar ana argüman ve sonuçla son kez karşılaştırılacak. |
@@ -452,7 +468,7 @@ Yek–Komel tasnifinin bir gözlemle uyumlu olması, tek başına rakip fiziksel
 
 Ratcliff ve arkadaşlarının 2012 tarihli deneyinde maya kümelerinin önceden ayrı hücrelerin toplanmasıyla değil, tomurcuklanma sonrasında ana ve yavru hücrelerin ayrılmamasıyla oluştuğu gösterilir (PNAS 109:1595–1600, DOI: 10.1073/pnas.1115323109; Results, Mechanism of Cluster Formation, Şekil 2B). Çökelme seçilimi koşullarında kümeli biçimin tek hücreli rakibe göre yüzde 34 uygunluk üstünlüğü raporlanmıştır (P = 0,004); bu oran farklı koşullara evrensel olarak aktarılmaz. 2015 tarihli takip araştırması ACE2 transkripsiyon faktörünün bozulmasının ana–yavru hücre ayrılmasını önleyerek benzer kümeler oluşturabildiğini bildirir (DOI: 10.1038/ncomms7102). Bu bulgular H01'deki Komel kavramının bilimsel mekanizması olarak sunulamaz; kavramın uygulanabileceği olgular için bağımsız açıklama ve karşılaştırma zemini sağlar.
 
-**Kaynak denetim kararı:** 2012 birincil makalenin açık tam metnindeki yöntem ve sonuç bölümleri ile 2015 takip çalışmasının açık özeti karşılaştırıldı. Bu kaynaklardan Ehad–Yek önermesinin deneysel olarak doğrulandığı sonucu çıkmaz. 2015 çalışmasının tam yöntem ve ek verileri bu turda yeniden analiz edilmedi. K0–K6 açık kalır.
+**Kaynak denetim kararı — 24 Ekim güncellemesi:** Önceki kayıt 2015 çalışması için özetle sınırlıydı. Bu kontrolde yayıncı ana metninin ilgili Results bölümü, Şekil 1 açıklaması ve Methods: Sequencing ACE2 / Transformation okundu. İşlev kaybı deneyi kümeli biçimi üretirken, işlevsel ACE2 ile tamamlama tek hücreli biçime dönüşü destekler. İncelenen on soyun beşinde kodlayıcı diziyi değiştiren ACE2 mutasyonları bildirilir; bütün soylarda aynı mutasyon gösterilmiş gibi yazılmaz. Bu kontrollü karşılaştırma mekanizma için yalnız kümeyi adlandırmaktan daha güçlü dayanak sağlar. Komel veya Ehad–Yek önermesinin deneysel doğrulanması değildir. Ek yöntem dosyası, ham veriler ve hesaplamalar yeniden analiz edilmedi. Kaynak: Ratcliff ve ark. (2015), Results: Genetic basis of the snowflake yeast developmental pattern; Şekil 1; Methods: Sequencing ACE2 / Transformation. K0–K6 açık kalır.
 
 **Kaynaklar:** Ratcliff, W. C. ve ark. (2012), *Experimental evolution of multicellularity*, PNAS, DOI: 10.1073/pnas.1115323109, https://pmc.ncbi.nlm.nih.gov/articles/PMC3277146/ . Ratcliff, W. C. ve ark. (2015), *Origins of multicellular evolvability in snowflake yeast*, Nature Communications, DOI: 10.1038/ncomms7102, https://pmc.ncbi.nlm.nih.gov/articles/PMC4309424/ .
 
