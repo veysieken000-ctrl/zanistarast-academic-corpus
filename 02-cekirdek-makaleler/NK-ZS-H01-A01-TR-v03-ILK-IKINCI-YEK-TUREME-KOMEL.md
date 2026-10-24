@@ -205,6 +205,21 @@ Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik
 
 Özgün metnin ahlak bölümündeki evre adları güncel kanondaki fıtrî/iradeli ahlak ayrımından farklıdır. *Varlık Sistemi ve Boyutları* P142–143, ahlak bağlamında hüküm ve ahlak evrelerini; P161–162 ve P166–172 ise altıncı düzen bağlamında dünya ve ahiret hayatını adlandırır. Bu iki tarihsel evreleme birbirine veya güncel beşinci boyutun evrelerine sessizce eşitlenmez. H01'de güncel sınıflandırma korunur; özgün kaynak farkı aşağıda görünür tutulur.
 
+**Evre adlarının birleştirilmiş karşılaştırması:** Aşağıdaki tablo eski ifadeleri tek ve değişmez şema gibi sunmadan güncel H01 kullanımını belirler. Varlık ve Akıl paragraf yöntemleri Ek G/J'dedir.
+
+| Alan / kaynak | Özgün evreleme | Güncel H01 kullanımı ve kaynak farkı |
+|---|---|---|
+| Fizik — Varlık P35–37; Akıl P37 | Atom → yıldız/gezegen; molekül ve galaksi örnekleri | Atom → yıldız/gezegen korunur (§5). İkinci atomla fizik yasasının başlaması veya H/He kimliği buradan bilimsel zorunluluk olarak çıkarılmaz. |
+| Biyoloji — Varlık P65, P70–73; Akıl P38 | Tek hücreli → çok hücreli; bakteri ve bitki örnekleri | Güncel kanonla aynı temel ayrım (§6). P66'daki eşeyli/eşeysiz ve tohumlu/tohumsuz anlatım farklı sınıflandırma eksenidir; evre tanımını değiştirmez. |
+| Zihin — Varlık P88–90; Akıl P39, P162 | Zekâ → akıl; ayrıca yumurtlama → doğurma anlatısı | Zekâ → akıl korunur (§7). Üreme biçimi veya hayvan/insan örneği, bilişsel yetinin yokluğu ve varlığına tek ölçüt yapılmaz; insanda zekâ sürer. |
+| Ruh — Varlık P100, P104–106; Akıl P40, P163 | Doğa kanunu başlığı altında ruh → melek | Evre adları korunur (§8A); doğa yasası, fiziksel kuvvet, zaman ve ruh aynı bilimsel kavram sayılmaz. Akıl P40'ın ihtimal dili kesinleşmez. |
+| Ahlak, insan/toplum anlatısı — Varlık P123–126 | İlk insan/eş/çocuk ve haklar → kavimler/toplumlar; ikinci evreye hüküm adı | Tarihsel normatif/toplumsal açılım korunur (§8C). Bu sıra fıtrî → iradeli ahlak ayrımının eski birebir ifadesi değildir. |
+| Ahlak, hüküm/eylem anlatısı — Varlık P136–143 | Hüküm → ahlak; yaratılış ve insanın seçimi | Önceki satırla aynı terim sırasını taşımadığı açık gösterilir. Güncel beşinci boyut için fıtrî → iradeli ayrım §8B'deki sonraki kurucu karara dayanır. |
+| Ahlak ve ilahi/insani bakış — Varlık P145–148 | İlahi hüküm/esma; insanın dünya hükmü ve ahirette karşılığı | Bakış açısı ve hüküm/eylem ilişkisi tarihsel kayıttır. Bir satırdaki ilk/ikinci ile başka satırdaki aynı numara otomatik eşlenmez. |
+| Altıncı düzen — Varlık P160–162, P166, P172, P177 | Dünya → ahiret; nihai hüküm ve kemal | Kaynaktaki dünya/ahiret adları korunur. Güncel altıncı boyut hüküm/ahirettir (§9); kesin yeni alt evre adı veya Ehad'ı yaratılmış boyuta dahil eden yorum eklenmez. |
+
+**Uzlaştırma kararı:** H01'de fizik, biyoloji, zihin ve ruh için korunan evre adları; ahlak için sonraki fıtrî/iradeli kararı; altıncı boyutta ise eski dünya/ahiret anlatımıyla güncel hüküm/ahiret adı ayrı kaynak düzeylerinde gösterildi. Bu, eski ahlak pasajlarındaki farklı evre sıralarını aynı şemaya zorlayarak çözmek değildir. Güncel öncelik 22 Ekim fıtrat–ahlak kilometre taşı ve Ehad–Yek kanonunun III, VII–VIII bölümlerindedir. İki kaynağın adlandırmaları arasındaki farkın görünür kılınması tamamlandı; H04'e gerçek aktarım ve bağımsız kanonik denetim açık.
+
 | Özgün kaynak ve paragraf izi | Kaynakta bulunan önerme | H01'de kullanım ve açık sınır |
 |---|---|---|
 | Varlık P141, “Ahlakı oluşturan üç temel bileşen”; P142–143, “1. Evre: Hüküm” / “2. Evre: Ahlak” | Hükümden ahlak türemesi ve ahlakın hükme ulaşması; erken ahlak evreleri | Güncel fıtrî/iradeli ayrımın birebir eski ifadesi sayılmaz. Güncel tanımlar §8B'deki 22 Ekim kurucu kaydına dayanır. |
@@ -219,7 +234,7 @@ Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik
 
 **İzlenebilirlik:** P numaraları 24 Ekim 2026'da Drive'dan alınan boş olmayan satır/paragraf sırasıdır; Word sayfası değildir. Kaynaklar: [Varlık Sistemi ve Boyutları](https://docs.google.com/document/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d/edit), [Akıl ve Bilginin Kaynağı](https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit). Ehad'ın hüküm sahibi konumu ve güncel ahlak ayrımı: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`.
 
-**Açık iş:** Bu seçilmiş pasajların kaynak eşlemesi yapıldı. Bütün sevgi/hüküm önermelerinin envanteri, dinî alıntı ve rivayetlerin birincil kaynakları, eski evrelerle güncel kanonun H04'te ayrıntılı uzlaştırılması ve bağımsız Rasterast denetimi tamamlanmadı. Bu bölüm altıncı boyut için yeni alt evre kararı vermez; H01'in 04. tamamlama maddesi açıktır.
+**Açık iş:** Bu seçilmiş pasajların kaynak eşlemesi yapıldı. Sevgi/hüküm pasajlarının ilk sıralı eşlemesi Ek I/L'dedir; atomik sav denetimi, kalan dinî alıntı ve rivayet kaynakları, H04'e gerçek aktarım ve bağımsız Rasterast tamamlanmadı. Bu bölüm altıncı boyut için yeni alt evre kararı vermez; H01'in 04. tamamlama maddesi açıktır.
 
 ### 9B. Dinî atıflarda ayet, yorum ve anlatı ayrımı — 24 Ekim 2026
 
@@ -449,7 +464,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 | Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
 |---|---|---|
 | H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | İki metnin P1–195 ve P1–177 ilk sıralı eşlemesi Ek G–L'de tamamlandı. Çok savlı satırların atomik ayrıntı/aktarımı ve D/R kayıtlarının denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
-| H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
+| H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | §9A'da fizik, biyoloji, zihin, ruh, üç tarihsel ahlak anlatısı ve altıncı düzen tek karşılaştırma tablosunda güncel kanonla eşlendi. H01 içindeki adlandırma/aktarım kararı kaydedildi; H04'e gerçek aktarım ve bağımsız kanonik kontrol açık. Eski ahlak sıraları tek şema gibi uzlaştırılmadı. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasında ilgili ana yöntem/sonuç erişimi güncellendi; ek dosya/ham veri incelemesi yapılmadı. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
 | H01-05 | Kalan dinî göndermeler ve rivayet varyantları | Kontrol edilmiş beş pasaj dışındaki göndermeler taranacak; P175'in keder–ölüm geçişi ve farklı rivayet değerlendirmeleri araştırılacak. Kaynağı bulunmayan aktarım açık statüde tutulacak; uydurma atıf eklenmeyecek. |
