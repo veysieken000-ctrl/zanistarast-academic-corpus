@@ -145,6 +145,21 @@ Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareket
 
 - National Human Genome Research Institute (NHGRI). (2026). *Mitosis*. https://www.genome.gov/genetics-glossary/Mitosis . Kullanım: bölüm 6; mitoz ve onu genellikle izleyen iki yavru hücre oluşumu. Doğrudan resmî tanım okundu. Ontolojik kimlik sürekliliği bu biyolojik tanımdan ayrıca tartışılır. Erişim: 22 Ekim 2026.
 
+### Kaynakça–iddia eşleştirme denetimi (24 Ekim 2026)
+
+Aşağıdaki eşleştirme yalnız **mevcut makaledeki atıfların ve kaynakça açıklamalarının karşılaştırılmasıdır**; dış bağlantıların bu denetimde yeniden açılıp doğrulandığı anlamına gelmez.
+
+| Kaynak | Makaledeki kullanım | Kanıt statüsü / açık sınır |
+|---|---|---|
+| Diyanet, Nisâ 4:1 | §3, tek nefis–eş–ikisinden çoğalma | Ayet lafzı ile Âdem–Havva kurucu yorumu ayrılır |
+| NIST; NIDC; DOE; IUPAC | §§5–5A, atom, izotop ve element tanımı | Kurumsal açıklama/veri; kurucu türeme şemasının deneysel ispatı değildir |
+| Adelberger ve ark. (2011) | §5, nükleer füzyon süreçleri | Açık sürüm incelenmiş; dergi sürümüyle satır satır karşılaştırma açık |
+| NHGRI, Cell; Mitosis; DNA | §§6–6A, hücre, bölünme ve genetik bilgi | Biyolojik tanımlar; ontolojik ve epistemik bilgiyle özdeş değildir |
+| Ratcliff ve ark. (2012) | §6, maya hücre kümeleri ve seçilim deneyi | Seçilmiş deney; bütün çok hücrelilik tarihini veya Komel zorunluluğunu kanıtlamaz |
+| Kurucu kanon ve özgün Word metinleri | §§2–4, §§7–10, ekler | Kurucu kaynak statüsü; her özgün önermenin paragraf bazında son karşılaştırması açık |
+
+**Açık denetim:** Her dış kaynağın bibliyografik künyesi, URL erişimi, tam metin/sürüm farkı ve her metin içi atfın sayfa/bölüm konumu bağımsız olarak son kez doğrulanmadan kaynakça kapısı tamamlanmış sayılmaz.
+
 ## Kaynaklar ve izlenebilirlik
 
 1. Kurucu kanon: `../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
