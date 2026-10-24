@@ -114,7 +114,9 @@ Fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında
 | Zihin | Zekâ; akıl |
 | Ruh | Ruh; melekler |
 | Ahlak | Fıtrî ahlak; iradeli ahlak |
-| Hüküm/ahiret | Nihai hüküm ve ahiret düzeni; burada yeni alt evre adı önerilmez |
+| Hüküm/ahiret | Birinci evre hesap/hüküm; ikinci evre hükmün sonucu (ahiret karşılığı) |
+
+Altıncı boyutun evre adları [16 Ekim kurucu onaylı 6 boyut/12 evre tablosundan](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md) devralındı; 24 Ekim H04 incelemesinde eksik tablo satırı tamamlandı. Bunlar teolojik sınıflamadır; yeni ampirik evre önerisi değildir.
 
 +Tek yedinci yaratılmış boyut değildir. Ehad yaratılmış boyutların bileşeni yapılmaz. Biyoloji–zihin–ruh kapsaması ontolojik ilişkidir; zorunlu kronolojik sıra değildir. İradeli ahlak çağının son buzul çağı sonrasıyla ilişkilendirilmesi kurucu tarihsel tezdir; Homo sapiens'in biyolojik başlangıç tarihiyle eşitlenmez.
 
