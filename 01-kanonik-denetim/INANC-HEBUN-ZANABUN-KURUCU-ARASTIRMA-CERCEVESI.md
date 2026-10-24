@@ -25,3 +25,14 @@ Zanistarast, doğruluğuna inanılan bir tezi akıl, mantık, karşı-örnek, g�
 Bir önermenin Kur'an'dan yorumlanması, kurucu sistemde savunulması, mantıksal olarak çıkarılması ve doğa bilimlerinde sınanması dört ayrı işlem olarak belgelenir. Bir tezi “kanun” olarak önermek için tanım, kapsam, test edilebilir öngörü, karşı-delil, bağımsız tekrar ve alanın bilimsel eleştirisi gerekir; bütün metafizik önermeler aynı anlamda deneysel yasa olamaz.
 
 **Üretim sırası:** Önce Hebûn'un özgün metin eşlemesi ve kurucu kavramları, sonra Zanabûn, ardından Rasterast. Eski kaynaklar değiştirilmez.
+
+
+## 24 Ekim 2026 — Kurucunun 09–11 için yeniden inceleme yönlendirmesi
+
+Kurucu, önceki dünya anlatısını eksik bularak 09 Varlık Tarihi, 10 Jeoloji ve 11 İnsan Tarihi'nin Hebûn–Zanabûn yaratılış düzeni, merkez–çevre, insanın en üst ahlaki düzeyi olan iradeli ahlak ve insan hükmünün ilahî ölçüyle çatışmasının sonuçları açısından yeniden düzenlenmesini istedi. Kur'an temel kaynak; hadisler nebevî açıklama; Risale-i Nur yorum ve düşünce kaynağı olarak dikkate alınır. Bilimsel mekanizma araştırması bu kaynak yönelimini dışlayan nihai dünya anlatısı yapılmaz.
+
+Uygulama: Üç makalenin araştırma sorusu, öz, ana argüman ve sonucu yeniden kuruldu. İnsan emre aykırı tercih yapabilir; ilahî kudrete denk veya onu hükümsüz kılan bir güç değildir. Afet, savaş ve bozulmada insanın tercihi, zulüm/ihmal, ortak sonuç, ibret, dönüş ve hesap ilişkisi incelenir. Tabiî mekanizma, önlenebilir zarar ve teolojik anlam ayrılarak birlikte araştırılır. Kur'an'ın imtihan ve ortak zarar çerçevesi ile Risale'nin masumlar açıklaması korunur; her mağdura kusur veya belirli olay için kaynaksız kesin gaybî sebep atanmaz.
+
+Doğrudan yeniden incelenen dayanaklar: Rûm 30:41; Şûrâ 42:30–31; En'âm 6:65; Enfâl 8:25; Bakara 2:155–157; Buhârî 7059 ve 2493; Sözler, On Dördüncü Söz'ün Zeyli s.159–160. Erişim ayrıntıları üç makalenin İS1–İS4 kaynak kayıtlarındadır. Yeni teknik şemalar bu eserlerde aynen geçiyormuş gibi sunulmadı.
+
+Bu yönlendirme mevcut fıtrat/fıtrî ahlak/iradeli ahlak ve Ehad–yaratılmış ayrımlarını geri çevirmez; 09–11'deki anlam eksikliğini giderir. Sonraki 12. toplu tutarlılık denetimi bu güncel açıklamayı esas alır.
