@@ -14,7 +14,7 @@
 
 ## Zorunlu ayrımlar
 1. **Ontolojik ilk bilen:** Ehad. Yaratılmış Yek değildir; Ehad Yek'tir ve âlemlerdeki her şeyi Yek'e göre yaratmıştır.
-2. **Ontolojik ikinci bilen:** Ehad karşısında yaratılmış varlığın/Yek'in muhataplık konumu. Bu, atomun insan gibi bilinçli muhakeme yaptığı iddiası değildir.
+2. **Ontolojik ikinci bilen:** Kurucunun varlık tanımı ve sınıflandırmasına uyan yaratılmış varlığın/Yek'in Ehad karşısındaki muhatap, etkilenen varlık konumu. Bu, atomun insan gibi bilinçli muhakeme yaptığı iddiası değildir.
 3. **Fıtrî ikinci bilen:** 3–5 düzeyleri bağlamında fıtrî ahlak ve düzen ilişkisi içindeki ikinci bilen konumu. Tür ve düzeyler arasında aynı zihinsel yeti varsayılmaz.
 4. **İradeli ikinci bilen:** İnsan, hüküm ve iradeli ahlak bakımından bilme, tercih ve sorumluluk taşıyan muhatap. Ontolojik ikinci bilenin bilinç ve sorumluluk yönünden özelleşmiş hâlidir.
 5. **Epistemik ikinci bilen:** Bir bilgi iddiasının sonucunu bağımsız olarak değerlendiren, onaylayan veya reddeden başka bilen. Ontolojik yaratıcı–yaratılmış ilişkisiyle özdeş değildir.
@@ -45,3 +45,9 @@ Kurmancî karşılıklar dilsel inceleme ve kurucu onayı olmadan kesinleştiril
 ## 23 Ekim 2026 — Kurmancî adlandırma tercihi
 
 **Kurucunun önerdiği ontolojik terim: Hebûna Hebûnî.** Ehad'ın hükmü karşısında yaratılmış Yek'in varlık göstermesi ve kendi boyutuna özgü fıtrî düzenini sergilemesi. Önceki çalışma önerisi *Zanayê Hebûnî* yerine, bilinçli bilme çağrışımını azaltmak için bu ad tercih edilmiştir. **Epistemik terim önerisi: Zanayê Nirxîner**, Zanabûn'da sonucu değerlendiren ikinci bilen için. Bu iki kavram özdeş değildir. Kurmancî terimlerin dilsel doğallığı ayrıca kontrol edilmelidir; bu kayıt kurucunun ontolojik ad önerisini ve epistemik ad için mevcut tercihi belgeler, dilbilimsel kesin doğrulama iddiası taşımaz.
+
+## 24 Ekim 2026 — Bağlayıcı kurucu açıklama: muhatap, etkilenen varlık
+
+Kurucunun bu tarihteki açık talimatıyla, ontolojik bağlamdaki “ikinci bilen”, kendi varlık tanımı ve sınıflandırmasına uyan **muhatap, etkilenen varlık** olarak anlaşılır. Fizik boyutunun ilk evresindeki örnek, insan gibi bilen veya bilgi sonucunu bilinçli onaylayan özne değildir. “İkinci” burada Ehad karşısındaki yaratılmışlık konumunu belirtir; atom türlerinin sıra numarası değildir. Epistemolojik ikinci bilenin sonuç değerlendirmesi ayrı işlevdir.
+
+Özgün Word makaleleri hatasız doğrular olarak değil, düzeltilip akademik araştırmaya dönüştürülecek ilk çalışmalar olarak verildi. Kaynak sadakati kurucu maksadı korumayı gerektirir; eski bilimsel hata veya adlandırmayı savunmayı gerektirmez. Hidrojen/helyum seçimi, atom yapısı ve süreç açıklamaları bilimsel kaynaklara göre düzeltilir. Anlamı bu beyanla açıklanan sözcükler yeniden belirsizlik konusu yapılarak çalışma uzatılmaz. Bu ilke diğer makalelerin dönüşümünde de uygulanır.
