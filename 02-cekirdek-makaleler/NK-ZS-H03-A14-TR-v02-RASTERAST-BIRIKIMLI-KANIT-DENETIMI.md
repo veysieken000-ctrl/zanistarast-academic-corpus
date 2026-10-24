@@ -1,191 +1,214 @@
-# Rasterast — Birikimli Kanıt ve Bağımsız Denetim
+# Rasterast — Kaynak, Gerekçe ve Düzeltmenin Birikimli Denetimi
 
-**H03/A14 Türkçe v02 | 22 Ekim 2026 | Birikimli akademik araştırma sürümü, gönderime hazır değil**
+**H03/A14 Türkçe v02 | 24 Ekim 2026 | Düzenlenmiş yöntem araştırması**
 
 ## Öz
-Rasterast, Hebûn ontolojisinin ilk Yek → ikinci Yek → yeni Yekler → Komel kurucu türeme tezini ve Zanabûn epistemolojisinin bilen özne → bilinen nesne → sonuç → ikinci bilenin onayı ilkesini **anlamlarını değiştirmeden, kaynak ve kanıt türüne göre** değerlendiren denetim yöntemidir. Bu çalışma kurucu inanç, birincil metin, tefsir, mantıksal çıkarım, analoji ve ampirik iddialar için ayrı kayıt alanları önerir. Nisâ 4:1'in insan örneğiyle fiziksel ve biyolojik süreçlerin özdeş sayılmasını önleyen bir iddia soyağacı kurar. Bağımsız ikinci denetimin ortak hata koşullarını ele alır. Bu protokol henüz gerçek hakemli değerlendirmede doğrulanmış bir yöntem değildir. Güncel kurucu modelde fıtrat, fıtrî ahlak ve iradeli ahlak farklı kavramlardır; bunların ontolojik, deneysel ve teolojik dayanakları ayrı ayrı denetlenir.
 
-**Anahtar sözcükler:** Rasterast, kanıt, kaynak soyağacı, karşı-örnek, bağımsız denetim, geri besleme.
+Rasterast, Zanistarast'ta bir iddianın kaynağı, gerekçesi, karşı-örnekleri ve kullanım sınırı arasındaki ilişkiyi denetleyen yöntemdir. Bu çalışma, Hebûn'un ontolojik temeli ve Zanabûn'un bilgi değerlendirmesi üzerine kurulur; önceki Rasterast okuma yazıları, doğrulama ilkeleri, kaynak-soyağacı eki ve biçimsel taslaklar birlikte karşılaştırılır. Amaç, bir önermenin hangi yoldan savunulduğunu ve yeni bulgu karşısında hangi gerekçeyle düzeltileceğini görünür kılmaktır. İddia türü, kaynağa erişim, kaynakta bulunan içerik, çıkarım ve değerlendirme sonucu ayrı kaydedilir. İç tutarlılık dış doğruluğa, kaynak çokluğu bağımsız kanıta veya otomatik uyarı doğrulanmış hataya eşitlenmez. H01–H02 ve H05'teki mevcut örnekler üzerinden kaynak bağımlılığı, sav kapsamı ve düzeltmenin diğer makalelere aktarımı açıklanır. Katkı, kaynaklı araştırmanın birikimini koruyan ve denetimi gerçek değişiklik ihtiyacına bağlayan bir yöntem sentezidir; karşılaştırmalı olarak ölçülmüş hata azaltma başarısı ileri sürülmez.
 
-## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
+**Anahtar sözcükler:** Rasterast, kaynak soyağacı, gerekçe, bağlam, karşı-örnek, düzeltme, birikimli araştırma.
 
-## 1. Devralınan bilgi: H01 ve H02
-**H01 Hebûn:** Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır. İlk Yek → ikinci Yek → üçüncü ve sonraki Yekler → Komel, kurucu ontolojik ilişkidir. Yek yaratılmış yedinci boyut değildir. Nisâ 4:1'de tek nefis, ondan eşi, ikisinden çoğalma bulunur; Âdem–Havva–çocuklar kurucu tefsir örneğidir. “Bel kemiği/kaburga” ayetin doğrudan lafzı değildir.
-**H02 Zanabûn:** Bilen öznenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı. Ontolojik ikinci Yek ile epistemolojik ikinci bilen farklı rollerdir. İki kişinin aynı sonucu söylemesi ortak hata olasılığını ortadan kaldırmaz.
+## 1. Araştırma sorusu ve kaynak yöntemi
 
-Rasterast bu iki makaleyi yeniden yazmaz; onlardan devralınan iddiaların hangi kaynak ve sınamayla desteklendiğini gösterir.
+**Soru:** Bir iddianın kabul, sınırlandırma veya düzeltme gerekçesi nasıl izlenebilir tutulur ve bu gerekçe sonraki makalelere hangi koşullarda aktarılır?
 
-## 2. İddia türleri ve denetim statüleri
-**K — Kurucu kabul:** Ehad–Yek gibi teolojik/ontolojik tez. Kaynak sadakati ve iç tutarlılık incelenir; deney sonucu gibi sunulmaz.
-**T — Birincil metin:** Nisâ 4:1'deki tek nefis–eş–ikisinden çoğalma ifadesi. Doğrudan metin ve güvenilir meal/tefsir karşılaştırılır.
-**Y — Yorum:** Hz. Âdem–Hz. Havva–çocuklar özdeşleştirmesi veya boyutlara uygulama. Metnin lafzından ayrılır.
-**M — Mantıksal çıkarım:** Açık öncüllerden sonuç. Geçerlilik, öncüllerin doğruluğundan ayrı denetlenir.
-**A — Analoji:** İnsan türemesi, hücre bölünmesi ve atomik örgütlenme arasında kurucu benzerlik. Mekanizmaların aynılığı iddia edilmez.
-**E — Ampirik iddia alanı:** Nükleosentez, hücre bölünmesi, çok hücrelilik ve bellek hakkındaki gözlem/deney gerektiren önermeler. Bu alanın içinde **E-bulgu** yayımlanmış gözlemi, **E-hipotez** henüz sınanacak açıklamayı gösterir; ikisi aynı doğrulanmışlık derecesinde değildir. Kaynağın kendi sonucu ile bu makalenin o sonuçtan çıkardığı yorum ayrı satırlarda tutulur.
+Yöntem, proje içindeki kaynakların karşılaştırılması, iddia–dayanak–çıkarım çözümlemesi ve seçilmiş karşı-örneklerin incelenmesidir. *Rasterast Yaklaşımında Okuma*, *Rasterast Metodu ve Tanıklık Problemi*, Rasterast serisinin yöntem yazıları, 15 Ekim doğrulama ilkeleri, Rabûn–Rasterast sınır kaydı ve biçimsel doğrulama taslaklarından yararlanılır [R1–R6]. Güncel H01 ve H02'nin tamamlanan iç metinleri, eski bölüm numaralarının yerine geçerli başlangıç noktalarıdır.
 
-**Terim denetimi:** Bir bilimsel terim için önce alan kaynağındaki tanım ve ölçüm birimi kaydedilir. Kurucu kabul, bu teknik tanımı değiştiren kanıt sayılmaz. Aynı sözcüğün ontolojik veya gündelik kullanımı ayrı açıklanır; örneğin fiziksel güç ile genel eylem kapasitesi tek değişken değildir. Tanım birden fazla bilimsel gelenekte farklı kullanılıyorsa seçilen kullanım açıkça belirtilir.
+Kaynakların ortak yönü bağlamı korumak, kanıtın taşıdığından fazlasını söylememek, gerekçeyi izlemek ve düzeltmeye açık olmaktır. Farklı eski kullanımlar da vardır: Rasterast bazen yönetim, bazen katmanlar arası uyum, bazen okuma disiplini, bazen doğrulama filtresi olarak anlatılmıştır. Bu makale mevcut birikimi bu farkları saklamadan birleştirir. **Rabûn yönetim ve yetkiyi; Rasterast iddia ve dayanakların denetimini konu edinir** [R3].
 
-## 3. Denetlenebilir kaynak soyağacı
-Her iddia şu alanlarla tutulur:
-`iddia_id | makale_sürümü | tam_önerme | tür | kurucu_kaynak | dış_kaynak | yorum_köprüsü | bağımsız_kanıt | karşı_örnek | epistemik_statü | sonraki_makaleye_aktarım`.
+Önceki kaynaklarda geçen “her tutarlı sistem doğrudur”, “aynı işlev aynı mekanizmadır” veya “iki onay hatayı dışlar” gibi güçlü yorumlar devralınmaz. Bunların yerine hangi sınırlı sonucun hangi gerekçeyle savunulabildiği gösterilir. İlk taslaktaki bilimsel hatayı korumak kaynak sadakati sayılmaz; özgün anlam ile sonraki düzeltmenin izi birlikte korunur.
 
-Örnek kayıtlar:
+## 2. Hebûn ve Zanabûn'dan devralınan temel
 
-| ID | Önerme | Tür | Denetim sonucu |
-|---|---|---|---|
-| R-H01-01 | Ehad Yek'tir | K | Kurucu kanonda kayıtlı; fiziksel deney kanıtı iddiası yok |
-| R-H01-02 | Nisâ 4:1 tek nefis, eş ve ikisinden çoğalmayı anlatır | T | H01 §3: Diyanet 2011 meal ve dipnotu doğrudan kontrol edildi; Kur'an Yolu tefsiri indekslenmiş resmî metinden incelendi. Erişim düzeyleri ayrı tutulur |
-| R-H01-03 | Âdem ilk Yek, Havva ikinci Yek, çocuklar sonraki Yeklerdir | Y | Kurucu tefsir; ayetin lafzı ile özdeş değil |
-| R-H01-04 | Aynı 1→2→3 şeması her boyutta aynı maddi mekanizmadır | E | **Desteklenmiyor**; boyuta özgü süreçler var |
-| R-H01-05 | Her atomda proton, nötron ve elektron bulunur | E | **Karşı-örnek: hidrojen-1 nötronsuzdur** |
-| R-H02-01 | İkinci bilenin onayı bilgiye katkı verir | K/M | Bağımsızlık koşulları ayrıca sınanmalı |
-| R-H02-02 | İki onay her zaman iki bağımsız kanıttır | M/E | **Yanlış genelleme**; ortak hata mümkündür |
+**Hebûn:** Ehad Yek'tir ve âlemlerdeki her şeyi Yek'e göre yaratmıştır. Tekillik, türeme ve Komel ilişkisi ontolojik temeldir. Muhatap varlık ilişkinin etkilenen tarafını, Lêket ilişkinin ilgili katmanlarda meydana getirdiği farkı anlatır [R7]. Bu fark insan tipi bilinç, yeni birey veya doğru bir bilimsel iddia olmak zorunda değildir.
 
-## 4. İkinci denetim ve ortak hata
-Birinci bilen bir cihazdan P sonucunu üretir; ikinci bilen aynı hatalı cihazdan aynı P'yi alır. İki onay vardır ama tek hata kaynağı devam eder. Bu nedenle ikinci denetimde yalnız kişi sayısı değil, **yöntem, veri kaynağı, çıkarım zinciri ve bağımsız karşı-örnek** kontrol edilir. İkinci bilenin kurucu muhataplık anlamı ile bilimsel bağımsız denetçi rolü ayrıca tanımlanır.
+**Zanabûn:** İlişki hakkında ortaya çıkan sonucun gerekçeli değerlendirilmesini, tanıklık, sorumluluk ve kaynaklı süreklilikle birlikte ele alır [R8]. Doğruluk, kabul için sunulan gerekçe ve onay kararı farklı sorulardır. Rasterast bu ayrımı uygulamada korur: metin, ölçüm, çıkarım, ahlaki kullanım ve ontolojik kabul birbirlerinin yerine geçirilmez.
 
-## 5. Boyutlar arasında aktarım denetimi
-**Fizik:** İlk/ikinci atomik Yek ve yeni örgütlenme tartışılır; hidrojen–helyum tek atomdan doğrudan türeme diye anlatılmaz.
-**Biyoloji:** Tek hücreli/çok hücreli evre ayrımı korunur; ilk hücreden ikinci hücrenin bölünmeyle ortaya çıkışı, çok hücreli organizmanın doğuşuyla karıştırılmaz.
-**Zihin:** Zekâ/akıl ayrımı korunur; ilk zihinli Yek ve ilk/ikinci hafıza açık araştırma sorusudur.
-**Ruh/ahlak/hüküm:** Ruh, melekler, fıtrî ve iradeli ahlak, sevgi ve ahiret teolojik/ontolojik statüleriyle kaydedilir; ölçülmüş mekanizma gibi sunulmaz.
-**İnsan:** Fizik, biyoloji, zihin, ahlak, akıl, duygu + öz katmanları 6+Tek kozmik boyutlarla sayısal olarak eşitlenmez.
+Rasterast'ın ayırt edici sorusu, H02'nin bilgi kuruluşunu yeniden anlatmak değil, **“bu savın kaynağı ne, kaynak bu sonucu ne ölçüde taşıyor, itiraz geldiğinde ne değişmeli?”** sorusunu cevaplamaktır. Yeni değerlendirme aynı sağlam tanımı devralabilir; yeni iddianın ek kanıt yükünü ayrıca taşır.
 
-## 6. Kaynak karşılaştırma ilkesi
-Kur'an, Hz. Muhammed'in öğretisi ve Risale-i Nur, kurucu düşünsel yönelimin kaynaklarıdır. Kur'an'daki ayet lafzı, geleneksel tefsir, kurucu yorum ve bilimsel çıkarım **dört ayrı aşama** olarak gösterilir. Doğrulanmamış hadis veya Risale-i Nur cümlesi doğrudan alıntı gibi verilmez. Özgün Word kaynakları ve son kurucu kararlar sürümleriyle izlenir.
+## 3. İddia türü ile değerlendirme sonucu
 
-## 7. Birikimli aktarım: beş çekirdeğin ortak bilgi paketi
-**Devredilecek tanımlar:** Ehad–Yek, ilk/ikinci/yeni Yek, Komel, kıble/merkez–çevre, 6+Tek, insan katmanlarının ayrılığı.
-**Devredilecek yöntem:** K/T/Y/M/A/E statüleri, iddia soyağacı, bağımsız ikinci denetim, karşı-örnek kaydı.
-**Devredilecek sınırlar:** Her boyutta aynı mekanizma yok; evreler eşeysiz/eşeyli değildir; hidrojen-1 üç parçacık zorunluluğuna karşı-örnektir; ontolojik ikinci Yek epistemolojik ikinci bilenle özdeş değildir.
-**Kapsam sınırı:** Her boyut için tarihsel ve ampirik açıklama tamamlanmış değildir. Özgün Word'lerin bütün metin kapsamı envanterde mevcuttur; her cümlenin dış kaynaklarla bağımsız doğrulaması ayrıca değerlendirilir. Bağımsız alan denetimi ile 412 makale yayın kapısı bu protokolün dışında tamamlanmış varsayılmaz.
+Bir önermenin ne tür olduğu, doğru veya yanlış olduğuna karar vermekle aynı işlem değildir. Bu makalede önceki H03'ün etiketleri anlamları korunarak kullanılır.
 
-## 7A. Beş çekirdek için uygulanabilir geri besleme denetimi
-Her bilimsel iddia için kayıt şeması: (i) makale ve bölüm, (ii) iddianın aynen yazımı, (iii) teolojik/felsefi/ampirik/hipotez/analojik statü, (iv) birincil kaynak ve varsa DOI, (v) bağımsız ikinci denetim, (vi) karşı-örnek, (vii) düzeltmenin etkileyeceği diğer çekirdekler. Kaynağı bulunmayan ampirik iddia açık olarak işaretlenir; felsefi kabul ampirik ispat olarak etiketlenmez. H01'de hidrojen-1, H05'te karga bilişi karşı-örnekleri bu protokolün başlangıç denemeleridir. Çekirdekteki her değişiklik ilgili diğer makaleye geri beslenip yeniden denetlenmeden kapanış verilmez.
-
-## 7B. Denetimin yeniden uygulanması ve karar kuralları
-NASEM (2019, bölüm 3, s. 45–46; Sonuç 3-1) aynı verinin yeniden hesaplanmasını yeni veriyle sınamadan ayırır. Yeni veriyi ilk ekibin toplaması da tekrar çalışması olabilir; değerlendiricinin ekipten bağımsızlığı ayrıca incelenir. Rasterast kaydı bu iki işlemi ayrı alanlarda tutar. Aynı DOI'ye dayanan iki özet iki bağımsız araştırma sayılmaz. Bir denetçinin kendi metnini yeniden okuması sürüm doğrulamasıdır; bağımsız hakemlik değildir.
-
-1. İncelenen metnin commit'i, bölüm ve iddia kimliği sabitlenir; sonraki değişiklik yeni kayıt açar.
-2. Kaynağın başlık–yazar–yıl–DOI eşleşmesi doğrulanır. Yalnız bibliyografik eşleşme ile yöntem ve bulgu kontrolü ayrı işaretlenir. Her kanıt kaydı için asıl veri, veri toplama aracı, analiz yazılımı/yöntemi ve yorum kaynağı ayrıca gösterilir; bağımlılığı bilinmeyen alan “bağımsız” kabul edilmez.
-3. Kaynağın erişilen kısmı (tam metin, özet, şekil veya yalnız kayıt) ve iddiayı destekleyen yer belirtilir. Erişilemeyen bölüm incelenmiş sayılmaz. Başka bir resmî erişim yolu bulunduğunda yeni yol ve kaynak yeri kaydedilir; önceki başarısız çağrı kaydı geriye dönük başarıya çevrilmez.
-4. İddiaya en güçlü karşı-örnek ve alternatif açıklama yazılır. Kapsam dışına taşan çıkarım daraltılır; karşıt bulgu saklanmaz.
-5. Karar **destekli / kısmen destekli / karşı-örnekle sınırlı / kaynak bekliyor** olarak gerekçelendirilir. Bu etiketler sayısal olasılık değildir.
-6. H01–H05'te ilgili tanımın geçtiği bölümler yeniden okunur. Bağımsız denetçi bulunmadıysa o alan açık bırakılır; aynı çalışma turu ikinci bağımsız onay gibi sunulmaz.
-
-**Deneme kayıtları:** H01 bölüm 5'te hidrojen-1, bütün atomlar için nötron zorunluluğunu sınırlar; bütün ontolojiyi tek başına değerlendirmez. H01 bölüm 6'daki maya deneyi çok hücrelilik için mekanizma gereğini görünür kılar. H05 bölüm 5'te karga alet üretimi ve planlama bulguları, basit “hayvan alet yapamaz” ayrımını sınırlar. Bu örneklerin kaynakları ilgili makalelerin dış kaynakçalarındadır. Deneme protokolün kullanılabilirliğini gösterir; hata yakalama başarısı hakkında bağımsız ölçüm yapılmış değildir.
-
-**Bağımlılık örneği:** Aynı veri kümesini iki ekip farklı analizlerle incelerse iki analiz kaydı, fakat bir veri kaynağı vardır. Yeni analiz belirli hesaplama hatalarını sınayabilir; veri toplamadaki ortak yanlılığı otomatik olarak gidermez. Farklı veri kümeleri de aynı hatalı işlem veya yoruma dayanabilir. Bu nedenle bağımsızlık kişi sayısıyla tek bir evet/hayır etiketine indirgenmez; veri, araç, analiz ve yorum düzeylerindeki paylaşım açıkça kaydedilir. Bu kayıt şeması önerilen denetim işlevidir; ölçülmüş hata olasılığı vermez.
-
-**Uygulama ayrıntısı:** H01 §6'daki maya örneğinde deney boyunca aynı seçilim işleminin değişmeden sürdüğü varsayılmamalıdır. Kaynağın belirttiği yöntem değişikliği ilgili evresiyle aktarılır. Bu, sonuçların hangi koşullarda elde edildiğini izleme kuralıdır; söz konusu değişikliğin etkisini burada yeniden ölçtüğümüz anlamına gelmez.
-
-**Yöntemsel sınır:** Kurucu kaynak sadakati ile ampirik doğruluk iki ayrı denetimdir. Kanonik uyum bilimsel doğrulamanın yerine geçmez. Geçerli bir karşı-örnek geldiğinde ampirik uygulama düzeltilebilir; kurucu teolojik kabulün statüsü ayrıca belirtilir. Hedef, farklı iddia türleri arasındaki geçişin gerekçesini görünür kılmaktır.
-
-### 7C. H05 üzerinden bir gerçek itiraz–yanıt denetimi
-H05'te Boeckle ve ark. (2020) için deneydeki araç seçimi, araştırmacıların planlama yorumu ve bu yorumun eleştirisi ayrı kaydedilir. de Mahy ve ark. (2021) çağrışımsal açıklamanın dışlanmasını sorgular; Boeckle ve ark. (2021) yanıt verir. Ayrıntılı kaynaklar H05 dış kaynakçasındadır. Bu, aynı yazarın çalışmasına verdiği yanıtın bağımsız tekrar deneyi sayılmaması gerektiğini gösteren bir örnektir. Deneysel sonuç, yorum ve eleştiri zinciri birlikte görünür tutulur. Tarafların birbirine atfettiği iddia da ayrıca denetlenir: bir eleştirmenin “yüksek düzeyli kavram” okuması, ilk yazarların kendi hedefini aynı şekilde tanımladığının kanıtı değildir. H05 §5B'deki yanıtın amaç ayrımı bu nedenle eleştirmenlerin yorumu ve yazarların itirazı olarak ayrı aktarılır. Yazar yanıtı eleştirinin yerine veya bağımsız yeni veri yerine kullanılmaz.
-
-H05 §5A'daki inceleme, örneklem paydası ile testin şans düzeyinin ayrı kaydedilmesi gerektiğini de gösterir: eğitime giren, teste alınan ve belirli ölçüte ulaşan birey sayıları aynı değildir. Sonucun hangi seçenek uzayında hesaplandığı kaynakta belirtilmeden yalnız “şans üstü” ifadesi aktarılmaz. Bu kayıt kuralı H05'teki Boeckle örneğinin denetiminden çıkarılmıştır; yeni istatistiksel analiz sonucu değildir.
-
-Rasterast için iki başarım ayrı ölçülmelidir: bibliyografik hatayı bulma ve çıkarımın kaynak kapsamını aştığını bulma. Bu makalede protokol tasarlanıp örneklendirilmiştir; duyarlılık, hata oranı veya başka denetçiler arasındaki uyum ölçülmemiştir. Dolayısıyla protokolün mevcut akademik denetim yöntemlerinden üstün olduğu ileri sürülmez.
-
-### 7D. Ana önermelerin kaynak ve statü haritası
-| Önerme | Dayanak | Statü ve aktarım sınırı |
+| Tür | İçerik | Uygun inceleme |
 |---|---|---|
-| Kaynak sadakati ile ampirik doğruluk ayrı denetlenir | H01/H02 iddia türlerinin çözümlemesi | Önerilen yöntem; başarı oranı ölçülmedi |
-| Aynı DOI'yi tekrar eden özetler bağımsız kanıt değildir | Kaynak soyağacı mantığı | Bağımlılık denetimi; kaynak sayısı kanıt ağırlığı değildir |
-| Aynı veri ve yeni veri işlemleri farklıdır | NASEM, 2019, bölüm 3 | Dış yöntem karşılaştırması |
-| Sonuç–yorum–eleştiri ayrı tutulur | H05'te Boeckle 2020 ve 2021 tartışması | Gerçek yayın zincirinde örnekleme; bağımsız tekrar yok |
-| Karar kayıtları düzeltilebilir olmalıdır | Bölüm 7B protokolü | Rasterast'ın önerisi; üstünlüğü henüz sınanmadı |
+| K — Kurucu kabul | Ontolojik, teolojik veya açık normatif başlangıç | Kurucu kaynak, sonraki açıklama, iç tutarlılık ve yorum sınırı |
+| T — Kaynak metin beyanı | Bir metinde belirli ifadenin bulunması | Metnin doğru sürümü ve bağlamı; alıntı ile yorumun ayrılması |
+| Y — Yorum | Araştırmacının metne veya bulguya getirdiği açıklama | Dayanak, yorum köprüsü ve alternatif okuma |
+| M — Mantıksal/biçimsel sav | Belirtilmiş öncüllerden sonuç | Tanım, varsayım, çıkarım adımı ve karşı-model |
+| A — Analoji | Alanlar veya örnekler arasında benzer ilişki | Benzerliğin hangi özellikte kurulduğu ve nerede bozulduğu |
+| E — Ampirik sav | Gözlem veya deneyle incelenen önerme | Veri, yöntem, belirsizlik, alternatif açıklama ve kapsam |
 
-### 7D-1. Doldurulmuş denetim kaydı: ortak cihaz düşünce deneyi
-Aşağıdaki kayıt §3'teki alanları tek bir gerçek metin konumunda doldurur. İncelenen önerme bir yöntem argümanıdır; yapılmış laboratuvar deneyi değildir.
+E etiketi hem sınanacak hipotezlerde hem yayımlanmış bulgu iddialarında bulunabilir; bunların durumu ayrıca yazılır. Bir kaynağın yayımlanmış olması bu makalenin ondan yaptığı genişletmenin de desteklendiği anlamına gelmez. K etiketi de çalışma programındaki K0–K6 aşamalarıyla karıştırılmaz.
 
-| Alan | Kayıt |
+**Kaynakta bulunma ve dış doğruluk:** “Metin P diyor” önermesiyle P'nin kendisi ayrı denetlenir. Alıntının doğru aktarılması yalnız ilk soruyu cevaplayabilir. Böylece kurucu görüşe sadakat ile görüşün bilimsel uygulamasının kanıt durumu aynı onay kutusuna indirgenmez.
+
+### 3.1. Erişim ve kararın ayrı tutulması
+
+Bir kayıt en az dört ayrı bilgi taşır: kaynakta neye erişildiği, kaynağın ne söylediği, bizim hangi çıkarımı yaptığımız ve hangi sonucun gerekçelendirilebildiği.
+
+**Tam metin / özet / bibliyografik kayıt / erişilemedi** erişim düzeyleridir. **Destekli / kısmen destekli / karşı-örnekle sınırlı / kaynak bekliyor** ise değerlendirme sonuçlarıdır. Bunlar sayısal doğruluk olasılığı değildir. Destekli kararı da açıkça belirtilen sav ve kapsam içindir.
+
+Bir bağlantının açılamaması P'nin yanlış olduğunu göstermez. Bir DOI'nin bulunması da çalışmanın yönteminin okunduğunu göstermez. Kaynak bekleyen bir sav doğrulanmış diye kullanılmaz; gerçek karşı-örnekle çürütülmüş sav da yalnız “kaynak bekliyor” etiketiyle belirsizleştirilmez. Son durumda yanlışlanan açık önerme ve gerekçesi yazılır.
+
+## 4. Kaynak ve gerekçe yolu
+
+Denetlenebilir kayıt şu sorulara cevap verir: Hangi sav? Hangi metin sürümü? Nereden geldi? Hangi veri veya alıntı kullanıldı? Sonuca hangi ara adımlarla gidildi? Hangi itiraz onu sınırlar?
+
+Önerilen kayıt:
+
+`iddia_id | hedef_metin_sürümü/bölümü | açık_önerme | tür | kaynak_kimliği/sürümü/yeri | erişim_düzeyi | kaynakta_bulunan | çıkarım_adımları | ortak_bağımlılıklar | karşı_örnek | karar_ve_kapsam | düzeltme_ve_etkilenenler`.
+
+Makale sürümü yalnız “v02” adıyla bırakılmaz; değişen metinlerde commit veya eşdeğer sabit kimlik kullanılır. Kaynak paragrafının nasıl numaralandırıldığı açıklanır. Daha önceki okuyucu dökümünün satır numarası Word'ün kalıcı paragraf kimliği veya yeni HTML'in bölüm numarası sayılmaz.
+
+**İlişki türü de kaydedilir:** Bir metin ötekini alıntılıyor, yorumluyor, çeviriyor, eleştiriyor, yeniden hesaplıyor veya yeni veriyle sınıyor olabilir. Hepsini tek “destekler” oku altında toplamak gerçek kanıt kökenini gizler. Aynı kaynağı aktaran iki metin, iki bağımsız veri kökü oluşturmaz.
+
+Bu yol yalnız uzun bir belge listesi değildir. Kaynak A'dan öncül P1 alınmış, P2 araştırmacının varsayımı olarak eklenmiş ve sonuç S elde edilmişse, S'nin hangi kısmının P2'ye bağlı olduğu da görünür olmalıdır. Kaynak değiştiğinde bütün metni yeniden okumak yerine bu bağımlılığın etkisi incelenebilir.
+
+## 5. Mantıksal sınama ve ortak hata
+
+H02'de gerçek hedef 0 iken dört raporun da 5 bildirdiği kurgusal örnek kullanılır [R8, §4.1]. Ortalama 5, raporların iç saçılımı 0, dış hata 5'tir. Dolayısıyla **iç uyuşma dış doğruluğun yeterli koşulu değildir**. Kaynak sayısı veya değerlendirici sayısına dayanan güçlü bir doğruluk iddiası bu karşı-örnekle sınırlandırılır.
+
+Aynı yanlış kalibre edilmiş araç, aynı veri, aynı analiz veya aynı yorum öncülü farklı raporlarda korunabilir. Bağımsızlık bu nedenle kişi adına bakılarak tek evet/hayır kararıyla verilmez.
+
+| Paylaşılan unsur | Yeni değerlendirme ne sağlayabilir? | Tek başına neyi dışlamaz? |
+|---|---|---|
+| Aynı veri, farklı hesap | İşlem ve çıkarım hatalarını inceleyebilir | Veri toplamadaki ortak yanlılık |
+| Yeni veri, aynı aygıt/kalibrasyon | Bazı örneklem farklarını inceleyebilir | Ortak ölçüm kayması |
+| Ayrı yayın, aynı ilk kaynak | Aktarım ve yorum farkını gösterebilir | İlk kaynağın hatası |
+| Farklı araç ve yöntem | Belirli ortak hata ihtimallerini azaltacak ek sınama sağlayabilir | Bütün hata ihtimalleri veya bilinmeyen ortak öncüller |
+
+Aynı kaynağı kullanmak ikinci değerlendirmenin değersiz olduğunu da göstermez. Örneğin aynı veriden yapılan bir hesabın hatası yeniden hesaplamayla bulunabilir. Karar, hangi hata kaynağının gerçekten sınandığını belirtir.
+
+NASEM'in (2019, bölüm 3) aynı veriyle sonucu yeniden elde etme ile yeni verilerle aynı soruyu sınama ayrımı bu kayıt için yöntem karşılaştırmasıdır. Yeni veriyi ilk ekip de toplayabilir; yeni veri ve ekip ayrılığı ayrı sorulardır. H03'te bu ayrım önceden incelenen kaynak kaydından devralınır; bu turda yeni bir tekrar çalışması yapıldığı anlamına gelmez.
+
+### 5.1. Geçerli çıkarımın kapsamı
+
+“P doğruysa Q çıkar” biçimindeki ispat, P'nin doğada gerçekleştiğini kendiliğinden göstermez. Tanımı gereği tutarlılığı koruyan bir operatör yazmak da gerçek bir programın bu özelliği sağladığının ispatı değildir [R5–R6]. Önce kabul edilen koşullar, sonra çıkarım, sonra dış dünyadaki uygulama ayrı değerlendirilir.
+
+Bir karşı-modelin sınırı da belirtilir. Örneğin dört düğümlü çevrim grafında düğümlerin derece-merkeziliği eşittir [R9]. Bu, **o ölçüte göre her yapıda benzersiz merkez bulunduğu** savına karşı örnektir. Bütün ontolojik merkez anlamlarının yanlışlandığı sonucu çıkmaz. Başka merkez ölçütüne geçilecekse yeni tanım ve yeni sınama gerekir; sırf karşı-örnekten kaçınmak için ölçüt sonuçtan sonra değiştirilmez.
+
+## 6. Bağlam ve alanlar arası aktarım
+
+Önceki Rasterast okuma yazıları metni parçalamamayı, lafız ile yorumu ayırmayı ve doğa örneğini zorlamamayı öğütler [R1]. Bu yöntemsel çekirdek korunur. Kaynakta “işlev aynıysa benzetme değildir” denmiş olması ise farklı alanların aynı mekanizmayla çalıştığını kanıtlamaz. İşlevsel benzerlik araştırma sorusu kurabilir; hedef alandaki açıklama ayrıca gerekçelendirilir.
+
+**Dinî kaynak okuması:** Kur'an ayetinin lafzı, meal, tefsir, kurucu yorum ve bilimsel uygulama ayrı gösterilir. Hz. Muhammed'in öğretisi ve Risale-i Nur'a ait cümleler doğrulanmadan doğrudan alıntı diye verilmez. H01 §3'teki Nisâ 4:1 örneğinde tek nefis–eş–ikisinden çoğalma ifadesi ile Âdem–Havva yorumunun ayrılması bu yöntemin uygulamasıdır. Aynı ayrım diğer ayetlere de uygulanır; eski bir dosyada ayet numarası bulunması o alıntının bu turda yeniden denetlendiği anlamına gelmez.
+
+**Fizik ve biyoloji:** H01'deki hidrojen-1, bütün atomlarda nötron zorunluluğu iddiasını sınırlar; başka bir ontolojik kabulün doğrudan deneysel testi değildir. Hücre bölünmesi, çok hücreli örgütlenme ve insan üremesi aynı oluşum mekanizması sayılmaz. Maya yayınlarının aynı araştırma programındaki ilişkisi ayrıca kaydedilir.
+
+**Zihin ve insan katmanları:** H05'in ilimden ilim üretme tanımı ile gözlenebilir bilişsel görevler ayrılır. Aynı tekniği uygulama, yeni ürün yapma ve denetlenebilir yeni bilgi üretme özdeş değildir. İnsan katmanları kozmik boyutlara sayısal olarak eşitlenmez.
+
+**Ahlak ve hüküm:** Bir doğa olayından doğrudan ahlaki yükümlülük çıkarılmaz; normatif öncül açık yazılır. Hüküm–ahlak ilişkisi, insanın bilgi, niyet, seçim ve sorumluluğunu içeren düzlemde incelenir. Doğal düzen, insanın ahlaki kararı ve nihai teolojik hüküm aynı kanıt türüne dönüştürülmez.
+
+**Tarih ve yönetim:** Tarihyazımındaki merkez, tanıklık ve süreklilik yaklaşımı araştırma soruları sağlar [R4]. Bir dönem önceden “ahlaki çöküş” diye sınıflandırılıp aynı sınıflama onun sebebinin kanıtı yapılamaz. Kaynak seçimi, alternatif açıklama ve dönem ölçütü ayrıca savunulur. Benzer biçimde kurumsal yetki bir ampirik iddiayı doğru yapmaz; iyi desteklenmiş bilimsel iddia da tek başına kimin siyasal yetki kullanacağını belirlemez [R3].
+
+## 7. Otomatik uyarı, karar ve biçimsel taslak
+
+15 Ekim Rasterast doğrulama ilkeleri kaynak, bağlam, çelişki, tutarlılık, güven, çapraz karşılaştırma, bütünlük ve belirsizliği birlikte ele alır [R2]. Aynı belge iç karar adlarını `RED / REVIEW / HIFZ` olarak kaydeder. Bu adlar, projenin kendi kontrol politikasındaki durumlardır; evrensel doğruluk veya yayın kabulü anlamına gelmez.
+
+Bu makalede kaynaktaki kod veya karar politikası değiştirilmez. **Kuralın yazılı olması, otomasyonda bütünüyle uygulanması, çalıştırılması ve gerçek araştırmada işe yaraması farklı durumlardır.** Belgedeki “HIFZ” sözcüğü eski bilgi ve hatalı sürümlerin tarihsel izinin silinmesini gerektirmez; güncel doğrulanmış bilgi alanıyla araştırma ve sürüm geçmişi ayrılır.
+
+### 7.1. Uyarıdan önce bağlam
+
+Bir tarayıcı “iki onay her zaman bağımsız kanıttır” cümlesini bulabilir. Ancak cümle bir metinde **reddedilen örnek** olarak yazılmışsa, yalnız sözcük eşleşmesiyle metnin bu görüşü savunduğuna karar verilemez. Önceki H03–H02 bağlam kaydı bu sorunu açıkça göstermiştir [R10].
+
+Bu nedenle alıntı, varsayım, kurucu tanım, savunulan sonuç ve çürütülen iddia ayrı işaretlenir. Otomatik uyarı gerekçe ve konumuyla incelemeye girer; doğrulanmış ihlal diye kendiliğinden raporlanmaz. Tersine, uyarı çıkmaması da hata bulunmadığını ispatlamaz.
+
+### 7.2. Biçimsel çıktının sınırı
+
+Eski Rasterast operatöründe `ℛs: ΩR → ΩV × [0,1]` imzasıyla `ℛs ≥ τv` eşik ifadesi birlikte kullanılır [R6]. İlki ikili çıktı, ikincisi skaler değer ister. Ayrıca her girişin yalnız doğrulanmış durumlara gönderilmesi, reddedilecek veya henüz değerlendirilemeyen girişlerin nasıl temsil edileceğini açık bırakır.
+
+Bu metindeki **araştırma önerisi**, denetim sonucunu raporundan ayırmaktır:
+
+`D(iddia, kaynaklar, ölçütler) = (durum, gerekçe_raporu)`.
+
+`durum`, §3.1'deki destek ve sınırlandırma kararını; rapor ise kaynak, çıkarım, karşı-örnek, eksik alan ve kapsamı taşır. Bu şema çalıştırılmış yazılım veya doğrulanmış matematiksel operatör değildir. Sayısal puan eklenecekse neyi ölçtüğü ve eşiği ayrıca tanımlanır; puan kaynak eksiğinin veya geçersiz çıkarımın yerine geçmez.
+
+## 8. Mevcut metinler üzerinde uygulama
+
+### 8.1. H02'nin güncel karşı-örneği
+
+| Alan | Güncel kayıt |
 |---|---|
-| iddia_id | R-H02-ORTAK-CIHAZ-01 |
-| makale_sürümü | H02 v02; inceleme tabanı Git commit de573d2e7dc083709d06b7871d4a15b90b374ed6, §5 |
-| tam_önerme | “İlk bilen bozuk bir ölçüm cihazıyla yanlış P sonucuna ulaşır. İkinci bilen aynı cihazla aynı P'yi elde eder. İki onay vardır, fakat ortak hata sürmektedir.” |
-| tür | M; kurulmuş karşı-örnek |
-| kurucu_kaynak | H02 §2, ikinci bilenin onayı tanımı |
-| dış_kaynak | Bu karşı-örneğin mantıksal kuruluşu dış deney verisine dayandırılmaz; NASEM 2019 bölüm 3 karşılaştırması ayrı olarak H02 §5A'dadır |
-| yorum_köprüsü | İki kişinin onayı, veri toplama aracındaki ortak hatayı dışlamak için yeterli değildir |
-| bağımsız_kanıt | Ek veri veya bağımsız denetçi sonucu yok; böyle bir kanıt kaydedilmedi |
-| karşı_örnek | İki onayın her zaman bağımsız doğru kanıt olduğu evrensel iddiasına karşı, ortak hatanın mümkün olduğu durum |
-| epistemik_statü | Önermedeki varsayımlar altında yeterlilik iddiasını sınırlar; gerçek araştırmalarda hata sıklığı veya olasılığı ölçülmedi |
-| sonraki_makaleye_aktarım | H01 §10: ikinci Yek onay değildir; H04 §5: doğruluk/fayda/ahlak ayrılır; H05 §5B: yanıt bağımsız deney değildir |
+| İddia kimliği | R-H02-MUTABAKAT-01 |
+| Kaynak | H02, commit `350ccc54af162c22ccfe5496bba2a2265caaa588`, §4.1 |
+| İncelenen sav | Raporların birbirine benzemesi dış doğruluğun yeterli koşulu değildir |
+| Tür | M — kurgusal karşı-model |
+| Dayanak | Hedef 0, raporlar 5: ortalama 5, iç saçılım 0, mutlak hata 5 |
+| Karar | Belirtilen yeterlilik iddiası bu karşı-modelle sınırlandırılır |
+| Kapsam | Gerçek araştırmalarda hata sıklığı veya Rasterast başarısı ölçülmüş değildir |
+| Aktarım | H03'te kaynak çokluğu ve iç uyuşmanın doğruluk garantisi sayılmaması |
 
-Başka bir denetçi önce sabit commit'teki H02 §5'i bulmalı, ardından alıntının ve varsayımların sonucu taşıyıp taşımadığını değerlendirmelidir. Aynı kaydı yeniden doldururken farklı karar verirse gerekçesi saklanır. Bu makalede kayıt hazırlanmıştır; başka bir kişinin yeniden uygulaması veya denetçiler arası uyum ölçümü henüz yoktur. Sonraki metin değişikliği, bu kaydın eski sürüme ait olduğunu ortadan kaldırmaz.
+Bu kayıtta H02'nin eski §5 veya §5A numaraları güncel yer gibi kullanılmaz. Önceki kayıtlar kendi sabit sürümlerine aittir; yeni metin konumu ayrıca gösterilir. Böylece tarihsel iz korunurken yanlış bölüm arayışı tekrarlanmaz.
 
-### 7E. Özgün kaynakların bütün paragraf kapsamıyla taranması
-İki özgün metnin 195 ve 177 boş olmayan metin birimi, başlıklar dâhil, sırasıyla 37 ve 28 anlam bloğuna ayrılarak incelenmiştir. Toplam 372 birimin her biri envanterde bir bloğa bağlanır; bu sayı 372 bağımsız önerme veya makale değildir. Başlık/amaç, kurucu kabul, yorum, ampirik ifade, analoji ve maddi hata aynı kanıt türü sayılmamıştır.
+### 8.2. H05'te bulgu, yorum, eleştiri ve yanıt
 
-Bir blok içindeki ana önermenin özetlenmesi, o bloktaki her cümlenin bağımsız doğrulandığı anlamına gelmez. Envanter kaynak metnin tamamında hangi iddia ailesinin nerede bulunduğunu, çekirdeğe neyin aktarıldığını ve hangi varsayımın bilimsel destek olarak kullanılmadığını gösterir. Maddi hata düzeltmesi kaynak metni geriye dönük değiştirmez; asıl dosya korunur.
+H05 §5B, Boeckle ve arkadaşlarının 2020 araştırmasını, de Mahy ve arkadaşlarının 2021 eleştirisini ve yazarların 2021 yanıtını ayrı kaynak rolleriyle ele alır [R11]. Hayvanın yaptığı görev, araştırmacının planlama yorumu, alternatif öğrenme açıklaması ve yanıtta savunulan hedef aynı önerme değildir.
 
-Örneğin atom numarası için kurumsal veri, element için terminoloji standardı, hücresel çekirdek için biyoloji açıklaması kullanılır. Sevgi/dürüstlükten yanılmazlık çıkarımı ise düşünce deneyiyle sınırlandırılır. Sezgisel kabul ve bir inancın yaygınlığı, tek başına bir fiziksel mekanizmanın ölçümü sayılmaz. Karşılaştırmanın ayrıntılı izi: `../01-kanonik-denetim/H01-H05-IKI-OZGUN-KAYNAK-PARAGRAF-KAPSAMA-VE-IDDIA-ENVANTERI-2026-10-22.md`.
+Bu nedenle “yayın ve yanıt var” denilerek iki bağımsız deney kaydedilmez. Eğitime giren, teste alınan ve ölçüte ulaşan bireylerin paydaları da karıştırılmaz. Burada bu yayınlar yeniden analiz edilmiş değildir; H05'teki mevcut kaynak ve kapsam denetimi, Rasterast'ın kayıt örneği olarak devralınır.
 
-### 7F. Beş çekirdekte somut geri besleme uygulaması
-Denetim örneği H05'teki «akıl ilimden ilim üretir» önermesidir. İlk statü kurucu kavramsal tanımdır. Karşı-örnek: Bilinen bir tarifle çorba hazırlamak yeni bilimsel keşif gerektirmeyebilir. Düzeltme: (a) mevcut ilmin uygulanması, (b) yeni denetlenebilir bilgi elde edilmesi ve (c) yeni ürün üretilmesi ayrı aşamalardır. H05 bu ayrımı tanımlar; H04 teknik yapabilme ile ahlaki gerekliliği ayırır; H02 yeni bilgi iddiasında ikinci bilenin gerekçeli değerlendirmesini ister; H01 teknik üretimi ilk ontolojik kuruluşla özdeşleştirmez. Böylece tek iddianın karşı-örneği dört çekirdekteki anlam sınırını değiştirir. İşlem sırası: özgün iddiayı kaydet, statüsünü belirle, güçlü karşı-örneği yaz, kapsamı düzelt, etkilenen dosyalara aktar, geri okuyarak doğrula. Bu bir metinler arası denetim uygulamasıdır; hata oranını düşürdüğünü gösteren karşılaştırmalı deney yapılmamıştır. NASEM (2019) uyarınca aynı kaynakla yeniden hesaplama ve bağımsız yeni veriyle tekrar birbirine karıştırılmaz.
+### 8.3. H01'de ortak araştırma kökeni
 
-### 7G. Eleştirel hakem simülasyonu: uygulanmış karşı-örnek kararı
-**İncelenen iddia:** H05'te akıl, ilimden ilim üretme kapasitesidir. **İtiraz:** Mevcut tarifle yemek veya bilinen teknikle gemi yapmak yeni bilimsel keşif olmayabilir. **Düzeltme:** Bilginin uygulanması, yeni ürün ve denetlenebilir yeni bilgi üç ayrı sonuçtur. **Çapraz karar:** H01 teknik üretimi ilk ontolojik kuruluşla özdeşleştirmez; H02 yeni bilgi iddiasına ikinci bilenin gerekçeli değerlendirmesini ister; H04 teknik güç ile iradeli ahlakı ayırır; H05 bu üç sonucu farklı tanımlar. Bu, gerçek metinler üzerinde iç argüman denetimidir; bağımsız dış hakem görüşü değildir.
+H01 §6'da kullanılan Ratcliff ve arkadaşlarının 2012 ve 2015 yayınları hücre kümelenmesi ve ilgili mekanizma konusunda aynı araştırma çizgisinin parçalarıdır. İki yayın bulunması iki bağımsız laboratuvar tekrarı bulunduğu sonucunu vermez. Bununla birlikte ikinci yayın yeni bir soru veya müdahale içerebilir; sırf ortak yazar nedeniyle değersiz sayılmaz.
 
-## 8. Sonuç
-Rasterast'ın görevi kurucu inancı reddetmek veya peşinen kanun ilan etmek değil, hangi önermenin neye dayandığını, hangi sınırı taşıdığını ve hangi yeni kanıtın gerekli olduğunu açık tutmaktır. Fıtrat, fıtrî ahlak ve iradeli ahlakın ayrı statülerle denetlenmesi, doğal düzen ile normatif sorumluluğun karışmasını önler. H01–H05'e uygulanan kayıt düzeni, kavram ve kaynak aktarımını izlenebilir kılar. Bunun hata azaltma etkisi henüz karşılaştırmalı olarak ölçülmemiştir; yöntemsel katkı protokol ve örnek denetim düzeyindedir.
+Kayıt, hangi savın hangi deney veya yorumla desteklendiğini gösterir. Hücrelerin bağlı kalması hakkındaki sınırlı bulgu, bütün Komel ontolojisinin doğrulanması olarak etiketlenmez. Bilimsel ayrıntı ve dış kaynak yerleri H01'de korunur; aynı kaynak denetimi burada yeniden baştan üretilmez.
 
-## Dış kaynakça
-- National Academies of Sciences, Engineering, and Medicine (NASEM). (2019). *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303 . Bölüm 3, yöntemsel karşılaştırma; bölüm 7B'de kullanılır.
+## 9. Düzeltme ve sonraki makaleye aktarım
 
-- Boeckle, M. ve ark. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: §7C; gözlem/yorum ayrımı için H05'te incelenen araştırma.
-- de Mahy, D., Esteve, N. A. ve Santariello, A. (2021). New test, old problems: comment on ‘New Caledonian crows plan for specific future tool use’. *Proceedings of the Royal Society B, 288*, 20210186. https://doi.org/10.1098/rspb.2021.0186 . Kullanım: §7C; eleştiri metni, yeni deney değil.
-- Boeckle, M. ve ark. (2021). New Caledonian crows' planning behaviour: a reply to de Mahy et al. *Proceedings of the Royal Society B, 288*, 20211271. https://doi.org/10.1098/rspb.2021.1271 . Kullanım: §7C; yazar yanıtı, bağımsız tekrar değil. Erişim sınırları H05 kaynakçasında belirtilmiştir.
+Birikimli araştırmada düzeltme yalnız yeni cümle yazmak değildir. Önce hangi iddianın değiştiği, hangi gerekçenin etkilenmediği ve hangi sonraki çıkarımların ona dayandığı belirlenir. Bütün geçmiş bilgi toptan reddedilmez; düzeltilmiş sav eski savın üzerine geçerli sürüm olarak kaydedilir.
 
-## Kaynak izi
-1. `../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md`.
-2. `NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md`.
-3. `NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md`.
-4. `NK-ZS-H03-A14-EK01-KANIT-SOYAGACI-VE-IKINCI-DENETIM.md`.
-5. Özgün Word metinleri ve Nisâ 4:1 Diyanet tefsiri: https://kuran.diyanet.gov.tr/tefsir/Nis%C3%A2-suresi/494/1-ayet-tefsiri .
+**İşlem sırası:** Savı ve sürümünü sabitle → hatayı veya yeni kanıtı göster → kapsamı ve sonucu düzelt → bağımlı iddiaları belirle → ilgili güncel metinlere aktar → yeniden okuyup kaydı doğrula.
 
-## Ek A — Yöntem denetimi — boyut ve muhataplık (22.10.2026)
-Yeni kurucu açıklamalar için beş ayrı doğrulama satırı tutulur: (1) fiziksel hacim/kütle iddiası; (2) biyolojik bilgi ve işlevsel örgütlenme iddiası; (3) ontolojik kapsama ve atom–yıldız benzetmesi; (4) insan/hayvan davranışı ve otonom sinir sistemi hakkındaki ampirik iddialar; (5) iradeli ahlak, Ehad ve hüküm/ahiret hakkındaki teolojik yorumlar. Bir satırın kanıtı diğerine otomatik aktarılmaz. Altı ontolojik boyut fizik bilimindeki koordinat sayısıyla özdeş değildir. Bu makalede doğrudan doğrulanmamış ayet, hadis veya Risale-i Nur cümlesi bağımsız kanıt olarak kullanılmaz; ilgili tarihsel notun kaynak denetimi ayrı kayıtta tutulur. Kaynak: `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. Akademik doğrulama, karşı örnek ve literatür taraması sürmektedir.
+Örneğin bir kaynakta verilen örneklem sayısı düzelirse, o paydadan çıkarılan başarı iddiası yeniden incelenir. Fakat aynı makaledeki bağımsız ontolojik tanım sırf dosya değişti diye baştan araştırılmaz. Tersine, yalnız kaynak adı düzeltilmiş gibi yapıp bundan etkilenen sonuç cümlesini eski bırakmak da aktarımı tamamlamaz.
 
-## Ek B — Kurucu kilometre taşı için Rasterast denetimi
-Fıtrat, fıtrî ahlak, iradeli ahlak ve muhataplık ayrımları §§2–5'teki iddia türleriyle denetlenir. Kurucu kayıt: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Bu tekrar kaydı yeni bir kanıt veya bağımsız makale sayılmaz.
+Kaynaklar arası uyuşmazlık silinmez. Ayrı veri, farklı yöntem, farklı kapsam veya farklı yorumdan kaynaklanıp kaynaklanmadığı yazılır. Güçlü itiraz çözülemiyorsa iddia daraltılır ya da araştırma sorusu olarak tutulur; sırf eski bir kararı korumak için yeni destek uydurulmaz.
 
-## Ek C — Özgün kaynak izi — 22 Ekim 2026
-İki özgün Word dosyası Google Drive üzerinden okunmuştur. Bu çalışmadaki P numaraları, okuyucunun döndürdüğü düz metnin boş olmayan satır/paragraflarını 1'den sayar; Word sayfası veya kalıcı belge paragraf kimliği değildir. Kaynak dosyaları değişirse bu numaralar yeniden üretilmelidir. *Akıl ve Bilginin Kaynağı* P5/P43'ün onay ve ontolojik oluşum kullanımları H02'de; *Varlık Sistemleri ve Boyutları* P66/P71/P90'ın evre kullanımları H04/H05'te karşılaştırılmıştır. Bütün metin kapsamını içeren 65 bloklu ana önerme envanteri daha sonra tamamlanmıştır; her cümlenin tam diplomatik karşılaştırması veya bağımsız ikinci denetim yapılmış değildir. Güncel iz §7E'de belirtilen envanterdir.
+### 9.1. İç düzenlemenin kapanış ölçütü
 
+Bir çalışma metninin iç bütünlüğü, araştırma sorusu, tanımlar, gerekçe yolu, kaynak yerleri, karşı-örnekler ve sonuç kapsamı birbiriyle uyumlu olduğunda tamamlanabilir. Çözülemeyen ampirik soru açıkça belirtilir ve metnin ulaştığı sonuç ona dayandırılmaz.
 
-## Ek D — Kurmancî terimlerin Rasterast denetimi (23 Ekim 2026)
+Bu kapanış bütün araştırma programının veya her savın ispatı değildir. Makalelerin üretimi, ölçülmemiş başarı oranları veya ilgisiz eski açık iş listeleri nedeniyle sürekli yeniden başlatılmaz. Yeni sav, kaynak sürümü değişikliği, gerçek hata veya yeni karşı-kanıt varsa ilgili kısım yeniden incelenir. Aynı kayıt değişmediyse hazır gerekçe ve kaynak izi devralınır.
 
-Bu ek, kurucunun H02 Zanabûn için belirlediği bilgi tanımını ve iki ayrı Kurmancî terimin kullanım sınırını denetler; yeni deneysel kanıt üretmez.
+## 10. Yöntemin kendi başarısının sınanması
 
-| Terim / önerme | Kullanım alanı | Rasterast denetim ölçütü | Şimdiki statü |
-|---|---|---|---|
-| **Hebûna Hebûnî** | Ehad'ın hükmü karşısında yaratılmış Yek'in varlık göstermesi; ontolojik fıtrî düzen | Ehad'ın yaratıcı konumu ile yaratılmış Yek ayrılmalı; boyutların mekanizmaları özdeşleştirilmemeli | Kurucu ontolojik terim; dilsel doğallık ayrıca incelenecek |
-| **Zanayê Nirxîner** | Bilenin nesneye yönelimiyle doğan sonucu değerlendiren epistemik ikinci bilen | Değerlendiricinin bağımsızlığı, gerekçeleri ve ortak hata olasılığı incelenmeli | Kurucu epistemik rolün adlandırılması; bilimsel doğrulama iddiası değil |
-| **Bilgi tanımı** | “Bilenin bilinen nesneye yönelimi sonucu ortaya çıkan sonucun ikinci bilen tarafından onayı ile çıkan sonuca bilgi denir.” | İkinci onay ile nesnel doğruluk eşitlenmemeli; yanlış ortak onay karşı-örneği korunmalı | Zanabûn'un felsefi bilgi tanımı |
-| **Fizik / 1+Tek** | Güç ve kanunlara bağlı fiziksel işleyiş | Güç, kuvvet ve enerji gibi fizik terimleri teknik olarak karıştırılmamalı; bilinç yüklenmemeli | Ontolojik analoji; fiziksel ölçüm ayrıca gerekir |
-| **Biyoloji / 2+Tek** | Biyolojik bilginin korunması, aktarılması ve işleyişi | Genetik bilgi, hücresel işleyiş ve epistemik onay birbirinden ayrılmalı | Ontolojik analoji; biyolojik mekanizma ayrı kaynaklandırılır |
-| **Ahlak** | İnsan: fıtrî ve iradeli; hayvan ve melekler: fıtrî | Teolojik varlık tasnifi, normatif ahlak ve gözlenebilir davranış farklı iddia türleriyle değerlendirilir | Kurucu ontolojik/teolojik çerçeve |
+Rasterast'ın bir denetim yöntemi olarak üstünlüğü, yalnız kendisi hakkında tutarlı cümleler yazılarak gösterilemez. Önerilen karşılaştırmada kaynak ve çıkarım hataları önceden tanımlanmış araştırma dosyaları kullanılır; değerlendirme koşulları ve doğru referans kararı açık tutulur.
 
-**İz:** `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md` ve H02'nin 23 Ekim 2026 terminoloji güncellemesi. Bu ek H01 ve H04'ün henüz güncellenmediği gerçeğini değiştirmez.
+Ölçütler ayrı raporlanır: bulunan gerçek hatalar, kaçırılan hatalar, yanlış alarmlar, gerekçenin yeniden kurulabilirliği ve inceleme süresi. Bibliyografik yazım hatası bulmakla bir kaynağın sonucunun aşırı genellendiğini bulmak aynı başarım değildir. Payda ve hata türü belirtilmeden tek “doğruluk yüzdesi” verilmez.
 
+Bu metindeki uygulamalar gerçek makale yerleri üzerinde iç yöntem örnekleridir; **karşılaştırmalı performans deneyi yapılmamıştır**. Bir dil modeli veya tarayıcının onayı bu eksik deneyi yapılmış hâle getirmez. Aynı şekilde yöntem, kurucu görüşleri peşinen reddetmek veya ölçülmüş kanun ilan etmek için değil, her savı uygun gerekçe ve sınırla ele almak için kullanılır.
 
-## Ek E — İddia-soyağacı için uygulanmış bağımsızlık karşı-modeli (23 Ekim 2026)
+## 11. Sonuç
 
-**İncelenen iddia:** “İki farklı makalenin aynı önermeyi desteklemesi iki bağımsız kanıt sağlar.” Bu önerme, kaynakların ortak olması durumunda yanlıştır.
+Rasterast, kaynağı, bağlamı, çıkarımı ve düzeltmenin etkisini birlikte izleyen denetim yöntemidir. Hebûn'un ontolojik kabulünü ve Zanabûn'un bilgi kuruluşunu tekrar etmeden, onların bilimsel ve kavramsal uygulamalarında neyin hangi gerekçeyle savunulduğunu gösterir.
 
-**H02–H03 gerçek metin uygulaması:** Her iki makalede H01 kurucu metni ve aynı kurucu kanon gibi ortak kaynak ailelerine atıflar bulunur. Kaynakların iki kez anılması iki ayrı birincil veri seti üretmez. Bu gözlem, iki makalenin bütün yorumlarının bağımlı olduğunu veya önermelerinin yanlış olduğunu **kanıtlamaz**. Ayrıntılı atıf izi: `../01-kanonik-denetim/MK-016-H02-H03-GERCEK-KAYNAK-SOYAGACI-PILOTU-2026-10-23.md`.
+Kaynakta bulunma dış doğrulukla, tutarlılık bağımsız kanıtla, otomatik uyarı doğrulanmış hatayla eşitlenmez. Yeni karşı-örnek bir savın belirli yorumunu sınırlar; bunun bütün ontolojiyi yanlışlayıp yanlışlamadığı ayrı gerekçe ister. Düzeltme ise kaynak ve sürüm geçmişini silmeden ilgili sonuçlara aktarılır.
 
-**İşlemsel karar:** Her P iddiası için `kaynak_kimliği`, `doğrudan_erişim`, `yorum_zinciri`, `yöntem`, `onaylayan`, `karşı_örnek` ve `belirsizlik` alanlarını ayrı tut. Aynı kaynak veya yöntem ortaklığı varsa `ORTAK_BAĞIMLILIK_İNCELEMESİ` üret; ortaklık görünmüyorsa bile “bağımsızlığı kanıtlandı” sonucunu üretme. H02'nin ikinci bilen onayı, bağımsız Rasterast'ın tamamlandığı anlamına gelmez.
+Böylece her makale yalnız yeni içerik değil, sonraki araştırmanın devralabileceği açık bir gerekçe ve kaynak yolu bırakır. Çalışmanın katkısı bu yöntemsel sentez ve uygulama örnekleridir; gerçek dünyada bütün hataları yakaladığı veya diğer denetim yöntemlerinden üstün olduğu ileri sürülmez.
 
-**Yanlış-pozitif sınırı:** Aynı veri üzerinde farklı yöntemlerle yürütülen iki analiz, bazı hata türlerini birbirinden bağımsız biçimde yakalayabilir. Dolayısıyla ortak veri tespitinden “ikinci değerlendirme değersizdir” sonucu da çıkarılamaz.
+## Kaynaklar ve sürüm izi
 
-**Kanıt durumu:** MK-016 pilotu ve dokümante edilmiş kaynak karşılaştırması, yöntemsel bir uygulamadır; bağımsız hakemlik, bilimsel üstünlük ve gerçek zaman tasarrufu ölçümü değildir. **Yeniden uygulama ölçütü:** Dış denetçinin aynı iddia için aynı kaynak bölümünü, kullanılan veri kökenini, yöntem bağımlılığını ve karşı-örneği bağımsız kayıtta bulması gerekir. Bu yeniden uygulama fiilen gerçekleştirilmeden denetim tamamlandı işareti verilmez. K0–K6 ve yayın kilidi sürer.
+**[R1]** `hebun-zanabun`: `makaleler/00-katmanli-varlık-okumasi/00_rasterast-okuma-yaklasimi.md`; `07_rasterast-metodu-ve-tanıklık-proplemi.md`; `rasterast/Rasterast-Serisi/` 01, 02, 03 ve 12 numaralı dosyalar. Bağlam, tanıklık sınırı, ontolojik uyum ve sınama yaklaşımı karşılaştırıldı. Eski eşeysiz/eşeyli evre adları veya benzetmeden mekanizma aynılığı çıkarımı devralınmadı.
 
+**[R2]** `zanistarast-ai-native-model/civilizational-knowledge/RASTERAST_DOGRULAMA_FILTRESI_SABIT_ILKELER_2026-10-15.md`; `core/rasterast-hallucination-filter.md`; `backend/knowledge/D0_rasterast_method.txt`; `papers/L2-validation-rasterast.md`. Kaynak, bağlam, belirsizlik ve sürekli denetim devralındı; salt tutarlılığın yeterliliği benimsenmedi.
 
-## Ek F — H01 ve H02 kaynak-denetim kararı
+**[R3]** `zanistarast-papers/docs/architecture/CANONICAL_RABUN_CORPUS_CORE_AND_RASTERAST_BOUNDARY_2026-09-17.md`, `faz32-scientific-autonomy` dalı. Yetki, yönetim, bilgi ve doğrulama ayrımı; Rasterast'ın Rabûn yerine geçirilmemesi.
 
-H01'in maya deneylerine ilişkin bilimsel iddiası, hücre kümelenmesinin gözlenen mekanizmasıyla sınırlanmalıdır. Ratcliff ve arkadaşlarının 2012 ve 2015 yayınları aynı araştırma çizgisinin parçalarıdır; iki yayın olması iki bağımsız laboratuvar çoğaltımı bulunduğunu göstermez. H02'de ikinci bilenin bu yayınları değerlendirmesi, deneylerin yeni ve bağımsız veriyle tekrarlandığı anlamına gelmez. Rasterast kaydında kaynakların ortak araştırma kökeni, iddianın kapsamı ve karşıt mekanizma ayrı tutulur. Bu değerlendirme ontolojik Komel'in deneysel doğrulanması olarak kodlanmaz. DOI: 10.1073/pnas.1115323109; 10.1038/ncomms7102. Bu ek kaynak kullanımı denetimidir; bağımsız hakemlik ve K0–K6 tamamlanmış değildir.
+**[R4]** `The-Newroza-Kawa-Civilization-Theses/arastirma/methodology/00_METHOD_RASTERAST_HISTORIOGRAPHY.md`. Tarihsel kaynak, merkez ve süreklilik soruları; tek bir tarihsel nedensellik yasasının kanıtı sayılmadı.
+
+**[R5]** `zanistarast-papers/formal-foundations/book-ii/07-rasterast-logic.md` ve `core-review/14-proof-audit.md`. Tanım, öncül, çıkarım ve bağımlılık denetimi; deterministik doğrulama iddiası gerçek uygulama ispatına eşitlenmedi.
+
+**[R6]** `zanistarast-formal-foundations/mathematics/operators/05_RASTERAST_OPERATOR.md` ve `proofs/operators/RASTERAST_PROOFS.md`. Çıktı türü, kabul eşiği ve henüz kararlaştırılmamış giriş durumlarının ayrılması.
+
+**[R7]** [Güncel H01 Hebûn](NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md), özellikle §§3, 5–6 ve 10; [kurucu kanon](../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md).
+
+**[R8]** [H02 Zanabûn](NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md), inceleme sürümü commit `350ccc54af162c22ccfe5496bba2a2265caaa588`, özellikle §§3–4, 8–9; [depolar arası kaynak haritası](../01-kanonik-denetim/H02-DEPOLAR-ARASI-KAYNAK-VE-CIKARIM-HARITASI-2026-10-24.md).
+
+**[R9]** [H03 kaynak-soyağacı eki](NK-ZS-H03-A14-EK01-KANIT-SOYAGACI-VE-IKINCI-DENETIM.md), özellikle §§2–6. Bu ekin tarihsel metniyle 24 Ekim uygulama kaydı ayrı okunur.
+
+**[R10]** [H03–H02 bağlam incelemesi](../01-kanonik-denetim/H03-H02-INSAN-TARIHI-RISK-BAGLAM-DENETIMI-2026-10-23.md). Reddedilen önermenin otomatik uyarıyla savunulan görüş sanılmaması.
+
+**[R11]** [H05 güncel araştırma metni](NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md), §§5A–5B ve kaynakçası. Yayın–yorum–eleştiri–yanıt ayrımı için önceki doğrudan inceleme kaydı devralındı. İlgili yayınlar: Boeckle ve ark. (2020), DOI 10.1098/rspb.2020.1490; de Mahy ve ark. (2021), DOI 10.1098/rspb.2021.0186; Boeckle ve ark. (2021), DOI 10.1098/rspb.2021.1271.
+
+**Dış yöntem kaynağı:** National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science*. The National Academies Press. https://doi.org/10.17226/25303. Bölüm 3; önceki kaynak denetiminden devralınan karşılaştırma.
+
+**Tarihsel içerik:** Önceki H03 ana metni [e7d3d09 sürümünde](https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/blob/e7d3d0989b16cea034c4b497f8edf2f06d4db80c/02-cekirdek-makaleler/NK-ZS-H03-A14-TR-v02-RASTERAST-BIRIKIMLI-KANIT-DENETIMI.md) korunur. Tekrarlanan ekler ve eski konum bildirimleri tek ana argümanda birleştirildi; kaynak sürümleri mevcut eke bağlandı.
