@@ -1,172 +1,211 @@
-# VARLIK TARİHİ-01 — Boyutsal açılım, varlık tarihi ve tarihsel tanıklık: Zanistarast'ın bütünleşik ontolojik çerçevesi
+# Varlık Tarihi — Boyutsal Açılım, Süreklilik ve Tarihsel Kanıt
 
-**Newroza Kawa uygarlığı · Zanistarast bilimsel sentezi · Araştırma makalesi sürüm 1.0 (22 Ekim 2026)**
+**VARLIK-TARİHİ-01 | 24 Ekim 2026 | Düzenlenmiş kavramsal araştırma**
 
 ## Öz
-Zanistarast'ın kurucu tarih teorisi, tarihi yalnızca insan toplumlarının olaylar dizisi olarak değil, varlığın boyutsal düzenlerinin sürekliliği olarak ele alır. Bu makale, özgün “Boyutsal Açılım Teorisi” ve “Birleşik Alan Teorisi” metinlerini bugünkü Hebûn, Zanabûn ve Rasterast ayrımları içinde yeniden yorumlar. Varlık tarihi, jeolojik tarih, biyolojik tarih, insan tarihi ve uygarlık tarihinin birbirine indirgenmeden ilişkili araştırma alanları olduğu savunulur. Kurucu metindeki dördüncü boyutun “kanun/koordinasyon” diye ifade edilmesi, güncel ruh–melekler evrelerinin **düzen ve zaman işlevini** açıklayan bir anlatım olarak korunur. Boyutların birbiri ardına açılması ontolojik bir tezdir; jeolojik ve biyolojik kronolojinin kanıtı olarak tek başına kullanılamaz.
 
-**Anahtar kelimeler:** varlık tarihi; Hebûn; Zanabûn; Rasterast; boyutsal açılım; zaman; ruh; melekler; Newroza Kawa.
+Bu çalışma Zanistarast'ın varlık tarihi yaklaşımını boyutsal açılım, kemal, kapsama ve süreklilik ilişkileri üzerinden yeniden kurar. Temel soru, ontolojik düzeyler arasındaki ilişkinin fiziksel kronoloji, oluşum mekanizması ve insanın tarihsel tanıklığıyla karıştırılmadan nasıl açıklanabileceğidir. Özgün Boyutsal Açılım Teorisi, Birleşik Alan başlıklı sentez, jeolojik geçiş ve zaman yazıları; güncel Hebûn, Zanabûn, Rasterast, H04 ve H05 ile karşılaştırılır. Üst düzeyin altı kapsaması, altın tarihsel olarak ortadan kalkmasını gerektirmez. Hazırlayıcı ortam ile sonucun yeterli nedeni, olayın gerçekleşmesi ile olay hakkındaki kayıt, işlevsel olgunluk ile üst düzeyin zorunlu doğuşu ayrı tutulur. Çalışmanın katkısı, boyutsal tarih tezini kaynak, mekanizma, kronoloji ve yorum sorularına ayıran; yeni araştırmalara devredilebilir bir geçiş inceleme yöntemi önermesidir. Altı boyutun deneysel ispatı, yaşamın kökeninin çözümü veya bütün doğa ve toplum tarihinin tek yasa altında açıklanması ileri sürülmez.
 
-## 1. Kaynak ve araştırma sorusu
-Birincil metin: `veysieken000-ctrl/ZANISTARAST-TEORILER/theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md`. Tamamlayıcı metin: `eguations/ZANISTARAST_UNIFIED_FIELD_THEORY/00_ZANISTARAST_UNIFIED_FIELD_THEORY.md` (depodaki özgün dizin adı bu şekildedir). Jeolojik geçiş bağlamı: `theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md`.
+**Anahtar sözcükler:** varlık tarihi, boyutsal açılım, kemal, kapsama, süreklilik, tanıklık, Hebûn.
 
-**Soru:** Varlığın boyutsal açılımı, fiziksel olayların kronolojisiyle ve insanın tarihsel tanıklığıyla karıştırılmadan nasıl açıklanabilir?
+## 1. Araştırma sorusu ve kaynak yöntemi
 
-## 2. Kurucu tezler
-Özgün tarih metni şu beş iddiayı öne çıkarır: (A1) üst sistem alt sistemi çalıştırır; (A2) boyut alt düzlemleri kapsama yeteneğidir; (A3) boyutların açılımı ikilidir; (A4) bilgi varlıktan kopuk değildir; (A5) ahlak hükmü ve sorumluluğu yönlendirir. Metin ayrıca fizik, biyoloji, zihin, koordinasyon, ahlak ve hüküm düzenini tartışır. Bunlar **kurucu aksiyom adaylarıdır**, ispatlanmış doğa yasaları değildir.
+**Soru:** Varlığın boyutsal açılımı hangi kurucu öncüllere dayanır; bir düzeyden diğerine geçişin açıklaması hangi ek mekanizma, kronoloji ve kanıtı gerektirir?
 
-“Birleşik Alan Teorisi” başlıklı ikinci metin, fizik, biyoloji, zihin, ahlak ve uygarlık arasında süreklilik savunur. Ancak bu kullanım, parçacık fiziğindeki matematiksel *birleşik alan teorisi* terimiyle aynı şey değildir; ayrıca kuantum alan teorisinin formel sonuçlarını türetmez.
+Varlık tarihi yalnız insan olaylarının kaydı olarak tanımlanmaz. Kurucu yaklaşım, tekilliklerin ve ilişkisel bütünlerin farklı varlık alanlarında kuruluşunu ve devamını birlikte düşünür. Bununla birlikte bu geniş kapsam, bütün bilimlerin sonuçlarını tek araştırmada yeniden üretmek anlamına gelmez.
 
-## 3. Güncel kanonik bütünleştirme
-| Kozmik boyut | Birinci evre | İkinci evre | Varlık tarihindeki işlev |
-|---|---|---|---|
-| 1 Fizik | Atom | Yıldız ve gezegenler | Maddi altyapı ve kozmik/jeolojik süreçler |
-| 2 Biyoloji | Tek hücreliler | Çok hücreliler | Canlı düzenin kuruluş ve örgütlenmesi |
-| 3 Zihin | Zekâ | Akıl | İşleme, seçim ve yeni bilgi çıkarımı |
-| 4 Ruh | Ruh | Melekler (ruhludurlar) | Düzen ve zamanın sürdürülmesi |
-| 5 Ahlak | Fıtrî ahlak | İradeli ahlak | Yön, sorumluluk ve irade |
-| 6 Hüküm/ahiret | Hesap/hüküm | Hükmün sonucu (ahiret karşılığı) | Hüküm ve karşılık düzeni; §9'da kurucu kaynak doğrulaması |
+Yöntem, özgün metin karşılaştırması, öncül–çıkarım çözümlemesi, kavramsal karşı-modeller ve seçilmiş bilimsel tanımlarla sınır denetimidir. Başlıca kaynaklar *Zanistarast Tarih Teorisi*, *Zanistarast Unified Field Theory*, *Geological Limit and Transition to Biological Phase* ve zaman serisinin iki yazısıdır [K1–K5]. Mevcut özgün Word paragraf envanteri ile depolar arası araştırma haritası devralınır [K6]. Bu turda bütün depolar veya bütün Word'ler yeniden okunmuş sayılmaz.
 
-**Tek/Yek** üst ilkedir; Ehad, Tek ve Yek eş anlamlı değildir. İnsanın katmanları bu kozmik boyutlarla birebir numaralandırılmaz.
+H01 ontolojik Yek–Komel temelini, H02 bilgi değerlendirmesini, H03 kaynak ve çıkarım izini, H04 boyut–evre–katman ayrımını, H05 bilgi üretimi ile kapasite ve ahlakın ayrımını sağlar [K7]. Bu makalenin ayrı katkısı **bu kavramların tarihsel geçiş iddiasına hangi koşullarla uygulanabileceğini** açıklamaktır.
 
-Özgün tarih metnindeki “D4 = kanun/koordinasyon” ifadesi yanlışlıkla atılmaz: güncel açıklamada **ruhun ve meleklerin düzen/zaman işlevinin** tarihsel kavramlaştırması olarak korunur. Kurucunun güncel beyanında ruhun çıkması kişinin dünyadaki yaşam zamanını bitirir; meleklerin ruhlarının alınması kozmik düzenin kıyametle sona ermesi olarak anlaşılır. Bunlar ontolojik-teolojik tezlerdir, ölçülmüş fiziksel mekanizma değildir.
+## 2. Kurucu temel ve açıklama düzeyleri
 
-## 4. Varlık tarihinin farklı araştırma ölçekleri
-**Kozmik/fiziksel tarih:** atomik yapı, yıldız ve gezegenlerin oluşumuna dair ampirik modellerle araştırılır.  
-**Jeolojik tarih:** gezegenin yapısal ve çevresel değişimleri; biyolojiye altyapı oluşturabilecek koşullar.  
-**Biyolojik tarih:** tek hücreli ve çok hücreli organizasyon; köken ve çeşitlenme mekanizmaları ayrı kanıt ister.  
-**Zihin tarihi:** zekâ ve akıl arasındaki kavramsal ayrım; bilişsel ve tarihsel göstergeler araştırılmalıdır.  
-**İnsan tarihi:** yazılı kaynaklar, maddi kültür, sözlü tanıklık ve tarihlendirme yöntemleriyle çalışılır.  
-**Uygarlık tarihi:** Rabûn, Mabûn ve Newroza Kawa kurumları için normatif model ile tarihsel olgu ayrılır.
+**Ehad Yek'tir ve Ehad âlemlerdeki her şeyi Yek'e göre yaratmıştır.** Ehad yaratılmış Yek değildir; yaratılmış varlık dizisinin ilk elemanı veya yedinci kozmik boyut yapılmaz. H01'in ilk Yek → ikinci Yek → ilişkisel yeni Yekler → Komel şeması devralınır. Dizideki yerel sayma, her alanda aynı çoğalma mekanizmasının bulunduğunu göstermez.
 
-Bu alanların her biri farklı kanıt ve tarih ölçeğine sahiptir; “üst boyut alt boyutu kapsar” önermesi tek başına tarihlemeyi doğrulamaz.
+“Varlığın ilk kuruluşunu ne açıklar?” ve “Varlığın zaman içinde düzenini koruyarak devamını ne açıklar?” sorularının kurucu cevabı **Zanabûn**dur; Zanabûn **Hebûn ontolojisine dayanır**. Hebûn başlangıç temelidir; sonsuz geriye gidiş kurucu açıklama olarak alınmaz. Bu kaynak ilişkisi, insanın her varlığın oluşmasını sonradan onaylayarak mümkün kıldığı şeklinde yorumlanmaz.
 
-## 5. Zaman, düzen ve tanıklık
-Kurucu zaman metnindeki etkileşim–sonuç ve tanıklık–tarih bağlantısı, varlık tarihini insan tarihinden ayırmaya yardımcı olur. **Ölçülen süre**, **canlının yaşadığı süre** ve **tanıklıkla anlamlandırılan tarih** farklı açıklama düzeyleridir. Dördüncü boyutun düzen/zaman işlevi bunları tek bir fiziksel değişkene indirgemez.
+Muhatap varlık ilişkinin etkilenen tarafını, Lêket ilgili katmanlarda oluşan gerçek farkı anlatır. Etkilenme, o fark hakkındaki önermenin doğruluğu veya insan tipi bilinç demek değildir. İnsan araştırmasında kaynak ve gerekçe denetimi ayrıca yapılır.
 
-## 6. Kuantum sınırı
-Kuantum mekaniği fiziksel sistemlerin olasılıksal ölçüm sonuçlarını matematiksel olarak öngörür. Kuantum yorumları arasında ontolojik anlaşmazlıklar bulunması, Hebûn'un kuantum tarafından doğrulandığı anlamına gelmez. Zanabûn'daki “ikinci bilen” kavramı kuantum ölçümündeki fiziksel etkileşimle özdeş değildir; bilinçli gözlemcinin dalga fonksiyonunu zorunlu olarak çökerttiği iddiası burada ileri sürülmez. Kurucu “birleşik alan” düşüncesi felsefi sentez olarak ele alınır, fiziksel birleşik alan denklemi olarak değil.
+Aşağıdaki sorular birbirinin yerine kullanılmaz:
 
-## 7. Karşı tezler ve doğrulama gereksinimleri
-1. “Boyut” teriminin matematikteki, fizikteki ve Zanistarast ontolojisindeki anlamları açıkça ayrılmalıdır.
-2. Üst düzey örgütlenmenin alt düzeyi “çalıştırması” ile alt düzeyin nedensel olarak yeterli olması arasında felsefi karşı görüşler vardır.
-3. Boyutların zorunlu sıra ve eşikleri deneysel gösterilmeden evrensel yasa sayılmaz.
-4. Jeolojik, biyolojik ve insan tarihi için bağımsız kronolojik kanıtlar gereklidir.
-5. İnsan ve uygarlık tarihindeki ahlaki yorumlar ile tarihsel olgu iddiaları farklı kaynak türleriyle gerekçelendirilir.
+| Soru | İncelenen ilişki |
+|---|---|
+| Ne tür varlık veya düzen söz konusu? | Ontolojik sınıflandırma ve kimlik |
+| Nasıl oluştu ve sürdü? | Alana özgü mekanizma ve koşullar |
+| Ne zaman oldu? | Tarihleme ve kronolojik sıra |
+| Nereden biliyoruz? | Kaynak, veri, çıkarım ve belirsizlik |
+| Hangi anlam veya değeri taşıyor? | Felsefi, teolojik veya normatif yorum |
 
-## 8. Tartışma ve sonuç
-Bu metin Zanistarast'ın **varlık tarihini** tarih felsefesi, ontoloji ve disiplinler arası araştırma programı olarak tanımlar. Hebûn ontolojik yapı; Zanabûn bilgi edinme ve gerekçelendirme; Rasterast iddiaların sınanması; Rabûn ve Mabûn toplumsal kurumsallaşma; Newroza Kawa uygarlık ufkudur. Eski ve yeni kavramlaştırmaların birlikte korunması, özgün kaynakların gelişimini görünür kılar. Fiziksel ve tarihsel iddiaların tamamı ayrıca sınanmalıdır.
+Bir kaynak bu soruların birine cevap verip diğerlerini açık bırakabilir. Kaynak sadakati, bütün uygulama iddialarının doğrulandığı anlamına gelmez.
 
-## Kaynaklar ve açıklar
-**Birincil:** yukarıdaki üç özgün GitHub dosyası; `theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md`; kurucunun 22 Ekim 2026 tarihli ruh/melek/düzen/zaman açıklaması.
+## 3. Altı boyut, evre ve tarihsel sıra
 
-**Karşılaştırmalı literatür:** Stanford Encyclopedia of Philosophy, “Philosophical Issues in Quantum Theory” (https://plato.stanford.edu/entries/qt-issues/); “Quantum Mechanics” (https://plato.stanford.edu/entries/qm/). Bu kaynaklar Zanistarast'ı doğrulamaz, karşılaştırma zemini sağlar.
+| Kozmik boyut | Kurucu birinci evre | Kurucu ikinci evre |
+|---|---|---|
+| Fizik | Atom | Yıldızlar ve gezegenler |
+| Biyoloji | Tek hücreliler | Çok hücreliler |
+| Zihin | Zekâ | Akıl |
+| Ruh ve melekler | Ruh | Melekler |
+| Ahlak | Fıtrî ahlak | İradeli ahlak |
+| Ahiret/hüküm | Hesap/hüküm | Hükmün sonucu (ahiret karşılığı) |
 
-**Yayın öncesi açıklar:** diğer depolardaki varlık tarihi yazılarıyla tam çapraz okuma; bilimsel tarih ve felsefe literatürünün ayrıntılı bibliyografyası; kavramların operasyonelleştirilmesi; karşı deliller; dış değerlendirme. **Henüz yayına hazır değildir.**
+Evreler 16 Ekim kurucu tablosu ve sonraki açıklamalardan devralınır [K8]. **+Tek**, yedinci yaratılmış boyut değildir. İnsanın öz, duygu, zekâ ve akıl ilişkisi kozmik tabloyla numara numara eşlenmez.
 
-## 9. Altıncı boyutun evrelerinin kurucu belgeyle kesinleştirilmesi (22.10.2026)
+Tablo bir ontolojik sınıflamadır; bütün atom türlerinin yıldızlardan önce tamamlandığını veya bütün canlıların aynı çizgide akla ve iradeli ahlaka ilerlediğini gösteren takvim değildir. H01'in çekirdek süreçleri ve hücre örnekleri bu ayrımı somutlaştırır. Hücre bölünmesiyle iki hücrenin oluşması, bütünleşmiş çok hücreli organizmanın oluşmasıyla aynı olay değildir.
 
-§3 tablosundaki “iki evre uydurulmaz” notu kaynak yetersizliği gerekçesiyle yazılmıştı; doğrudan kurucu belge kontrolünden sonra **kaynak açısından eksik** kalmıştır. `ZANISTARAST-TEORILER/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md` içindeki kurucu onaylı 6 boyut / 12 evre tablosu, altıncı boyutu **hesap/hüküm → hükmün sonucu (ahiret karşılığı)** şeklinde belirler. Kaynak blobu `312510036f6c6516468296019b9dff2e489e74a8`. Bu iki evre, güncel yazılı kurucu kanoniğin parçası olarak kullanılmalıdır; teolojik ontolojik sınıflamanın fiziksel olarak kanıtlandığı ileri sürülmez. Önceki tablo tarihsel çalışma izi olarak bırakılmıştır; bu bölüm onun kaynak doğrulamalı düzeltmesidir.
+Özgün tarih teorisinin D4 “kanun/koordinasyon” başlığı korunur; güncel ruh–melek evrelerinin düzen ve süreklilik işlevini anlatan tarihsel kavramlaştırma olarak okunur. Ruh ile melek özdeş değildir; meleklerde ruh bulunduğu kurucu kabulü korunur. Ruhun çıkmasının kişinin dünyadaki yaşam zamanının sonuyla, meleklerin ruhlarının alınmasının kozmik düzenin kıyametle sonuyla ilişkilendirilmesi teolojik açıklamadır. Bunlar ölçülmüş fiziksel saat mekanizması diye sunulmaz.
 
-## 10. MK-013–015: Varlık tarihinde güç–bilgi–işlem–kural–yön analizi (23.10.2026)
+İlk beş boyutun evreleri, altıncı boyutun hesap ve karşılık ayrımıyla aynı tür ampirik gelişim süreci değildir. Alanları birlikte düşünmek kanıt türlerini tekleştirmeyi gerektirmez.
 
-**Araştırma aktarımı:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`. Bu beş işlev, kozmik boyutlar veya Yek türemesinin yeni bir sıralaması değildir.
+## 4. Özgün açılım tezlerinin yeniden kuruluşu
 
-**Örnek:** Atomik ve yıldızsal oluşum için (R) madde/enerji; (I) fiziksel durum ve örüntü betimleri; (P) etkileşim/örgütlenme süreçleri; (C) fiziksel yasalar ve sınır koşulları; (V) varsa sonradan yapılan felsefi/teolojik yorum ayrı kayıtlanır. Fizikte bilgi kuramı kullanılması, biyolojik bilgi veya bilinç bulunduğu anlamına gelmez; ancak “fizikte hiçbir bilgi kavramı yoktur” genellemesi de kurulamaz.
+Tarih teorisinin A1–A5 önermeleri, makalenin araştırma yönünü sağlar [K1]. “Aksiyom” veya “teorem” başlığı taşımaları dış doğruluğun ispatı değildir.
 
-**Karşı-örnek:** Enerji akışı olan her ortamda canlılık veya bilinç zorunlu doğmaz. Yek→Komel ilişkisindeki mantıksal düzen ile atomdan yıldıza fiziksel süreçler aynı mekanizma değildir. Ehad ve Hebûn teolojik/ontolojik kurucu kabul olarak etiketlenir; astrofiziksel ölçüm diye sunulmaz.
+| Kaynak önermesi | Korunan soru | Gerekli sınır |
+|---|---|---|
+| A1: Üst sistem alt sistemi çalıştırır | Altın işlevi daha geniş hangi düzen içinde sürer? | Bütün üst düzeylerin fizik yasalarını ürettiği sonucu çıkmaz |
+| A2: Boyut kapsama yeteneğidir | Yığılmadan farklı örgütlenme nasıl ayırt edilir? | Kapsama fiziksel hacim veya koordinat sayısı değildir |
+| A3: Açılım kurulma ve süreklilikle ikilidir | Kuruluş ile sürdürme koşulları farklı mı? | Her sisteme aynı iki aşama veya aynı birey türü dayatılmaz |
+| A4: Bilgi varlıktan ayrı değildir | Düzen, kayıt, temsil ve gerekçeli sav nasıl ilişkilidir? | Bilginin farklı anlamları tek bir niceliğe indirgenmez |
+| A5: Ahlak üst çerçevedir | İnsan eylemi ve kurum hangi ölçüyle değerlendirilir? | Ahlaki yorumdan evrensel çöküş yasası türetilmez |
 
-**Aktarım:** JEOLOJİ-01'e “ortamın imkânı ≠ sonucun zorunluluğu”; H05'e “fiziksel güç ≠ bilginin ve aklın tamamı” soruları gönderilir. Her aktarımda alan, kanıt ve karşı-örnek ayrı denetlenir; bağımsız Rasterast beklenir.
+A1'in açıklayıcı kullanımı, parçaların örgütlenme koşullarını sormaktır. Örneğin bir bütünün sürekliliği bileşenler arası ilişkilere bağlı olabilir. Fakat “üst düzey” demek hangi ilişkinin işlediğini açıklamaz. Sistemin sınırı, bileşenler, zaman aralığı ve yeni işlev gösterilmelidir. Bütün yalnız adlandırılmış, mekanizma belirtilmemişse açıklama eksiktir.
 
+A3'teki kuruluş/süreklilik ayrımı, altı boyutun kaynaklı evre adlarını yeniden adlandırmaz. Atom–yıldız, hücre–organizma ve birey–toplum karşılaştırmaları aynı nesne türleri arasında özdeş işlem değildir. Sayısal çoğalma, örgütlenmiş Komel'in yeterli ölçütü yapılmaz.
 
-## 11. Jeoloji tarihi ve insan tarihiyle karşılıklı sınama (23.10.2026)
+A5 normatif değerlendirme alanıdır. Bir tarihsel dönem önce “ahlaki çöküş” olarak tanımlanıp sonra aynı adlandırma çöküşün sebebinin kanıtı yapılamaz. Kurumsal çözülme iddiası olay, kaynak, zamanlama ve alternatif nedenlerle araştırılmalıdır.
 
-**Jeolojik zamanın dış referansı:** International Commission on Stratigraphy (ICS), *International Chronostratigraphic Chart*, v2026/06, https://stratigraphy.org/chart/ . Stratigrafik birimlerin sınırları ve jeokronolojik tarihler, Zanistarast'ın ontolojik evreleriyle aynı sınıflama değildir. Varlık tarihi tezinin jeolojik veriye uygulanmasında ölçülebilir kayaç, fosil, stratigrafi ve tarihlendirme verisi ayrıca belirtilir. Tek bir ontolojik evreden tek bir jeolojik çağın tarihi türetilemez.
+### 4.1. Kemal, açılım ve karşıt açıklama
 
-**İnsan tarihinin dış referansı:** Smithsonian National Museum of Natural History, *Human Evolution Evidence*, https://humanorigins.si.edu/evidence ve *Homo sapiens*, https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens . İnsanlık tarihine dair fosil, genetik, arkeolojik ve kültürel veriler birbirini tamamlayan fakat farklı kanıt türleridir. Tür tarihi, tekil kişinin iradeli ahlakı ve uygarlık kurumlarının tarihi aynı araştırma değişkeni değildir. İnsan tarihi makalesinde Yek–Komel bağı, gözlenebilir toplumsal etkileşim ve kurumsal kayıtlarla ayrıca sınanır.
+Kurucu **kemal ve açılım**, alt düzeyin işlevsel olgunluğunun daha kapsayıcı işlevlere taşıyıcı koşul sağlaması yönünde okunur [K8]. Bu, fiziksel boyutun bütün yerel değişimlerinin durması veya biyoloji ortaya çıkınca jeolojinin bitmesi demek değildir.
 
-**Çift yönlü geri besleme:** (1) Varlık tarihi, jeoloji ve insan tarihine 'hangi geçiş, hangi mekanizma, hangi delil?' sorusunu iletir. (2) Jeoloji ve insan tarihi, varlık tarihi metnine kronoloji, bağımsız kanıt ve karşı-örnek taşır. (3) Fiziksel veya tarihsel bir geçiş, tek başına kozmik 6+Tek boyutları ispatlamaz; altı boyutlu model için her düzeyde bağımsız gerekçelendirme aranır. (4) Kuantum durum geçişi ile ontolojik boyut geçişi, ayrıca tanımlanmış eşleme olmadan özdeşleştirilmez.
+“Biyoloji zihin kapsamında, zihin ruh kapsamında” ifadesi ontolojik kapsama tezidir; zihnin biyolojiden önce tarihsel olarak bulunduğu çıkarımına dönüştürülmez. Ast–üst kapsama, merkez–çevre örgütlenme ilişkisidir. Yerel bir merkez her zaman üst boyut değildir; ontolojik kapsama siyasal sınırsız yetki üretmez.
 
-**Araştırma sınırı:** Bu bölüm yeni saha verisi üretmez. ICS 2026/06 ve Smithsonian kaynakları dış referans olarak belirlenmiştir; bütün 488 adayın içerik karşılaştırması, özgün kaynak paragraf izleri, bağımsız Rasterast ve K0–K6 hâlâ açıktır.
+Rakip açıklama, her disiplinin kendi mekanizmalarının yeterli olduğu ve ek kapsama ilkesinin açıklama sağlamadığıdır. Bu makale buna karşı ilişki ve düzey sorularını birlikte izleme yararını savunur. Ancak bir uygulama yeni gerekçe, ayırıcı ölçüt veya sınanabilir sonuç sağlayamıyorsa onun açıklama gücü sınırlı kalır. Sırf “üst” sözcüğünü eklemek üstün açıklama sayılmaz.
 
+## 5. Hazırlayıcı ortamdan yeni işleve geçiş
 
-## 12. Kaynak depolardan özgün tezlerin geri kazanımı (23.10.2026)
+Jeolojik geçiş yazısı `G_limit → E_balance → Bio_opening` şemasını önerir [K3]. Kaynak fiziksel düzen, çevresel kararlılık ve enerji döngülerini biyolojik açılımın hazırlayıcıları olarak ele alır. Bu ok yaşamın gerçekten oluştuğunu gösteren bir ölçüm değildir.
 
-**Doğrudan okunan dört kaynak:** (1) `ZANISTARAST-TEORILER/theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md` (blob `27572db9`): üst sistemin alt sistemi çalıştırması, boyutun kapsama yeteneği, ikili açılım, bilgi–varlık ilişkisi ve ahlak üst çerçevesi; (2) `theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (`b4db52d9`): etkileşim–denge–sonuç ve tanıklık ile tarih ilişkisi; (3) `theories/08_ZAMAN_THEORY/04_TIME_ENTROPY_AND_DIMENSIONAL_TRANSITION.md` (`00295595`): zaman, entropi, sınır ve geçiş şeması; (4) `theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md` (`0c9a6235`): fiziksel ortamın biyolojik işlevi mümkün kılması. Kaynaklar korunur; yeni makale diye tekrar sayılmaz.
+**Hazırlık**, belirli sonucu mümkün kıldığı düşünülen koşullardır. **Mekanizma**, bu koşullarda sonucun hangi süreçle ortaya çıkabileceğinin açıklamasıdır. **Sonuç**, gerçekten gözlenen veya varlığı savunulan olaydır. Birinin kaydı diğerlerinin yerine geçmez.
 
-**Ayrıştırılan üç araştırma önermesi:** VT-1: 'Üst sistem alt sistemi kapsar' ifadesi her fiziksel sisteme ilişkin ölçülmüş evrensel yasa değil, kanonik ontolojik aksiyomdur; somut sistemlerde kapsama ilişkisi ve karşı-örnek tanımlanmalıdır. VT-2: 'Etkileşim → denge arayışı → sonuç' tarihsel olayları sınıflamak için kullanılabilir; fakat bütün süreçlerin dengeye yakınsadığı veya fiziksel zamanın yalnız etkileşimle var olduğu sonucu ayrıca kanıt gerektirir. VT-3: 'Jeolojik ortam → biyolojik ortaya çıkış' zorunlu çıkarım değildir; elverişli ortam, yaşamın ortaya çıkmasının tek başına yeter koşulu sayılamaz.
+P hazırlayıcı koşulu, O sonucu göstersin. Kaynakta ek mekanizma veya yeterlilik öncülü verilmemişse P'den O mantıken çıkarılamaz. `P=doğru, O=yanlış` değerlendirmesi, çıkarımın biçimsel zorunluluk taşımadığını gösterir. Bu **mantıksal karşı-modeldir**; belirli bir gezegende koşulların tam gerçekleşip yaşamın bulunmadığının gözlendiği iddiası değildir. Gerçek doğa karşı-örneği için P ve O'nun ölçütleri ve gözlem gücü ayrıca gerekir.
 
-**Mevcut metinlere yönlendirme:** ZAMAN-01, zamanın ontolojik formu ile ölçülen fiziksel zamanın ilişkisini özgün zaman metinlerinden ayrıntılandırır. Jeoloji tarihi hattı, 'jeolojik limit' kavramının enerji akışı, mineral döngüsü, sıvı su, kimyasal geri besleme ve biyolojik imzalar bakımından hangi gözlemlerle sınanacağını inceler. İnsan tarihi hattı, 'tanıklık varsa zaman tarih olur' önermesinin bireysel hafıza, arkeolojik iz ve yazılı kayıt gibi ayrı kanıt türleriyle ilişkisini araştırır. Kuantum hattı, durum geçişi ile ontolojik boyutsal geçişin ortak sözcüklerden daha güçlü bir eşleme gerektirip gerektirmediğini sınar.
+Yaşam izinin tespit edilmemesi de yaşamın kesin yokluğuyla eşitlenmez. Bu nedenle “yaşama uygun görünüyor ama iz yok” kaydı, bütün gerekli koşulların sağlandığı kanıtlanmadan evrensel yeterlilik savını doğrudan çürütmüş sayılmaz.
 
-**Çapraz Rasterast uyarısı:** Özgün geçiş metnindeki 'entropi = her zaman düzensizliğin artışı', 'zaman ilerledikçe bütün yapılarda enerji yoğunluğu azalır' ve 'her jeolojik limit yaşamı zorunlu üretir' gibi genellemeler, kapalı/açık sistem koşulları ve karşı-örnekler belirtilmeden ampirik yasa olarak aktarılmaz. Bu, özgün metinleri silme değil, ispat yükünü belirleme işlemidir. Dokuz deponun tamamının içerik incelemesi ve 488 adayın tek tek eşlemesi henüz tamamlanmamıştır.
+### 5.1. Geçiş inceleme kaydı
 
+| Alan | Kaydedilecek bilgi |
+|---|---|
+| Birim ve kapsam | Hangi sistem, ortam ve zaman aralığı? |
+| Başlangıç koşulu | Hangi özellikler ölçüldü, hangileri varsayıldı? |
+| Yeni işlev | Önceki durumdan ne farklı; ölçütü ne? |
+| Mekanizma | Hangi ara süreç sonuca bağlanıyor? |
+| Kronoloji | İz ve tarihleme hangi sırayı destekliyor? |
+| Alternatif | Aynı iz başka süreçle oluşabilir mi? |
+| Yeterlilik | Koşul gerekli mi, yeterli mi, yalnız kolaylaştırıcı mı? |
+| Sonuç | Desteklenen dar sav ve belirsizlik nedir? |
 
-## 13. Hızlandırılmış karşı-model: jeolojik sınırın yaşamı zorunlu kılmaması (23.10.2026)
+Bu kayıt, bütün doğa tarihini tek denklemle açıklamaz. Jeoloji-01, ortam ve kimyasal işlev arasındaki ilişkiyi kendi kaynaklarıyla araştırır; Varlık Tarihi yalnız geçiş iddiasının gerekçe yapısını kurar.
 
-**Kaynak ön çalışma:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md`, blob `0c9a6235`. Bu metnin `G_limit → E_balance → Bio_opening` gösterimi, jeolojik sınır, enerji dengesi ve biyolojik açılım arasında araştırılacak bir bağıntı önerir. Bağıntı henüz ölçülmüş evrensel yasa değildir.
+## 6. Süreklilik, sınır ve “reset” yorumları
 
-**Açık değişkenler:** `G` jeolojik koşullar kümesi (sıvı çözücü, enerji gradyanı, kimyasal yapı taşları ve kararlı çevre aralığı); `C` kendi kendini sürdüren kimyasal ağın varlığı; `R` kalıtsal çoğalma; `B` biyolojik sistemin ortaya çıkışı. Sınanacak güçlü önerme `G ⇒ B`, daha ihtiyatlı önerme ise `G ∧ C ∧ R ⇒ B` olarak yazılır. Buradaki işaretler kavramsal önermedir; henüz olasılık veya ölçüm modeli değildir.
+Birleşik Alan yazısı, alanlar arası sürekliliği vurgular ve geçişi yoğunluk, karmaşıklık ve dengeyle ilişkilendirir [K2]. Bu yararlı araştırma yönü korunur; fakat kaynakta farklı birim ve anlamdaki büyüklüklerin toplamı bir fizik denklemi sayılmaz.
 
-**Karşı-model:** `G=1`, `C=0`, `R=0`, `B=0` mümkün bir durum olarak düşünülürse `G ⇒ B` mantıksal zorunluluk değildir. Yaşama elverişli fiziksel koşulların bulunması, kendi kendini sürdüren ve kalıtsal çoğalan bir sistemin gerçekten oluştuğunu tek başına göstermez. Bu karşı-model, jeolojinin biyoloji için altyapı olabileceği kurucu tezini iptal etmez; 'yeter koşul' iddiasının ayrıca kanıtlanması gerektiğini gösterir.
+Aynı yazının dinozorları zihne yer açmak için gerçekleşen reset örneği gibi anlatması amaç atfeden tarihsel yorumdur. Bir yok oluşun ardından yeni örgütlenmeler görülmesi, yok oluşun o sonucu amaçladığının nedensel kanıtı değildir. Olayın nedeni, sonrasındaki çeşitlenme ve kurucunun verdiği anlam ayrı araştırma konularıdır. Burada belirli yok oluş mekanizması yeniden incelenmiş değildir.
 
-**Zaman bağlantısı:** `ZANISTARAST-TEORILER/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md` (blob `b4db52d9`) etkileşim–denge–sonuç sıralamasını önerir. Jeolojik örnekte sonuç değişkeni `B`, zaman aralığı `Δt`, ara süreçler `C` ve `R` olarak ayrı kaydedilmelidir. Denge dışı kimyasal süreçlerin varlığı, bütün geçişlerin termodinamik dengeye varacağı varsayımına karşı kontrol oluşturur.
+Daralma, çözülme veya başarısızlık bir araştırma sorusu doğurabilir: hangi taşıyıcı koşul kayboldu, hangi ilişkiler değişti, yeni düzen hangi süreçle oluştu? Ancak bütün süreçlerin daha yüksek boyuta zorunlu geçeceği sonucu çıkmaz. Yeni işlevin doğmaması, sistemin sürmesi veya çözülmesi de hipotezin açıklaması gereken ihtimallerdir.
 
-**Katman kararı:** Bu sınama varlık tarihi makalesinin içinde kalır. Ancak jeolojik sınırın hangi somut çevresel ve kimyasal göstergelerle belirleneceğini bağımsız veri ve yöntemle inceleyen çalışma, birinci katmanda ayrı makale olabilir. İnsan tarihi hattı için benzer ayrım, biyolojik Homo sapiens tarihi ile kültürel/kurumsal uygarlık tarihinin farklı kanıt dizileridir. Dış literatür ve bağımsız Rasterast kontrolü açıktır.
+“Jeolojik evre bitti” ifadesi jeolojik süreçler sona erdi diye kullanılmaz. Altın altyapı olarak sürmesi, üst işlevin koşullarının yeniden değişebilmesine de izin verir. Üst, altı yok eden yeni bir madde türü olarak tanımlanmaz.
 
+### 6.1. Entropi ve matematik benzetmesinin düzeltilmesi
 
-## 14. Boyutsal açılım aksiyomları ve jeolojik geçiş: ön çalışma karşılaştırması (23.10.2026)
+Zaman serisindeki entropiyi her yapının sürekli çözülmesiyle eşitleyen yorum, sistem ve çevre koşullarını ayırmadan devralınmaz [K5]. OpenStax §4.6 entropiyi bir durum fonksiyonu olarak açıklar; sistemin ısı alışverişine bağlı örneklerde artış ve azalışı ayrı gösterir [D1]. Bu dar karşılaştırma, entropinin tek başına her yerel yapıda zorunlu azalma veya üst boyuta geçiş anlamına gelmediğini belirtmek için kullanılır.
 
-**Doğrudan kaynaklar:** `ZANISTARAST-TEORILER/theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md` (`27572db9`) ve `theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md` (`0c9a6235`). Bu metinler sırasıyla A1–A5 boyutsal açılım aksiyomlarını ve jeolojik sınırdan biyolojik evreye geçiş hipotezini daha önce formüle etmiştir.
+Fiziksel ikinci yasa, ruhun varlığının veya nihai hükmün deneysel kanıtı yapılmaz. Enerji yoğunluğu, düzen, termodinamik entropi ve ahlaki değer aynı değişken değildir. Ayrıntılı termodinamik model ve kozmolojik sonuç türetme bu çalışmanın kapsamı değildir.
 
-**Kapsama sınaması:** A1 'üst sistem alt sistemi çalıştırır' önermesi için, bir biyolojik organizmanın fiziksel/kimyasal altyapıya bağımlılığı ile 'üst boyut fiziksel yasaları üretir' iddiası ayrıdır. İlki sistem bağımlılığıdır; ikincisi ek nedensel kanıt ister. A2 'boyut kapsama yeteneğidir' önermesi, boyutu koordinat sayısından farklı bir ontolojik ölçüt olarak tanımlar; kapsama ilişkisi her örnek için operasyonelleştirilmelidir.
+Kaynakta kullanılan `0,333…` benzetmesi de düzeltilir: bu sonsuz ondalık gösterim `1/3` sayısını verir. `0,3; 0,33; 0,333; …` sonlu yaklaşımları bu sınıra yaklaşır. Bundan her fiziksel sürecin sonlu zamanda kapanacağı veya yapısını kaybedeceği sonucu çıkmaz. Matematiksel yakınsama, fiziksel sonluluk ve teolojik hükme bağlanma farklı öncüller ister.
 
-**İkili açılımın karşı-modeli:** A3'ün kurulma/süreklilik evreleri hücre–çok hücreli örgütlenme için açıklayıcı adaydır; fakat iki hücrenin yan yana bulunması çok hücreli organizmanın oluştuğunu göstermez. Hücreler arası iş bölümü, bütünleşme ve kalıtımsal süreklilik ayrıca araştırılır. Benzer biçimde atomların varlığı yıldız–gezegen sistemini zorunlu üretmez.
+## 7. Olay, zaman ve tanıklık
 
-**Jeoloji ve insan tarihi için veri gereksinimi:** Jeolojik sınır çalışmasındaki enerji dağılımı, kararlılık ve karmaşıklık eşikleri ölçülebilir büyüklüklerle tanımlanmadan evrensel 'geçiş kanunu' sayılamaz. İnsan tarihindeki birey–toplum geçişinde de nüfus yoğunluğu tek başına kurumsal Komel'in oluştuğunu kanıtlamaz; ilişkisel kurum, hafıza, iş bölümü ve norm aktarımı gibi ayırıcı göstergeler gerekir.
+Zaman metni etkileşim–düzen arayışı–sonuç ilişkisini ve “tanıklık varsa zaman tarih olur” ifadesini önerir [K4]. Bu makale tanıklığı, olay hakkındaki anlam ve sorumlu anlatının kuruluşunda kullanır. **Olayın gerçekleşmesi**, **olayın iz bırakması**, **izin yorumlanması** ve **anlatının aktarılması** aynı işlem değildir.
 
-**Kanonik düzeltme:** Eski tarih teorisinin D4 'kanun/koordinasyon' başlığı güncel D4 ruh–melek evrelerinin düzen/zaman işlevi bağlamında okunur; fiziksel zaman koordinatıyla özdeşleştirilmez. Ehad Yek'tir, yaratılmış Yek değildir. Kurucu A1–A5 önermeleri korunur; her birinin ispat yükü ayrı değerlendirilir.
+İnsan tanığı bulunmayan bir olayın daha sonra kayaç veya maddi iz üzerinden araştırılabilmesi bu ayrımı gösterir. Kayıt yokluğu olayın hiç gerçekleşmediğinin yeterli kanıtı değildir. Tanıklığın kaybolması tarih bilgisini zayıflatabilir; fiziksel zamanın durduğunu göstermez.
 
-**Türetme kapısı:** Mevcut varlık tarihi ve zaman metinleri yeni başlıklarla kopyalanmaz. Birinci katmanda bağımsız jeoloji tarihi veya insan tarihi makalesi ancak kaynak metin, ayrı soru, ayrı yöntem, karşı-model ve bağımsız literatür iziyle açılır. K0–K6, 488 adayla tam özgünlük karşılaştırması ve bağımsız Rasterast açıktır.
+Ölçülen süre, biyolojik yaşam süresi, öznel yaşantı ve tarihsel anlam ayrı açıklama alanlarıdır. Kaynaktaki “etkileşim yoksa zaman yoktur” önermesi burada doğrulanmış fizik yasası yapılmaz. Aynı şekilde süreçleri düzen arayışıyla anlatmak bütün sistemlerin termodinamik dengeye yakınsadığı anlamına gelmez.
 
+H02'nin kaynaklı hafıza ve H03'ün düzeltme izi bu alanda uygulanır: önceki anlatı, kullanılan kaynak sürümü ve sonraki değişiklik birlikte korunur. Eski yorumun saklanması, bilimsel hata düzeltildikten sonra hâlâ geçerli sayılması değildir.
 
-## 15. Jeoloji tarihi ile insan tarihi için iki ayrı kanıt zinciri (23.10.2026)
+## 8. Varlık tarihinden ayrı tarih araştırmalarına
 
-**Ön çalışma bağı:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md` (`0c9a6235`) jeolojik ortamdan biyolojik işlevlere geçişi; `theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md` (`27572db9`) ise birey, toplum ve ahlakı boyutsal tarih içinde konumlandırır. Bu bölüm iki özgün metni yeniden üretmez, farklı kanıt zincirlerini ayırır.
+| Araştırma alanı | Temel soru | Bu makaleyle sınırı |
+|---|---|---|
+| Kozmik/fiziksel tarih | Belirli yapılar hangi süreçte oluştu? | Ontolojik tablo fizik denkleminin veya tarihlemenin yerine geçmez |
+| Jeolojik tarih | Kayaç, çevre ve gezegensel koşullar nasıl değişti? | Jeolojik zaman birimleri kozmik boyut numaraları değildir |
+| Biyolojik tarih | Canlılık ve örgütlenme hangi iz ve mekanizmalarla açıklanır? | Kurucu evre adı köken mekanizmasının kanıtı değildir |
+| Zihin tarihi | Bilişsel işlevler ve bilgi aktarımı nasıl araştırılır? | Tek araç örneği aklın tarihsel başlangıcını belirlemez |
+| İnsan/uygarlık tarihi | Davranış, norm, kurum ve kaynaklı hafıza nasıl gelişti? | Tür tarihi ile iradeli sorumluluk aynı değişken değildir |
 
-**J zinciri (jeoloji):** J1 kayaç ve mineral oluşumu → J2 sıvı ortam ve enerji gradyanları → J3 kimyasal döngülerin sürekliliği → J4 biyolojik iz iddiası. J1–J3 jeolojik/jeokimyasal gözlemlerle araştırılır; J4 için abiyotik açıklamaları dışlayan bağımsız biyolojik kanıt gerekir. Karşı-örnek: kimyasal açıdan zengin fakat kalıtsal çoğalma göstermeyen ortam, J3'ten J4'e zorunlu geçişi çürütür.
+ICS'nin kronostratigrafik çizelgesi, Dünya tarihinin birimlerini ve sınırlarını düzenler [D2]. Bu bilimsel sınıflandırma ile altı kozmik boyut aynı ölçütle kurulmaz. Belirli dönem ve tarih değerleri Jeoloji-01'de ilgili sürüm ve yöntemle incelenir.
 
-**İ zinciri (insan tarihi):** İ1 hominin fosil ve genetik kayıtları → İ2 davranışsal/teknolojik arkeolojik izler → İ3 topluluklar arası kalıcı ilişki ve bilgi aktarımı → İ4 norm, kurum ve ahlaki sorumluluk belgeleri. İ1 tür tarihini, İ2–İ3 davranış ve toplumsal örgütlenmeyi, İ4 ise kurumsal ve normatif tarihi araştırır. Karşı-örnek: çok sayıda insanın aynı alanda yaşaması tek başına kalıcı kurum veya ortak normların bulunduğunu kanıtlamaz.
+Smithsonian'ın kanıt sayfası fosil, davranışsal iz, genetik ve tarihleme çalışmalarını ayrı kanıt alanları olarak sunar [D3]. Bu alanların birlikte kullanılması, tek bir arkeolojik bulgunun bütün insanlık veya iradeli ahlakın ilk tarihi olduğu anlamına gelmez.
 
-**Zanabûn ve Rasterast denetimi:** Her zincirde kaynak türü, tarihlendirme yöntemi, bağımsız doğrulayıcı ve rakip açıklama ayrı kaydedilir. Aynı örnekten türetilmiş iki yorum bağımsız kanıt sayılmaz. Kozmik D1–D6 ontolojisiyle insanın fiziksel, biyolojik, zihinsel ve ahlaki özellikleri arasında birebir kronolojik eşleme varsayılmaz.
+Nisâ 4:1'e dayanan insan yaratılışı kurucu teolojik yaklaşımı korunur; ayet lafzı, meal ve yorum H01'deki kaynak ayrımıyla kullanılır. Evrimsel ortak ata/doğal seçilim anlatısı kurucu ontolojik başlangıç kabulü değildir; bilimsel veri ve rakip açıklamalar yok sayılmaz veya bu tercih nedeniyle yanlışlanmış ilan edilmez. Son buzul çağı sonrası iradeli ahlak çağı tezi de biyolojik Homo sapiens'in başlangıcıyla eşitlenmez [K8].
 
-**Üretim kararı:** Jeoloji ve insan tarihi, mevcut ön çalışmaların kapsamı ve bağımsız kanıt gereksinimi nedeniyle iki ayrı araştırma hattı olarak tutulur; aynı varlık tarihi bölümünün başlık değiştirilmiş kopyaları olmayacaktır. Kaynak depoların tümü taranmadan ve mevcut adaylarla özgünlük karşılaştırması yapılmadan yeni makale numarası verilmez.
+Jeoloji-01 ortam ve mekanizma sorusunu; İnsan Tarihi davranış, aktarım, kurum ve ahlaki dönemselleştirme sorusunu ayrı geliştirir. Bu makale o iki araştırmanın başlık değiştirilmiş kopyası değildir.
 
+## 9. “Birleşik alan” ve ortak şemanın sınırı
 
-## 16. Jeolojik çağlar ve akıl eşiği: dört özgün ön çalışmanın çapraz denetimi (23.10.2026)
+Kaynakta “alan tek, görünüm çok” denilerek fizik, biyoloji, zihin, ahlak ve uygarlık arasında süreklilik savunulur [K2]. Buradaki birleşik alan **felsefi sentez adıdır**. Fizikteki matematiksel birleşik alan teorisinin kurulmuş denklemi veya kuantum alanlarının türetilmesi diye sunulmaz.
 
-**Okunan özgün dosyalar:** `ZANISTARAST-TEORILER/theories/02-GEOLOGICAL_EVOLUTION/01_JEOLOJIK_CAGLAR.md` (`312467f3`), `02_JEOLOJIK_CAGLAR.md` (`339eae10`), `03_ZIHIN_ESIGI.md` (`9d0ac8fd`) ve `04_TRANSITION_FROM_RATIONAL_MIND_TO_HUMAN_ERA.md` (`e046e56f`). Bunlar jeolojik evreleri, daralma/reset hipotezini, Zihin 1–Zihin 2 ayrımını ve insanın çevreye bilinçli müdahalesini daha önce işlemiştir; yeniden yazılmış makale olarak sayılmaz.
+Aynı sözcüğün farklı alanlarda bulunması ortak mekanizmayı ispatlamaz. Bir fiziksel durum değişimi, zihinsel bilgi üretimi ve insanın ahlaki tercihi farklı kanıt ve açıklamalar gerektirir. Kuantum ölçümündeki “gözlem” sözcüğünden Zanabûn'un ikinci bilen onayının deneysel ispatı çıkarılmaz. Bu makale kuantum yorumları arasında hüküm vermez ve bilinçli gözlemciye zorunlu çökertme görevi atfetmez.
 
-**JH-1 — Jeolojik çağ ile boyutun ayrımı:** İlk kaynak, jeolojik çağları bağımsız bir kozmik boyut değil, biyoloji ve zihin evrelerini taşıyan tarihsel çevre olarak tanımlar. Bu ayrım korunur. Tek hücrelilik ve çok hücrelilik D2'nin farklı evreleri; zekâ ve akıl D3'ün farklı evreleri olarak ele alınır. Her evre için fosil, moleküler ve davranışsal delil ayrı aranır.
+Ortak şemanın araştırma değeri, farklı alanlarda hangi ilişkinin gerçekten korunduğunu açıkça sorabilmesidir. Eşleme yoksa benzerlik analoji düzeyinde kalır. “Bütünleşme” demek her boşluğu dolduran bir açıklama değildir.
 
-**JH-2 — Daralma/reset hipotezinin rakip açıklaması:** İkinci kaynak, kitlesel yok oluşların üst evreye alan açtığını öne sürer. Buna karşı, göktaşı çarpması, volkanizma, iklim ve okyanus kimyası gibi nedenlerle gerçekleşen yok oluşların sonradan görülen evrimsel çeşitlenmeyle aynı şey olmadığı test edilmelidir. 'Akıl gecikirse daralma kaçınılmazdır' iddiası için akıl bulunmayan ama uzun süre kalıcı ekosistemler karşı-örnek adayıdır. Amaçlı reset, ölçülmüş nedensel mekanizma olarak kabul edilmez.
+## 10. İtiraz, sınama ve devredilebilir sonuç
 
-**JH-3 — Zihin eşiğinin ölçütü:** Üçüncü kaynak, Zihin 1'i uyum/öğrenme; Zihin 2'yi soyutlama, gerekçeli seçim ve sorumlulukla ayırır. Ancak hayvanlarda planlama, sosyal öğrenme ve karmaşık karar örnekleri bulunduğundan tek bir davranış aklın münhasır kanıtı sayılamaz. Çoklu ölçüt, gelişimsel süreklilik ve rakip açıklamalar gereklidir.
+**İtiraz: Model her sonucu açıklıyorsa sınanamaz.** Somut uygulama önceden birim, başlangıç koşulu, sonuç ve başarısızlık ölçütü belirlemelidir. Sonuç çıkmadığında sistemi veya “kemal” tanımını gerekçesiz değiştirmek destek sağlamaz. Yeni tanım yeni kayıt olarak incelenir.
 
-**JH-4 — İnsan çağının tarihsel başlangıcı:** Dördüncü kaynak, bilinçli çevresel müdahaleyi insan çağının ayırıcı işlevi sayar. Bu normatif/tarihsel dönemselleştirme, jeolojik zaman çizelgesindeki resmi bir çağ sınırı ile otomatik özdeş değildir. Ateş, alet, tarım, yerleşiklik ve kurumsal sorumluluk farklı tarihlerde gelişen ayrı göstergelerdir; tek bir başlangıç anı varsayılmaz. İnsan ortaya çıktıktan sonra jeolojik süreçler de sürer.
+**İtiraz: Kavramsal ayrımlar yeni tarih üretmiyor.** Doğrudur; bu makalenin katkısı yeni saha tarihi değil, kaynakların hangi çıkarımları taşıdığını ayıran geçiş yöntemidir. Somut tarihsel iddia alan araştırmasında bağımsız veri ister. Bu sınır yöntemin katkısını tanımlar.
 
-**Üretim yönlendirmesi:** Jeoloji tarihi makalesinin özgün katkısı JH-1/JH-2'nin stratigrafik ve paleontolojik karşılaştırması; insan tarihi makalesinin özgün katkısı JH-3/JH-4'ün davranış, arkeoloji ve kurum kanıtlarının karşılaştırması olacaktır. Önce mevcut adaylar aranır; bağımsız yöntem ve kaynak eşlemesi tamamlanmadan yeni numara verilmez. Bu bölüm iç kanonik çapraz denetimdir, dış literatür ve bağımsız Rasterast henüz tamamlanmamıştır.
+**İtiraz: Ahlak ile süreklilik ilişkisi nedensel olarak gösterildi mi?** Hayır. Hak, adalet, merhamet ve sorumluluk kurucu normatif ölçülerdir. Kurumların sürekliliği hakkındaki ampirik sav için dönem seçimi, gösterge, alternatif neden ve karşıt örnek gerekir. Rabûn yönetimi ve Mabûn kaynak/değer/akış araştırması bu yükü ayrıca taşır.
 
+Önerilen uygulama kaydı §5.1'deki alanlarla çalışır. Sonuç iddiası kaynak ve çıkarım kapsamıyla desteklenmeli; gözlenmeyen olasılık, düşünce örneği ve ölçülmüş olay birbirinden ayrılmalıdır. Böylece H01'in ontolojik birikimi yeniden yazılmadan Jeoloji ve İnsan Tarihi'nin yeni soruları araştırılabilir.
 
-## 17. Kurucu yaratılış ve iradeli ahlak düzeltmesinin jeoloji/insan tarihine etkisi (23.10.2026)
+## 11. Sonuç
 
-**Kanonik dayanak:** `01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md` bölüm VII. Kurucunun yaratılış yaklaşımında Nisâ 4:1, boyutların kemale ererek açılması, biyoloji–zihin–ruh kapsama ilişkisi, fıtrî ahlak ve insanın iradeli ahlakı esastır. Darwinci evrim anlatısı bu makalenin ontolojik başlangıç varsayımı değildir.
+Varlık Tarihi, tekillik, süreklilik ve daha kapsayıcı işlevler arasındaki ilişkiyi kurucu ontoloji içinde araştırır. Altı boyut ve evreleri ortak çerçeve sağlar; tarih, mekanizma ve kanıtın yerine geçmez.
 
-**Kavramsal sıralama:** Fiziksel düzenin kemal/sınır aşaması → biyolojik açılım → zihin evreleri → ruhun kapsayıcı düzen işlevi → insanın iradeli ahlaki sorumluluğu → hüküm/hesap. Bu gösterim tek çizgili paleontolojik soy ağacı veya jeolojik çağ takvimi değildir. D4 ruh/melek ontik evreleri ve düzen/zaman işlevi, D5 fıtrî/iradeli ahlak ayrımı ve D6 hüküm ayrı korunur.
+Kemal ve açılım, alt düzeyin taşıyıcı koşullarıyla üst işlevin ilişkisi olarak korunur. Hazırlayıcı koşul yeterli nedene, gözlem yokluğu yokluğun kanıtına veya olayın sonradan anlamlandırılması olayın amacına dönüştürülmez. Zamanın fiziksel ölçümü ile sorumlu tarih anlatısı ayrı tutulur.
 
-**Jeolojik sınama:** 'Kemal' ölçülecekse sistemin kararlılık, enerji akışı, yapı ve kimyasal süreklilik göstergeleri tanımlanır. Fiziksel evrenin genişlemesi ile yerel gezegensel kimyasal/biyolojik koşullar aynı değişken değildir. Jeolojik kayıt, kurucu ontolojik açıklamayı kendiliğinden ispatlamaz; rakip jeokimyasal ve biyolojik modellerle karşılaştırma gerektirir.
+Katkı, bu geçişleri birim, koşul, işlev, mekanizma, kronoloji, alternatif açıklama ve belirsizlikle kaydetme yöntemidir. Bu çerçeve Jeoloji ve İnsan Tarihi'ne soru ve sınama yolu bırakır; onların sonuçlarını önceden belirlemez.
 
-**İnsan tarihi sınaması:** Son buzul çağı sonrası iradeli ahlak çağının açılımı kurucu tarih tezidir. Homo sapiens'in biyolojik kökeni, son buzul çağının sonu, yerleşik yaşam ve normatif sorumluluğun doğuşu ayrı kronoloji ve kanıt dizileridir. Arkeolojik göstergelerle ahlaki iradenin doğrudan ölçüldüğü varsayılmaz; toplumsal normların izleri ile ontolojik irade ayrıştırılır.
+## Kaynaklar ve sürüm izi
 
-**Karşıt kuramın konumu:** Doğal seçilim, mutasyon, genetik akrabalık ve fosil sıralaması hakkındaki bilimsel çalışmalar yok sayılmaz; Zanistarast'ın yaratılış ve devirsel gelişim tezine karşıt açıklama ve veri alanı olarak açıkça değerlendirilir. 'Bilimsel olarak imkânsız' hükmü ancak önceden belirtilen biçimsel çelişki veya veri temelli çürütmeyle savunulabilir.
+**[K1]** [Zanistarast Tarih Teorisi](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/theories/01-BOYUTSAL-ACILIM-TEORISI/00_ZANISTARAST_HISTORY_THEORY.md), §§1–5; blob `27572db985af27d970255f268e00457851cfb4b7`.
 
-**Üretim kilidi:** Jeoloji tarihi, insan tarihi, biyoloji, zihin ve ahlak makaleleri bu bölümle çapraz denetlenir. Önce özgün depolardaki metinler geliştirilir; özgün soru, yöntem ve katkı bulunmadan yeni makale sayısı artırılmaz. K0–K6 bağımsız Rasterast denetimi açık kalır.
+**[K2]** [Zanistarast Unified Field Theory](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/eguations/ZANISTARAST_UNIFIED_FIELD_THEORY/00_ZANISTARAST_UNIFIED_FIELD_THEORY.md), özellikle §§2, 4–6; blob `19162a12b736ea22bee3fb943b138d89da8569a1`. `eguations` kaynağın özgün dizin adıdır. Sembolik toplam fiziksel denklem sayılmadı.
+
+**[K3]** [Geological Limit and Transition to Biological Phase](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/theories/02-GEOLOGICAL_EVOLUTION/07_GEOLOGICAL_LIMIT_AND_TRANSITION_TO_BIOLOGICAL_PHASE.md), §§2–8; blob `0c9a623575bb572020fb64fb3bfdc6109954fba9`. Hazırlık ve işlev ayrımı devralındı; zorunlu biyolojik açılım çıkarılmadı.
+
+**[K4]** [Time Theory / Unified Mind](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/theories/08_ZAMAN_THEORY/00_TIME_THEORY_UNIFIED_MIND.md), §§1–5 ve 8–9; blob `b4db52d9707d98a2576a70c308fe0de073786e0b`. Süreç, anlam ve tanıklık sorusu korundu; evrensel fiziksel kapanış sonucu çıkarılmadı.
+
+**[K5]** [Time, Entropy and Dimensional Transition](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/theories/08_ZAMAN_THEORY/04_TIME_ENTROPY_AND_DIMENSIONAL_TRANSITION.md). Teolojik yorum ve matematik/fizik benzetmeleri ayrıldı; eski boyut numaraları güncel tablo yerine kullanılmadı.
+
+**[K6]** [Özgün paragraf envanteri](../01-kanonik-denetim/H01-H05-IKI-OZGUN-KAYNAK-PARAGRAF-KAPSAMA-VE-IDDIA-ENVANTERI-2026-10-22.md), A13–A17, A24–A34; [11 depo kaynak haritası](../01-kanonik-denetim/H02-DEPOLAR-ARASI-KAYNAK-VE-CIKARIM-HARITASI-2026-10-24.md); [geniş mantık keşfi](../01-kanonik-denetim/GENIS-MANTIK-KESFI-VARLIK-JEOLOJI-INSAN-YEK-MERKEZ-MATEMATIK-2026-10-23.md), MK-005–MK-012 ve M3. Mevcut okuma kayıtları devralındı; her tarihsel sav doğrulanmış sayılmadı.
+
+**[K7]** [H01](NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md), §§1, 4–10; [H02](NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md), §§2–7; [H03](NK-ZS-H03-A14-TR-v02-RASTERAST-BIRIKIMLI-KANIT-DENETIMI.md), §§3–9; [H04](NK-ZS-H04-A02-TR-v03-FITRI-IMKAN-ARAC-IRADELI-AHLAK.md), §§2–7; [H05](NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md), §§2–9, tamamlanan sürüm `d1f4642ea43283730cfe1fdcd3fe88343df62e16`. Bu kaynakların aynı araştırmadaki birikimi bağımsız tekrar kanıtı sayılmadı.
+
+**[K8]** [Ehad–Yek kurucu kanonu](../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md), özellikle VII–VIII; [16 Ekim onaylı evre tablosu](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md). İnanç, özgün yorum ve bilimsel uygulama ayrı tutuldu.
+
+**[D1]** OpenStax. *University Physics, Volume 2*, §4.6, Entropy. https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy . 24 Ekim 2026'da durum fonksiyonu tanımı ve ısı alışverişindeki entropi değişimi örnekleri okundu. Kullanım §6.1 ile sınırlıdır; bütün termodinamik veya kozmoloji literatürü taranmadı.
+
+**[D2]** International Commission on Stratigraphy. *International Chronostratigraphic Chart*, v2026/06. https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf . Kurumun güncelleme duyurusu: https://stratigraphy.org/news/156 . 24 Ekim'de resmî indeks, sürüm ve birim açıklaması doğrulandı; çizelgenin bütün sınır yaşları yeniden incelenmedi. Genel sayfa doğrudan okunabilir gövde döndürmedi. Kullanım: jeolojik sınıflama ile ontolojik boyutun ayrımı.
+
+**[D3]** Smithsonian National Museum of Natural History. *Human Evolution Evidence*. https://humanorigins.si.edu/evidence . 24 Ekim 2026'da fosil, davranış izi, genetik ve tarihleme kanıtlarını ayıran kurum sayfası doğrudan okundu; bütün bağlı araştırmalar okunmuş sayılmadı.
+
+## Tarihsel iz ve kapsam
+
+Önceki ana metin ve yinelenen araştırma bölümleri [d9e87fd sürümünde](https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/blob/d9e87fda963854f7776261928139c79fc3005baa/02-cekirdek-makaleler/VARLIK-TARIHI-01-BOYUTSAL-ACILIM-KANONIK-SENTEZ.md) korunur. Eski bölüm numaraları o sürüme aittir. [Varlık Tarihi araştırma dizisi](../05-ikinci-katman-makaleler/VARLIK-TARIHI-AYRI-ARASTIRMA-DIZISI-2026-10-23.md) aynı araştırma ailesinin alt soru kaydıdır; başlık benzerliği yeni tamamlanmış makale sayılmaz.
+
+[Jeoloji-01](JEOLOJI-01-FIZIKSEL-ZEMINDEN-BIYOLOJIK-ORTAMA-HEBUN-SENTEZI.md) ve [İnsan Tarihi-01](INSAN-TARIHI-01-AKIL-IRADELI-AHLAK-NEWROZA-KAWA.md) kendi mekanizma ve kronoloji sorularını taşır. Bu metnin iç kaynak–mantık–bölüm bütünlüğü, o çalışmaların veya bütün araştırma programının tamamlandığı anlamına gelmez. Yeni deney, simülasyon veya bağımsız hakem değerlendirmesi yapılmış sayılmaz.
