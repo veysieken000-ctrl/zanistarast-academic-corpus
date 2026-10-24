@@ -177,7 +177,7 @@ Bu bölüm, mevcut kurucu savı değiştirmeden **öncül → çıkarım → sı
 | H01-D2 | İlk Yek, ikinci Yek ve ilişki üzerinden yeni Yekler düşünülür | Kurucu ilişkisel türeme şeması | Her bilim dalında iki fiziksel ebeveyn veya aynı türeme mekanizması zorunlu değildir |
 | H01-D3 | Yeni tekilliklerin ilişkilerinden Komel oluşur | Kavramsal bütün/parça ilişkisi | Parçaların bir arada olması tek başına yeni bir biyolojik işlev veya bilinç doğduğunu kanıtlamaz |
 | H01-D4 | Merkez–çevre ilişkisi düzeni açıklamak için kullanılabilir | Açıklayıcı analoji | Geometrik merkezden ahlaki otorite, meşruiyet veya nedensel öncelik çıkarılamaz |
-| H01-D5 | Bir düzenin devamı kuruluşundan ayrı bir sorudur | Hebûn–Zanabûn görev ayrımı | Ontolojik kuruluş ile epistemik bilme/doğrulama özdeş değildir |
+| H01-D5 | İlk kuruluş ve düzenli devam sorularının kurucu cevabı Zanabûn'dur; Zanabûn Hebûn ontolojisine dayanır | Kurucu Hebûn–Zanabûn görev ayrımı | Ontolojik başlangıç, bilgi kuruluşu ve deneysel doğrulama özdeş değildir |
 
 **Mantıksal karşı-model:** İki ayrı nesnenin yan yana gelmesi bir küme oluşturabilir; ancak bu, kümenin zorunlu olarak yeni bir kimyasal bileşik, canlı veya bilen özne olacağı anlamına gelmez. Dolayısıyla `ilişki(A,B) ⇒ her alanda aynı mekanizmayla C` geçerli genel bir çıkarım değildir. Bilimsel mekanizma, her alanda bağımsız kanıt gerektirir.
 
