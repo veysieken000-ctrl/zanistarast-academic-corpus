@@ -9,6 +9,12 @@ Hebûn ontolojisinin kurucu problemi yalnız varlığın bileşenlerini sıralam
 
 **Anahtar sözcükler:** Hebûn, Ehad, Yek, ikinci Yek, türeme, Komel, Nisâ 4:1, 6+Tek, Zanabûn.
 
+## Kurucu kaynakla ontolojik ikinci bilen sınırı
+
+Kurucunun 23 Ekim tarihli düzey ayrımında **Ehad İlk Bilen**, yaratılmış varlık ise Ehad karşısında **ontolojik ikinci bilen** olarak kaydedilir. Bu muhataplık Hebûn'un varlık ve fıtrat alanına ilişkindir. Ontolojik **ikinci Yek** türeme dizisindeki bir terimdir; ontolojik **ikinci bilen** ise yaratılmışın Ehad karşısındaki konumunu belirtir. İkisi aynı tanım değildir. Fiziksel ve biyolojik varlığın fıtrî düzeni insan türü bilinçli bilgi onayı olarak sunulmaz. Zanabûn'daki ikinci bilenin bilgi sonucunu onaylama işlevi ayrı epistemolojik düzeyde işlenir.
+
+Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md` ve `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`. Bu bölüm kurucu kaynak aktarımıdır; yeni bilimsel deney sonucu değildir.
+
 ## Yöntem ve iddiaların kapsamı
 Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
 
