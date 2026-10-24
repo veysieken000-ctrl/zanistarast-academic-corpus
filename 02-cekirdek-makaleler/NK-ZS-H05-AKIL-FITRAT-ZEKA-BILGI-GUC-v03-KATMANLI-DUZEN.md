@@ -1,204 +1,240 @@
-# Akıl ve Bilgi — Akıl, Fıtrat, Zekâ, Bilgi ve Güç
+# Akıl ve Bilgi — Bütünleşik İnsanda İlimden İlim Üretme
 
-**H05 | 22 Ekim 2026 | Birikimli akademik araştırma sürümü — yayıma hazır değil**
-
-## 23 Ekim 2026 — H04'ten devralınan bilgi ve H05'in bağımsız araştırma katkısı
-
-**Çekirdek bağımlılıkları:** H01'den yaratılmış Yek'in kimliği ve ontolojik muhataplığı; H02'den birinci bilenin ortaya koyduğu **sonucun** ikinci bilen tarafından denetlenmesi; H03'ten kanıt türleri, kaynak soyağacı, ortak hata ve karşı-örnek kapısı; H04'ten fıtratın imkân/sınırları, araçla erişilebilir seçeneklerin değişmesi ve bunun iradeli ahlaka otomatik olarak dönüşmemesi devralınır. Bunlar H05'in yeni keşfi diye sunulmaz.
-
-**H05'in ayrı sorusu:** Bir öznenin zekâya dayalı öğrenmesi ve problem çözmesi ile Zanistarast'ın kurucu tanımındaki **ilimden ilim üretme** arasında hangi işlemsel fark önerilebilir? Bir sonuç ne zaman yalnız ezber/örüntü aktarımı, ne zaman yeni bir gerekçeli çıkarım ve ne zaman farklı koşullarda sınanabilir bilgi üretimidir? Bu ayrım, yalnızca tür etiketinden hareketle dairesel biçimde kurulamaz.
-
-**Kurucu tanım ile bilimsel ölçümün sınırı:** “Akıl yalnız insanda ilimden ilim üretme yeteneğidir” ifadesi kurucu kavramsal tanımdır; hayvanların yeni çıkarım, planlama veya araç kullanma yeteneğinin bulunmadığını gösteren ampirik bir sonuç değildir. İnsan zekâsı akıl içinde yok olmaz. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak, insanda öz–duygu–akıl–fıtrî ahlak ve iradeli ahlak katmanları kurucu modeldir; kozmik 6+Tek boyutların sayısal eşleniği değildir. Her yaratılmış Yek'in ontolojik muhataplığı, epistemik ikinci tanık veya insanın iradeli sorumluluğuyla karıştırılmaz.
-
-**Önerilen karşılaştırmalı deney — henüz yapılmadı:** İnsan, uygun etik izinli hayvan bilişi literatürü ve yapay sistem çıktıları için aynı görev ailesinde (a) önceden görülen örüntüyü uygulama, (b) yeni koşula aktarım, (c) gerekçeyi açıkça sınama, (d) yanlış karşı-örnek karşısında revizyon ayrı kodlanır. İnsan dışı örneklerde gerekçenin içsel yaşantısı varsayılmaz; davranışsal kanıt ve modelin yorum sınırı kaydedilir. Araç erişimi ve önceki eğitim, bilgi üretiminden ayrı değişkenlerdir. Karşı-örnek: eğitim verisinde görülmemiş bir problemi çözen hayvan veya yapay sistem, “yalnız insan yeni çıkarım yapabilir” gibi geniş bir ampirik iddiayı zorlar; bu nedenle kurucu **akıl** tanımı ile gözlenebilir bilişsel kapasite eşanlamlılaştırılmaz.
-
-**Aday özgün sonuç:** İlimden ilim üretme iddiası için üç kapılı ölçüt önerilir: **(1) izlenebilir bilgi öncülleri; (2) bunlardan açık bir çıkarım/yenilik; (3) bağımsız karşı-örnek ve aktarım sınaması.** Bu, yeni bir ampirik bulgu veya evrensel zekâ ölçeği değil, H05'e özgü sınanabilir araştırma taslağıdır. Başarısızlık durumu: yalnızca yeniden ifade edilen bilginin yanlışlıkla yenilik sayılması ya da dış doğrulama olmadan akıl sonucuna varılması.
-
-**Devredilebilir bilgi:** A05'e zekâ–akıl görev farkı ve karşı-örnek matrisi; A06'ya kaynak bağımsızlığı; A07'ye bilgi üretiminin iradeli ahlaki değerlendirmeden ayrı tutulması; Newroza Kawa eğitim çalışmalarına öğrenme, çıkarım, gerekçelendirme ve bağımsız doğrulama aşamalarının ayrıştırılması aktarılır. İlişkili kısa girişler ve eksik bağımsız adaylar korunur; aynı araştırma sorusu ikinci bir tamamlanmış makale gibi sayılmaz.
-
-**Rasterast durumu:** Kanonik kavram eşleştirmesi yapıldı; gerçek deney, dış geçerlik, bağımsız ikinci denetim ve K0–K6 tamamlanmadı. Yayın kilidi sürer.
+**H05 Türkçe v03 | 24 Ekim 2026 | Düzenlenmiş kavramsal araştırma**
 
 ## Öz
-Zanistarast'ın beşli kavram çerçevesi fizik, biyoloji, zihin, ruh ve ahlak boyutlarındaki işleyişi karşılaştırmak için yeniden düzenlenir. Kurucu sınır şudur: **Akıl, yalnız insanda bulunan ilimden ilim üretme yeteneğidir.** Diğer varlıklardaki düzen ve düzenleyici ilişki insan aklı olarak adlandırılmaz. Her düzenin üzerinde bir bilen bulunduğu önermesi metafizik kurucu tez olarak incelenir; deneysel yasa diye sunulmaz. Güncel model hayvanda Öz–Duygu–Zekâ–Fıtrî Ahlak, insanda Öz–Duygu–Akıl–Fıtrî Ahlak ve bunları yönlendiren İradeli Ahlak ayrımını önerir; insan zekâsı aklın temelinde varlığını sürdürür.
 
-**Anahtar sözcükler:** Akıl, bilgi, zekâ, fıtrat, hayvan bilişi, iradeli ahlak.
+Bu çalışma, Zanistarast'ın akıl kavramını öz, duygu, zekâ, fıtrat ve iradeli ahlakla ilişkisi içinde inceler. Kurucu tanımda akıl, insanın ilimden ilim üretme kapasitesidir. Araştırma sorusu, bu ifadenin bilinen bilgiyi uygulamaktan, yeni ürün ortaya koymaktan ve gerekçeli yeni bilgi elde etmekten hangi ölçütlerle ayrılabileceğidir. Özgün kaynakların mevcut paragraf izleri, Core 03–05, ilgili depo yazıları ve önceki hayvan bilişi incelemeleri birlikte değerlendirilir. Öz, duygu ve akıl bütünleşik insan Yek'inin ilişkili anlamları olarak ele alınır; bağımsız parçalar veya altı kozmik boyutun sayısal karşılıkları yapılmaz. Yeni bilgi iddiası için bilgi öncülleri, çıkarım, yenilik kapsamı ve uygun sınama ayrı kaydedilir. Hayvanların öğrenmesi ve araç yapması korunur; tür etiketi davranış göstergesinin yerine geçirilmez. Bir kapasitenin kullanılması, sonucun doğru veya kullanımın ahlaken iyi olmasını garanti etmez. Katkı, ilimden ilim üretme kavramını kaynaklı örnekler, karşı-örnekler ve uygulanabilir değerlendirme sorularıyla açıklaştıran bir yöntem önerisidir; yeni türler arası deney veya doğrulanmış zekâ ölçeği değildir.
 
-## Yöntem ve iddiaların kapsamı
-Bu çalışma yeni deney veya sistematik literatür derlemesi değildir; kurucu metinlerin kavramsal çözümlemesini, seçilmiş dış kaynaklarla karşı-örnek denetimini birleştirir. Teolojik kabul için kaynak sadakati; felsefi önerme için açık öncül ve çıkarım; ampirik iddia için gözlem ve araştırma yöntemi aranır. Seçilmiş örnekler bütün literatürü temsil etmez. Tanımın kanonda bulunması, tanımın dış dünyadaki bütün varlıklara uygulandığının kanıtı sayılmaz. Bilimsel terimler ilgili alanın kaynaklandırılmış anlamıyla kullanılır; kurucu tanım bilimsel tanımın yerine geçirilmez. Literatürde birden fazla kullanım varsa seçilen disiplin, tanım ve ölçüt belirtilir; tek bir uzlaşı varmış gibi sunulmaz.
+**Anahtar sözcükler:** akıl, zekâ, ilimden ilim, öz, duygu, bilgi üretimi, fıtrat, iradeli ahlak.
 
-## 1. Kavramlar ve düzeyler
-- **Güç (fizik):** İşin yapılma veya enerjinin aktarılma hızıdır; ortalama güç, aktarılan enerjinin geçen süreye oranıyla ifade edilir. SI birimi watt olup 1 W = 1 J/s'dir (OpenStax, tarihsiz, §7.7). Genel “etki/eylem kapasitesi” anlatımı bu fiziksel büyüklüğün tanımı değildir; böyle bir felsefi kullanım geçtiğinde ayrıca belirtilir.
-- **Bilgi:** Biyolojik dizilim, öğrenilmiş temsil, gündelik bilgi ve bilimsel bilgi farklı türlerdir. DNA genetik bilginin taşıyıcısıdır; dizilimdeki biyolojik bilgi, insanın gerekçeli bilgisiyle özdeş değildir (NHGRI, 2026, Deoxyribonucleic Acid).
-- **Zekâ:** İşlem, belek/bellek, algı ve seçenek değerlendirme. Hayvan bilişi hakkında kapsamlı ampirik iddialar ayrıca kanıt ister.
-- **Fıtrat:** Varlığın kendine özgü kuruluş düzeni, imkânları ve sınırları. Ruh/kanun/yazılım benzetmesi bir analojidir; moleküler mekanizmayla ontolojik özdeşlik değildir.
-- **Fıtrî ahlak:** Fıtratın varlıkların işleyiş ve ilişkilerinde görünen düzeni; bilinçli tercih anlamına gelmez.
-- **İradeli ahlak:** İnsanın fıtrî imkânları bilgi, niyet ve tercihle yönlendirmesi; hüküm karşısındaki özel sorumluluk.
-- **Akıl:** Yalnız insanda ilimden ilim üretme, yeni genel bilgi, yöntem ve araç geliştirme. Diğer boyutlar için akıl sözcüğü ancak açıkça **simge** olarak kullanılabilir; literal yetenek atfı yapılmaz.
+## 1. Araştırma sorusu, kaynaklar ve çekirdek bağımlılığı
 
-## 2. Katmanlı düzen örnekleri
-**Fizik:** Atomlar ilk evre; yıldız ve gezegenler ikinci evredir. Yıldız ve gezegenler atomik/moleküler maddeyle ilişkili üst örgütlenme örnekleridir. İkinci evrenin ilk evreyi içermesi, ona insan anlamında bilen veya akıl atfetmez.
+**Soru:** Bir sonuç ne zaman mevcut bilginin uygulanması, ne zaman yeni ürün, ne zaman gerekçeli yeni bilgi adayıdır; insanın öz, duygu ve zekâ ilişkisi bu ayrımı nasıl açıklamaya yardım eder?
 
-**Biyoloji:** Tek hücreliler birinci; çok hücreliler ikinci evredir. Hücre moleküler bileşenlerin örgütlenmesinden oluşur. Hücresel çoğalma, hücrelerin özelleşmesi ve birlikte işleyişi farklı süreçlerdir. NCI'nin hücresel farklılaşma tanımı, özelleşmemiş hücrenin özelleşmiş biçim ve işlev kazanmasını açıklar (NCI, tarihsiz, Cell differentiation). Bu tanım bütün çok hücreli soyların aynı gelişim yolunu izlediğini göstermez. Evreler eşeysiz/eşeyli üreme olarak yeniden adlandırılmaz.
+Hebûn tekillik, ilişki ve bütünleşik Yek temelini; Zanabûn bilgi iddiası ve değerlendirmesini; Rasterast kaynak, çıkarım ve düzeltme izini sağlar. H04 teknik imkân, erişim, kontrol, seçim ve sorumluluğu ayırır. H05 bunları yeniden kurmak yerine **bilgiden yeni bilgi üretmenin ayırt edici gerekçesini** geliştirir [K1].
 
-**Zihin:** Duyular, sinir sistemi ve beden biyolojik-fiziksel koşulları sağlar; algı, bellek ve işlem zihinsel işlevlerle ilişkilendirilir. Zekâdan insana özgü akla geçişin felsefi tanımı, sinir sisteminin doğrudan akıl olduğu iddiası değildir.
+Yöntem kurucu metin karşılaştırması, kavramsal çözümleme ve seçilmiş karşı-örneklerin değerlendirilmesidir. Core 03 Akıl ve Bilginin Kaynağı, Core 04 Etik ve Ahlak ve Core 05 Duygu; güncel kurucu kayıtlar; birleşik zihin yazısı ve kavram sözlüğü karşılaştırılır [K2–K5]. Özgün Word'ler bu turda yeniden okunmuş sayılmaz; mevcut paragraf envanteri devralınır. Core metinlerinin Word'lerle birebir eşitliği varsayılmaz.
 
-**Ruh ve melekler:** Dördüncü boyutun birinci evresi ruh, ikinci evresi meleklerdir; meleklerde ruh bulunur. Kurucu yorumda ruh kanun/düzen, melekler idare/uygulama alanıyla ilişkilendirilir. **Melekler insan anlamında akıllı varlıklar olarak tanımlanmaz.** Atomlardan yıldız ve gezegenlere örgütlenme ile melekî idare arasında ancak ilişkisel analoji kurulabilir; eşit fiziksel mekanizma çıkarılamaz.
+Önceki H05'te yapılmış birincil biliş kaynağı incelemeleri tekrar araştırılmış gibi sunulmadan kullanılır [D1–D5]. Yeni veri, ham veri yeniden analizi veya sistematik literatür taraması yoktur. Eski bir bilimsel genelleme kurucu maksadın zorunlu parçası sayılmaz; kaynak anlamı ile güncel düzeltme birlikte korunur.
 
-**Ahlak ve hüküm:** Fıtrî düzen, insanın iradeli ahlakından ayrıdır. İnsanın ilimden ilim üretmesi seçenekleri genişletebilir; ahlaki iyilik otomatik değildir. İnsan, kurucu teolojik yorumda Ehad'ın hükmü karşısında sorumlu muhataptır.
+## 2. Bütünleşik insan: öz, duygu ve akıl
 
-## 3. Katmanlı düzen ve bilen önermesi
-Kurucu tez: **Her kanunun/düzenin üzerinde bir bilen vardır.** Buradaki bilen, fiziksel sistemin hesaplama yapması veya meleklerin insan gibi akletmesi anlamına gelmez. Hebûn açısından ontolojik, Zanabûn açısından bilen–bilinen–sonuç–ikinci bilenin onayı çerçevesinde ele alınır. “İkinci Yek” ile “ikinci bilen” kavramları eşitlenmez. Düzenin varlığından metafizik bilenin varlığına geçiş, ayrıca felsefi argüman gerektirir.
+Kurucu ontolojide insan ve hayvanın **ortak özü**, aynı bilişsel işlevlere veya aynı iradeli sorumluluğa sahip olmaları demek değildir. Öz, varlığın kendi kimliği ve varoluş merkezi açısından kullanılan kavramdır; tek başına ölçülmüş anatomik organ veya psikometrik puan değildir [K3].
 
-**Çıkarımın kapsamı:** “Her düzen için bir bilen vardır” önermesi ile “bütün düzenler için aynı ve tek bilen vardır” önermesi aynı değildir. Birincisinde her düzene bir bilen karşılık geldiği kabul edilir; ikincisinde bu bilenin bütün durumlarda aynı olduğu da savunulur. İlk önerme tek başına bu aynılığı veya tekliği göstermez. Ehad'ın birliği bu çalışmada bağımsız kurucu ontolojik kabul olarak korunur; salt düzen örneklerinin sayılmasından elde edilmiş mantıksal sonuç diye sunulmaz. Bu ayrım kurucu tezi değiştirmek yerine onun hangi öncüle dayandığını görünür kılar.
+Fizik, biyoloji, zihin ve ruh/fıtrat insanın ilişkili varlık yapısında ele alınır. **Öz, duygu ve akıl bu bütünleşik yapının ayrı inceleme anlamlarıdır; kopuk bağımsız parçalar değildir.** Fıtrî ahlak alt anlamların oluşum, hareket ve ilişki düzenini kapsar. Oluşan bütünleşik insan Yek'i bilgi, niyet, tercih ve sorumluluk bakımından iradeli ahlakın kapsamına girer [K3–K4].
 
-## 4. İnsan halifeliği ve simgesel kullanım
-“İnsan kâinatın halifesi” kurucu teolojik yorumdur. İnsan aklı, farklı katmanlardaki düzenleyici ilişkileri düşünmek için **simge** işlevi görebilir. Bu kullanım insan aklının bütün varlıklarda bulunduğunu iddia etmez. İnsanın yeni bilgi ve araç geliştirmesi, doğal kanunları yaratması veya kaldırması değildir.
+İnsanın zihinsel işlevlerini araştırmak biyolojik bedenini reddetmez. Duygu ve akıl arasında ilişki kurmak da bunların özdeş olduğu sonucunu vermez. Aynı olayın bedensel, yaşantısal, bilişsel ve ahlaki yönleri bulunabilir; bunlara ayrı kozmik boyut numarası atamak gerekmez.
 
-## 5. Karınca, insan ve yapay zekâ karşılaştırması
-Karıncanın bedeni, çevresi, duyuları, öğrenme olanakları ve koloni etkileşimleri, mümkün davranışları birlikte sınırlar. Yeni Kaledonya kargalarında genç bireylerin alet yapması (Kenward ve ark., 2005, DOI: 10.1038/433121a) ve gelecekteki göreve uygun araç seçimi (Boeckle ve ark., 2020, DOI: 10.1098/rspb.2020.1490) gözlenmiştir; bu sonuçlar hayvan bilişini küçümseyen genellemeleri sınırlar, kurucu akıl tanımını deneysel olarak ispatlamaz. İnsanın bilimsel bilgi üretimi ve mühendisliği yeni araçlar geliştirir. Bilgisayarın donanımı, kodu ve hesaplama işlemi farklı işlevlerdir. Kod–fıtrat veya algoritma–zeka karşılaştırmaları açıklayıcı analojidir; yapay zekâya insana özgü akıl veya meleklere ait ontolojik statü otomatik yüklenmez.
+Kurucu hayvan şeması öz–duygu–zekâ–fıtrî ahlak; insan şeması öz–duygu–akıl–fıtrî ahlak ve bunları yönlendiren iradeli ahlak olarak okunur. Bu şemalar zorunlu saniyelik işlem sırası, bireysel gelişim takvimi veya bağımsız organ listesi değildir. İnsanda akıl bulunması zekânın ortadan kalkması değildir.
 
-### 5A. Karşı-örneğin kapsamı ve operasyonel ayrım
-Kenward ve ark. (2005) dört elle büyütülmüş genç kargayı inceledi: ikisi insanlardan alet kullanımı gösterimi alırken ikisi almadı. Dördü çubuk kullandı; gösterim almayan bir birey yapraktan araç üretip kullandı. Bu küçük örneklem, alet üretiminin yalnız insana ait olduğu ölçütüne karşı-örnektir; bütün tekniğin öğrenmeden bağımsız olduğunu kanıtlamaz (tam ana metin, s. 121; Şekil 1). Yaprak parçalarını yiyecek çıkarmada kullandığı bildirilen birey Corbeau'dur; bütün kuşların bu yaprak görevinde başarılı olduğu yazılamaz. Ayrıca gösterim alan iki kuş birlikte, almayanlar ayrı barındırılmıştır. Buradan çıkardığımız yöntemsel sınır şudur: bu küçük düzenek, gösterimin etkisini barındırma koşullarından ayıran dengeli bir karşılaştırma olarak okunamaz.
+### 2.1. Kavramların görevleri
 
-Boeckle ve ark. (2020) çalışmasında eğitime dokuz kuş başladı, kritik teste dördü geçti. Düzeneği gördükten beş dakika sonra nesne seçimi, seçimden on dakika sonra düzeneğe erişim sağlandı. Kritik koşullarda dört kuştan üçü şans düzeyinin üzerinde başarı gösterdi (Methods; Results; Tablo 1 ve ayrıntılı Tablo 3). Buradaki oran eğitim ölçütünü geçerek teste alınan dört kuşa aittir; başlangıçtaki dokuz kuşun veya türün başarı oranı değildir. Testte beş seçenek bulunduğundan bir doğru seçenek için kullanılan şans düzeyi %20'dir; %50 diye okunmaz (Methods: Statistics). Araştırmacılar, iki çeldiricinin göz ardı edilmiş olabileceğini de tartışıp üç seçenekli bir karşılaştırma sunar (Discussion). Bu, ham verinin burada yeniden analiz edildiği anlamına gelmez. Bu bulgu görev içindeki araç seçimini destekler; bütün hayvanlarda insanla eşdeğer gelecek tasavvurunu göstermez. 
-
-Jelbert ve ark. (2014) çalışmasında iki kuş motivasyon azalmasıyla bütün deneyleri tamamlamadı; deney 1–2'de altı, 3–4'te beş, 5–6'da dört kuş vardı (Methods: Subjects; Results). Katılımdan ayrılma, görevde yanlış seçimle aynı sonuç değildir. Kuşlar önceden taş bırakma eğitimi almıştı (Initial Training). Dar/geniş tüp görevinde ilk seçimlerde verimli tüp tercihi, U-tüpünde şans üstü tercih bulunmadı (Results: Experiments 4, 6). Bu bulgular söz konusu görev ve örneklem içindir; bütün türde yetenek yokluğu göstermez (Discussion). Küçük ve tek türden bir örneklemden “hayvan mantığı yoktur” veya “insan ve hayvan aynı genel akla sahiptir” sonucu çıkmaz.
-
-Kurucu **akıl = ilimden ilim üretme** tanımı korunur. Ampirik karşılaştırma için yeni probleme aktarım, öğrenilmiş ödül ilişkisinden bağımsız çözüm, yeni araç geliştirme, gerekçenin ifade ve eleştiriye açılması, bilginin birikimli aktarımı ayrı göstergeler olarak önerilir. Bunların hiçbiri bu çalışmada ölçülmüş veya tek başına insana özgü olduğu kanıtlanmış değildir. Türler arası karşılaştırma duyusal ve motor olanakları, önceki deneyimi ve motivasyonu denetlemelidir. Bir yeteneğe “insana özgü” adını vermek, aynı işlevin hayvanda bulunamayacağının deneysel ispatı olmaz. Karşıt bulgular geldiğinde operasyonel sınır yeniden değerlendirilir; tanımsal tercih ile biyolojik iddia ayrılır.
-
-**Yeni sonuç ile yeni bilgi ayrımı:** İlimden ilim üretme, yalnız önceki ifadeden farklı bir ifade kurmak diye ölçülmez. Önerilen değerlendirmede yeni sonucun gerekçesi, mevcut bilgiyle ilişkisi, eleştiriye açıklığı ve ilgili alandaki doğrulama yöntemi ayrıca kaydedilir. Yanlış bir sonuç üretmek kapasitenin kullanıldığını gösterebilir; o sonucu doğrulanmış yeni bilgi yapmaz. Aynı ayrım insan veya yapay sistem çıktısına uygulanır. Bu ölçütler burada felsefi bir değerlendirme önerisidir; türler arasında uygulanmış ve ayırt etme başarısı ölçülmüş bir test değildir.
-
-### 5B. Planlama yorumu için yayımlanmış eleştiri ve yanıt
-De Mahy, Esteve ve Santariello (2021), deneydeki başarının çağrışımsal öğrenmeyle açıklanabileceğini savunur ve çağrışımsal süreçlerle yüksek düzeyli temsillerin kesin karşıtlar gibi kurulmasını sorgular. Bu, eleştirmenlerin değerlendirmesidir. Boeckle ve ark. (2021) yanıtlarında ise yüksek düzeyli bir gelecek kavramını sınadıkları yorumunu reddeder; belirli bir geçmiş ödül açıklamasına karşı deney tasarladıklarını belirtir (erişilen yazar PDF'si, s. 3). Düzenek belleği ve değişen araç işlevlerinin önemini savunmaları, bütün çağrışımsal açıklamaların dışlandığı sonucu değildir. Yanıt yeni veri sunmaz (Data accessibility, s. 5). Burada gözlenen seçim, yazarların açıklaması ve bu açıklamanın eleştirisi ayrı önermelerdir; tartışmanın kesin olarak çözüldüğü ileri sürülmez.
-
-2020 ana makalesinin Discussion bölümünde de bazı çağrışımsal öğrenme açıklamalarının tümüyle dışlanamadığı belirtilir. Dolayısıyla bu sınırlama yalnız 2021 eleştirisiyle ortaya çıkmış gibi sunulmaz.
-
-Bu makalede sonuç, kurucu akıl tanımını doğrulayan veya çürüten tek deney diye kullanılmaz. Çağrışımsal öğrenme, esnek aktarım ve açık gerekçelendirme ayrı incelenir. Bir görevdeki başarıdan metafizik öz veya iradeli ahlak hakkında doğrudan sonuç çıkarılmaz. Yanıt ile eleştiri ayrı kaynaklar olarak değerlendirilir; bir tarafın diğerini aktarması, diğer tarafın kendi metni yerine kullanılmaz.
-
-### 5C. Özgün bilgi ve duygu tanımlarının kapsamı
-*Akıl ve Bilginin Kaynağı* P119–133, bilgi ile duygu arasında güçlü bir özdeşlik ve sıralı duygu katmanları önerir. Bu metinde, varlığın işleyişine ilişkin ontolojik “bilgi”, öznenin yaşadığı duygu, bilişsel temsil ve gerekçelendirilen bilimsel önerme ayrı kullanımlardır. Bir duygunun yaşanması o deneyimin varlığına işaret edebilir; duygunun yöneldiği dış nesne hakkındaki bütün yorumların doğru olduğunu tek başına göstermez. Önerilen katman sırası da ölçülmüş evrensel bir nöropsikolojik düzen diye sunulmaz.
-
-P57–60 ve P138'de akıl hem yeni bilgi üretme yetisi hem erdemli yönelim anlamında kullanılır. Güncel kurucu tanımda insanın ilimden ilim üretme kapasitesi esas alınır; bu kapasitenin ahlaki kullanımı iradeli ahlakla ayrıca değerlendirilir. Yanlış veya zararlı bir tercihte bulunmak, kişinin bütün bilişsel kapasitesinin yok olduğu sonucu değildir. Böylece zekâ–akıl ayrımı ahlaki övgü veya yergiye indirgenmez.
-
-P6'daki aynı türün bütün bireylerinin aynı etkiye aynı tepkiyi verdiği genellemesi de fıtrat tanımının zorunlu sonucu değildir. Ortak imkân ve sınırlar; deneyim, öğrenme ve bağlama göre farklı davranışlara yer bırakabilir. Bölüm 5A'daki kuşlar arası farklı performans bunun bu makalede kullanılan sınırlı örneğidir. Fıtrî, duygusal ve mantıksal zekâ terimleri tek bir doğrulanmış psikometrik ölçeğin alt puanları gibi kullanılmaz; burada kurucu kavramlardır.
-
-### 5D. Döngüsel tür ayrımını önleyen değerlendirme taslağı
-Bir davranış yalnız insan yaptığı için akıl, hayvan yaptığı için zekâ diye kodlanırsa gözlem tanımı sınayamaz. Bu nedenle önerilen karşılaştırmada tür etiketi ile davranış göstergesi ayrı kaydedilir. Önce görev, başarı/başarısızlık ölçütü, eğitim geçmişi ve alternatif açıklamalar belirtilir; sonra gözlenen davranışın hangi göstergeyi karşıladığı değerlendirilir. Türler arasında görevin duyusal ve motor talepleri eşdeğer olmayabilir; eşdeğerlik kurulamadığında yokluk sonucu yerine karşılaştırmanın sınırı yazılır.
-
-Bu taslakta **görevde başarılı olma**, **başarının mekanizması** ve **kurucu akıl kavramına uygunluk** üç ayrı karardır. Yeni probleme aktarım gözlense bile bu, açık gerekçelendirme veya birikimli bilimsel bilgi üretiminin de ölçüldüğü anlamına gelmez. Hayvanda önerilen bir gösterge için olumlu bulgu gelirse bulgu korunur; gösterge sırf bu nedenle yeniden tanımlanıp hayvan dışlanmaz. İnsanda tek görev başarısızlığı da ilimden ilim üretme kapasitesinin bütünüyle yokluğunu göstermez. Bunlar kurucu insan aklı tanımını deneysel sonuç gibi kullanmayı önleyen kurallardır; tamamlanmış türler arası test veya insana özgülüğün yeni ispatı değildir.
-
-### 5E. İlimden ilim üretme: kurucu tanımın maddi ve disipliner örnekleri
-**Kurucu tanım:** Akıl, insanın ilimden ilim üretme kapasitesidir. Buradaki «ilimden ilim» yalnız bir önermeden başka bir önerme türetmek değildir: mevcut doğa bilgisi, deneyim, ölçüm, yöntem ve birikmiş teknik bilgi, yeni bilgi alanlarının ve bunlara dayanan yeni yapım imkânlarının doğmasına zemin sağlar. Üretilen nesne ile onu mümkün kılan bilgi aynı şey değildir; ancak nesnenin tasarımı, yapımı ve sınanması bilgi üretim zincirinin somut göstergeleridir.
-
-**Doğal maddeden yeni imkâna:** Demir cevheri, bakır mineralleri ve petrol gibi doğal kaynaklar, insanın bunların özellikleri hakkında geliştirdiği bilgilerle işlenebilir. Metalurji, kimya, enerji, mekanik, tasarım ve üretim bilgisinin birikimli birleşmesiyle gemi ve uçak gibi karmaşık araçlar yapılır; aynı temel ilke gündelik yemek hazırlamada da maddelerin özelliklerini öğrenme, yöntem geliştirme ve sonuçları değerlendirme düzeyinde görülebilir. Çorba, gemi veya uçak doğada hazır biçimiyle bulunmaz; insanın maddeleri ve süreçleri bilgiyle yeni bir düzen içinde birleştirmesinin ürünleridir. Her teknik ürünün mutlaka yeni bilimsel keşif olduğu ileri sürülmez: bilinen ilmin uygulanması ile yeni ilmin elde edilmesi ayrı aşamalardır.
-
-**Bilgi alanlarının ayrışması ve karşılıklı beslenmesi:** Doğa hakkında felsefi sorgulama tarihsel olarak doğa felsefesi, fizik ve başka araştırma alanlarıyla ilişkili gelişmiştir. Kimya ve biyolojinin disiplinleşmesi ise tek çizgili «felsefeden doğrudan türeme» öyküsüne indirgenmez; deney, kurumlar, matematik, gözlem ve teknik araçlarla birlikte gelişmiştir. Kurucu «ilimden ilim» ifadesinin akademik savunulabilir anlamı, birikmiş soruların, kavramların ve yöntemlerin yeni araştırma programları oluşturması ve bunların birbirini yeniden beslemesidir.
-
-**Hebûn–Zanabûn–Rasterast bağlantısı:** Hebûn maddelerin, varlıkların ve ilişkilerin ontolojik zeminini; Zanabûn insanın nesneye yönelip elde ettiği sonucun ikinci bilen tarafından değerlendirilmesini; Rasterast ise üretilen bilgi iddiasının karşı-örnek ve bağımsız denetimini inceler. H04'teki fıtrî imkân–araç–iradeli ahlak ayrımı burada önemlidir: teknik yapabilme gücü, ahlaken yapılması gerektiğini tek başına göstermez. Bu ilişki kurucu sistemin felsefi açıklamasıdır; tekil bir araç örneği Ehad–Yek ontolojisinin deneysel ispatı sayılmaz.
-
-**Ayırt edici değerlendirme sorusu:** Bir üretim zincirinde hangi aşama mevcut bilginin uygulanması, hangi aşama yeni ve denetlenebilir bilgi üretimi, hangi aşama ise yalnız yeni ürün elde edilmesidir? Bu üç düzey ayrı izlenmedikçe «ilimden ilim» slogan değil, araştırılabilir bir kavram olarak kullanılamaz.
-
-### 5F. İlimden ilim ilkesinin denetim ölçütleri
-İlimden ilim, insanın birikmiş bilgiden yeni bilgi ve yöntemler geliştirmesini anlatan kurucu akıl tanımıdır. Demir, bakır ve petrol gibi doğal maddelerden uçak ve gemi üretimi, farklı bilgi alanlarının ortak uygulanmasına örnektir. Çorba hazırlamak ise gündelik bilgi ve yöntemin kullanımıdır. Her yeni ürün yeni bilimsel keşif sayılmaz: bilgi uygulaması, denetlenebilir yeni bilgi elde edilmesi ve ürün ortaya çıkarılması üç ayrı sonuçtur. Felsefe ile fizik, kimya ve biyoloji arasındaki tarihsel ilişki, araştırma sorularının ve yöntemlerin ayrışıp karşılıklı beslenmesi üzerinden ele alınır; bütün disiplinler tek çizgili bir soy ağacına indirgenmez. Hayvanların öğrenme ve araç kullanma becerileri insan aklına ilişkin tezin karşı-örneği olarak ciddiye alınır. Kurucu ayırt edici vurgu, insanın birikimli bilgiyi matematik, deney, öğretim ve kurumlarla yeni araştırma alanlarına dönüştürmesidir. Bu önerme, hayvanların zekâ ve duygularını reddetmez. H02 yeni bilgi iddiasının gerekçesini, H03 bağımsız denetimini, H04 ise ortaya çıkan gücün ahlaki sorumluluğunu inceler.
-
-## 6. Matematiksel araştırma için asgari şema
-Bir varlık/sistem için `S = (C_f, I, Z, F, C)` gösterimi önerilir:
-- `C_f`: fiziksel koşullar ve alana özgü ölçülebilir kapasite; fiziksel güç P ile aynı değişken değildir;
-- `I`: ilgili bilgi türü ve taşıyıcısı;
-- `Z`: gözlenen işlem, bellek ve davranış işlevleri;
-- `F`: sistemin imkân ve sınırlarını tanımlayan kurallar;
-- `C`: çevre ve diğer sistemlerle etkileşim.
-
-Bu gösterim bir **model taslağıdır**, doğrulanmış denklem değildir. İnsana özgü akıl için ayrıca `A_h` değişkeni tanımlanabilir: yeni bilgi/araç geliştirme kapasitesinin operasyonel göstergeleri araştırılır. Ruh/melekî idare veya metafizik bilen, ölçüm yöntemi tanımlanmadan bu gösterime ampirik parametre olarak eklenmez.
-
-**Uygulanabilirlik ve ölçüm:** Bu beşli gösterim sayısal bir vektör veya ortak birimle ölçülmüş toplam değildir. Her alan için kavramın uygulanıp uygulanmadığı ve uygulanıyorsa nasıl ölçüleceği ayrı tanımlanır. Bilişsel bellek/işlem anlamındaki Z, bir atoma uygulanmadığında “uygulanamaz” olarak kaydedilir; gözlem yapılmamış bir canlı için “ölçülmedi” kaydı bundan farklıdır. Bu iki durum keyfî olarak sıfır puanla eşitlenmez. Aynı şekilde genetik bilgi ile gerekçeli bilgi aynı I puanına, fiziksel etki ile ahlaki yetki aynı C_f değerine indirgenmez. Fiziksel güç ölçülecekse ayrıca enerji/zaman büyüklüğü ve watt birimi kullanılır; kurucu “eylem kapasitesi” bu ölçümün yerine geçmez. A_h için de ölçüm yöntemi verilmeden sayısal karşılaştırma yapılamaz.
-
-### 6A. Ana önermelerin kaynak ve statü haritası
-| Önerme | Dayanak | Statü ve aktarım sınırı |
+| Kavram | Bu araştırmadaki anlamı | Kaçınılan özdeşlik |
 |---|---|---|
-| Akıl insanın ilimden ilim üretme kapasitesidir | Varlık Sistemleri P90; güncel kanon | Kurucu tanım; tek başına türler arası deney sonucu değil |
-| İnsan zekâsı akıl kapsamında sürer | Aynı kaynak; kurucu kilometre taşı | Kanonik düzeltme; fıtrî zekâ yalnız hayvana ait değildir |
-| Gösterim olmadan da araç üretimi görülebilir | Kenward ve ark., 2005 | Dört kuşluk ana metin; bütün davranışın öğrenmesizliği sonucu verilmez |
-| Belirli gelecekteki görev için araç seçimi | Boeckle ve ark., 2020 | Kritik teste geçen dört kuş; mekanizma yorumu 2021'de tartışılmıştır |
-| Bilişsel başarı ahlaki muhataplıkla özdeş değildir | Kurucu kilometre taşı; bölüm 5B çözümlemesi | Felsefi/teolojik sınır; deneyden metafizik sonuca geçilmez |
+| Öz | Varlığın kimliği ve kendisi oluşu hakkında kurucu merkez | Ölçülmüş tek bir organ veya Yek'in bütün anlamı |
+| Duygu | Özün korunması, yönelim ve yaşantıyla ilişkili alan | Her duyguya karşılık dış dünya iddiasının doğru olması |
+| Zekâ | Algı, bellek, işlem, öğrenme ve seçeneklerle çalışma | Yalnız ezber veya hayvanların değişmez refleksleri |
+| Akıl | Kurucu insan tanımında ilimden ilim üretme kapasitesi | Her yeni cümle veya her araç kullanımının yeni bilgi olması |
+| Fıtrat | Kuruluş, imkân, sınır ve ilişkisel düzen | Değişmez davranış listesi veya kelimesi kelimesine yazılım |
+| Fıtrî ahlak | Bu düzenin işleyişteki tezahürü | Bütün varlıklara insan tipi niyet ve kusur |
+| İradeli ahlak | Bilgi, niyet ve tercihle yönlendirme ve sorumluluk | Zekâ, teknik başarı veya daima iyi seçim |
 
-### 6B. Eleştirel hakem simülasyonu ve ilimden ilim karar testi
-**İtiraz:** Hayvanlar da öğrenir ve araç kullanır; insan aklı tanımı döngüsel olabilir. **Yanıt:** Hayvan zekâsı ve insan zekâsı korunur. Kurucu akıl tezi, birikmiş bilgiden sistematik ve aktarılabilir yeni bilgi alanları geliştirme kapasitesine odaklanır; her araç kullanımı buna kanıt değildir. **Karar testi:** Bilinen tarifle çorba yapmak bilgi uygulaması ve üründür, zorunlu yeni keşif değildir. Bilinen mühendislikle gemi yapmak da böyledir. Yeni bir malzeme özelliğinin kontrollü ve tekrar edilebilir araştırmayla gösterilmesi ise yeni bilgi adayıdır. Bu örnekler deneysel tür karşılaştırması değildir. H03'ün karşı-örnek kuralı ve H04'ün ahlaki değerlendirme ayrımı korunur.
+Bu tanımlar kurucu sistemin kavramsal ayrımlarıdır; psikoloji ve sinirbilimde aynı sözcüklerin bütün kullanımlarını temsil ettikleri ileri sürülmez.
 
-## 7. Sonuç ve değerlendirme sınırları
-İnsan ve hayvanın ontolojik ortak özü, aynı bilişsel yetenek ve aynı ahlaki sorumluluk anlamına gelmez. Hayvanlarda öz–duygu–zekâ–fıtrî ahlak; insanda öz–duygu–akıl–fıtrî ahlak ve bunları yönlendiren iradeli ahlak şeması önerilir. İnsanın zekâsı akıl işleyişinin temelinde varlığını sürdürür. Fıtrî zekâ her zihinli canlıya uygulanır; akıl kurucu tanımda insana özgü ilimden ilim üretme kapasitesidir. Karşılaştırmalı biliş bulguları, alet yapımını veya görev başarısını tek başına insan aklının ayırıcı ölçütü saymayı engeller. Araştırma, kurucu insan aklı tanımını korurken deneysel karşılaştırmada hangi göstergelerin ayrıca sınanması gerektiğini belirler. Planlama deneyinin yayımlanmış eleştiri–yanıt zinciri, gözlem ile mekanizma yorumunun ayrılması gerektiğini gösterir.
+## 3. Zekâ, akıl ve ahlaki yönelim
 
-### Ulaşılan sonuç ve açık sınama
-Kavramsal ayrımlar, kaynak–iddia eşlemesi ve seçilmiş bilişsel karşı-örnekler ana metinde kurulmuştur. Bu çalışma bir psikometrik ölçek geliştirmemiş, insan ve hayvan performanslarını ortak bir deneyde ölçmemiştir. Bölüm 6'daki gösterim araştırma taslağı olarak kalır; deneyle doğrulanmış denklem veya çalıştırılmış hesaplama modeli değildir. Ruh/melek açıklaması metafizik, iradeli sorumluluk felsefi/teolojik statüsünü korur. Bu sınırlar metnin sonucunu daraltır; eksik deneyleri yapılmış göstermez.
+**Akıl, kurucunun özel tanımıyla yalnız insanda ilimden ilim üretme kapasitesidir** [K3]. Bu adlandırma, hayvanların çıkarım, öğrenme, planlama veya yeni araç yapma becerilerinin bulunmadığını gösteren deneysel sonuç değildir. Gözlenebilir işlev iddiası ayrıca araştırılır.
 
-## Dış kaynakça
-- OpenStax. (Tarihsiz). *College Physics 2e*, §7.7, Power. https://openstax.org/books/college-physics-2e/pages/7-7-power . Kullanım: §§1 ve 6; fiziksel güç tanımı, denklem 7.69 ve watt birimi. İlgili bölüm doğrudan okundu. Erişim: 22 Ekim 2026.
-- Kenward, B., Weir, A. A. S., Rutz, C. ve Kacelnik, A. (2005). Tool manufacture by naive juvenile crows. *Nature, 433*, 121. https://doi.org/10.1038/433121a . Kullanım: bölümler 5 ve 5A; açık ana metin yöntem ve bulguları kontrol edildi; ek videolar yeniden incelenmedi. Yazarların kurumsal PDF'si: https://users.ox.ac.uk/~kgroup/publications/pdf/ontogeny_Nature_2005.pdf .
-- Boeckle, M., Schiestl, M., Frohnwieser, A., Gruber, R., Miller, R., Suddendorf, T., Gray, R. D., Taylor, A. H. ve Clayton, N. S. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Kullanım: bölümler 5 ve 5A; açık ana metnin yöntem, sonuç ve tartışması kontrol edildi; ham veri/ek materyal yeniden analizi yapılmadı. Kurumsal tam metin: https://www.repository.cam.ac.uk/items/f781c049-6d77-46c3-ab77-40402a51b8e3 .
-- Jelbert, S. A., Taylor, A. H., Cheke, L. G., Clayton, N. S. ve Gray, R. D. (2014). Using the Aesop's Fable Paradigm to Investigate Causal Understanding of Water Displacement by New Caledonian Crows. *PLOS ONE, 9*(3), e92895. https://doi.org/10.1371/journal.pone.0092895 . Kullanım: bölüm 5A; yayıncının açık ana metninde Subjects, Initial Training, Results (Experiments 4 ve 6) ve Discussion doğrudan karşılaştırıldı. Ham veri tablosu ve video yeniden analiz edilmedi. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092895 .
+Kurucu saf zekâ temel işlem kapasitesini; fıtrî zekâ bu yetinin fıtratla ilişkisini; duygusal ve mantıksal zekâ duygu ve muhakemeyle ilgili kullanımlarını anlatır. Fıtrî zekâ insanda da bulunur. Bunlar bu çalışmada tek bir doğrulanmış ölçeğin alt puanları değildir. Fıtrî duygu ve fıtrî mantık ifadeleri hayvanların yaşantı, öğrenme ve çıkarım olanaklarını yok saymak için kullanılmaz.
 
-- de Mahy, D., Esteve, N. A. ve Santariello, A. (2021). New test, old problems: comment on ‘New Caledonian crows plan for specific future tool use’. *Proceedings of the Royal Society B, 288*, 20210186. https://doi.org/10.1098/rspb.2021.0186 . Kullanım: bölüm 5B; yöntem eleştirisi, yeni deney değil. DOI ve indekslenmiş eleştiri metni kontrol edildi.
-- Boeckle, M. ve ark. (2021). New Caledonian crows' planning behaviour: a reply to de Mahy et al. *Proceedings of the Royal Society B, 288*, 20211271. https://doi.org/10.1098/rspb.2021.1271 . Kullanım: bölüm 5B; yazar yanıtı, bağımsız tekrar değil. Kurumsal tam metin: https://www.repository.cam.ac.uk/items/87c7ddf0-fa97-43e3-84d3-d06db5b39b8a . Erişilen altı sayfalık yazar PDF'sinde özellikle s. 3'teki amaç/mekanizma ayrımı ve s. 5'teki Data accessibility kontrol edildi; sayfa numaraları bu sürüme aittir.
+Papers deposundaki küvet örneğinde bardak, maşrapa ve kova arasında seçim yapmak bir çözüm yoludur. Tıpanın bulunup bulunmadığını araştırmak ise sunulan seçeneklerin problemi tüketip tüketmediğini sorgular [K5]. Örnek çerçeveyi inceleme ile seçenekler içinde hesap yapmayı ayırır; bir psikometrik test veya her insanın her durumda ikinci yolu bulduğunun kanıtı değildir.
 
-- National Human Genome Research Institute (NHGRI). (2026). *Deoxyribonucleic Acid (DNA)*. https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA?id=48 . Kullanım: bölüm 1; genetik bilgi. Resmî tanım doğrudan okundu.
-- National Cancer Institute (NCI). (Tarihsiz). *Cell differentiation*. NCI Dictionary of Cancer Terms. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cell-differentiation . Kullanım: §2; hücresel özelleşmenin tanımı. Resmî tanım doğrudan okundu; çok hücreliliğin evrensel köken mekanizması değildir. Erişim: 22 Ekim 2026.
-- National Cancer Institute (NCI). (Tarihsiz). *Autonomic nervous system*. NCI Dictionary of Cancer Terms. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/autonomic-nervous-system . Kullanım: Ek A; biyolojik otonom işleyiş ile kozmik analojinin ayrımı. Resmî tanım doğrudan okundu. Erişim: 22 Ekim 2026.
+Birleşik zihin yazısı zekâ, muhakeme ve ahlaki yönü ayırır. Bu yararlı ayrım korunur; fakat eski 3D/4D/5D eşlemeleri güncel kozmik sınıflamanın yerine geçirilmez. Kaynakta geleceği tasarlamanın yalnız akılla başladığı gibi güçlü bir okuma varsa, H05'in biliş örnekleri bunun ampirik kapsamını sınırlar. Ahlaki düşüş de insanın biyolojik türünü, ruhunu veya Yek kimliğini otomatik kaybetmesi diye yorumlanmaz.
 
-## Kaynak ve sürüm izi
-- `NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v02.md`
-- `../01-kanonik-denetim/AKIL-YALNIZ-INSAN-KATMANLI-DUZEN-BILEN-2026-10-22.md`
-- `../01-kanonik-denetim/KURMANCI-KAVRAM-HAVUZU-VE-TOPLU-KANONIK-DEGERLENDIRME-2026-10-22.md`
-- `../01-kanonik-denetim/ESKI-MATEMATIKSEL-MODELLER-YENI-BESLI-CERCEVE-KARSILASTIRMA-2026-10-22.md`
+### 3.1. Duygu, gerekçe ve doğruluk
 
-**Durum:** Kurucu felsefi model; literatür taraması, ölçülebilir tanımlar ve bağımsız doğrulama tamamlanmadan yayıma hazır değildir. Önceki sürümler korunur; bu sürüm aynı H05 araştırma zincirinin devamıdır, yeni bağımsız makale olarak sayılmaz.
+Core 03–05 duyguyu özün korunması, varlık alanı, güven ve yönelimle ilişkilendirir. Bu bağ korunur. Fakat **yaşanan duygu**, **duygunun yöneldiği nesne hakkındaki yorum** ve **yorumun gerekçesi** ayrı sorulardır.
 
-## Ek A — Kurucu düzeltme: ortak öz ve evrensel muhataplık (22.10.2026)
-**Saf zekâ** bağımsız tanımlanan temel işlem kapasitesidir; fıtratla **fıtrî zekâ**, duyguyla **duygusal zekâ**, mantıkla **mantıksal zekâ** ilişkisi kurulur. Fıtrî zekâ insan dâhil her zihinli canlıda bulunur; hayvanlara **fıtrî duygu** ve **fıtrî mantık** atfedilmesi, hayvanların öğrenme/duygu/çıkarım yeteneklerini inkâr etmez. İnsanın farklılığı hayvanlarda özün yokluğu değil: **ontolojik olarak ortak özün**, akıl ve iradeli ahlakla çok daha geniş bir muhataplık ve sorumluluk alanına açılmasıdır. İnsan ve hayvan dış dünya ile ilişki kurar; insan bilim, matematik, deney, araç ve edevatla bedenen erişemediği kuantum ve kozmik alanları araştırabilir. Akıl bu erişimi, iradeli ahlak kullanım sorumluluğunu, altıncı boyut hüküm ise nihai muhataplığı açıklar. Atom–yıldız örneği kapsam benzetmesidir. İnsan bedeninde otonom sinir sisteminin iç organların işleyişiyle ilgili düzenleyici görevleri biyolojik olarak tanımlanır (NCI, tarihsiz, Autonomic nervous system); kâinatın otonomluğu ise bu metinde analojidir. Öz–Duygu–Akıl–Fıtrî Ahlak ve İradeli Ahlak açıklaması ile Fizik–Biyoloji–Zihin–Ruh kozmik katmanları sayısal olarak eşitlenmez. Bunlar kurucu felsefi önermelerdir; bilimsel olgu ve analojilerden ayrı denetlenir.
+Kurgusal örnek: Kişi bir ses nedeniyle korkabilir. Korku yaşadığını bildirmesi ile sesin gerçekten tehditten geldiği savı aynı önerme değildir. Dış nesne hakkındaki sav ayrıca incelenir. Benzer biçimde sevdiğini korumak isteyen kişi hesapta yanılabilir; iyi niyet yanlış ölçümü doğru yapmaz. H02'nin duygu–tanıklık ayrımı burada devralınır.
 
-**Kurucu kaynak:** `../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md`. **Önceki Ek 05'in yalnız hayvan odaklı fıtrî zekâ okuması bu düzeltmeyle geçersizdir**; eski belge tarihsel sürüm olarak korunur.
+Kaynaklardaki mutluluk, mutsuzluk, korku, öfke, şaşkınlık ve iğrenme çemberleri kurucu yorum şemalarıdır. Bunlar bütün bireylerde ölçülmüş evrensel nöropsikolojik sıra veya zorunlu “önce duygu, sonra düşünce” yasası olarak kullanılmaz. Core 05'in duyguyu yalnız insana ayıran eski cümlesi sonraki ortak öz/fıtrî duygu kararıyla düzeltilir. Aynı metindeki cinsiyete göre mantıksal/duygusal zekâ genellemesi de burada doğrulanmış bilimsel öncül yapılmaz.
 
-## Ek B — Kurucu kilometre taşı: insan ve hayvan katmanları
-Kurucu şema hayvan için **Öz → Duygu → Zekâ → Fıtrî Ahlak**; insan için **Öz → Duygu → Akıl → Fıtrî Ahlak** ve bunları yönlendiren **İradeli Ahlak**tır. İnsan zekâsı dışlanmaz. Şema kozmik boyutların sayısal eşlemesi değildir. Gerekçe §§1,5C ve 7'de; kurucu kaynak `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md` içindedir.
+Sevgi, merhamet, adalet ve vicdan bilgi arayışının ahlaki yönünü besler. Bunlar kaynak ve çıkarım denetiminin yerine geçmez. Dürüst kişi yanılabilir; doğru bilgi de kötü amaçla kullanılabilir.
 
-## Ek C — Özgün metin karşılaştırması — 22 Ekim 2026
-*Varlık Sistemleri ve Boyutları* P90'da insanın ilimden ilim üretirken zekâ alanını genişlettiği belirtilir; bölüm 1 ve Ek B insan zekâsını koruyan bu ilişkiyi devralır. *Akıl ve Bilginin Kaynağı* P23'te insanın doğa yasalarından bağımsızlığına yönelik ifade vardır; aynı dosyanın P136 ve devamında ortak fiziksel zemin tartışılır. Güncel metinde bu ifade fizik yasalarını ihlal etme anlamında kullanılmaz: bilgi ve araçla eylem olanaklarının genişlemesi olarak sınırlandırılır. P139'daki hayvan/insan zekâ sınırlaması, 22 Ekim kurucu kararıyla insan dâhil tüm zihinli canlılarda fıtrî zekâ kabul edilerek güncellenir. Kaynaklar eski sürüm olarak korunur; güncel kararın önceliği açıktır.
+## 4. Bilginin türü ve ilimden ilim üretme
 
-## Ek D — Kurmancî kavram adayları ve dilsel doğrulama
-Aday alanlar: katmanlar arası kapsama; düzen–düzenleyici ilişki; kanun–icra ayrımı; fıtrî imkânın araçla genişlemesi; bilenin ontolojik/epistemolojik anlam farkı. Bu alanlar toplu değerlendirmeye alınır. Dilsel doğrulama ve kurucu onayından önce yeni sözcük kesinleştirilmez.
+H02'nin ayrımı devralınır: ontolojik düzen anlamındaki bilgi, biyolojik dizilim, kayıt, bilişsel temsil ve gerekçeli önerme aynı anlam değildir. DNA'nın genetik bilgi taşıması, bir bilimsel savın gerekçeli olmasıyla eşanlamlı değildir [K1, D6].
 
+İlimden ilim üretme yalnız önceki cümleden farklı cümle kurmak değildir. Mevcut soru, ölçüm, deneyim, yöntem ve kavramlardan yeni ve denetlenebilir sonuç elde etme araştırılır. Burada üç sonuç ayrı izlenir:
 
-## Ek E — MK-013–015 güç, bilgi, işlem, kanun ve ruh analojisi denetimi (23 Ekim 2026)
+| İşlem | Örnek | Yeni bilgi için ayrıca gereken |
+|---|---|---|
+| Bilgi uygulaması | Bilinen tarifle çorba hazırlamak | Bilinmeyen bir özellik veya ilişki hakkında ek sav ve gerekçe |
+| Ürün oluşturma | Bilinen tasarımla araç yapmak | Ürünün farklılığı dışında bilgi yeniliği |
+| Yeni bilgi adayı | Belirli koşullarda malzemenin bilinmeyen özelliğini gösterme iddiası | Uygun veri/yöntem, alternatif açıklama, belirsizlik ve sınama |
+| Bilgi düzeltmesi | Mevcut hesabın yanlış varsayımını ortaya koymak | Hatanın gösterimi, düzeltilmiş çıkarım ve etkilenen sonuçların izlenmesi |
 
-**Kaynak ve statü:** `../01-kanonik-denetim/MK-013-015-UYGULAMA-FIZIK-BIYOLOJI-ZIHIN-RUH-AHLAK-2026-10-23.md`; `../01-kanonik-denetim/MK-013-015-ISLEVSEL-KATMAN-ANALOJI-KAYNAK-MATRISI-2026-10-23.md`. İşlevsel model, ampirik ispat veya yeni kanonik özdeşlik değildir.
+Bu örnekler kurgusal sınıflandırmalardır; yeni deney raporu değildir. Aynı çalışma hem ürün hem yeni bilgi sağlayabilir. Ayrım birbirini dışlayan meslek sınıfları değil, elde edilen sonucun ne olduğuna ilişkin kayıttır.
 
-**İşlev profili R/I/P/C/V:** R fiziksel taşıyıcı ve enerji; I genetik, öğrenilmiş veya gerekçeli bilgi türü; P öğrenme, temsil, karşılaştırma ve çıkarım; C fiziksel, biyolojik, hesaplamalı veya kurumsal kısıt; V fıtrî ve iradeli ahlakın türlenmiş değerlendirmesi. Fiziksel güç watt cinsinden ölçülen büyüklüktür; felsefi “güç” bununla özdeş değildir. Fizik yalnız güç, biyoloji yalnız bilgi, zihin yalnız işlem değildir.
+Demir, bakır veya petrol gibi kaynaklardan gemi ve uçak yapımını anlatan kurucu örnek, maddelerin özellikleri ile birikmiş tasarım ve yöntem bilgisinin birleşmesini vurgular. Doğal maddeyi işlemek doğa kanunu yaratmak değildir. Her gemi yapımı yeni bilimsel keşif olmadığı gibi her yeni teknik yöntem yalnız eski bilginin tekrarı sayılmaz; yeniliğin hangi düzeyde bulunduğu gösterilir.
 
-**Örnek 1 — hücre ve hesaplama:** Hücrede enerji/kimyasal taşıyıcı (R), DNA ve düzenleyici örüntüler (I), metabolik/enzimatik süreçler (P), biyokimyasal koşullar (C) incelenebilir. Bu benzerlik DNA'nın kelimesi kelimesine bilgisayar yazılımı olduğunu veya hücrenin yalnız program yürüttüğünü göstermez. Hücresel süreçlerden insanın iradeli ahlakı (V) çıkarılamaz.
+Disiplinler arasındaki ilişki de bu anlamda ele alınır: bir alanın sorusu, kavramı veya yöntemi başka bir araştırmayı besleyebilir. Bu makale fizik, kimya ve biyolojinin bütün tarihini tek çizgili bir felsefeden türeme öyküsü olarak yeniden kurmaz.
 
-**Örnek 2 — zihin ve akıl:** Beden ve sinir sistemi (R), bellek/öğrenme (I), yeni probleme aktarım ve gerekçeli çıkarım (P), eğitim/görev koşulları (C), niyet ve sorumluluk (V) farklı gözlem ve yorum alanlarıdır. Hayvanın araç yapması “hayvan hiç yeni çıkarım yapamaz” genellemesine karşı-örnektir; kurucu akıl tanımını tek başına ispat veya çürütmez.
+### 4.1. Yenilik kime ve neye göre?
 
-**Örnek 3 — ruh, kanun ve yazılım:** D4'ün ilk evresi ruh, ikinci evresi meleklerdir. Ruhun düzen/kanunla açıklanması kurucu ontolojik-teolojik yorumdur; kod/yazılım benzetmesi `ANALOGY`, ruhun statüsü `THEOLOGICAL` olarak ayrı işaretlenir. Bilgisayar programı, fizik yasası, toplumsal kural ve ahlaki hüküm tek tür “kanun” değildir. “Her düzenin üzerinde bilen vardır” kurucu tezi, yazılım benzetmesinden deneysel olarak kanıtlanmış olmaz.
+Bir kişi için yeni olan bilgi, araştırma alanında zaten biliniyor olabilir. Bir örneğin eğitimde görülmemesi de aynı ilkenin daha önce öğrenilmediğini garanti etmez. Bu nedenle yenilik kaydında karşılaştırma tabanı belirtilir: kişinin önceki bilgisi, görevin eğitim geçmişi veya alanın kaynaklı literatürü.
 
-**Aktarım kapısı:** H04'e kaynak–bilgi–tercih–değer ayrımı; İNSAN-TARİHİ-01'e öğrenme–yeni çıkarım–gerekçelendirme–karşı-örnek ayrımı taşınabilir. Her hedefte yeni mekanizma, kaynak ve karşı-örnek kaydedilmeden `CROSS_DOMAIN_REVIEW_REQUIRED` kapısı kapanmaz. K0–K6, bağımsız Rasterast ve yayın kilidi sürer.
+Bu ayrım yerel keşfin değerini reddetmez. Öğrencinin önceden bilmediği çözümü kendi gerekçesiyle bulması öğrenme açısından anlamlı olabilir; alan için yeni yayın sonucu olduğu ayrıca gösterilmelidir. “Görülmemiş soru çözüldü” ifadesi “yeni bilimsel bilgi üretildi” sonucunun tek başına dayanağı değildir.
 
+### 4.2. Kapasite, doğru sonuç ve doğrulama
 
-## Ek F — İlimden ilim ölçütünün karşı-örnekli uygulaması
+Yanlış fakat özgün bir açıklama üretmek çıkarım girişimini gösterebilir; açıklamayı doğrulanmış ilim yapmaz. İkinci kişinin aynı hatalı kaynaktan onay vermesi de eksik gerekçeyi tamamlamaz. H02'nin ortak hata karşı-örneği ve H03'ün kaynak bağımlılığı burada geçerlidir.
 
-**H05'in ayırt edici araştırma sorusu:** Önceki bilgiyi tekrarlamak ile gerekçelendirilmiş yeni çıkarım üretmek nasıl ayrılır? Kurucu “ilimden ilim” tanımı ampirik tür ayrıcalığı kanıtı değildir.
+Yeni bilgi iddiası, doğru sonucu tahminen bulmaktan da ayrılır. Sonucun nasıl elde edildiği, hangi varsayıma dayandığı ve nerede geçerli olduğu kaydedilir. Her bilgi türü aynı deneyle sınanmaz: biçimsel sonuçta ispatın öncülleri, ampirik savda veri ve yöntem, yorumda kaynak ve yorum köprüsü incelenir.
 
-**İşlemsel üç kapı:** `K1` önceki bilgiye göre açık yeni önerme veya çıkarım; `K2` gerekçenin izlenebilir olması; `K3` yeni koşul, karşı-örnek veya bağımsız veriyle sınama. `K1` tek başına doğrulanmış bilgi anlamına gelmez; `K1 ∧ K2 ∧ K3` de yöntemin hata yapmayacağını garanti etmez.
+## 5. Hayvan bilişi: bulgu ve açıklamanın ayrılması
 
-**Karşı-model:** Bir dil modeli daha önce görülmemiş bir cümle kurar; cümle yanlış veya gerekçesiz olabilir. Dolayısıyla metinsel yenilik, gerekçelendirilmiş bilgi üretimi için yeterli değildir. Öte yandan hayvanlarda planlama/araç kullanımı örnekleri bulunduğundan 'hayvanlar yeni çıkarım yapamaz' genellemesi deneysel sonuç gibi ileri sürülemez.
+Önceki H05'in birincil kaynak incelemeleri, hayvanlarda öğrenme ve araç üretimini yok sayan kolay bir insan/hayvan ikiliğini sınırlar. Bu sonuçlar kurucu akıl tanımının otomatik ispatı veya bütün yönleriyle çürütülmesi değildir. Tanımsal tercih ile ona bağlanan deneysel işlev iddiası ayrı tutulur.
 
-**Disiplinler arası tür denetimi:** DNA dizisi biyolojik bilgi taşıyabilir; zihinsel temsil ve gerekçelendirilmiş bilimsel önerme aynı kanıt türü değildir. Fizikte güç birimi watt, kuvvet birimi newtondur; toplumsal yetki ve ahlaki güç bu birimlerle ölçülmez. Ruh–kod/yazılım analojisi işlevsel benzerlik olarak işaretlenir, ontolojik eşitlik değildir.
+### 5.1. Kenward: araç üretimi ve gösterim koşulu
 
-**Bitirme açığı:** İnsan/hayvan/yapay zekâ karşılaştırması için ön kayıtlı görevler, bağımsız değerlendiriciler ve alan literatürü gerekir. Deney yapılmış gibi sonuç sunulmaz. K0–K6 ve bağımsız Rasterast açık.
+Kenward ve arkadaşları (2005) dört elle büyütülmüş genç Yeni Kaledonya kargasını inceledi. İki kuş insanlardan araç kullanımı gösterimi aldı, ikisi almadı. Dördü çubuk kullandı; gösterim almayan Corbeau'nun yapraktan araç üretip yiyecek çıkarmada kullandığı bildirildi [D1].
 
+Bu sonuç “hayvan araç üretemez” savını sınırlar. Fakat gösterim almamış olmak bütün öğrenme süreçlerinden yoksun olmak değildir. Gösterim alan kuşların birlikte, diğerlerinin ayrı barındırılması da bu küçük düzeni yalnız gösterim etkisini ayıran dengeli deney diye okumayı engeller. Bütün bireylerin yaprak görevinde başarılı olduğu veya türdeki bütün teknik davranışların doğuştan geldiği sonucu verilmez.
 
-## Ek G — H01–H05 bilgi, kapasite ve sorumluluk çapraz denetimi
+### 5.2. Boeckle: payda, görev ve yorum
 
-H05'te önerilen ilimden ilim üretme ölçütü, H02'nin ikinci bilen onayıyla veya H03'ün bağımsız kanıt denetimiyle özdeş değildir. Yeni bir önerme üretmek, o önermenin doğruluğunu ya da bağımsız biçimde doğrulandığını garanti etmez. H01'deki ontolojik ikinci Yek ise bilgi üreten ikinci özne olarak otomatik yorumlanamaz.
+Boeckle ve arkadaşlarının 2020 araştırmasında eğitime dokuz kuş başladı, kritik teste dördü geçti; bu dört kuştan üçünde kritik koşullarda şans üstü başarı bildirildi [D2]. Bu oran başlangıçtaki dokuz kuşun veya bütün türün başarı oranı değildir.
 
-**Karşı-model:** Bir kişi özgün fakat yanlış bir açıklama üretir. İkinci kişi açıklamayı aynı hatalı kaynaktan hareketle onaylar. Yenilik ve iki onay bulunmasına rağmen güvenilir bilgi sonucu çıkmaz. Başka bir kişi doğru ve gerekçeli bilgiye sahip olsa bile H04'teki erişim ve fiilî kontrol koşulları bulunmadığında belirli bir eylem için tam sorumluluk otomatik çıkmaz.
+Düzenek görüldükten beş dakika sonra nesne seçimi, seçimden on dakika sonra düzeneğe erişim sağlandı. Testte beş seçenek ve bir doğru seçenek için şans düzeyi %20 olarak kullanıldı; yazarlar bazı çeldiricilerin göz ardı edilmesi olasılığını da tartıştı. Burada bu hesaplar yeniden analiz edilmez; önceki yöntem ve sonuç incelemesi devralınır.
 
-**Uygulama kararı:** Araştırma kayıtlarında önerme yeniliği, gerekçe izlenebilirliği, kaynak bağımsızlığı, ampirik sınama ve normatif sorumluluk ayrı alanlar olmalıdır. **Rakip hipotez:** Yeni bir çözümün ortaya çıkması, genel akıl yetisinden ziyade göreve özgü öğrenme, transfer veya önceki deneyimle açıklanabilir. H05'in ayırıcı iddiası için önceden belirlenmiş görevler, kör puanlama ve farklı türler arasında karşılaştırılabilir ölçüm gereklidir; böyle bir çalışma bu makalede yapılmamıştır. Bu ayrım akıl, zekâ, bilgi ve güç terimlerinin tek ölçüte indirgenmesini önler. Kurucu H05 tanımı korunur; deneysel tür ayrıcalığı veya bağımsız hakemlik iddiası eklenmez. K0–K6 açık kalır.
+Görevde uygun nesnenin seçilmesi gözlemdir. Bunun hangi temsille veya öğrenme süreciyle açıklanacağı ayrı sorudur. De Mahy ve arkadaşları (2021) çağrışımsal öğrenme açıklamasını savunan bir eleştiri sundu. Boeckle ve arkadaşları (2021) yanıtlarında belirli bir geçmiş ödül açıklamasına karşı tasarım geliştirdiklerini, yüksek düzeyli bir gelecek kavramını ölçtükleri yorumunu benimsemediklerini belirtti [D3–D4].
+
+Ana makalenin tartışması da bazı çağrışımsal açıklamaları tümüyle dışlamaz. Yanıt yeni veri sunmaz; eleştiri ve yanıt iki bağımsız tekrar deneyi değildir. Bu kayıt gözlem, yazar yorumu, rakip açıklama ve yanıtı birbirinin yerine kullanmamayı öğretir.
+
+### 5.3. Jelbert: eğitimi ve eksik katılımı korumak
+
+Jelbert ve arkadaşlarının (2014) su yer değiştirme görevlerinde önceden taş bırakma eğitimi vardı. İki kuş bütün deneyleri tamamlamadı; deney 1–2'de altı, 3–4'te beş, 5–6'da dört kuş bulunuyordu. Katılımdan ayrılma yanlış cevapla aynı şey değildir [D5].
+
+Dar/geniş tüp görevindeki ilk seçim tercihi ile U-tüpündeki şans üstü tercih bulunmaması farklı görev sonuçlarıdır. Başarı veya başarısızlık ilgili koşulda değerlendirilir; tek görevden bütün türün genel mantık kapasitesi hakkında yokluk sonucu çıkarılmaz.
+
+### 5.4. Tanımı korurken göstergeyi sınamak
+
+Hayvanın davranışı sırf hayvan yaptığı için “yalnız zekâ”, insanınki sırf insan yaptığı için “akıl kanıtı” diye puanlanırsa karşılaştırma döngüsel olur. Önce gözlenebilir görev ve ölçüt kaydedilir; tür etiketi tek başına sonuca karar vermez.
+
+Hayvanda bir göstergenin bulunması hâlinde bulgu korunur; gösterge sırf o nedenle yeniden tanımlanarak dışlanmaz. İnsanda tek görev başarısızlığı da kapasitenin bütünüyle yokluğunu göstermez. Açık sözlü gerekçe ölçütü kullanılıyorsa bu ölçütün dilsel ifade becerisiyle ilişkisi belirtilir; dilsel yanıt verememek tek başına hiçbir içsel temsil bulunmadığını göstermez.
+
+## 6. İlimden ilim için değerlendirme kaydı
+
+Önerilen kayıt aşağıdaki soruları birlikte taşır. Bunlar uygulanmış testin puanları veya K0–K6 üretim aşamaları değildir.
+
+| Alan | Kayıt sorusu |
+|---|---|
+| Öncül | Hangi mevcut bilgi, kaynak, veri veya yöntem kullanıldı? |
+| Yeni sav | Öncekine göre tam olarak ne eklendi veya düzeltildi? |
+| Yenilik tabanı | Kişiye, eğitim görevine veya alan literatürüne göre mi yeni? |
+| Çıkarım | Sonuca hangi adımlar ve varsayımlarla gidildi? |
+| Alternatif açıklama | Ezber, örüntü aktarımı, eğitim veya göreve özgü çözüm yeterli olabilir mi? |
+| Sınama | Hangi karşı-örnek, yeni veri, ispat kontrolü veya aktarım koşulu kullanıldı? |
+| Karar ve kapsam | Ne desteklendi, ne henüz bilinmiyor? |
+| Kaynak ve düzeltme | Sonuç hangi sürümde, hangi gerekçeyle korunuyor veya değişiyor? |
+
+**Kurgusal uygulama:** Öğrenci bilinen bir gemi tasarımını yeniden anlatırsa bilgi aktarımı kaydedilir. Aynı ilkeleri uygulayıp model üretirse ürün elde edilir. Yeni bir gövde biçiminin belirli koşullarda farklı sonuç verdiğini ileri sürerse bu yeni bilgi adayıdır; eşit koşul karşılaştırması, ölçüm ve alternatif açıklama gerekir. Gözlem yapılmadan “daha iyidir” demek yeni bilgi değildir.
+
+Yeni koşula aktarım olumlu bir gösterge olabilir; bütün bilişsel yetiyi ölçmez. Gerekçe ve sınama bulunması da hatasızlık garantisi değildir. Bu kayıt H03'ün denetimine açık bir bilgi adayı üretir; denetimin sonucunu peşinen belirlemez.
+
+### 6.1. İnsan ve yapay sistem çıktısı
+
+Bir dil modeli yeni bir cümle kurabilir; bu cümle yanlış, kaynaklandırılmamış veya eski bir sonucun yeniden ifadesi olabilir. Metinsel yenilik ilimden ilim için yeterli değildir. İnsan çıktısına da aynı sav–gerekçe–sınama soruları uygulanır.
+
+Yapay sistemin hangi girdileri, araçları ve dış kaynakları kullandığı; düzeltmenin sistemden mi kullanıcıdan mı geldiği kaydedilmelidir. Bilinmeyen eğitim içeriği “kesinlikle görülmemiş” diye sunulmaz. Hangi işlemi kimin yaptığı gösterilmeden tek çıktıya bütün araştırma kapasitesi atfedilmez.
+
+Bu yöntem yapay sisteme insanın öz, ruh veya iradeli sorumluluk statüsünü otomatik vermez. Aynı şekilde bir yazılımın çıktısını doğrulamak, o çıktının nasıl üretildiğine ilişkin bütün mekanizma sorularını çözmez.
+
+## 7. Alanlar arası benzetme ve model sınırı
+
+Fiziksel taşıyıcı, bilgi türü, işlem, kısıt ve çevre ilişkisini birlikte kaydetmek farklı sistemleri karşılaştırmaya yardım edebilir. Önceki H05'teki `S=(C_f,I,Z,F,C)` gösterimi bu amaçla korunur: fiziksel koşullar, ilgili bilgi türü, gözlenen işlem işlevleri, kurallar ve çevre. Bu beş alan kozmik beş boyut veya ortak birimle toplanan sayısal vektör değildir.
+
+Bilişsel işlem anlamındaki Z atoma uygulanmıyorsa “uygulanamaz”, araştırılan canlıda gözlem yoksa “ölçülmedi” yazılır. İkisi sıfır puan değildir. Genetik bilgi ile gerekçeli önerme aynı I değerine; toplumsal yetki ile fiziksel kapasite aynı büyüklüğe indirgenmez.
+
+Fizikte güç iş/enerji aktarımının zamana oranıdır; birimi watt'tır [D7]. Felsefi “yapabilme gücü” bu nicelikle aynı değildir. Hücresel farklılaşma özelleşmiş biçim ve işlev kazanımını açıklar [D8]; bu tanım ontolojik kapsamanın veya ahlakın ispatı değildir. Otonom sinir sisteminin biyolojik düzenleyici işlevi [D9] ile kâinatın otonom düzen benzetmesi de aynı mekanizma sayılmaz.
+
+Ruh–kanun veya fıtrat–yazılım ilişkisi kurucu yorum/analojidir; DNA'nın bilgisayar koduyla özdeşliği veya ruhun fiziksel yazılım olduğu sonucu çıkmaz. Dördüncü boyut ruh/melekler, beşinci fıtrî/iradeli ahlak, altıncı hesap/hüküm ve hükmün sonucu olarak H04'ten devralınır. İnsan katmanları bu sırayla numaralandırılmaz.
+
+### 7.1. Düzen ve bilen önermesi
+
+“Her kanunun veya düzenin üzerinde bir bilen vardır” kurucu metafizik tezdir [K3]. Fiziksel sistemin hesaplama yapması veya meleğin insan anlamında akıl kullanmasıyla eşitlenmez. Her düzen için bir bilen kabul etmek, bütün düzenlerde bu bilenin aynı olduğunu tek başına göstermez. Ehad'ın birliği bağımsız kurucu ontolojik kabul olarak korunur; düzen örneklerinin sayılmasından mantıken türetilmiş diye sunulmaz.
+
+Ehad Yek'tir fakat yaratılmış Yek değildir. İnsan halifeliği ve bilimsel muhataplığın genişliği kurucu teolojik/felsefi yorumdur; her şeyi bilme garantisi değildir. Araçla bedensel erişimin ötesini araştırmak kanunları ortadan kaldırmak değildir.
+
+## 8. Kapasite, kullanım ve sorumluluk
+
+Akıl yoluyla yeni yöntem bulmak, o yöntemin meşru kullanımını tek başına belirlemez. H04'ün dar sonucu burada uygulanır: teknik imkân erişimi, erişim kontrolü veya tam sorumluluğu garanti etmez. Bilgi, niyet, öngörü ve bağlam ayrıca değerlendirilir.
+
+Doğru bilgi zarar verme amacıyla kullanılabilir; iyi amaçla yapılan araştırmada yanlış sonuç çıkabilir. Fıtrî düzenle ilişki kurmak, belirli tercihin ahlaki doğruluğunu kanıtlamaz. İradeli ahlak bilgi üretme yetisini yok etmeden kullanımını sorumluluk açısından ele alır.
+
+Kaynaklarda sevgi, merhamet ve iyiyi isteme bilginin yönünü belirleyen idealler olarak korunur. Kaynaklı araştırmada dürüstlük, bilinmeyeni açık tutma ve hatayı düzeltme bu yönelimin uygulamalarıdır. Fakat samimiyet, çoğunluk veya otorite tek başına doğruluk ölçütü yapılmaz. Nihai hüküm/ahiret teolojik statüsünde kalır; biliş görevindeki başarıdan doğrudan ölçülmez.
+
+## 9. İtirazlar ve araştırmanın sınanması
+
+**İtiraz: Kurucu tanım insanı baştan ayrıcalıklı yapıyor.** Tanımın bu sistemde insana özgü kullanıldığı açıktır. Buna dayanarak hayvanların belirli görevleri yapamayacağı sonucu çıkarılmaz. Ampirik işlev iddiaları türden bağımsız göstergelerle incelenmeli ve karşıt bulgu korunmalıdır. Böylece kavramsal tercih ile bilimsel genelleme birbirine karıştırılmaz.
+
+**İtiraz: Yeni bilgi ölçütü her durumda aynı olamaz.** Evet; biçimsel, ampirik ve yorumsal sonuçların sınama yöntemleri farklıdır. Ortak kayıt, bu yöntemlerin yerine geçen tek puan değil, hangi yöntemle hangi sonuca varıldığını gösteren çerçevedir.
+
+**İtiraz: Bireysel çıktı birikimli ilmi açıklamıyor.** Tek kişinin performansı ile kaynakların, öğretimin, araçların ve kurumların birikimi aynı düzey değildir. H02'nin kaynaklı hafıza yaklaşımı devralınır: önceki bilgi, düzeltme ve aktarım izleri birlikte korunur. Tek ürün, bütün bilimsel üretim düzeninin ölçüsü yapılmaz.
+
+Ampirik karşılaştırma için görev, eğitim geçmişi, duyusal/motor gereklilikler, motivasyon, değerlendirme ölçütü ve alternatif açıklamalar önceden belirtilmelidir. Görev başarısı, aktarım, gerekçelendirme ve revizyon ayrı incelenir. Değerlendirici etkisini azaltmak için mümkün olan aşamalarda çıktı kimliği gizlenebilir; görevler arası karşılaştırılabilirlik kurulamadığında bu sınır raporlanır. Bu makalede böyle bir deney yapılmamıştır.
+
+A12 duygu oluşumunu, A13 bütünleşik insan yapısının kapsamasını, A05 bilişsel görev ayrımını kendi soruları olarak geliştirir. H05 bu çalışmaların yerini almaz ve aynı katkıyı farklı dosya adlarıyla yeni makale saymaz. İnsan Tarihi'ne öğrenme, bilgi üretimi, kurumsal aktarım ve iradeli ahlakın ayrı incelenmesi devredilir.
+
+## 10. Sonuç
+
+H05, kurucu akıl tanımını bütünleşik insan yapısı içinde açıklaştırır. Öz, duygu ve akıl ilişkili anlamlardır; zekâ insanda sürer, fıtrî ahlak kuruluş düzenini, iradeli ahlak insanın tercih ve sorumluluğunu kapsar.
+
+İlimden ilim üretme; yeni cümle, yeni ürün veya görev başarısıyla özdeş değildir. Bilgi öncülleri, açık çıkarım, yenilik tabanı ve alana uygun sınama birlikte kaydedilmelidir. Hayvan bilişi örnekleri alet üretimi gibi tek bir davranışı insan aklının kesin sınırı yapmayı engeller; tanım ile gözlem birbirinin yerine geçirilmez.
+
+Kapasite doğru bilgi sonucunu, doğru bilgi de güzel ahlakı garanti etmez. Çalışmanın katkısı bu ayrımları kaynak, karşı-örnek ve uygulama kaydıyla birleştiren kavramsal yöntemdir. İnsan, hayvan ve yapay sistem arasında başarımı ölçülmüş yeni ölçek veya evrensel tür sınırı ileri sürülmez.
+
+## Kurucu kaynaklar ve sürüm izi
+
+**[K1]** [H01 Hebûn](NK-ZS-H01-A01-TR-v03-ILK-IKINCI-YEK-TUREME-KOMEL.md), özellikle §§7–10; [H02 Zanabûn](NK-ZS-H02-A04-TR-v02-IKINCI-YEK-IKINCI-BILEN.md), §§3–7, commit `350ccc54af162c22ccfe5496bba2a2265caaa588`; [H03 Rasterast](NK-ZS-H03-A14-TR-v02-RASTERAST-BIRIKIMLI-KANIT-DENETIMI.md), §§3–9, commit `6f4325ff207f4c97ccd4729fba12e9bb8406e59c`; [H04](NK-ZS-H04-A02-TR-v03-FITRI-IMKAN-ARAC-IRADELI-AHLAK.md), §§4–8, commit `b15ecfa684b1ffa436624a8054ac789c375e75b3`.
+
+**[K2]** [Özgün paragraf envanteri](../01-kanonik-denetim/H01-H05-IKI-OZGUN-KAYNAK-PARAGRAF-KAPSAMA-VE-IDDIA-ENVANTERI-2026-10-22.md), A-P90; B-P54–60, P110–146 ve P169–177. Numara okuyucu dökümüne aittir. [11 depo kaynak haritası](../01-kanonik-denetim/H02-DEPOLAR-ARASI-KAYNAK-VE-CIKARIM-HARITASI-2026-10-24.md) ve cilt incelemeleri devralındı; bütün arşiv yeniden okunmuş sayılmadı.
+- [Core 03](https://github.com/veysieken000-ctrl/zanistarast-ai-native-model/blob/2f9cf84dc04033c6bd40ad7359d682a21d19abc0/core-03.html), blob `6895cf5e3c1ff5bc23d6c57767e9b180c5022d2b`: bilgi, duygu ve ilimden ilim pasajları.
+- [Core 04](https://github.com/veysieken000-ctrl/zanistarast-ai-native-model/blob/2f9cf84dc04033c6bd40ad7359d682a21d19abc0/core-04.html), blob `d20794b598d7fee789d998924d026d8b1379bb48`: kapasite, niyet ve hüküm–ahlak; H04 incelemesi devralındı.
+- [Core 05](https://github.com/veysieken000-ctrl/zanistarast-ai-native-model/blob/2f9cf84dc04033c6bd40ad7359d682a21d19abc0/core-05.html), blob `d3180d0fe0c1b370a7122f835e35b3a8483fd775`: öz–duygu–akıl, iç/dış etki ve zekâ türleri. 03 ve 05 bu tur içerikleriyle karşılaştırıldı; eski bilimsel genellemeler otomatik devralınmadı.
+
+**[K3]** [Akıl yalnız insanda kurucu kaydı](../01-kanonik-denetim/AKIL-YALNIZ-INSAN-KATMANLI-DUZEN-BILEN-2026-10-22.md); [ortak öz ve evrensel muhataplık](../01-kanonik-denetim/KURUCU-ONTOLOJIK-KAPSAMA-OTONOM-SISTEM-EVRENSEL-MUHATAPLIK-2026-10-22.md); [fıtrat–ahlak kilometre taşı](../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md); [güncel Ehad–Yek kanonu](../01-kanonik-denetim/EHAD-YEK-IKINCI-YEK-TUREME-KURUCU-KANON-2026-10-22.md).
+
+**[K4]** [Düzeltilmiş A13 bütünleşik insan metni](../03-dis-cekirdek-makaleler/NK-ZS-A13-TR-v01-OZ-DUYGU-AKIL-AHLAK-SINIFLAMASI.md); [AGENTS](../AGENTS.md), bütünleşik insan için 23–24 Ekim kurucu açıklamaları. Eski dört bağımsız parça yorumu güncel tanım değildir.
+
+**[K5]** [Birleşik zihin yazısı](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER/blob/30c47fb4805f2d842aec652d8e5638469386d09d/theories/08_ZAMAN_THEORY/05_UNIFIED_MIND_THEORY_ZEKA_AKIL_AHLAK.md), blob `19797777b9742e3d79fc9eb1895e3a35943f906b`; [kavram sözlüğü](https://github.com/veysieken000-ctrl/hebun-zanabun/blob/3297457ec00995740f9e2c226b3713edd43266ae/core/GLOSSARY.md), blob `3aed886bc0491c461fb1be04b72e3b2cd7768bc4`. Bilişsel kapasite ile yönelim ayrımı devralındı; eski W4/W56 ve kozmik numaralar eşitlenmedi. Küvet örneği: [Papers hüküm–ahlak kaydı](https://github.com/veysieken000-ctrl/zanistarast-papers/blob/73218d1558acf1d827359c5a0a5b5ae8062e86ef/docs/architecture/CANONICAL_AHLAK_HUKUM_CORPUS_CORE_2026-09-17.md), §17; önceki H02/H04 incelemesi.
+
+## Dış kaynakça ve erişim kapsamı
+
+Aşağıdaki kayıtlar önceki H05'in birincil kaynak incelemelerinden devralınmıştır. Bu turda yayınlar yeniden açılmış, deneyleri tekrarlanmış veya ham verileri analiz edilmiş sayılmaz.
+
+**[D1]** Kenward, B., Weir, A. A. S., Rutz, C. ve Kacelnik, A. (2005). Tool manufacture by naive juvenile crows. *Nature, 433*, 121. https://doi.org/10.1038/433121a . Açık yazar metni: https://users.ox.ac.uk/~kgroup/publications/pdf/ontogeny_Nature_2005.pdf . Kaynak yeri: s.121 ve Şekil 1; önceki ana metin yöntemi/bulgusu incelemesi; ek video yeniden incelenmedi.
+
+**[D2]** Boeckle, M. ve ark. (2020). New Caledonian crows plan for specific future tool use. *Proceedings of the Royal Society B, 287*, 20201490. https://doi.org/10.1098/rspb.2020.1490 . Açık sürüm: https://www.repository.cam.ac.uk/items/f781c049-6d77-46c3-ab77-40402a51b8e3 . Kaynak yerleri: Methods, Statistics, Results, Tablo 1/3, Discussion.
+
+**[D3]** de Mahy, D., Esteve, N. A. ve Santariello, A. (2021). New test, old problems: comment on ‘New Caledonian crows plan for specific future tool use’. *Proceedings of the Royal Society B, 288*, 20210186. https://doi.org/10.1098/rspb.2021.0186 . Önceki DOI ve indekslenmiş eleştiri metni incelemesi; tam yöntem yeniden analizi değildir.
+
+**[D4]** Boeckle, M. ve ark. (2021). New Caledonian crows' planning behaviour: a reply to de Mahy et al. *Proceedings of the Royal Society B, 288*, 20211271. https://doi.org/10.1098/rspb.2021.1271 . Açık sürüm: https://www.repository.cam.ac.uk/items/87c7ddf0-fa97-43e3-84d3-d06db5b39b8a . Önceki altı sayfalık yazar PDF'si incelemesi, özellikle s.3 ve s.5 Data accessibility. Yanıt bağımsız tekrar değildir.
+
+**[D5]** Jelbert, S. A., Taylor, A. H., Cheke, L. G., Clayton, N. S. ve Gray, R. D. (2014). Using the Aesop's Fable Paradigm to Investigate Causal Understanding of Water Displacement by New Caledonian Crows. *PLOS ONE, 9*(3), e92895. https://doi.org/10.1371/journal.pone.0092895 . Kaynak yerleri: Subjects, Initial Training, Results (Experiments 4 ve 6), Discussion; önceki açık ana metin incelemesi.
+
+**[D6]** NHGRI. *Deoxyribonucleic Acid (DNA)*. https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA . Genetik bilgi taşıma tanımının önceki doğrudan kurum kaydı.
+
+**[D7]** OpenStax. *College Physics 2e*, §7.7, Power. https://openstax.org/books/college-physics-2e/pages/7-7-power . Denklem 7.69 ve watt birimi; önceki H04/H05 doğrudan bölüm incelemesi.
+
+**[D8]** NCI. *Cell differentiation*. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cell-differentiation . Hücresel özelleşme tanımının önceki doğrudan kurum kaydı; çok hücreliliğin bütün tarihinin açıklaması değil.
+
+**[D9]** NCI. *Autonomic nervous system*. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/autonomic-nervous-system . Biyolojik düzenleyici işlev için önceki kurum kaydı; kozmik benzetmenin deneysel doğrulaması değil.
+
+## Tarihsel iz ve editoryal kapsam
+
+Önceki H05 ana metni ve ekleri [715589a sürümünde](https://github.com/veysieken000-ctrl/zanistarast-academic-corpus/blob/715589a608b5667038a9b62d6a77c5bc0500d68f/02-cekirdek-makaleler/NK-ZS-H05-AKIL-FITRAT-ZEKA-BILGI-GUC-v03-KATMANLI-DUZEN.md) korunur. Tekrarlanan tanımlar ve uygulamalar tek ana argümana birleştirildi. Eski bölüm göndermeleri kendi sürümlerine aittir. [Mevcut kaynak eki](NK-ZS-H05-EK03-DOGRULANMIS-KAYNAKLAR-VE-KARSI-ORNEKLER.md) araştırma geçmişi olarak kullanılabilir; güncel ayrıntılı erişim ve kapsam bu metnin kaynakçasında belirtilir.
+
+İç kaynak–mantık–bölüm bütünlüğü ile bağımsız değerlendirme ve yayın kararı ayrı tutulur. Türler arası ölçüm başarısı, ruhun ampirik modeli veya yeni kurucu terim ileri sürülmez.
