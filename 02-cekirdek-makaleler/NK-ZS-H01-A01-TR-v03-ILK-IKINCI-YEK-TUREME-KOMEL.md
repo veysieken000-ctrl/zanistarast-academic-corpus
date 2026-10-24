@@ -58,6 +58,22 @@ Komel'in ontolojik bir kavram olarak kullanılması ile belirli bir sistemin bu 
 
 Uygulama, önerdiği ölçütlerle örgütlü sistem ile yalnızca birlikte bulunan birimleri ayıramıyorsa **ayırt edici açıklama bakımından yetersiz** kaydedilir. Bu sonuç bütün bir ontolojinin yanlışlandığı anlamına gelmez; ilgili ampirik uygulamanın ek mekanizma veya daha dar kapsam gerektirdiğini gösterir. Öte yandan her itirazda sistem sınırını, “merkez”i veya “bütün”ü sonuçtan sonra değiştirmek de olumlu kanıt üretmez. Değişen tanım yeni bir uygulama kaydı ve yeniden karşılaştırma gerektirir.
 
+### 4C. Özgün varlık–varlıksı ayrımı ve Komel'e aktarım sınırı
+
+Özgün *Varlık Sistemi ve Boyutları* metninde varlık, düzenli iç işleyişi, hareketi ve merkez–çevre örgütlenmesi üzerinden tanımlanır (P27–28). Aynı metindeki **varlıksı** tek anlamlı değildir: kaynağa bağlı etkiyi, belirli bir evreye göre alt birimi ve kimi örneklerde merkez–çevre ölçütüyle ayrılan şeyi anlatır (P29). Bu tarihsel kavram, güncel H01'de açıklanmadan bırakıldığında özgün ontolojik tasnifin bir parçası kaybolur. Burada kavram korunur; bütün kullanımları tek ve doğrulanmış bilimsel sınıf olarak birleştirilmez.
+
+| Özgün kaynak ve paragraf izi | Kaynakta kullanılan anlam | H01'de korunacak sınır |
+|---|---|---|
+| Varlık P27, “İlk varlık diye tanımlanan atom”; P28, “Varlık, bir kanun dâhilinde” | Merkez–çevre, iç işleyiş, düzen ve etkinlik üzerinden varlık tanımı | Kurucu tarihsel tanımdır; her varlığın aynı maddi çekirdeğe sahip olduğunu kanıtlamaz (§6A). |
+| Varlık P29, “Varlıksı, ısı, ışık gibi” | Kaynağa bağlı etkiler ile evreye göre alt varlıklar aynı terim altında ele alınır | Isı/ışık örnekleriyle meteor/element örnekleri ayrı kullanım kümeleri olarak kaydedilir. Element hakkındaki bilimsel düzeltme §5A'dadır. |
+| Varlık P40, “Fizik boyutunun ilk varlığı olan atomdan sonra” | Galaksiler yeni varlık yerine varlık ve varlıksı toplulukları olarak adlandırılır | Topluluk, yeni tekillik ve Komel tanım gereği özdeş değildir; belirli bir galaksinin hangi statüde olduğu yalnız bu adlandırmayla sonuçlandırılmaz. |
+| Varlık P65, “Biyoloji boyutu varlıkları da” | Tek/çok hücreli evrelerin yanında protein ve enzimler biyolojik varlıksı bağlamına alınır | Özgün tasnifin biyolojiye de uzandığı korunur; bu kayıt bir hücre ölümü mekanizmasının bilimsel doğrulaması değildir. |
+| Akıl P36, “Varlık: Aynı doğrusalda merkez ve çevreden” | Merkez–çevre, üç ana parça ve kanuna bağlılık birlikte tanıma girer | Erken üçlü-bileşen anlatısı güncel 6+Tek kanonuyla sessizce eşitlenmez; fiziksel zorunluluk sınırı §5'tedir. |
+
+P numaraları, yukarıdaki kaynak eşlemesinde olduğu gibi 24 Ekim 2026'da Drive'dan alınan düz metindeki boş olmayan satır/paragraf sırasıdır; Word sayfası değildir. Kaynaklar: [Varlık Sistemi ve Boyutları](https://docs.google.com/document/d/1CvyrcvBbdvow4Hha8oZaQLOL97ilvt5d/edit) ve [Akıl ve Bilginin Kaynağı](https://docs.google.com/document/d/1MOKZhk0VslI4aWwOtcDDsLb4WKSPdeyM/edit).
+
+**Akademik çözümleme:** Bir şeyin kaynağa bağlı olması, başka bir örgütlenmenin bileşeni olması ve merkez–çevreyle tanımlanması farklı ölçütlerdir. Bu nedenle varlıksı, ikinci Yek veya Komel'in eşanlamlısı olarak kullanılamaz. Belirli bir uygulamada hangi anlamın seçildiği ve hangi bütün/evreye göre konuşulduğu belirtilmelidir. Bu ayrıştırma kaynak çözümlemesidir; yeni kurucu tanım değildir. Özgün metindeki diğer varlıksı kullanımları ve bunların H04 ile ayrıntılı eşlemesi açık kalır.
+
 ## 5. Fizik: atomik Yek'ten sistem Komeline
 
 Kurucu fizik evreleri atom ile yıldız–gezegen düzenidir. Atomik tekilliklerin hangi etkileşimlerle yeni sistemlere katıldığı fiziksel mekanizmalar üzerinden incelenir. Hidrojenin atom numarası 1, helyumunki 2'dir (NIST, tarihsiz). Hidrojen-1 çekirdeği bir protondan oluşur ve nötron içermez; nötr atomda bir elektron bulunur (NIDC, tarihsiz). Bu nedenle proton–nötron–elektron üçlüsü bütün atomlar için zorunlu değildir. İzotoplar aynı proton sayısına karşılık farklı nötron sayılarıyla ayrılır (DOE, tarihsiz).
