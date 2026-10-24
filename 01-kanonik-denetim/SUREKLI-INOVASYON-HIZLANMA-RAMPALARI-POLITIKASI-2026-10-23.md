@@ -165,3 +165,18 @@ Ana metin commit'i: `d1f4642ea43283730cfe1fdcd3fe88343df62e16`.
 | İlimden ilim nasıl kaydedilir? H05 §6 | Öncül, yeni sav, yenilik tabanı, çıkarım, alternatif açıklama, sınama ve düzeltme birlikte; metinsel yenilik yeterli değil. |
 
 H03/H04'ün H05'e bölüm göndermeleri yeni düzenle aynı iş paketinde güncellendi ve geri okundu. Mevcut terimler yeterli olduğundan yeni ad üretilmedi. Kaynakların tekrar kullanılabilmesi çalışma kazanımıdır; süre veya başarı yüzdesi ölçülmüş değildir.
+
+
+## 24 Ekim 2026 — Varlık Tarihi gerekçe devri
+
+Makale commit'i: `4dace25716f292590ccb1f8a0a7b75f68ed17846`.
+
+| Hazır gerekçe | Sonraki kullanım |
+|---|---|
+| Varlık türü, mekanizma, kronoloji, kanıt ve yorum ayrı; §§2–4 | Jeoloji ve İnsan Tarihi ontolojik evreden tarih veya nedensel mekanizma türetmez. |
+| Hazırlayıcı koşul sonuç için yeterli olmayabilir; §5 | Jeoloji'de ortam, ara süreç ve biyolojik iz ayrılır. Mantıksal değerleme doğada gözlenmiş karşı-örnek sayılmaz. |
+| Gözlem yokluğu yokluk değildir; §5 | İz tespit edilmediğinde yöntem ve tespit sınırı belirtilir; ortamın bütün koşullarının sağlandığı varsayılmaz. |
+| Matematik benzetmesi fiziksel kapanış ispatı değil; §6.1 | Sonsuz ondalık gösterim, sonlu zamanda sonuçlanma ve teolojik hüküm ayrı öncüllerle incelenir. |
+| Olay, iz, yorum ve anlatı ayrı; §7 | Tanıklık kaynaklı hafızayı kurar; fiziksel geçmişin insan tanığına bağlı var olduğu sonucu çıkarılmaz. |
+
+Geçiş kaydı: birim/kapsam → başlangıç koşulu → yeni işlev → mekanizma → kronoloji → alternatif → yeterlilik → dar sonuç/belirsizlik. Bu yöntem yeni alanın kendi verisinin yerine geçmez. Mevcut kavramlar yeterli olduğundan yeni ad üretilmedi. Ölçülmüş süre veya başarı yüzdesi yoktur.
