@@ -120,6 +120,8 @@ Kurucu 1→2 örneği hücreden hücre türemesi üzerinden araştırılır; sü
 
 **Deneysel karşılaştırma:** Ratcliff ve ark. (2012), seçilim uygulanan maya popülasyonlarında bölünme sonrası ayrılmayan hücrelerden oluşan kümeler ve küme düzeyinde üreme gözledi. Yayıncının ana metninde başlangıçtaki on paralel popülasyona çöktürme seçilimi uygulandığı, 60 aktarım sonunda kümeli biçimin baskınlaştığı açıklanır. İlk hafta aktarım öncesi 45 dakika bekletme uygulanmış, ardından işlem 100 × g'de 10 saniyelik santrifüjle sürdürülmüştür (Results öncesindeki deney düzeni paragrafları). Bütün 60 aktarımın yalnız pasif bekletmeyle yapıldığı sonucu çıkarılmaz. Mikroskopiyle tek hücrelerin izlenmesi ve tomurcuk izlerinde bağlantıların saptanması, incelenen kar tanesi biçimli kümelerin bölünme sonrası bağlı kalmayla oluştuğunu destekler (Results: Mechanism of Cluster Formation; Şekil 2B). Bu mekanizma bütün hücresel kümelenme türlerine genellenmez. Bu, yalnız hücre sayısını değil kalıcı bağlılık ve yaşam döngüsünü de incelemeyi gerektirir. Deney ilk yaşamın veya bütün çok hücreli soyların tarihini yeniden kurmaz; Komel'in metafizik zorunluluğunu da sınamaz. Çalışma evrimsel bir mekanizma önerir; kurucu türeme yaklaşımı bu açıklamaya alternatif bir bilimsel model olacaksa aynı gözlemleri açıklayan mekanizma ve ayırt edici öngörü sunmalıdır. Komel adlandırması tek başına bu deneysel açıklamayı geçersiz kılmaz.
 
+**Seçilim koşulu sınırı — 24 Ekim son kontrolü:** Ratcliff ve ark. (2012), Results ve Şekil 2A, kümeli biçimin yüzde 34 uygunluk üstünlüğünü çökelme seçilimi altında bildirir. Seçilim olmadan bildirilen yaklaşık yüzde 10 maliyet için P = 0,06'dır; bu ikinci sonuç kesinleşmiş bir kayıp gibi sunulmaz. Uygunluk karşılaştırması belirli rekabet koşuluna aittir; bütün çok hücreli biçimlere evrensel avantaj veya Komel zorunluluğu çıkarılmaz. Aynı makalenin deney düzeni ve Mechanism of Cluster Formation bölümleri §6'daki 45 dakika/100 × g ve bölünme sonrası bağlılık anlatımlarıyla yeniden karşılaştırıldı. Ham ölçümler veya videolar yeniden analiz edilmedi.
+
 ### 6A. Merkez–çevre ilkesinde fiziksel ve örgütleyici anlam
 Özgün hücre–atom karşılaştırması, bütün hücrelerde atom çekirdeğine benzer zarla çevrili bir çekirdek bulunmasını gerektirmez. Prokaryotik hücrelerde böyle bir çekirdek yoktur; bitki ve hayvanların hücresel kuruluşu ise biyolojik sınıflandırmanın konusudur (NHGRI, 2026, Cell). Dolayısıyla kıble/merkez–çevre ilkesi için önerilen örgütleyici merkez, her varlıkta aynı anatomik parçanın bulunması iddiasından ayrılmalıdır.
 
@@ -327,7 +329,7 @@ Hebûn'un bu makalede incelenen ontolojik temeli, Ehad–Yek kabulünden hareket
 - National Human Genome Research Institute (NHGRI). (2026). *Cell*. https://www.genome.gov/genetics-glossary/Cell . Kullanım: §6A; prokaryotik hücre ve çekirdek ayrımı. Erişim: 22 Ekim 2026.
 
 - Diyanet İşleri Başkanlığı. (2011). *Kur'an-ı Kerim Meâli*. Hazırlayanlar: Halil Altuntaş ve Muzaffer Şahin. 12. basım. Ankara. Nisâ 4:1 ve dipnot 1, basılı s. 87 (PDF sayfası 150). https://webdosya.diyanet.gov.tr/kuran/kuranikerim/dosyalar/document/kuran_meal.pdf . Kullanım: §3 (Nisâ 4:1) ve §9B–9C (Bakara 2:31–36, basılı s. 8–9, PDF sayfaları 72–73); doğrudan metin ve sayfa görüntüsü kontrol edildi.
-- NHGRI. (2026). *Deoxyribonucleic Acid (DNA)*. https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA?id=48 . Kullanım: bölüm 6; genetik bilgi taşıyıcısı. Resmî tanım doğrudan okundu; psikolojik veya metafizik bilgi tanımını doğrulamaz.
+- NHGRI. (2026). *Deoxyribonucleic Acid (DNA)*. https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA . Kullanım: bölüm 6; genetik bilgi taşıyıcısı. Resmî tanım doğrudan okundu; psikolojik veya metafizik bilgi tanımını doğrulamaz.
 
 - National Human Genome Research Institute (NHGRI). (2026). *Mitosis*. https://www.genome.gov/genetics-glossary/Mitosis . Kullanım: bölüm 6; mitoz ve onu genellikle izleyen iki yavru hücre oluşumu. Doğrudan resmî tanım okundu. Ontolojik kimlik sürekliliği bu biyolojik tanımdan ayrıca tartışılır. Erişim: 22 Ekim 2026.
 
@@ -360,7 +362,20 @@ Aşağıdaki eşleştirme yalnız **mevcut makaledeki atıfların ve kaynakça a
 
 **Bibliyografik bütünlükte giderilen eksikler:** Ek F'deki 2015 eser ile §§9B–9C'deki ayet ve rivayet kaynakları ana kaynakçaya bağlandı; Bakara PDF sayfa kullanımı eklendi. Önceki yalnız özet erişimi ve açılışla sınırlı kaynak taraması notları güncel kontrolden ayrıldı.
 
-**Açık kalanlar:** Adelberger'in kullanılan açık sürümüyle dergi sürümü; 2012 deneyinin son kaynak/iddia kontrolü; NIDC/DOE/IUPAC ve diğer NHGRI maddelerinin son erişim/sürüm kontrolü; kurucu savların bütün atıflarla atomik eşlemesi; bağımsız Rasterast. Bu oturumun kendi okuması bağımsız inceleme sayılmaz. H01-03/07 kapatılmadı.
+**24 Ekim ek doğrudan kontrolü:** Aşağıdaki kararlar yalnız belirtilen kullanım iddialarını kapsar; sitelerdeki bütün açıklamaların onaylandığı anlamına gelmez.
+
+| Kaynak | Denetlenen H01 iddiası ve kaynak yeri | Son durum |
+|---|---|---|
+| NIDC, Isotope Basics | What are Isotopes? bölümü: hidrojen-1'in nötron içermemesi, atom numarası ve nötr atomdaki elektron dengesi (§5) | Doğrudan metinle uyumlu; bağımsız deney diye sayılmaz. |
+| DOE, DOE Explains…Isotopes | Giriş: aynı proton, farklı nötron sayısı ve proton sayısının atom numarası oluşu (§5) | Doğrudan metinle uyumlu. |
+| NHGRI, Cell | Definition: prokaryot/ökaryot ve çekirdek ayrımı (§6A) | Doğrudan metinle uyumlu; sayfa 23 Ekim 2026 güncellemesi gösterir. |
+| NHGRI, DNA | Definition: genetik bilgi taşıyıcısı ve baz dizisinin biyolojik yönergelerle ilişkisi (§6) | Doğrudan metinle uyumlu; sayfa 23 Ekim 2026 güncellemesi gösterir. |
+| Ratcliff ve ark. (2012) | Deney düzeni, Results, Şekil 2A–B ve Mechanism of Cluster Formation (§6, Ek F) | İlgili metin yeniden kontrol edildi; seçilim dışındaki P = 0,06 sonucu kesin kayıp olarak kullanılmaz. |
+| IUPAC, chemical element / atomic number | Resmî arama dizinindeki 2025, 5. basım/5.0.0 kaydı ve tanımlar (§5A) | Tanımlar indeks metniyle uyumlu; hem HTML hem plain doğrudan çağrıları 403 verdi. Doğrudan erişim kapandı denmez. |
+
+Kaynak adresleri ana kaynakçadadır. DNA kontrolünde parametresiz resmî adres kullanıldı: https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA . IUPAC'ın ayrıca denenen resmî düz metin adresleri: https://goldbook.iupac.org/terms/view/C01022/plain ve https://goldbook.iupac.org/terms/view/A00499/plain . Erişim: 24 Ekim 2026. Önceki 22 Ekim notları tarihsel kayıttır; güncel sayfanın geçmişte birebir aynı olduğu iddia edilmez.
+
+**Açık kalanlar:** Adelberger açık/dergi sürümü karşılaştırması; IUPAC'ın doğrudan erişim kısıtı; iddia başına atomik atıf kontrolü; bağımsız Rasterast. Ham veri ve ek dosyaları yeniden analiz etmemek, ana metinde yapılan sınırlı kaynak karşılaştırmasıyla karıştırılmaz. Bu oturumun okuması bağımsız inceleme değildir. H01-03/07 bütünüyle kapatılmadı.
 
 ## Kaynaklar ve izlenebilirlik
 
