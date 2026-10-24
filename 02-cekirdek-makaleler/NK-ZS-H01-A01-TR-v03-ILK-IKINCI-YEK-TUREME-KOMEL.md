@@ -180,6 +180,14 @@ Fizik, biyoloji, zihin ve ruh/fıtrat insanın bütünleşik varlık yapısında
 
 **Kaynak statüsü:** Bu tanımlar sonraki kurucu karara dayanır: `../01-kanonik-denetim/KURUCU-KILOMETRETASI-FITRAT-FITRI-AHLAK-IRADELI-AHLAK-2026-10-22.md`; bütünleşik insan kapsaması ayrıca `../AGENTS.md`, “İnsan Yek'i için bağlayıcı kapsama” kaydındadır. Tanımlar eski Word'e geriye dönük doğrudan alıntı olarak yüklenmez. Kaynak sadakatinin sağlanması bu tanımların evrensel ampirik yasa olarak doğrulandığı anlamına gelmez.
 
+### 8C. İradeli sorumluluk, doğal işleyiş ve tarihsel hüküm dili
+
+Varlık P127–128 ve P155 insanın doğa kanunlarından bağımsızlığına ilişkin ifadeler kullanır; P127 ve P128'de iyi/doğru insanı boyutla ilişkilendiren anlatım da vardır. Güncel H01 bunları fiziksel nedensellikten çıkma veya yalnız iyi insanların iradeli sorumluluk taşıması şeklinde benimsemez. §8B'deki güncel tanıma göre bilgi, niyet ve seçimle ilişkili **sorumluluk konumu** ile seçimin iyi/kötü **değeri** ayrı sorulardır. İnsanın bedensel koşulları, iradeli ahlakın ele alınmasıyla ortadan kalkmaz. Bu, eski metne geriye dönük alıntı eklemek değil, güncel kanona göre aktarım sınırıdır.
+
+Varlık P122 ve P125'te ilk ve ikinci insanın hak, hukuk ve adaletle yaratılması ve çocuğun yeni bir hak öznesi olması anlatılır; P126 toplumsal açılıma geçer. Bu normatif ilişki, insan örneğinin yalnız sayısal çoğalma olarak okunmaması için korunur. Atom benzetmesi, insanların haklarının fiziksel parçacıklardan türetildiği bir kanıt sayılmaz.
+
+P189 kötülüğü hem yıkıcı örneklerle hem yokluk/eksilme diliyle ele alır. Bu tarihsel kötülük tasavvuru ayrıca çözümleme gerektirir: doğal beslenme veya kara delik davranışı, insanın iradeli ahlaki kusuruyla özdeşleştirilmez. P181–183 ve P191–195'teki inanç, bilim ve toplum genellemeleri de kaynakta korunur; mevcut bilim insanlarının veya inanç gruplarının tümünü açıklayan doğrulanmış bulgular olarak H01'in sonucuna taşınmaz. Ayrıntılı açık sav kayıtları Ek I’dedir.
+
 ## 9. Hüküm/ahiret ve Yek'in konumu
 
 Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik-ontolojik statüde ele alınır. Yek bütün boyutların üstünde kurucu birlik ilkesidir; yedinci yaratılmış evre değildir.
@@ -358,7 +366,7 @@ Aşağıdaki **sekiz iş paketi**, 04. maddenin açıklarını izler. Paket say�
 
 | Kod | Açık iş | Kapanma ölçütü / mevcut eksik |
 |---|---|---|
-| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–118 için ilk içerik–işlem eşlemesi Ek G–H'de yapıldı; kalan Varlık P119–195 ve Akıl P1–177 açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
+| H01-01 | İki Word için tam önerme–hedef eşlemesi (K0) | Varlık P1–195 için ilk içerik–işlem eşlemesi Ek G–I'de yapıldı; Akıl P1–177 ve D/R kayıtlarının ayrıntılı denetimi açık. Her içerik paragrafındaki bağımsız kurucu sav H01'deki yer, ilgili diğer çekirdek hedefi veya gerekçeli araştırma kaydıyla eşlenecek. Başlık/tekrar ile sav ayrılacak; yalnız paragraf aralığına ad vermek yeterli değil. |
 | H01-02 | Eski ve güncel evre adlarının tek karşılaştırmada uzlaştırılması | Varlık P65–74, P88–90, P100–106, P119–148 ve P160–178'deki evreler güncel kanonla karşılaştırılacak; tarihsel fark korunacak. §9A ve §10E başlangıç sağlar; H04'e aktarım açık. |
 | H01-03 | Dış kaynakların son iddia eşlemesi (K1) | Her kullanılan dış eser için tam künye, erişilen sürüm, desteklenen iddia ve bölüm/sayfa kontrolü tamamlanacak. Adelberger sürüm farkı ve 2015 maya çalışmasının sınırlı erişim kaydı dahil. |
 | H01-04 | Bilimsel örneklerin ve genellemelerin son denetimi (K3–K4) | Fizik ve biyoloji örnekleri mekanizma/kapsamıyla; zihin ve duygu savları ölçütleriyle incelenecek. Kaynakta kalan atom altı, yosun, üreme, gelişkinlik ve zaman savları doğrulanmış olguya dönüştürülmeden kaydedilecek. |
@@ -538,3 +546,89 @@ Ek G'deki kaynak, numaralandırma ve A/D/R/B durumları geçerlidir. Her paragra
 | P118 | Kendiliğinden var/yok olmama; kanun koyucu; üst sistemler; melek ve hükümle devamlılık | A/R; §§4D, 8A, 10E; metafizik kabul fiziksel korunma yasası diye sunulmaz. |
 
 **Sonuç:** Varlık P62–118 için ilk içerik–işlem eşlemesi yapıldı. Ek G ile sıralı kapsam P1–118'e ulaştı. 118/195 bir bilimsel doğrulama yüzdesi değildir. Varlık P119–195 ve Akıl P1–177 henüz sıralı döküme bağlanmadı; D/R kayıtlarının dış kaynak ve bağımsız denetimleri açık. H01-01 ve yol haritasının 04. maddesi kapanmadı.
+
+## Ek I — H01-01 kaynak aktarım dökümü: Varlık P119–195
+
+Kaynak ve A/D/R/B durumları Ek G ile aynıdır. Bu tablo kalan 77 paragrafı sırasıyla ele alır; başlıklar ve noktalama satırı ayrıca ayrılır. Çok savlı paragrafların dış kanıt denetimi ve H04/H05 aktarımı açık tutulur.
+
+| Paragraf | Ayrılan savlar / içerik | İşlem ve iz |
+|---|---|---|
+| P119 | Ahlak başlığı | B |
+| P120 | Kanun için bilen; ahlakın kanundan önceliği; en geniş âlem; insanın yaratılmışlığı | A/R; §§8–10E; ontolojik/teolojik öncüller ayrı. |
+| P121 | Ruh ve insanın evren özeti olması; birey–tür/topluluk–dünya denkliği; üst boyutta genişleme; ahlakla öğrenme | A/D/R; §§8B, 10D; denklik biyolojik taksonomi veya öğrenmenin kanıtlanmış şartı değil. |
+| P122 | Hak/hukuk/adalet; Âdem–Havva–çocuk; üreme ve atom analojisi | A; §§3, 10E, 8C; normatif ve fiziksel anlam ayrılır. |
+| P123 | İkinci evre hüküm; bilinç ve anlam koşulu | A/R; §9A; erken evre adı güncel tanım değil. |
+| P124 | İki ahlak evresi başlığı | B |
+| P125 | İlk/eş/çocuğun hakları; hayat–yaşam temsil dili; H/He evrensellik iddiası | A/D; §§8C, 10E; atom analojisi hakların bilimsel kanıtı değil. |
+| P126 | Kavim/toplum evresi; ahlak–hüküm döngüsü; bireysel/evrensel hüküm | A/R; §§9A, 10E; tarihsel evre farkı korunur. |
+| P127 | Merhamet/sevgi/doğruluk; alanı koruma; doğal kanundan bağımsızlık; iyi insanın beşinci boyuta dönüşümü | A/D/R; §8C; sorumluluk ile iyi sonuç ayrılır. |
+| P128 | İlahi yargı; beden/kanun/fıtrat ayrımları; doğru insan evresi; özgür irade–akıl–ahlak; insanın yeni ürün/kanun yapması | A/D/R; §§8B–8C, 9A; bedensel yasalardan bağımsızlık diye aktarılmaz. |
+| P129 | İlk maddi sistem, tek yönlü boyut | A/R; §5; yön sayısı ölçülmüş uzay boyutu değil. |
+| P130 | Bitki/hücrenin yalnız DNA ile bilmesi; iki yön ve ihtiyaç | A/D/R; §6; moleküler/epistemik bilgi ayrılır; hücresel işleyiş savı açık. |
+| P131 | Üç boyutlu görme; ruhun dördüncü boyutundan bakma; beyinle bilme | A/R; §§7, 8A; biliş ölçütü ve teoloji ayrı. |
+| P132 | Fizik/biyoloji/zihnin ayrı sistemleri; dördüncü boyut kapsaması | A; §§8A, 10D. |
+| P133 | Ahlakla tanımlama/anlamlandırma; bireyin kendi evreni | A/R; §§8, 10E; öznel dünya, fiziksel yeni evren ispatı değil. |
+| P134 | Evren özeti insan; üstten alta idare; hükümden bedensel harekete | A/R; §§8B, 10D; katman ilişkisi nedensel mekanizma yerine geçmez. |
+| P135 | Bedensel/zihinsel ve ahlaki konum; fıtratla sınırlanmama; üst kanun; duygunun bireysel kanun oluşu | A/R; §§8B–8C, 9A; ontolojik gösterim. |
+| P136 | Hüküm–ahlak evreleri ve karşılıklı türeme | A; §9A; güncel fıtrî/iradeli evreyle eşitlenmez. |
+| P137 | İlahın hükümle yaratması | A; §9A; teolojik. |
+| P138 | Esmaülhüsna ve ahlak ilişkisi | A/R; §9A; kurucu teolojik yorum. |
+| P139 | Boyutlar arası ikili örnekler; Âdem/Havva; her şeyde ikili sistem | A/R; §§3–4, 9A; benzerlik evrensel mekanizma ispatı değil. |
+| P140 | İlahi hüküm–insan ahlakı evre anlatımı | A; §9A; tarihsel adlandırma. |
+| P141 | Şeytan/nefs/irade üçlüsü; hükmün kapsaması; atom altına benzetme; yeni insan/yeni ahlak | A/D/R; §9A; parçacık açıklaması veya deneysel gözlem sayılmaz. |
+| P142 | Hüküm evresinde insan yaratılması | A; §9A. |
+| P143 | Ahlak evresi; irade; iniş anlatımı ve dünya hayatı | A; §§9A–9C; ayet/yorum ayrımı. |
+| P144 | Yeniden yaratılma hükmü | A/R; §9A; teolojik kaynak karşılaştırması açık. |
+| P145 | Yaratıcı hükmü/ahlakı/esma; ilk evre | A; §9A; güncel boyut alt evresi kararı değil. |
+| P146 | İnsanın dünya hayatında hüküm ve ahlakı | A; §9A. |
+| P147 | Ahiret evresi; cennet/cehennem/araf; nihai ayrım ve son çıkış | A/R; §9A; ayrıntılı dinî dayanaklar açık. |
+| P148 | Şah damarından yakınlık göndermesi; ilahi/insani hüküm ve ahlak | A/R; §9A; yakınlık ayetinin doğrudan sürüm/bağlam kontrolü H01-05'te açık. |
+| P149 | İnsan–parçacık; peygamber/veli–Higgs; dünya–atom/ahiret–yıldız benzetmeleri | D/R; §§5A, 9A; metafor fiziksel mekanizma değil. |
+| P150 | İnsanın beşinci boyut delilleri başlığı | B |
+| P151 | İnsanın doğada görevsizliği; bütün diğer canlıların misyonu; doğrudan bağ yokluğu | D/R; §8C ve bu kayıt; evrensel ekolojik genellemeler kaynak bekler. |
+| P152 | Bütün insan ürünlerinin ahlaki değer olması | A/R; §8C; normatif değerlendirme alanı ile olumlu değer eşit değil. |
+| P153 | Toplumsal kuralların insan kabulü; fıtrata bağlı olmama; kültürün oluşumu | A/R; §8B; fıtrî taşıyıcı düzen dışlanmaz; kültür savı araştırılacak. |
+| P154 | Bedenin ahlaka uygunluğu; başka hayvan bedenleriyle karşı-olgusal kıyas; en uygun insan bedeni | R; beden–ahlak araştırma kaydı; karşılaştırmalı ölçüt ve kaynak açık. |
+| P155 | Üst bilen/zaman; bağımsız varlık; doğa kanunlarından bağımsız insan | A/D/R; §§8C, 10E; teolojik kabul ile fiziksel iddia ayrılır. |
+| P156 | Varlığın devamı sorusu | A; §1 ve §10B'de güncel Zanabûn görevi. |
+| P157 | Başlangıçta hüküm/ahlak; ikinci varlık yaratma; nihai hüküm; yoktan yaratma | A/R; §§9A, 10B; teolojik zorunluluk öncülleri açık tutulur. |
+| P158 | Yalnız virgül | B |
+| P159 | İlk hüküm/zaman/mekân; üst sistem; zaman birimleri; biyolojinin fizik kökenine itiraz; ikili canlı tasnifleri; ölüm/ahiret; ahlak/hüküm ve kapanış | A/D/R; §§5B, 6B, 9A, 10D–10E; zaman birimi benzetmesi ontolojik kronoloji ispatı değil; ihtimaller kesinleştirilmez. |
+| P160 | Altıncı boyut başlığı | B |
+| P161 | Dünya evresi; dört unsur; esma ve insan eylemi | A/D/R; §9A; dört unsur güncel kimyasal element tanımı yapılmaz. |
+| P162 | Ahiret evresi; cennet/cehennem/araf | A/R; §9A; teolojik. |
+| P163 | Kar tanesi/birey farkı; paralel evren; iyi/kötü ayrımı; altıncı boyut zorunluluğu | A/D/R; §§9A, 10E; bireysellikten fiziksel paralel evren veya ahiret zorunlu çıkmaz. |
+| P164 | Ahlak/akıl/vicdan; hayvan adlandırmasından ayrım; ruhla veri seçimi; genetik/bireysellik; horoz/arı; refleks/irade; duygu ve üst düzen | A/D/R; §§8B–8C; ontolojik insan adı biyolojik taksonomi kararı değil; hayvan davranışı ve biliş savları kaynak bekler. |
+| P165 | Cennet/cehennem/araf; hüküm sahibi ilah; yeni boyut olmaması; sonsuz hüsna | A/R; §9A; Ehad yaratılmış altıncı boyuta dahil edilmez. |
+| P166 | Altıncı düzen ilk evresi dünya/ilahi ahlakın hükmü | A; §9A. |
+| P167 | Hareket–ahlak–hüküm; sonsuz geri gidişe sınır; aslan rekabeti ve ölüm | A/R; §§8C, 9A; doğal rekabet ile insan normatif kusuru aynı değil. |
+| P168 | Ahlak/bilgi/hukuk/hüküm zinciri; ikili fizik/biyoloji/hayvan tasnifleri; ilahi karşılık ve ahiret | A/D/R; §§8B–9A; hukuk gerekliliğinden belirli ahiret sonucu ek teolojik öncül ister. |
+| P169 | Miraç göndermesi; yalnız benzetmeyle anlatılabilirlik | A/R; dinî kaynak kaydı; rivayet/ayet kapsamı doğrulanmadan bütünü Miraç metnine atfedilmez. |
+| P170 | Açıklama girişi | B |
+| P171 | Küçüldükçe gelişkinlik; sinek/kartal; kozmik/ontolojik büyüklük kıyasları; koşulsuz kabul | D/R; §§6B, 10D; ölçüt yokken bilimsel sıralama değil; koşulsuz kabul akademik doğrulama yerine geçmez. |
+| P172 | Altıncı düzen ikinci evresi ahiret | A; §9A. |
+| P173 | Hüküm/ahlak; cennet yaklaştırılması ve cehennem tasviri | A; §9B; Tekvîr kontrolü ile yorum ayrılmış. |
+| P174 | Misal başlığı | B |
+| P175 | Güç sıralaması; keder/ölüm; ahirette kurban | A/R; §§9B–9C; birleşik metin tek hadis sayılmaz. |
+| P176 | Nihai hükümle ahlakın sonlanması; tüm varlıkların hükmü | A/R; §9A; teolojik anlam ve ahirette ahlak kullanımı ayrıca uzlaştırılacak. |
+| P177 | Zamansızlık/ebedilik; dünya–ahiret; altıncı boyutun kemali | A/R; §9A; fiziksel zaman ölçümü sonucu değil. |
+| P178 | Nihai cennet/cehennem; madde/karanlık madde benzetmesi; beşinci zamanın sarılması | A/D; §9A; fiziksel özdeşlik kurulmaz. |
+| P179 | Altıncı boyut delilleri başlığı | B |
+| P180 | Biyolojik taşıyıcılar; ahlakın altıncı boyutun özü/bedeni oluşu | A/R; §§8B, 9A, 10D; mecaz ve kapsama korunur. |
+| P181 | Her toplumun dini olduğu ve bunun doğruluğu kanıtladığı savı | D/R; §§8A, 8C; evrensel tarihsel genelleme kaynak bekler; yaygınlık yeterli ispat değil. |
+| P182 | Ateistlerin kabul/ret nedenleri ve fıtratı; düzensizlik açıklaması; bilgi/kanun ve kusursuzluktan ispat | D/R; §8C; farklı kişilere topluca zihinsel neden atanmaz; inanç tezi nüfus araştırması sonucu değil. |
+| P183 | İnançlı/inançsız toplumların kural koyması; bilginin kanunu | A/R; §10E; toplumsal kuraldan kozmik/ilahi kanuna geçiş ek gerekçe ister. |
+| P184 | Ekolojik/kozmik uyum; türün bilgi oluşu; üst kanun ve altıncı zaman ispatı | A/R; §§8A, 9A; analojinin çıkarım sınırı. |
+| P185 | Teknik/sanat/bilim ve insan ahlakı; program üretimi; doğal uyum; altıncı boyut zorunluluğu | A/R; §§8C, 9A; üretim olgusundan teolojik sonuç ayrı. |
+| P186 | Gelişkinlik hiyerarşisi ve üçlü bileşenlerden altıncı boyuta geçiş | D/R; §§6B, 9A; ortak ölçek ve zorunlu çıkarım gösterilmedi. |
+| P187 | Duygulardan kapsayıcı kanuna delil | A/R; §§8B, 9A; duygu varlığı tek başına belirli teolojiyi seçmez. |
+| P188 | Sonuç başlığı | B |
+| P189 | Yaratıcı/ikinci bilen/ruh; doğrusal ve dairesel; genetik bireysellik; yırtıcı/karadelik ve kötülüğün yokluğu; soğuk/gölge benzetmesi | A/D/R; §§8C, 10E; kötülük ontolojisi korunur, doğal olguya ahlaki suç yüklenmez. |
+| P190 | İnsan katmanları/ayırım günü; yaratıcı kudret; düşünce tarihini iki görüşe ayırma | A/R; §§8B–8C; bütün düşünce tarihini kapsayan tüketici tasnif diye benimsenmez. |
+| P191 | Ezeli madde; materyalizmin bilim üzerindeki hâkimiyeti; çoklu evren/evrimle ilişki | D/R; §8C; bilim tarihi ve felsefe iddiaları bağımsız kaynak ister; mekanizma ile metafizik tutum eşitlenmez. |
+| P192 | Yaratıcı inancının neden yaratma sorusu | A/R; §§1, 10B; teolojik araştırma yönelimi. |
+| P193 | Bilimin inanca geçeceği ve birçok disiplini etkileme beklentisi | D/R; §11; kurucu beklenti, gerçekleşmiş etki değil. |
+| P194 | İnsan/ahlak tezinin toplum ve psikolojiyi tümüyle değiştirme beklentisi | D/R; §11; etki araştırması yapılmadı. |
+| P195 | Sorunsalları çözme ve felsefeye yeni evre açma hedefi | A/R; §11 ve yöntem; hedef, doğrulanmış başarı değil. |
+
+**Sınırlı tamamlanma:** Varlık P1–195'in ilk içerik–işlem eşlemesi Ek G–I ile tamamlandı. Bu, 195 paragrafın bütün savlarının doğru olduğu, tüm atomik önermelerin dış kaynaklarla doğrulandığı veya H01-01'in kapandığı anlamına gelmez. Akıl P1–177'nin sıralı dökümü ile D/R kayıtlarının denetimi açık kalır. İlerleme bir doğruluk yüzdesi olarak raporlanmaz.
