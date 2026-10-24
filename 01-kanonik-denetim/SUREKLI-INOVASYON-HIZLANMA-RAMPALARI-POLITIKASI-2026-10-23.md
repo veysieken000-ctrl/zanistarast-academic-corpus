@@ -81,3 +81,34 @@ Bu belge sürekli gelişim politikasını kayda geçirir; tek başına saatlik b
 H01 ana metni düzenleme öncesi **155.339**, sonrasında **30.789 JavaScript karakteridir**. Önceki tam içerik [kaynak ve denetim ekinde](H01-KAYNAK-VE-DENETIM-EKLERI-2026-10-24.md) korundu. Kaynak koruma commit'i: `4a8bd0bedf73fd691ba32e0b69a90b3c06a9e0d5`; düzenlenmiş ana metin commit'i: `fb549b14254df69d73987ab5e0c3d005e8e26506`. İki dosya yazım sonrası birebir yeniden okundu.
 
 Bu ölçüm ana metindeki hacim azalmasını gösterir; çalışma süresinin aynı oranda azaldığını, kaynak denetimlerinin tamamlandığını veya bağımsız inceleme yapıldığını göstermez. Sonraki makalelerde yeni veri olmadan yeniden açılan savlar, yinelenen kaynak çağrıları ve ana metne taşınmayan denetim işleri izlenir; ölçülmüş süre verisi yoksa hızlanma yüzdesi uydurulmaz.
+
+## Birikimli makale üretimi: Hebûn temeli ve gerekçe devri — 24 Ekim 2026
+
+**Kurucu yönlendirme:** Hebûn temeldir. Eski depolar kaynak ve düşünce yolu sağlar; eski sürümlerin içinde döngüye girilmez. Her makalenin tamamlanmış alt işleri, sonraki makaleye daha iyi ve daha kısa bir üretim yolu bırakır. Bu bölüm mevcut rampaların ortak devir kaydıdır; yeni bir yönetim dosyası açılmaz.
+
+### Her makaleden devralınacak kısa kayıt
+
+Tek bir tablo veya kısa kayıt şu bilgileri içerir: **soru → kurucu öncül/tanım → kaynak ve konumu → çıkarım adımı → karşı-örnek/rakip açıklama → savunulan dar sonuç → sonraki kullanım ve sınırı**. Her kayıt makalenin güncel dosyası ve commit'iyle ilişkilendirilir. “Bu sonuca nasıl gidildi?” sorusuna cevap vermeyen kaynak listesi yeterli değildir. Aşağıdaki örnek güncel Hebûn metnini temel alır.
+
+### H01'den yeniden kullanılabilir gerekçe ve aktarım kaydı
+
+Taban: H01 `fb549b14254df69d73987ab5e0c3d005e8e26506`; bu taban bağımsız incelemeden geçmiş nihai makale değildir.
+
+| Soru / öncül | Kaynak ve çıkarım yolu | Dar sonuç / sınır | Sonraki makalede kullanım |
+|---|---|---|---|
+| Tekillik, ilişki ve bütün aynı şey mi? | H01 §§2–4; güncel Ehad–Yek kanonu. Ayırt edilebilir birimleri ve aralarındaki ilişkiyi ayrı tanımla. | Yek ile Komel eşanlamlı değildir; ontolojik şema tek başına ampirik zorunluluk ispatlamaz. | H02'nin özne/nesne kimliğini, H04'ün varlık sınıflarını yeniden sıfırdan kurma. |
+| Kurucu insan örneği nasıl kuruluyor? | H01 §3; Nisâ 4:1, meal/tefsir ve kurucu yorum ayrı izlenir. | Tek nefis–eş–çoğalma ile Âdem–Havva yorumu farklı kaynak düzeyleridir. | İnsan Tarihi ve H04, ayete ait olmayan anatomik ayrıntıyı ayet lafzı yapmaz. |
+| Birliktelikten örgütlenmiş bütün çıkar mı? | H01 §§4A–4B, 6; iki bağımsız hücre karşı-örneği ve Ratcliff 2012/2015 mekanizma karşılaştırmaları. | Sayı tek başına örgütlenmeyi açıklamaz; birim, ilişki, süreklilik ve mekanizma gerekir. | H03 uygulama denetimi; biyoloji ve toplumsal Komel için alanına özgü ölçüt. |
+| Fizik örneği ontolojiyi nasıl sınırlar? | H01 §5; NIST/NIDC tanımları ve Adelberger 2010 v3 §II denklem (2). | Üç parçacık zorunluluğu ve tek atomdan doğrudan başka atom çıkarımı benimsenmez; net bilanço mekanizma yerine geçmez. | Aynı tanım düzeltmesini tekrar araştırma; yeni fizik savı varsa yalnız onu araştır. |
+| Muhatap varlıkta ilişki nasıl anlatılır? | H01 §10; kurucunun 24 Ekim açıklaması ve Mira'daki Lêket kaydı §§4–10, 13. | Muhatap ilişkinin tarafı, Lêket ilgili katmanlardaki farktır; bilinç veya doğruluk garantisi değildir. | H02/H03, etkileşim ile bilgi değerlendirmesini ayırarak devralır. |
+| Kapsama, evre ve sorumluluk nasıl ayrılır? | H01 §§7–9; fıtrat–ahlak kurucu kaydı; Ehad–Yek kanonu VII–VIII. | Kapsama kronoloji değildir; fıtrat, fıtrî ahlak ve iradeli ahlak farklıdır. | H04/H05 ve tarih makaleleri tanımları devralır, kendi ayırt edici sorusunu araştırır. |
+
+### Daha iyi makaleye geçiş kuralı
+
+- Önce önceki kayıttan **ne devralınacağı** ve yeni makalenin **hangi ayrı soruyu çözeceği** belirlenir.
+- Eski depoda yalnız eksik tanım, gerekçe, karşı-örnek veya kaynak için hedefli arama yapılır. İlgili iz bulunduğunda güncel metne uygulanır; bütün arşivi yeniden çözmek rutin iş yapılmaz.
+- İyileştirme somut olmalıdır: eksik öncülü tamamlamak, karşı-örnekle kapsamı düzeltmek, kaynakla hatayı gidermek veya daha açıklayıcı ve sınanabilir mekanizma kurmak. Yeni kelime veya daha uzun metin tek başına iyileştirme değildir.
+- Makale bitiminde bu ortak kayda yalnız yeni kazanım eklenir; eski satırlar çoğaltılmaz. Hangi sonraki makalenin neyi hazır devralacağı belirtilir.
+- Saptanan yeni çelişki kaynak makaleye geri beslenir. Güncellenen tanım bağımlı metinlere aktarılır; bütün eski araştırma gerekçesiz yeniden açılmaz.
+
+**En hızlı güvenilir yol:** Tanımı ve kaynak yerini bir kez kur → gerekçe yolunu kaydet → sonraki makalede yalnız ayırıcı katkıyı geliştir → ilişkili düzeltmeleri topluca bitir → kaydı doğrula. Bağımsız inceleme gereğini saklama; editoryal işi bu gerekçeyle tekrar üretme.
