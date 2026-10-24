@@ -105,7 +105,7 @@ Altıncı kozmik boyut hüküm/ahiret düzenidir. Bu boyutun iddiaları teolojik
 
 ## 10. Hebûn'dan Zanabûn'a: ikinci Yek ve ikinci bilen
 
-Hebûn'da ikinci Yek, ontolojik ilişkideki ikinci tekilliktir. Zanabûn'da **ikinci bilen**, bilen öznenin bilinen nesneye yönelimiyle ortaya çıkan sonucu onaylayan epistemolojik muhataptır. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları H02'de ele alınır. H03 bu sürecin kaynak, karşı-örnek ve denetim zincirini kurar. H01'in varlık şeması, bu yöntemlerin uygulanmış ve başarılı olduğu varsayımına dayanmaz.
+Kurucu düzey ayrımına göre **Ehad İlk Bilen'dir; yaratılmış Yek Ehad karşısında ontolojik ikinci bilen konumundadır**. Hebûn'da **ikinci Yek**, ilk Yek'ten sonra gelen ontolojik tekilliktir; bu terim ontolojik ikinci bilenin eşanlamlısı değildir. Zanabûn'da **epistemolojik ikinci bilen**, bilenin bilinen nesneye yönelimiyle doğan sonucu onaylayan muhataptır. Dayanak: `../01-kanonik-denetim/IKINCI-BILEN-DUZEY-AYRIMI-KAVRAM-TASLAGI-2026-10-23.md`. İki rol ilişkilidir fakat tanım gereği özdeş değildir. İkinci bilenin doğrulamasının bağımsızlığı, ortak hata olasılığı ve yöntemsel sınırları H02'de ele alınır. H03 bu sürecin kaynak, karşı-örnek ve denetim zincirini kurar. H01'in varlık şeması, bu yöntemlerin uygulanmış ve başarılı olduğu varsayımına dayanmaz.
 
 ### 10A. Ana önermelerin kaynak ve statü haritası
 | Önerme | Dayanak | Statü ve aktarım sınırı |
