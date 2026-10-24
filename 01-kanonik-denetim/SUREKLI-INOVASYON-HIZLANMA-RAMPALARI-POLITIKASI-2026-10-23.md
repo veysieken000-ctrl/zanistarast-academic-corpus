@@ -180,3 +180,17 @@ Makale commit'i: `4dace25716f292590ccb1f8a0a7b75f68ed17846`.
 | Olay, iz, yorum ve anlatı ayrı; §7 | Tanıklık kaynaklı hafızayı kurar; fiziksel geçmişin insan tanığına bağlı var olduğu sonucu çıkarılmaz. |
 
 Geçiş kaydı: birim/kapsam → başlangıç koşulu → yeni işlev → mekanizma → kronoloji → alternatif → yeterlilik → dar sonuç/belirsizlik. Bu yöntem yeni alanın kendi verisinin yerine geçmez. Mevcut kavramlar yeterli olduğundan yeni ad üretilmedi. Ölçülmüş süre veya başarı yüzdesi yoktur.
+
+
+## 24 Ekim 2026 — Jeoloji gerekçe devri
+
+Ana metin commit'i: `d6a13fbd7110e346d48fc384386f87a79bd7f652`.
+
+| Devralınabilir ayrım | Sonraki araştırmada kullanım |
+|---|---|
+| Ortam → belirli kimyasal dönüşüm → bütünleşik işlev → tarihsel iz; §§4–6 | Her okun ayrı kanıtı aranır; tek laboratuvar ürünü bütün tarihsel geçiş sayılmaz. |
+| Kaynak erişim düzeyi ile sav kapsamı birlikte; D1–D5 | Özet veya indeks pasajı tam yöntem/ek veri incelemesi diye sunulmaz; yine de dar sav için kullanılabilir. |
+| Reset yorumu ile jeolojik neden ayrı; §7 | İnsan Tarihi'nde sonradan görülen gelişme önceki olayın amacı sayılmaz; gösterge ve zamanlama gerekir. |
+| Biyolojik izde çevre, alternatif, tespit sınırı ayrı; §6 | Gözlem yokluğu kesin yokluğa, sinyal varlığı tek kaynağa eşitlenmez. |
+
+Önerilen kayıt, koşul/mekanizma/ürün kontrolünü kaynak sürümü ve dar sonuçla birleştirir. Bu çalışma kazanımı için hızlanma yüzdesi ölçülmedi. Mevcut terimler yeterli olduğu için yeni Kurmancî ad üretilmedi.
